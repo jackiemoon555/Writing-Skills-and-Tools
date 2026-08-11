@@ -1,0 +1,9 @@
+# Custom dictionary — add one word per line.
+# Words listed here are treated as correctly spelled and will NOT be flagged.
+# This is where your invented names and coined terms go.
+#
+# Tip: run `python -m writing_tools <file> --list-unknown` to see candidate
+# words, then move the real names here.
+
+Zyrelle
+Morrowind

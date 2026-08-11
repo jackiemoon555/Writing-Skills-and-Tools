@@ -4,20 +4,26 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "writing-tools"
-version = "0.1.0"
+version = "0.2.0"
 description = "Connecting tools and skills for writing — grammar, literary elements, style, and more."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [{ name = "jackiemoon555" }]
-keywords = ["writing", "grammar", "literary", "nlp", "style"]
+keywords = ["writing", "grammar", "literary", "nlp", "style", "self-editing", "manuscript"]
 dependencies = []
 
 [project.optional-dependencies]
+# Real spell checking with correction suggestions (pure-Python, offline).
+spell = ["pyspellchecker>=0.7"]
 dev = [
     "pytest>=7.0",
     "ruff>=0.1",
+    "pyspellchecker>=0.7",
 ]
+
+[project.scripts]
+writing-tools = "writing_tools.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
