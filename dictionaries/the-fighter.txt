@@ -1,0 +1,34 @@
+# Custom dictionary for "The Fighter"
+# Intentional spellings: character names, dialect, and hyphenated compounds.
+# Genuine typos (inbetween, enroute, mosied) are deliberately NOT listed so they
+# keep getting flagged until fixed.
+
+# Names
+chucky
+johnnys
+
+# Dialect / stylized dialogue
+c'mon
+dumbass
+goddamnit
+fuck'em
+h-hello
+lookin
+neeeeeew
+nothiiing
+nuthin
+ole
+
+# Hyphenated compounds & spelled-out numbers
+ever-troubling
+first-hand
+five-foot-nine
+five-six
+know-it-alls
+never-ending
+pick-me-up
+ten-minute
+thirty-eight
+twenty-first
+twenty-five
+well-tailored
