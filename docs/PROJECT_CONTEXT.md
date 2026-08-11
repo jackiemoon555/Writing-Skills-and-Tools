@@ -1,0 +1,142 @@
+# Project Context — Handoff for a New Session
+
+**Upload this file at the start of a new Claude session to get fully caught up.**
+Last updated: 2026-08-11
+
+---
+
+## Who I am & the big-picture goal
+
+I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
+(Kindle Direct Publishing). My philosophy:
+
+- **Not focused on profit or virality.** The goal is to consistently *ship*
+  products and improve with each project. Getting reps in is the strategy.
+- Money along the way is a **bonus**. The ultimate goal is that, with enough
+  books / a big enough backlist, I can **transition out of my day job**.
+- Each book compounds — the body of work is the engine, not any single title.
+
+## Hard rule for Claude: **no prose writing**
+
+I write **all my own prose.** Claude must **never write or rewrite my fiction.**
+Claude's job is to **analyze, check, critique, organize, and assist** — flag
+things and explain why, and I decide what to change. Feedback, not ghost-writing.
+
+## My working preferences
+
+- **Do tasks one at a time, sequentially** — no parallel/batched agents.
+- **Be mindful of usage limits** — don't run expensive background fan-outs.
+- **Moving away from Notion** (not a fan).
+
+## My daily workflow
+
+1. Write in **Reedsy** (works at home and at my work computer — not blocked there).
+2. End of day: **export a `.docx` from Reedsy.**
+3. Copy it into **Google Docs** — this is my **source of truth / cross-device backup.**
+4. Share the `.docx` (or point Claude to the Google Doc) → Claude runs the
+   self-editing passes and returns a report + updates my word tracker.
+
+Reedsy also handles **EPUB / print-PDF export for free**, which likely covers most
+of the KDP formatting stage.
+
+---
+
+## The repo (everything lives here)
+
+- **GitHub:** https://github.com/jackiemoon555/Writing-Skills-and-Tools (private)
+- **Working branch:** `claude/new-project-repository-ceesk0`
+- **Open draft PR:** #1 — https://github.com/jackiemoon555/Writing-Skills-and-Tools/pull/1
+
+### What's built: a self-editing toolkit (Python)
+
+Reads `.txt` / `.md` / `.docx` (built-in docx reader, no dependency) and reports:
+- **Spelling** with a **custom dictionary** (invented names aren't flagged)
+- **Echoes** (overused distinctive words)
+- **Filter words** (saw, felt, noticed…)
+- **Filler words** (very, just, really, suddenly…)
+- **Adverbs** (-ly)
+- Output as **Markdown or HTML reports** (chapter/line/context for each flag)
+
+Run it:
+```bash
+pip install -e ".[dev]"        # includes pyspellchecker
+writing-tools manuscript.docx --dictionary dictionaries/the-fighter.txt --report review.html
+writing-tools chapter.md --list-unknown     # find candidate custom-dictionary words
+```
+33 tests pass. Everything analyzes/reports only — never rewrites prose.
+
+### Key files
+- `src/writing_tools/` — the toolkit (loaders, spelling, style, report, cli…)
+- `dictionaries/the-fighter.txt` — whitelist of intentional names/dialect for the
+  current project
+- `tracker/word-count-log.md` — the daily word-count tracker (see below)
+- `reports/` — generated review reports
+
+---
+
+## Current project: *The Fighter* (novella)
+
+- **Genre/voice:** first-person, present-tense, boxing. Punchy, short sentences.
+- **Goal:** ~30,000 words (soft target).
+- **Status as of 2026-08-11: 4,012 words (~13%).**
+- **Heartbeat motif:** "Thump. Thump." repeats intentionally (~47×) — that's on
+  purpose, not an echo to fix.
+
+### Outstanding items on the manuscript
+- **3 real typos to fix:** `enroute` → "en route", `inbetween` → "in between",
+  `mosied` → "moseyed".
+- Style items to *consider* (not required): trim some of `like` (×28), `just`
+  (×18), `still` (×19), `that` (×40); a few filter-word swaps for immediacy.
+
+---
+
+## Word-count tracker (rules)
+
+- **Daily minimum: 750 words.**
+- Tracked in `tracker/word-count-log.md`: date, words written that day, cumulative
+  total, and whether the 750 goal was met.
+- Daily words = new manuscript total − previous total.
+- **Cumulative baseline: 4,012 words on 2026-08-11.**
+
+---
+
+## Frozen backlog (to resume)
+
+**Research (paused; do sequentially, economically):**
+1. Open-source pipeline tools — already found: prose linters (proselint, Vale,
+   LanguageTool, write-good, textlint), novel writers (novelWriter, Manuskript),
+   formatting (Pandoc + pandoc-novel, Sigil, Calibre). *(Reedsy may cover
+   formatting.)*
+2. **Amazon KDP mechanics** — royalties (35% vs 70%), KDP Select/Kindle Unlimited
+   exclusivity, ISBN, pricing, trim sizes. **← resume research here.**
+3. Articles / academics / accomplished writers using **Claude Code** and how (found
+   dedicated fiction-writing Claude Code skills; some sources were proxy-blocked).
+
+**Marketing (deferred — after the first draft):** nail down a *marketing approach*
++ *budget*. Keep it **low/no-cost and sustainable** (back-matter "also by" page,
+mailing list, KDP keywords/categories, cross-promo) — no big spend, profit isn't
+the near-term aim. Claude helps with research/analysis; I write the copy.
+
+**Feature backlog for the toolkit:**
+- Dialogue-punctuation checker (fiction-specific)
+- Continuity / style-sheet tracker (catch "Katherine" vs "Catherine" drift)
+- Readability metrics (Flesch–Kincaid), sentence-rhythm graphs
+- Passive-voice / run-on detection
+- Per-chapter dashboards
+- EPUB / KDP-prep validation
+
+---
+
+## Available MCP integrations (this account)
+
+github, Google Drive, Google Docs (via Drive), Gmail, Google Calendar. *(Also
+present but not relevant: FMP, Indeed, Kiwi, Clinical Trials, Economic Index.
+Notion is being phased out.)*
+
+## Suggested next steps
+
+1. Fix the 3 typos in *The Fighter*.
+2. Keep writing toward 30k (750+/day); share each day's `.docx` for a report +
+   tracker update.
+3. When ready, resume the KDP-mechanics research.
+4. After the first draft: editor prep, then formatting, then KDP, then marketing.
