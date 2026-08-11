@@ -88,6 +88,20 @@ writing-tools chapter.md --list-unknown     # find candidate custom-dictionary w
 - Style items to *consider* (not required): trim some of `like` (×28), `just`
   (×18), `still` (×19), `that` (×40); a few filter-word swaps for immediacy.
 
+### Revision ideas (scenes to add)
+- **Add press-conference scenes to a couple of the early chapters** to show more
+  of Chuck's bravado. Two of them:
+  1. **In the past — before the title fight** (the first fight, vs the Russian
+     champ that opens Ch1 and is lost in Ch2). A flashback press conference.
+  2. **Before the second fight** (vs Rodriguez, Ch8–9). Note: the current draft
+     already *references* this presser in passing — "the slick talking,
+     well-tailored man that was at the press conference" (Ch9) — so this scene
+     would dramatize a moment the book currently only alludes to.
+  - Purpose: showcase Chuck's arrogance/showmanship (the "bravado" the UFC "loved"
+    him for, per Ch7) on the page, before the losses hollow it out — sharpening the
+    contrast with the broken man he becomes.
+  - Noted 2026-08-11.
+
 ---
 
 ## Word-count tracker (rules)
