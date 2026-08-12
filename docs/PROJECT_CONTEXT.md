@@ -80,11 +80,14 @@ writing-tools chapter.md --list-unknown     # find candidate custom-dictionary w
 
 ---
 
-## Current project: *The Fighter* (novella)
+## Current project: *The Champ* (novella)
 
-- **Genre/voice:** first-person, present-tense, boxing. Punchy, short sentences.
+*Working title **The Champ** (chosen 2026-08-12); formerly **The Fighter**. Same
+book — the `.docx` files are still named `the-fighter`.*
+
+- **Genre/voice:** first-person, present-tense, boxing/MMA. Punchy, short sentences.
 - **Goal:** ~30,000 words (soft target).
-- **Status as of 2026-08-11: 4,012 words (~13%).**
+- **Status as of 2026-08-12: 5,841 words (~19.5%).**
 - **Heartbeat motif:** "Thump. Thump." repeats intentionally (~47×) — that's on
   purpose, not an echo to fix.
 

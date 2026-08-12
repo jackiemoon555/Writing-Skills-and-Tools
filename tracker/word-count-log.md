@@ -3,7 +3,7 @@
 A running tracker of daily writing output. This is the durable backup that lives
 in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 
-## Current project: *The Fighter* (novella)
+## Current project: *The Champ* (novella) — working title (formerly *The Fighter*)
 
 - **Word-count goal:** ~30,000 words (soft target)
 - **Current total:** **5,841 words** → **~19.5%** of goal
