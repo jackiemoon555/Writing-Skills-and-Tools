@@ -135,6 +135,14 @@ book — the `.docx` files are still named `the-fighter`.*
   Directly answers the Test Audience flag that women readers are the book's neglected
   audience (Nicole currently has no interiority). Author's intent: humanize her,
   give understanding to her choices.
+- **Add more to Vlad early (post-first-draft).** Flesh out the champion / first
+  opponent in the opening act so the eventual Vlad rematch carries real weight.
+- **Add more to Chuck's asshole side (post-first-draft).** The draft doesn't yet land
+  *how bad* he'd become — how he pushed everyone away (intentionally or not) before
+  the crash. Show the arrogance and the damage pre-fall so the redemption is earned.
+- **Prelude? (open idea).** More build-up to the first fight instead of dropping
+  straight into fight night — as a **prelude BEFORE the current Ch1 intro** (keep the
+  intro; author likes it). Not committed.
 
 ### Open structural decisions (undecided — for later)
 - **Interlude POV scope.** *Interlude 1* is John / "Johnny Law", third-person past,
@@ -155,6 +163,12 @@ book — the `.docx` files are still named `the-fighter`.*
   two mirrors collide (mentor vs protégé; the man who took Nicole *and* the belt). The
   two "was it worth it?" men fight for real. The last Coach interlude is the beat that
   sets it up.
+- **Act III fight ladder (decided):** **Rodriguez rematch → Vlad rematch → John
+  showdown** (comeback → avenge the true-origin loss → the personal climax).
+- **Ending tone (decided): hopeful / redemptive, NOT doom-and-gloom.** John & Chuck
+  reconcile; most of the cast lands in a good place.
+- **Full working outline:** `D:\Claude\the-champ_outline.md` (also backed up in the
+  repo at `reports/the-champ_outline.md`).
 
 ## Word-count tracker (rules)
 
