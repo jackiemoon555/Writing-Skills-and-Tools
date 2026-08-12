@@ -284,3 +284,47 @@ still to write; John's half of the draw must be earned too (don't make Nicole co
 
 **Directive (both reviewers agree):** design layer has outgrown the pages twice in one day.
 STOP PLANNING — write the Rodriguez camp. No outline revision can write it.
+
+---
+
+## Pass 5 — Interlude 2 (Nicole), dual read (2026-08-12)
+
+New pages (~1,050 words). Verdict (both): **clears the bar — "women are scenery" answered in
+design.** Best-*conceived* section; sentence-level execution is mid-pack. One revision pass from
+best-in-book. (The manuscript finally moved instead of the plan — the right thing to change.)
+
+**REAL continuity contradiction (fix):**
+- **Breakup flashback vs Ch2.** Interlude: Nicole says "not good enough" to Chuck's FACE
+  ("still in bed face swollen"). Ch2: "The bed is empty. I'm assuming my girl left" — he wakes
+  ALONE and assumes. Contradiction. Fix (Fable's, elegant): she says it to a man who can't hear
+  (asleep/concussed) — more in character AND makes Ch2's "assumption" true. [Opus first miscalled
+  this "consistent" — corrected.]
+
+**New canon:** **John's real surname = KELLER** ("Mrs. Law or formally Mrs. Keller"; pays off
+Ch4 "that wasn't his name"). Wobble to settle: "girlfriend" vs "soon to be Mrs." — engaged or not.
+
+**Henry device:** the creed line ("just like your father, just like my Henry, just like your
+Henry") = CHOICE, keep — cycle literalized via interchangeable name. DEFECT is narrow: the FIRST
+flashback drop is unoriented (no cue the braid started; "First her dad and now Henry?" forces a
+re-parse). Fix = orient that first childhood beat + one distinguishing tag per Henry. Do NOT add
+a 3rd Henry.
+
+**Interludes float in time — now a PATTERN (Int 1 + Int 2).** Mugshot places this ~Ch13 but its
+book-position is post-Ch17. Each interlude needs one orienting time cue.
+
+**Thud motif:** lands, disciplined (5 beats, 1→2→3→4→single — Ch1 count-grammar). Watch: Thud vs
+Knock are both door-adjacent — keep consciously distinct (Knock = arrival/authority; Thud = what
+happens behind the door).
+
+**Prose shortfalls (parked, F-TELL family):** label-mode opening 5 lines; "thought in her head"
+convention; Vegas backstory-as-scream; "Did she deserve her happily ever after?" over-states.
+Typos: densest section yet.
+
+**Wins to bank:** re-lights Ch2 ("wanted a piece" → irony) + Ch11 (botox = armor she manufactured);
+locker-room scene = the cycle propagating (she hands down her mother's creed); John damaged =
+chorus thesis on the page; Nicole = Chuck's mirror (bath echoes Ch3 shower; functions differ, so
+not "too neat").
+
+**Obligations created:** (1) Interlude 1 now the weak sibling — needs a pass to match; (2) epilogue
+owes Nicole a real answer (not collateral of John's arc); (3) motif convention now FORMALIZED
+(per-POV percussion + count-grammar) — the bar for the Rob & Coach interludes.
