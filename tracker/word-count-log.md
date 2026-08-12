@@ -6,11 +6,11 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 ## Current project: *The Fighter* (novella)
 
 - **Word-count goal:** ~30,000 words (soft target)
-- **Current total:** **5,555 words** → **~18.5%** of goal
+- **Current total:** **5,841 words** (provisional) → **~19.5%** of goal
 - **Daily minimum goal:** 750 words
 - **Source of truth:** Google Docs (exported from Reedsy as `.docx`)
 
-Progress: `██░░░░░░░░` ~18.5%
+Progress: `██░░░░░░░░` ~19.5%
 
 ## Rules
 
@@ -24,8 +24,10 @@ Progress: `██░░░░░░░░` ~18.5%
 | --- | ---: | ---: | :---: |
 | 2026-08-11 | ~1,000 | 4,012 | ✅ ⏳ |
 | 2026-08-11 (session 2) | 1,581 | 5,555 | ✅ |
+| 2026-08-11 (session 3) | 286* | 5,841* | ✅ (day) |
 
-**Cumulative total: 5,555 words** (prose-only ruler — see method note below)
+**Cumulative total: 5,841 words** (*provisional — session-3 material may be cut)
+**Day total 2026-08-11: 1,867 words** — daily 750 goal met ~2.5×.
 
 ## Notes
 
@@ -43,8 +45,9 @@ Progress: `██░░░░░░░░` ~18.5%
   plus new **Chapters 11–13**. Verified a genuinely new export by MD5 (two stale
   re-uploads were caught before logging).
   - **Baseline re-anchored to 5,555** for the next session.
-  - **⏱ Timing session 3:** STARTED 2026-08-11 19:53:07 CDT (epoch 1786495987).
-    **PAUSED 2026-08-11 20:13:27 CDT** — accumulated active time **20m 20s**
-    (1220 s). Timer is on hold; resume adds a new active stretch to this total.
-    On the final export: words = (prose-only total − 5,555); rate = words ÷ (total
-    active time).
+  - **⏱ Session 3 timing — DONE.** Active window 19:53:07 → 20:13:27 CDT
+    (**20m 20s**, never resumed after the pause). **286 words** written (started
+    Ch14) → **844 words/hour** (~14 wpm) — a tired, end-of-night, cold-drafting pace.
+  - **Session-3 material is PROVISIONAL** — writer unsure whether to keep it; left
+    in place, **not reviewed/critiqued** per request. If cut, drop the total back
+    toward 5,555 and adjust the next baseline accordingly.
