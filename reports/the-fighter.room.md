@@ -313,8 +313,10 @@ a 3rd Henry.
 book-position is post-Ch17. Each interlude needs one orienting time cue.
 
 **Thud motif:** lands, disciplined (5 beats, 1→2→3→4→single — Ch1 count-grammar). Watch: Thud vs
-Knock are both door-adjacent — keep consciously distinct (Knock = arrival/authority; Thud = what
-happens behind the door).
+Knock are both door-adjacent.
+→ **REVISION DECISION (2026-08-12): change Thud → "Slap"** — Nicole's trigger is abuse/
+abandonment; "Slap" sets her apart from Knock and makes her wound literal, giving her her own
+percussion. Resolves the Thud/Knock adjacency watch. (Keep the same count-grammar/escalation.)
 
 **Prose shortfalls (parked, F-TELL family):** label-mode opening 5 lines; "thought in her head"
 convention; Vegas backstory-as-scream; "Did she deserve her happily ever after?" over-states.
