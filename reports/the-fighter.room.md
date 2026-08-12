@@ -403,3 +403,29 @@ before committing; trade range for specificity only with eyes open.
 object) sits at the end of the sprint = written by the most tired author. "If Sunday forces a
 choice between shipping on time and giving the final fight the writing it needs -- MISS THE
 DEADLINE. The deadline is a discipline tool; the ending is the book."
+
+---
+
+## LOCKED DECISIONS (set 2026-08-12; execute in the Aug 17-31 revision pass)
+
+**Motif architecture -- FINAL (4 distinct, source-true percussions):**
+- **Thump** = Chuck's heart (fear -> hope). (unchanged)
+- **Rap** = Chuck's rock bottom -- authority rapping to make him face it: the cop's flashlight on
+  the car window (Ch13) + the parents' door (Ch12). **REPLACES "Knock"** (generic -> specific;
+  find-replace Knock->Rap across Ch12-13).
+- **Flash** = John / fame / cameras (Interlude 1). (unchanged)
+- **Crack** = Nicole -- the sound of violence/abuse. **REPLACES "Thud"** (moves her OFF door-sounds
+  onto flesh, which is what actually solved the Thud/Knock proximity). **SUPERSEDES the earlier
+  Thud->Slap note** (Slap was too narrow + needed a rewrite; Crack carries the double meaning of
+  her facade/home/self cracking). Interlude 2's opening door-slam beat is the one spot to adjust.
+- Result: no two motifs share a sound-source. Execute all four as a revision find-replace pass.
+
+**Winning theme -- CONFIRMED (author, resolves Fable's Pass-7 decision point):**
+- Thesis: **winning lets you be the worst version of yourself** (impunity/success removes
+  consequences -> self-destruction). Real-world models: Conor McGregor, Mike Tyson. Same core
+  thesis as *Forgotten* ("success let his wound express as cruelty").
+- This is the INDICTMENT of winning, not "winning keeps you sober." Dad's Ch19 line already fits:
+  "he only beat you because you fell off the wagon... promise me when you win you won't fall off
+  the wagon AGAIN" = Dad knows winning is the danger, asks Chuck to stay sober despite it. No rewrite.
+- The **draw ending delivers it**: denying Chuck the win denies him the thing that would re-license
+  his worst self -- he must stay the real, sober man WITHOUT the crutch of being champion.

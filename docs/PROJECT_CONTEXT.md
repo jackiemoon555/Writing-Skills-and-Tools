@@ -137,6 +137,15 @@ book — the `.docx` files are still named `the-fighter`.*
   **"The Chosen"** (persona/false self); **Dad's Texas gym** = birth of **Chucky
   Miles** (the real man). Both are called "where it all began" *on purpose* — one per
   self, not a continuity error.
+- **Winning theme (CONFIRMED 2026-08-12):** *winning lets you be the worst version of yourself* —
+  success/impunity removes consequences and unleashes self-destruction (models: McGregor, Tyson;
+  same core thesis as *Forgotten*). The addiction *predates* the fall (Ch20 canon: he medicated
+  "before these" too) — winning propped The Chosen; losing *unmasked* him. The **draw ending**
+  delivers it: denying Chuck the win denies him the thing that would re-license his worst self.
+- **Motif system (locked; rename in revision):** **Thump** (Chuck's heart) · **Rap** (Chuck's
+  rock bottom — cop's flashlight on the window + parents' door; *replaces "Knock"*) · **Flash**
+  (John/fame) · **Crack** (Nicole/violence; *replaces "Thud"/"Slap"*). Four distinct source-true
+  sounds. Detail in `reports/the-fighter.room.md` (LOCKED DECISIONS).
 - **No villains (authorial stance, 2026-08-12):** leaning into *"there are really no
   villains — just everyone going through something all at once."* Applies across the
   cast — Coach isn't a cruel antagonist, Nicole isn't a villain, Rob/Johnny get
