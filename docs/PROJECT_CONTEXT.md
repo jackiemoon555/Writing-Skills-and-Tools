@@ -102,7 +102,14 @@ writing-tools chapter.md --list-unknown     # find candidate custom-dictionary w
     contrast with the broken man he becomes.
   - Noted 2026-08-11.
 
----
+### Open structural decisions (undecided — for later)
+- **Interlude POV scope.** *Interlude 1* is John / "Johnny Law", third-person past,
+  ending on **"Was it worth it?"** OPEN QUESTION: keep the interludes focused
+  **solely on John**, or **expand them into a recurring device** across other
+  successful characters (e.g. **Rob**) who each slowly realize the cost of their
+  success. The unifying thread is that same "was it worth it?" question — the
+  interludes would become a *chorus on the price of winning*, counterpointing
+  Chuck's first-person collapse. Decide as the story shakes out. Noted 2026-08-11.
 
 ## Word-count tracker (rules)
 
