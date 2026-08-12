@@ -43,5 +43,6 @@ Progress: `██░░░░░░░░` ~18.5%
   plus new **Chapters 11–13**. Verified a genuinely new export by MD5 (two stale
   re-uploads were caught before logging).
   - **Baseline re-anchored to 5,555** for the next session.
-  - **⏱ Timing session 3:** timer **not started yet** — will start on the writer's
-    go. Rate = (next export's word delta) ÷ (elapsed time from that start).
+  - **⏱ Timing session 3:** timer **STARTED 2026-08-11 19:53:07 CDT**
+    (epoch 1786495987). On the next export: words = (prose-only total − 5,555);
+    elapsed = (export time − start); rate = words ÷ elapsed.
