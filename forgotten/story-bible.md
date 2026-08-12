@@ -89,12 +89,79 @@ the corruption run — which is why the crash can save him instead of just punis
 - Birth mother's status.
 - Is stepmother-as-groomer final (leaning yes)?
 
+## Fable foundation review (2026-08-12) — decisions to make BEFORE drafting in January
+
+**Headline:** unusually strong *conceptual* foundation (theme, device, ending, ethics, scope all
+well-reasoned — most early drafts have pages and no thesis; this has a thesis), but weak on the
+*felt* layer. Single most important fix: **give the meter its zero point** (see below).
+
+**The core device (erotica-as-progress-meter) — strong idea, not yet SET UP on the page:**
+- As drafted, Ch1/Ch3 read as genre-standard domination erotica; a reader can't tell they're the
+  "before photo" of a sick man vs. the book's actual appeal. Nothing signals "this is a symptom."
+- **Give the meter UNITS** — 3–4 specific, repeatable tells the later intimate scenes can
+  transform: never uses her name ("slut") → later says a partner's name; eyes closed vs. open;
+  touch taken vs. offered; who undresses whom. Without units, "reads different later" is a vibe.
+- **Own the post-climax beat:** Ch1/3 should end in hollowness / chemical topping-up / alone-with-
+  a-body-beside-him (Ch2's "embraced the nothingness" already does this by accident — make it
+  deliberate). Later scenes end with *staying*. That contrast can carry the whole device.
+- **HARD RULE:** the intimate scenes must be written with **equal heat**, not tasteful/vague — or
+  the book accidentally argues domination is hotter (the opposite of its thesis). Biggest risk.
+
+**Critical decisions before drafting (ranked):**
+1. **Zero point (the #1 fix):** Van, Pat, and pre-fall Jack must be REAL on the page in Ch1–3.
+   Right now the whole fall is ~48 hrs, Van is two phone calls, Pat's friendship is mostly his
+   exit speech — the reader never gets to *value* what Jack loses, so neither the tragic ending
+   nor the meter can register change. Seed warm, concrete Jack–Van and Jack–Pat beats early
+   (a voicemail, a memory mid-bender, a photo) and show Jack's *charm* (bible says charm is why
+   people stayed; on the page he has appetite and no charm).
+2. **Van/Pat timeline (most consequential plot mechanic):** did they start BEFORE or AFTER Van
+   left? Current text implies concurrency → Pat becomes a hypocrite giving moral speeches, Jack's
+   rage turns sympathetic, and it scrambles "Jack is the problem" + the planned reconciliation.
+   Decide: "after" keeps Pat's integrity and makes the reconciliation earnable.
+3. **Pen-name collision (personal/reputational):** the protagonist IS "Jack Moon" — the author's
+   own pen name ("Good morning, Mr. Moon"). A first-person domination-erotica narrator with a
+   groomed-childhood backstory who shares the AUTHOR'S name reads as author-insert / memoir-
+   adjacent — real reputational weight for the pen name that's carrying the whole backlist.
+   Decide on purpose: **rename the character**, or make it a deliberate, announced metafictional
+   move. (Recommend renaming to protect the pen name unless the metafiction is the point.)
+4. **Audience / genre contract:** this is **literary fiction with explicit content, not category
+   erotica.** Erotica/romance KDP readers expect HEA/HFN and will punish the "Van says no" ending
+   in reviews; literary readers who'd love that ending bounce off an "erotica" cover. Pick the
+   audience deliberately. The Sam question is the pressure valve (a "capable of love now" ending),
+   but it tensions the thesis "everyone he loves is better off without him" — choose thesis OR
+   genre, not both, and choose it on purpose (not in Ch25).
+
+**Draft strengths (bank these):** propulsive, readable fall; Jack's voice; Pat's Ch3 speech is
+the theme in character; the Ch4 speedometer intercut is the best-built sequence; Ch6 waking-
+paralyzed is visceral. **Nicole:** the "reappears broken" character should be **Nicole**, not a
+new person (payoff economy — the reader watched him break her). Five-year coma: keep, but make it
+load-bearing, not a throwaway.
+
+**Two-fall-redemption-books risk (this + *The Champ*):** fine as authorial identity IF managed —
+differences must be structural, not cosmetic. Already have opposite ending polarity (good). Add:
+different SHAPE (make *Forgotten*'s middle genuinely picaresque/episodic vs *The Champ*'s linear),
+different symptom (sexual domination vs MMA), and audibly different first-person VOICE/cadence, or
+they read as one book. Managed well, back-to-back builds a brand: "flawed men, honest reckonings."
+
 ## Standing craft/editorial rules
 - Feedback stays grammar-only for now (not developmental); pro editor later, before KDP.
 - The heavy objectifying description of women in Ch. 1 is **deliberate characterization of
   Jack's POV**, not a flaw — don't flag it as one.
 - **HARD LINE: no explicit sexual content involving a minor, regardless of fictional framing.**
   Applies to all childhood/groomer material.
+- **Register firewall (Fable, 2026-08-12) — a TONE rule as important as the content rule:** this
+  book's baseline register is arousal; the abuse/grooming material must be firewalled from that
+  register *entirely* — write those flashbacks tonally **alien** to the erotic scenes (flat,
+  clinical, dissociated) so no reader could experience them as part of the book's erotic content.
+- **Strong recommendation (Fable):** keep the stepmother/groomer material **non-explicit
+  entirely, at any age** — the "explicit at 18" threshold is legally clean but still depicts the
+  *continuation* of abuse that began at 16/younger and eroticizes it. Hard line = "what's
+  forbidden"; craft = "what's wise" — here, wise is stricter. Consequence-focused (what it did to
+  adult Jack), never scene-focused.
+- **Platform + motive flags (Fable):** stepmother-as-groomer sits adjacent to KDP-cracked-down
+  step-relation categories, and risks reading as motive-*excusing* ("the father's infidelity drove
+  her") — motive should explain her, never mitigate her. If the groomer's identity is still open,
+  a reason to weigh alternatives before finalizing.
 - Avoided trope: redemption-rewarded-with-reunion (avoided via Van's rejection). Still watch:
   "bury your gays"-style reduction of the trans character.
 
