@@ -35,7 +35,12 @@ if that's deliberate irony.)*
      champ); UFC capitalizes on the drama. **Stated reason = ego; real reason = closure**
      (keep ego the excuse so his growth doesn't read as regression). In the cage they see
      each other for the first time, feelings laid down with every strike → reconciliation.
-     *(Open: who wins? Not belt-dependent — decide later.)*
+     *(**Result: no winner revealed / a DRAW** — it was never about the fight. Two men who
+     can't express themselves reconcile in a language only they share; the punches ARE the
+     conversation, paying off Interlude 1's unspoken feelings. Keep it in subtext/action —
+     stated, it goes corny.)*
+4. **Epilogue** — tie the human loose ends (Lisa, Dad, Nicole, Rob, the interim belt,
+   sobriety). Resolve PEOPLE, don't EXPLAIN the theme.
 - **Craft watch:** don't info-dump the belt history — reveal only what's needed, when needed.
 
 ## LOCKED THEMES
@@ -51,6 +56,11 @@ if that's deliberate irony.)*
 ## ENDING TONE (decided)
 **Hopeful / redemptive — NOT doom and gloom.** John and Chuck reconcile; most of the
 cast lands in a good place. The climb pays off.
+- **Climax result: ambiguous / a DRAW** — winner unrevealed or officially drawn. The fight
+  is the reconciliation, not a competition; it was never about the belt. Two emotionally
+  stunted men finally "speak" in the only language they share. Keep it in subtext/action.
+- **Epilogue** ties the human loose ends. Discipline: resolve PEOPLE (where they landed),
+  don't EXPLAIN the theme — stating the meaning undercuts the earned ambiguity (Frame Warden).
 
 ## THE TWO LOSSES (deliberate contrast)
 - **Vlad (title fight):** a real *competitive* loss — Chuck landed, "saw the light

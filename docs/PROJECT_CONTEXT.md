@@ -171,6 +171,11 @@ book — the `.docx` files are still named `the-fighter`.*
   showdown** (comeback → avenge the true-origin loss → the personal climax).
 - **Ending tone (decided): hopeful / redemptive, NOT doom-and-gloom.** John & Chuck
   reconcile; most of the cast lands in a good place.
+- **Climax result (decided): ambiguous / a DRAW** — winner unrevealed or drawn. It was
+  never about the fight; the bout IS the reconciliation of two men who can't express
+  themselves (pays off Interlude 1). Keep it subtext/action, never stated. Then an
+  **epilogue** resolves the people (Lisa, Dad, Nicole, Rob, belt, sobriety) — where they
+  landed, NOT what it all meant.
 - **Full working outline:** `D:\Claude\the-champ_outline.md` (also backed up in the
   repo at `reports/the-champ_outline.md`).
 
