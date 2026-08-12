@@ -117,13 +117,14 @@ book — the `.docx` files are still named `the-fighter`.*
   of Chuck's bravado. Two of them:
   1. **In the past — before the title fight** (the first fight, vs the Russian
      champ that opens Ch1 and is lost in Ch2). A flashback press conference.
-  2. **Before the (first) Rodriguez fight** — Chuck **performs "The Chosen" facade
-     while falling apart inside.** Can be a **new chapter or folded into the Rodriguez
-     section** (Ch7–8). Triple duty: (a) dramatizes the presser the draft only alludes
-     to ("the slick talking, well-tailored man that was at the press conference," Ch9);
-     (b) makes the sub-minute blowout / "0 significant strikes" land the *humiliation*
-     for general readers (not just fight fans); (c) shows Chuck's asshole side / the two
-     selves cracking.
+  2. **Two mirrored Rodriguez press conferences — same podium, two different men:**
+     - **First fight (Act I): the FACADE.** Chuck performs "The Chosen" while falling
+       apart inside. New chapter or fold into Ch7–8. Also makes the 45-sec blowout land
+       (not just for fight fans) and shows his asshole side / the false self.
+     - **Rematch (Act III): the REDEMPTION.** The rebuilt, real Chuck — written as part
+       of the Act III draft.
+     Together they stamp the **two selves** (The Chosen → Chucky Miles) onto the same
+     setting, so the change is *shown*, not told.
   - Purpose: showcase Chuck's arrogance/showmanship (the "bravado" the UFC "loved"
     him for, per Ch7) on the page, before the losses hollow it out — sharpening the
     contrast with the broken man he becomes.

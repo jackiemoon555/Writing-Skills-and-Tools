@@ -58,6 +58,8 @@ cast lands in a good place. The climb pays off.
 
 ### ACT III — THE CLIMB (three fights)  `[TO WRITE]`
 1. **Rodriguez rematch** — the comeback fight; earns the road forward. `[TO WRITE]`
+   - **Press conference — REDEMPTION:** the rebuilt, real Chuck; mirrors the Act I
+     facade presser (same podium, different man). `[TO WRITE]`
 2. **Vlad rematch** — face the man who dethroned "The Chosen"; the true-origin loss
    avenged. `[TO WRITE]`
    - **Interlude — Rob**  `[TO WRITE]`
@@ -97,10 +99,11 @@ structural.
 - **Women** — Nicole interiority (the interlude); give Lisa depth so she isn't "the
   girl who waited."
 - **Ch17 pacing** — the date→bed turn resolves too fast; earn it.
-- **Press-conference scenes** — dramatize Chuck's bravado: (1) pre-title-fight
-  flashback; (2) **pre-Rodriguez — Chuck performing "The Chosen" facade while falling
-  apart inside** (new chapter or folded into the Rodriguez section). #2 also makes the
-  sub-minute blowout land and shows his asshole side / the two selves cracking.
+- **Press-conference scenes** — (1) pre-title-fight flashback (peak bravado);
+  (2) **pre-first-Rodriguez FACADE** — performing "The Chosen" while falling apart
+  (new chapter or fold into Ch7–8); lands the 45-sec blowout + shows the false self.
+  Its **mirror — the pre-rematch REDEMPTION presser — is an Act III beat** (above).
+  The two Rodriguez pressers = the two selves across the same podium.
 - **Physicalize emotional damage** — extend the "truth as a punch to the liver" device
   (already recurring).
 - **Duplicated "Chapter 1"** heading at the top; fix the in-doc title line to *The Champ*.
