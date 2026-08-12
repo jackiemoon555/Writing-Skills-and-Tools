@@ -229,3 +229,17 @@ he loses this one"). Hopeful ending = right (Rocky III / Warrior lane). Chorus =
 
 **Meta (both reviewers heed):** the design layer is now more developed than the page layer —
 risk of grading the machine, not the pages. Findings are forward-fixable; don't stop drafting.
+
+---
+
+## Belt hazard — RESOLVED (2026-08-12)
+
+Author decided the full belt map (see outline "BELT MAP & TITLE LOGIC"):
+- Vlad: LW → WW (won) → lost to John (John = WW champ). Drops back to LW for Act III.
+- Rodriguez: won LW belt → lost to a young up-and-comer (current LW champ).
+- Act III ladder w/ distinct stakes: **Rodriguez** (redeem humiliation, → #1 contender) →
+  **Vlad for the INTERIM LW title** (champ injured; Chuck wins = "the champ" — the title
+  payoff) → **Chuck vs John superfight at 165 catchweight** (ego = excuse, closure = truth;
+  reconciliation). Vlad's weak-leg problem SOLVED — he now has his own arc + a real stake.
+- Title-irony resolved: 20–0 Chuck is *called* champ (unearned nickname) → *earns* it.
+- Open: who wins the John fight (not belt-dependent). Craft watch: don't info-dump the lineage.

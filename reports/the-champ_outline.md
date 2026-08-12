@@ -16,13 +16,27 @@ who lost the title fight. Earlier premise wording "loses his title" was wrong an
 have infected Act III. Note: title is* The Champ *for a man who was never champ — decide
 if that's deliberate irony.)*
 
-## ⚠ DECIDE BEFORE DRAFTING ACT III
-- **Belt-lineage map (required).** As written, Vlad went up a weight and won there, then
-  lost to John; Rodriguez won and lost the vacated LW title. The planned ladder
-  (Rodriguez → Vlad → John) needs a decided map — who holds what belt, at what weight,
-  when — or the three fights sit on sand (Vlad already dethroned by John; climax may need
-  a division change).
-- **The title irony** (above).
+## BELT MAP & TITLE LOGIC (decided 2026-08-12 — resolves the Fable hazard)
+- **Title payoff = the spine.** Chuck was 20–0; everyone calls him "champ" because he's
+  *next up* — a nickname he hasn't earned. **Payoff: he finally becomes champ for real.**
+  (Closes the title-irony question — deliberate: called champ before earning it.)
+- **Lineage:**
+  - **Vlad** — cleared LW (155) → moved up to **WW (170)**, won that title → **lost it to
+    Johnny Law.** So **John is WW champ.**
+  - **Rodriguez** — won the **LW (155)** belt → lost it to a **young up-and-comer** (current
+    LW champ). *(Draft already supports this: Ch14 calls him "former champion.")*
+- **Act III ladder — three distinct stakes:**
+  1. **Rodriguez rematch** — redeem the 45-sec humiliation; winner = LW #1 contender.
+  2. **Vlad — INTERIM LW TITLE.** Vlad drops back to 155 to recapture gold; the LW champ
+     (up-and-comer) is injured, so **Vlad vs Chuck for the interim belt.** Chuck wins →
+     **finally "the champ."** Redeems the original title-shot loss. *(Interim = asterisk;
+     on-theme — the gold that's almost the real thing. Lean in or clean up — author's call.)*
+  3. **Chuck vs John — SUPERFIGHT, 165 catchweight.** John (WW champ) vs Chuck (interim LW
+     champ); UFC capitalizes on the drama. **Stated reason = ego; real reason = closure**
+     (keep ego the excuse so his growth doesn't read as regression). In the cage they see
+     each other for the first time, feelings laid down with every strike → reconciliation.
+     *(Open: who wins? Not belt-dependent — decide later.)*
+- **Craft watch:** don't info-dump the belt history — reveal only what's needed, when needed.
 
 ## LOCKED THEMES
 - **Two selves:** "The Chosen" (persona — Miami, Coach, fame) vs **Chucky Miles**
