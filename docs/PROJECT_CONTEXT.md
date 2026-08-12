@@ -138,6 +138,19 @@ book — the `.docx` files are still named `the-fighter`.*
   characters and finding the "what are they going through" behind each choice; never
   push toward making anyone more villainous or "louder."
 
+### Genesis / inspiration
+- The idea was kicked around in different scenarios for a while before it took off. **Partly
+  drawn from events in the author's own life** (the lived-experience element is likely why the
+  emotional core — the fall's shame, the father, the rebuild — reads as *true* in reviews).
+- Set in motion by two real fighters as archetypal poles: **Adrien Broner** (prodigious talent
+  undone by ego / very public self-destruction — the "Chosen"/fall pole) and **Dustin Poirier**
+  (hardscrabble roots, humility, the beloved comeback + resilience — the roots/climb-back pole).
+  Chuck *starts* as Broner and has to *become* Poirier. Note: Poirier won an **interim** title
+  and is a legend whose legacy was never the undisputed belt — which independently mirrors the
+  book's own ending (interim belt + the draw; "it was never about the belt").
+- This real-world + lived grounding, plus the author's genuine fight-world knowledge, is the
+  book's **authenticity edge** — the thing a non-fighter novelist couldn't fake.
+
 ### Outstanding items on the manuscript
 - **3 real typos to fix:** `enroute` → "en route", `inbetween` → "in between",
   `mosied` → "moseyed".
