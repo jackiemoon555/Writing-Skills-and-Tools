@@ -116,8 +116,16 @@ relationship** ending (Van says no); *The Champ* is MMA, motif-driven (Thump/Kno
 **hopeful/reconciliation** ending. Watch: keep them distinct enough that they don't read as the
 same book twice (protagonist voice, the specific wound, the ending's emotional colour).
 
-## Scope note
-As written, this is **novel-sized, not novella-sized** — the picaresque middle, the woven
-interludes, and the large cast are 60–90k of material. Decision to make: this is likely the
-**January 2027 first NOVEL**, OR it gets cut hard to novella scope for a month-long build.
-Decide before committing a month to it.
+**Deeper thematic distinction (author, 2026-08-12) — they only *look* alike.** *The Champ* is a
+clean, hopeful redemption (you can climb back). *Forgotten* is the harder truth: **Jack's "happy
+ending" isn't happy.** You *can't* right every wrong — you learn to *carry* your regrets and bear
+them openly to the world. A man broken down to nothing who has to *swallow* his regrets rather
+than undo them. Its real subject is **manhood and toxic masculinity** — a larger, more ambitious,
+more emotionally complex book with denser relationships. This is the bigger swing.
+
+## Scope / schedule — DECIDED (2026-08-12): this is the JANUARY 2027 first NOVEL
+Novel-sized and deliberately so — the picaresque middle, the woven interludes, the large cast,
+and the toxic-masculinity theme all need room (60–90k). Confirmed as the author's **first full
+novel, not a novella.** Rationale/sequencing: *The Champ* (hopeful, cleaner, novella) is the
+right book to build reps + craft on first; *Forgotten* is the bigger, harder, more ambitious
+swing — take it on once those reps exist. Not to be forced into a one-month novella build.

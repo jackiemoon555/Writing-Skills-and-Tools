@@ -31,6 +31,12 @@ I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
   backlist + craft on shorter stakes; the novel comes once the reps make it feel small.
   Provisional — revisit as it goes. Wildcard: if *The Champ* defies the odds (viral / TV-film
   deal), all bets are off and the plan changes.
+  - **Update 2026-08-12 — the January 2027 novel = *Forgotten*** (the author's first idea:
+    erotica / regret / **toxic masculinity**, a "happy ending that isn't happy" — a bigger, more
+    ambitious novel-scale project, already partly drafted Ch1–6 + Interlude; see
+    `forgotten/story-bible.md`). It was briefly considered for a September novella slot but is
+    **too large/ambitious for a month** — confirmed as the first NOVEL instead. Sept–Dec novella
+    slots are now open for other/new ideas.
 
 - **Production pipeline (per book):** first draft → **revision (may take a few passes)** →
   editor → publish (KDP). **Guardrail (author, 2026-08-12): the revision phase is where books
