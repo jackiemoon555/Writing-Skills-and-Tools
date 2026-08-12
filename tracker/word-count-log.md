@@ -43,6 +43,8 @@ Progress: `██░░░░░░░░` ~18.5%
   plus new **Chapters 11–13**. Verified a genuinely new export by MD5 (two stale
   re-uploads were caught before logging).
   - **Baseline re-anchored to 5,555** for the next session.
-  - **⏱ Timing session 3:** timer **STARTED 2026-08-11 19:53:07 CDT**
-    (epoch 1786495987). On the next export: words = (prose-only total − 5,555);
-    elapsed = (export time − start); rate = words ÷ elapsed.
+  - **⏱ Timing session 3:** STARTED 2026-08-11 19:53:07 CDT (epoch 1786495987).
+    **PAUSED 2026-08-11 20:13:27 CDT** — accumulated active time **20m 20s**
+    (1220 s). Timer is on hold; resume adds a new active stretch to this total.
+    On the final export: words = (prose-only total − 5,555); rate = words ÷ (total
+    active time).
