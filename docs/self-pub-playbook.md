@@ -92,6 +92,24 @@ placement is premature (also: recently acquired by Everand/Scribd — direction 
 
 ---
 
+## PART 2.5 — THE FIGHTER LONG SHOT (*The Champ* launch tactic, author's idea 2026-08-12)
+When *The Champ* is **done & published**, send physical copies to as many UFC fighters as
+possible — **handwritten note to Dustin Poirier** (the book's direct inspiration), a clean
+printed note to everyone else. Rationale: for a niche MMA book, **fighters are the influencers
+of the exact target audience** — one fighter mention reaches more *right* readers than any paid
+ad. Authentic (the book really is inspired by them), targeted, and cheap.
+- **Cost:** KDP author copies print at ~$2–4 each; 15–30 fighters ≈ $100–250 shipped. On-brand.
+- **Channels:** management/agents (public for ranked fighters), gyms, official fan-mail POs, a
+  sincere DM to open the door. Poirier's Good Fight Foundation + gym are real, reachable.
+- **The note (author writes it — his voice, not Claude's):** short, sincere, *specific* about how
+  the fighter's career shaped the book, **and asks for nothing.** It's a gift, not a pitch — which
+  is exactly why it can get a response a solicitation never would.
+- **Guardrails:** (1) send only the finished/published book or a proof, never a draft; (2) keep
+  "inspired by Dustin Poirier" in the *private* note + interviews, NOT on the cover/blurb —
+  packaging that implies endorsement without permission is a real problem.
+- Expected outcome: mostly silence (it's a long shot, by design). Asymmetric upside if even one
+  bites. Costs almost nothing to take the swing.
+
 ## PART 3 — POSITIONING (*The Champ* specifically)
 
 - **NOT literary fiction packaging** — worst-converting Amazon category, trad-loyal readers.
