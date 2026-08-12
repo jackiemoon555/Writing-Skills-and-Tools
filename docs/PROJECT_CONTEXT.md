@@ -138,6 +138,16 @@ book — the `.docx` files are still named `the-fighter`.*
   characters and finding the "what are they going through" behind each choice; never
   push toward making anyone more villainous or "louder."
 
+### Pen name / author identity
+- **All books ship under the pen name: JACK MOON.** This is the brand — consistent across the
+  whole catalog, the Amazon Author Central page, and the mailing list, from *The Champ* forward
+  (per Fable's "the catalog is the brand" point).
+- The author is **keeping his real identity private for now** — working a day job, and wants the
+  option to surprise people if he "makes it." It's a name he's carried since boyhood; those
+  closest to him will know, and understand the journey.
+- Practical note: pen names are also the tool for **genre lanes later** (additional names per
+  genre if he ever wants to separate read-through lanes) — but Jack Moon is home base.
+
 ### Genesis / inspiration
 - The idea was kicked around in different scenarios for a while before it took off. **Partly
   drawn from events in the author's own life** (the lived-experience element is likely why the
