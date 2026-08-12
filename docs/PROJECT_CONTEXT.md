@@ -110,6 +110,11 @@ book — the `.docx` files are still named `the-fighter`.*
     him for, per Ch7) on the page, before the losses hollow it out — sharpening the
     contrast with the broken man he becomes.
   - Noted 2026-08-11.
+- **Physicalize Chuck's emotional damage (post-first-draft).** Add more scenes where
+  an emotional blow lands as a literal strike — a truth as a punch, a loss as a kick,
+  shame as a body shot. The draft already does this once: "The truth coming across as
+  a punch to the liver" + grabbing his ribs (Ch10). Extend the device across the book
+  so his inner life is rendered in fight-language. Noted 2026-08-12.
 
 ### Open structural decisions (undecided — for later)
 - **Interlude POV scope.** *Interlude 1* is John / "Johnny Law", third-person past,
