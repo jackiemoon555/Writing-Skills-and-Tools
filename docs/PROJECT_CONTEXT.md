@@ -90,6 +90,11 @@ book — the `.docx` files are still named `the-fighter`.*
 - **Status as of 2026-08-12: 5,841 words (~19.5%).**
 - **Heartbeat motif:** "Thump. Thump." repeats intentionally (~47×) — that's on
   purpose, not an echo to fix.
+- **Core theme (the "roots" act, Ch14+):** Coach vs Dad is deliberate — **Coach
+  (the chosen "second father") left; Dad (the real one) never did.** The act is
+  Chuck reconnecting with his roots: where he went wrong, how much changed, and the
+  realization that the people truly there for him (Dad, and Lisa) never left — he
+  just couldn't see it. Lisa voices it: "I never left you, you left me."
 
 ### Outstanding items on the manuscript
 - **3 real typos to fix:** `enroute` → "en route", `inbetween` → "in between",

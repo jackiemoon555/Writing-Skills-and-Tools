@@ -138,9 +138,14 @@ plus one neglected. Simulated perspectives, not real readers.
 **New findings:**
 - **[C6] CONTRADICTION — "where it all began."** Applied to the Miami/Coach gym
   (Ch4) AND Dad's Texas gym (Ch14–15, the true origin). AUDIT-MEDIUM. Pick one.
-- **[C7] WATCH — "second father."** Coach = "my second father" (Ch8) vs Dad
-  reclaiming the role + "fraud" (Ch14). Likely a deliberate father-figure arc;
-  confirm the old label is intentional.
+- **[C7] RESOLVED — author-confirmed CHOICE (do not re-flag).** The Coach/Dad
+  parallel is the act's spine: **Coach (the chosen "second father") left; Dad (the
+  real one) never did.** So the Ch8 "second father" label is deliberate dramatic
+  irony — Chuck crowned the man who'd leave as family while blind to the one who
+  stayed. Theme of the roots act: reconnecting with where he came from, seeing where
+  he went wrong, and realizing **the people who were truly there (Dad, Lisa) never
+  left — he just couldn't see it.** Lisa echoes it directly (Ch17: "I never left you,
+  you left me… I'm still here"). Any future "Coach vs Dad father-figure" flag is void.
 - **[F-PACE] DIDN'T BUY IT (risk) — Ch17 date→bed.** Cold/accusatory → "Don't go" →
   her apartment, one beat. Turn resolves too fast; needs a beat more resistance/earning.
   READER-MEDIUM. Flag for author.
