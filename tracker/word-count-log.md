@@ -7,7 +7,9 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 
 - **Word-count goal:** ~30,000 words (soft target)
 - **Current total:** **5,841 words** → **~19.5%** of goal
-- **Daily minimum goal:** 750 words
+- **Daily minimum goal:** 750 words (floor)
+- **Stretch target (from 2026-08-12):** **2,000/day now, building toward 5,000/day.**
+  Writer is committing seriously to the project.
 - **Source of truth:** Google Docs (exported from Reedsy as `.docx`)
 
 Progress: `██░░░░░░░░` ~19.5%
