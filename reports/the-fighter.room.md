@@ -115,3 +115,46 @@ plus one neglected. Simulated perspectives, not real readers.
 
 - Read: Ch1–14 + Interlude 1. Ch14 = empty heading (placeholder).
 - Not yet written: everything past the Ch13 arrest / Interlude 1.
+
+---
+
+## Pass 2 — 2026-08-12 (draft now 7,940w; Ch14–17 + empty Interlude 2)
+
+**New ledger facts:**
+- **Dad** — former **wrestler**; traded his wrestling career to raise Chuck;
+  Chuck's **original trainer**; owns the **South Texas hometown gym** (established
+  Ch15 as the true "where it all began"); has **taken over managing Chuck** from Rob
+  (Ch14); books the **Rodriguez rematch — "Fight Night Houston," ~6 months out** (Ch14).
+  Rocky/Mickey imagery (old sweatsuit + beanie, Ch16) = CHOICE.
+- **Coach (Miami)** — the "new coach" Chuck left Dad's gym for; Dad calls him "a
+  fraud" (Ch14). Sits in tension with Coach = "my second father" (Ch8): see C7.
+- **Lisa (formerly "Lizzie")** — hometown old flame; now goes by Lisa; a **manager**
+  (business casual); brash; long brunette hair, green eyes. New love interest (Ch16–17).
+- **DUI** — the Ch13 arrest is now confirmed as a **DUI** (Ch16, Ch17). OPEN plant paid.
+- **Rodriguez** — now **"former champion"** (won then lost the belt since his run).
+- Setting: South Texas hometown; HEB; the fight is in **Houston**.
+- In-doc **title changed to "The Champ"** (title line). Duplicated Ch1 heading (C3) persists.
+
+**New findings:**
+- **[C6] CONTRADICTION — "where it all began."** Applied to the Miami/Coach gym
+  (Ch4) AND Dad's Texas gym (Ch14–15, the true origin). AUDIT-MEDIUM. Pick one.
+- **[C7] WATCH — "second father."** Coach = "my second father" (Ch8) vs Dad
+  reclaiming the role + "fraud" (Ch14). Likely a deliberate father-figure arc;
+  confirm the old label is intentional.
+- **[F-PACE] DIDN'T BUY IT (risk) — Ch17 date→bed.** Cold/accusatory → "Don't go" →
+  her apartment, one beat. Turn resolves too fast; needs a beat more resistance/earning.
+  READER-MEDIUM. Flag for author.
+- **[F-TELL2] TASTE — Dad's Ch15 monologue** is long and explains backstory rather
+  than dramatizing. Earned but on the tell side; a trim would sharpen it.
+- **Mechanical:** typo density up (fast drafting), parked. Word-choice errors to catch
+  in cleanup: `extenuating`→accentuating, `manger`→manager, "pinning me to my sit"→seat.
+
+**Wins:** Dad reframes the whole arc; emotional-damage-as-strike device extended
+unprompted (Ch17); *Thump* repurposed to signal **happiness** at HEB (Ch16).
+
+**Open plants (updated):** Rodriguez rematch (Houston, ~6mo) — now the forward engine ·
+Lisa relationship · **Interlude 2** (empty — planned as Nicole) · Nicole fallout ·
+Vlad rematch.
+
+**Progress:** Read Ch14–17 + Interlude 2 (empty heading). Not yet written: the Rodriguez
+camp/fight, the Nicole interlude, past Ch17.
