@@ -330,3 +330,34 @@ not "too neat").
 **Obligations created:** (1) Interlude 1 now the weak sibling — needs a pass to match; (2) epilogue
 owes Nicole a real answer (not collateral of John's arc); (3) motif convention now FORMALIZED
 (per-POV percussion + count-grammar) — the bar for the Rob & Coach interludes.
+
+---
+
+## Pass 6 -- Ch18-20 (2026-08-12 evening; draft now 10,500w)
+
+New pages: Interlude 2 (typed in), Ch18 (Liz/Lisa rejects Chuck at HEB), Ch19 (3-month training
+montage + Dad's film-room + the SOBRIETY PROMISE), Ch20 (the return/redemption PRESS CONFERENCE).
+Numbering "gaps" (17,19) were just concatenated headings -- nothing missing.
+
+**Two review flags answered by these pages (author revising forward):**
+- Addiction now has stakes (Fable's #2 miss): "Three months sober... promise me when you win you
+  won't fall off the wagon again... I won't be able to save you again" (Ch19, via Dad).
+- The too-fast Ch17 reconciliation is now complicated on purpose: Ch18 she REJECTS him ("you
+  don't get to be an asshole and forget I exist... would you have remembered me if you never
+  lost?"), reframing the Ch17 night as a regretted "lost in the moment." Undoes the F-PACE concern.
+
+**Strong beats:** "would you have remembered me if you never lost?" (theme on trial); "My heart
+didn't thump today" (motif evolves -- absence of Thump = peace); Ch20 presser "the eyes that used
+to flock to me now terrify me" (two-selves working).
+
+**Continuity flags:**
+- Name drift: Lizzie -> Lisa (Ch16, "they call me Lisa now") -> "Liz" (Ch18). Pick one.
+- Ch17->18 whiplash ("we loved each other" -> "just lost in the moment"): keep it clearly
+  deliberate (her self-protection), not authorial mind-changing.
+- Vlad at the Ch20 presser ("familiar Russian accent... Chuck Miles is a fraud") -- belt map has
+  the comeback fight as RODRIGUEZ, Vlad later. Confirm Vlad is crashing to seed his fight vs a
+  fight-order drift. (Consistency win: "John Keller" matches the Nicole-interlude surname.)
+
+**Mechanical (parked):** Liz/Lisa, "on wall"->on the wall, "grabbed by the arm"->me by the arm,
+"remember"->remembered, "crowed"->crowd, Interlude-2 carryovers (lettings, whole->hole,
+proceeded->preceded).

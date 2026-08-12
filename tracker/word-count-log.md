@@ -13,6 +13,10 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 - **Stretch target (from 2026-08-12):** **2,000/day now, building toward 5,000/day.**
   Writer is committing seriously to the project.
 - **Source of truth:** Google Docs (exported from Reedsy as `.docx`)
+- **SCHEDULE (target, set 2026-08-12):** first-draft **DONE by Sunday 2026-08-16** (~4,000–5,000/
+  day from 10,500 → 30k+; on-pace, matches today's 4,659). Then **revision = 2 weeks (~Aug 17–31)**
+  — this 2-week window IS the bounded revision plan / stop rule (keeps revision from becoming a
+  graveyard). Then editor (copyedit + proofread), then KDP.
 
 Progress: `███░░░░░░░` ~35%
 
