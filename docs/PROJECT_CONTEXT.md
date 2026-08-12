@@ -22,6 +22,14 @@ I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
   it" — high volume, write daily, don't wait on inspiration or lock to a genre.
   (Daily target: 2,000/day now → 5,000/day; note King's own quota is ~2,000/day.)
 
+- **Production pipeline (per book):** first draft → **revision (may take a few passes)** →
+  editor → publish (KDP). **Guardrail (author, 2026-08-12): the revision phase is where books
+  die — do NOT let it stall, kill momentum, or let the project die there.** Bias toward
+  finishing and shipping over endless polishing: "good enough to publish, improve on the next
+  book" beats a perfect draft that never ships. When the draft is done, set a *bounded* revision
+  plan (a fixed number of passes + a stop rule) so revision has a finish line. Matches the
+  reps/backlist strategy.
+
 ## Hard rule for Claude: **no prose writing**
 
 I write **all my own prose.** Claude must **never write or rewrite my fiction.**
