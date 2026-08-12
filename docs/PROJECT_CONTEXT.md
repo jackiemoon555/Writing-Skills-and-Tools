@@ -25,6 +25,12 @@ I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
   cadence (start/finish a draft each month); full pipeline-to-publish (revision +
   editor) may trail — measure by drafts completed, not only titles published, so the
   bar stays real and can't quietly become a failure metric.
+- **Tentative 2026–27 roadmap (NOT fully committed — set 2026-08-12):** finish out 2026 with a
+  **novella per remaining month** (*The Champ* is the current one; then ~one/month through
+  December), then **start the first NOVEL in January 2027.** Novellas first to build reps +
+  backlist + craft on shorter stakes; the novel comes once the reps make it feel small.
+  Provisional — revisit as it goes. Wildcard: if *The Champ* defies the odds (viral / TV-film
+  deal), all bets are off and the plan changes.
 
 - **Production pipeline (per book):** first draft → **revision (may take a few passes)** →
   editor → publish (KDP). **Guardrail (author, 2026-08-12): the revision phase is where books
