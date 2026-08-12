@@ -6,7 +6,7 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 ## Current project: *The Champ* (novella) — working title (formerly *The Fighter*)
 
 - **Word-count goal:** ~30,000 words (soft target)
-- **Current total:** **5,841 words** → **~19.5%** of goal
+- **Current total:** **10,500 words** → **~35%** of goal (baseline for next session)
 - **Daily minimum goal:** **1,000 words/day (floor — raised from 750 on 2026-08-12)** —
   chosen to be sustainable *regardless of motivation*, ideally split into two sessions
   (work downtime + home). Stretch stays 2,000→5,000 on good days.
@@ -14,7 +14,7 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
   Writer is committing seriously to the project.
 - **Source of truth:** Google Docs (exported from Reedsy as `.docx`)
 
-Progress: `██░░░░░░░░` ~19.5%
+Progress: `███░░░░░░░` ~35%
 
 ## Rules
 
@@ -29,9 +29,13 @@ Progress: `██░░░░░░░░` ~19.5%
 | 2026-08-11 | ~1,000 | 4,012 | ✅ ⏳ |
 | 2026-08-11 (session 2) | 1,581 | 5,555 | ✅ |
 | 2026-08-11 (session 3) | 286 | 5,841 | ✅ (day) |
+| 2026-08-12 | 4,659 | 10,500 | ✅ |
 
-**Cumulative total: 5,841 words** (session-3 "Interlude 1" KEPT — final call deferred)
-**Day total 2026-08-11: 1,867 words** — daily 750 goal met ~2.5×.
+**Cumulative total: 10,500 words**
+**Day total 2026-08-11: 1,867 words** (750 floor at the time).
+**Day total 2026-08-12: 4,659 words** — work 3,323 + home ~1,336; **first full day on the new
+1,000 floor, met ~4.7× and just shy of the 5,000 stretch.** New content: Interlude 2 (Nicole),
+Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in the day.)
 
 ## Notes
 
