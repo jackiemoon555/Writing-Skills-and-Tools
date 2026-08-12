@@ -115,6 +115,11 @@ book — the `.docx` files are still named `the-fighter`.*
   shame as a body shot. The draft already does this once: "The truth coming across as
   a punch to the liver" + grabbing his ribs (Ch10). Extend the device across the book
   so his inner life is rendered in fight-language. Noted 2026-08-12.
+- **Nicole interlude — flesh her out (in progress 2026-08-12).** Give Nicole her own
+  POV interlude so she's understood, not a villain and not "woman as scenery."
+  Directly answers the Test Audience flag that women readers are the book's neglected
+  audience (Nicole currently has no interiority). Author's intent: humanize her,
+  give understanding to her choices.
 
 ### Open structural decisions (undecided — for later)
 - **Interlude POV scope.** *Interlude 1* is John / "Johnny Law", third-person past,
@@ -124,6 +129,8 @@ book — the `.docx` files are still named `the-fighter`.*
   success. The unifying thread is that same "was it worth it?" question — the
   interludes would become a *chorus on the price of winning*, counterpointing
   Chuck's first-person collapse. Decide as the story shakes out. Noted 2026-08-11.
+  **Update 2026-08-12: leaning toward expanding** — a Nicole interlude is planned,
+  widening the interludes beyond John.
 
 ## Word-count tracker (rules)
 
