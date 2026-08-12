@@ -188,3 +188,44 @@ two "was it worth it?" men). Everything is now building toward this fight.
 
 **Progress:** Read Ch14–17 + Interlude 2 (empty heading). Not yet written: the Rodriguez
 camp/fight, the Nicole interlude, past Ch17.
+
+---
+
+## Pass 3 — Fable independent review (2026-08-12)
+
+Second-opinion pass (Fable model, fresh eyes). Overturns/adds to the Opus ledger:
+
+**Overturns of Opus:**
+- **F-PACE re-opened:** Ch17's problem is the TRIGGER, not speed. Lisa is won by self-pity
+  ("Don't leave me. Everyone I loved left me") — the same neediness that drove everyone off;
+  the scene rewards begging. Fix = Chuck *seeing her*, not needing her. Reclassify from CHOICE
+  to execution-gap-vs-intent.
+- **Belt lineage escalated:** NOT a clarity watch — a live Act III hazard. Needs a decided
+  belt/weight map before drafting (Vlad already dethroned by John; unclear weight; climax may
+  need a division change). Strongest catch.
+- **F-TELL narrowed:** personifications = voice (keep); but "shame is overbearing,"
+  "flabbergasted," "anxiety rose, anger boiled" = drafting shorthand → revision list.
+
+**Biggest problem Opus missed — Fable's RANKED #1:**
+- **Chuck is a passenger in his own comeback (structural DEFECT).** The rise is granted, not
+  chosen: Dad books the fight, sets the deadline, runs training; Lisa dictates the date and
+  drives. Redemption with no resistance repeats his pattern instead of breaking it.
+- Addiction evaporates with no on-page fight (internal villain gets a walkover).
+- Peak "The Chosen" never shown — payoffs lean on a persona the reader never met; promote the
+  facade/asshole scenes to first-draft.
+- Spiral summarized not witnessed; Ch12→14 re-admission offscreen; two-beginnings device
+  invisible on the page; motif inflation (Thump stamping every beat).
+→ All promoted to outline "STRUCTURAL MUST-BUILDS."
+
+**Doc error caught:** outline premise said "loses his title" — he was NEVER champion
+(challenger; "former number one contender," Ch9). Fixed in outline. Title-irony (*The Champ*
+for a never-champ) = author decision.
+
+**Confirmed Opus findings:** POV slip (F-POV), Grove/Banks (C1), tense drift (now
+majority-past — the "present-tense" descriptor is stale), women/neglected-reader gap.
+
+**Plan:** three fights viable but **Vlad is the weak leg** ("no answer to what Chuck loses if
+he loses this one"). Hopeful ending = right (Rocky III / Warrior lane). Chorus = keep.
+
+**Meta (both reviewers heed):** the design layer is now more developed than the page layer —
+risk of grading the machine, not the pages. Findings are forward-fixable; don't stop drafting.

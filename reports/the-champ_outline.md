@@ -7,10 +7,22 @@
 ---
 
 ## PREMISE
-Chucky "The Chosen" Miles, an undefeated MMA star, loses his title and unravels —
-booze, drugs, a DUI, everyone gone. Forced home to Texas, he rebuilds with his
-father (his first trainer) and climbs back through three fights toward a reckoning
-with the protégé who replaced him.
+Chucky "The Chosen" Miles, an undefeated #1 contender, **loses his title shot** —
+the biggest fight of his life, vs Vlad — and unravels: booze, drugs, a DUI, everyone
+gone. Forced home to Texas, he rebuilds with his father (his first trainer) and climbs
+back toward a reckoning with the protégé who replaced him.
+*(Correction 2026-08-12, per Fable review: he was NEVER champion — he's the challenger
+who lost the title fight. Earlier premise wording "loses his title" was wrong and would
+have infected Act III. Note: title is* The Champ *for a man who was never champ — decide
+if that's deliberate irony.)*
+
+## ⚠ DECIDE BEFORE DRAFTING ACT III
+- **Belt-lineage map (required).** As written, Vlad went up a weight and won there, then
+  lost to John; Rodriguez won and lost the vacated LW title. The planned ladder
+  (Rodriguez → Vlad → John) needs a decided map — who holds what belt, at what weight,
+  when — or the three fights sit on sand (Vlad already dethroned by John; climax may need
+  a division change).
+- **The title irony** (above).
 
 ## LOCKED THEMES
 - **Two selves:** "The Chosen" (persona — Miami, Coach, fame) vs **Chucky Miles**
@@ -74,6 +86,18 @@ Each humanizes a character "going through something" — the no-villains stance 
 structural.
 
 ---
+
+## STRUCTURAL MUST-BUILDS (from Fable review — build into the DRAFT, not post-draft)
+- **Give Chuck agency in the rise.** He must *choose* to fight — want it, say it, with
+  something to lose — not just be told he's booked. (The comeback is currently granted.)
+- **Make sobriety cost something.** ≥1 on-page craving / withdrawal / near-miss — the
+  addiction is the villain left standing under the no-villains stance.
+- **Show peak "The Chosen."** The facade presser + a scene of him loved-and-awful are
+  first-draft material; Act III's mirrors need the persona to exist. (Promoted from revisions.)
+- **Write the Ch12→Ch14 re-admission seam** — the most important door (Knock motif) is
+  currently offscreen.
+- **Signpost the two-beginnings device** so the echo reads as deliberate, not repetition.
+- **Ch17 trigger** — what wins Lisa should be Chuck *seeing her*, not *needing her*.
 
 ## REVISION TO-DO  *(after the first draft — do NOT fix while drafting)*
 
