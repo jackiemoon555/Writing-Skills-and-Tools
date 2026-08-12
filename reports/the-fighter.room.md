@@ -156,15 +156,24 @@ plus one neglected. Simulated perspectives, not real readers.
   READER-MEDIUM. Flag for author.
 - **[F-TELL2] TASTE — Dad's Ch15 monologue** is long and explains backstory rather
   than dramatizing. Earned but on the tell side; a trim would sharpen it.
+- **[Coach Ch10 tone — author RULING] Keep it sympathetic/human.** Coach's expulsion
+  stays warm ("I love you but you're a mess"), NOT sharpened into cold cruelty. The
+  abandonment Chuck feels is his *misperception*; Coach is a person going through
+  something too. Flows from the **no-villains stance** ("no villains, just everyone
+  going through something at once"). Supersedes the earlier "sharpen the sting" option.
+  **Review implication:** never push to villainize Coach (or anyone) — help humanize.
 - **Mechanical:** typo density up (fast drafting), parked. Word-choice errors to catch
   in cleanup: `extenuating`→accentuating, `manger`→manager, "pinning me to my sit"→seat.
 
 **Wins:** Dad reframes the whole arc; emotional-damage-as-strike device extended
 unprompted (Ch17); *Thump* repurposed to signal **happiness** at HEB (Ch16).
 
-**Open plants (updated):** Rodriguez rematch (Houston, ~6mo) — now the forward engine ·
-Lisa relationship · **Interlude 2** (empty — planned as Nicole) · Nicole fallout ·
-Vlad rematch.
+**Open plants (updated):** Rodriguez rematch (Houston, ~6mo) — mid-book engine ·
+Lisa relationship · Nicole fallout · Vlad rematch.
+**Interlude roster (ensemble chorus, decided):** John (done) → Nicole → Rob →
+final Coach (placed right before the last chapter).
+**Planned climax:** final chapter = **Chuck vs Johnny Law** (mentor vs protégé; the
+two "was it worth it?" men). Everything is now building toward this fight.
 
 **Progress:** Read Ch14–17 + Interlude 2 (empty heading). Not yet written: the Rodriguez
 camp/fight, the Nicole interlude, past Ch17.

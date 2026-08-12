@@ -99,6 +99,12 @@ book — the `.docx` files are still named `the-fighter`.*
   **"The Chosen"** (persona/false self); **Dad's Texas gym** = birth of **Chucky
   Miles** (the real man). Both are called "where it all began" *on purpose* — one per
   self, not a continuity error.
+- **No villains (authorial stance, 2026-08-12):** leaning into *"there are really no
+  villains — just everyone going through something all at once."* Applies across the
+  cast — Coach isn't a cruel antagonist, Nicole isn't a villain, Rob/Johnny get
+  humanized via interludes. **Review implication for Claude:** support *humanizing*
+  characters and finding the "what are they going through" behind each choice; never
+  push toward making anyone more villainous or "louder."
 
 ### Outstanding items on the manuscript
 - **3 real typos to fix:** `enroute` → "en route", `inbetween` → "in between",
@@ -138,8 +144,17 @@ book — the `.docx` files are still named `the-fighter`.*
   success. The unifying thread is that same "was it worth it?" question — the
   interludes would become a *chorus on the price of winning*, counterpointing
   Chuck's first-person collapse. Decide as the story shakes out. Noted 2026-08-11.
-  **Update 2026-08-12: leaning toward expanding** — a Nicole interlude is planned,
-  widening the interludes beyond John.
+  **DECIDED 2026-08-12: ensemble chorus.** Planned interlude roster —
+  **John** (done, Interlude 1) → **Nicole** → **Rob** → a **final Coach** interlude.
+  Each humanizes a character "going through something," so the interludes are the
+  no-villains stance made structural: a human perspective on the complexity of
+  relationships, counterpointing Chuck's first-person view of who wronged/left him.
+  **Placement:** the final **Coach** interlude sits **immediately before the final
+  chapter.**
+- **Planned climax (2026-08-12):** the **final chapter is Chuck vs Johnny Law** — the
+  two mirrors collide (mentor vs protégé; the man who took Nicole *and* the belt). The
+  two "was it worth it?" men fight for real. The last Coach interlude is the beat that
+  sets it up.
 
 ## Word-count tracker (rules)
 
