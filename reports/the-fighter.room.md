@@ -361,3 +361,45 @@ to flock to me now terrify me" (two-selves working).
 **Mechanical (parked):** Liz/Lisa, "on wall"->on the wall, "grabbed by the arm"->me by the arm,
 "remember"->remembered, "crowed"->crowd, Interlude-2 carryovers (lettings, whole->hole,
 proceeded->preceded).
+
+---
+
+## Pass 7 -- Fable on Ch18-20 (2026-08-12; @10,500w). Verdict: revising forward; stronger.
+(Caveat: judged from scene descriptions, not full prose -- "does it land" is provisional.)
+
+**TWO GEMS (author may not have noticed -- keep both):**
+- **NEW CANON: the addiction PREDATES the fall.** Ch20 "used to kill his nerves with a shot/line
+  BEFORE these" -> The Chosen was chemically propped all along; the loss didn't create the
+  addiction, it UNMASKED it. Major two-selves upgrade.
+- **Structural rhyme to DECIDE:** Dad ties sobriety to WINNING ("when you win, you won't fall off
+  the wagon") but the ending is a fight with NO win (the draw). Deliberate = a killer rhyme
+  (sobriety must stand without a victory). Accidental = a hazard (book endorsing "winning keeps
+  you sober"). Decide on purpose.
+
+**Flags status:** Ch17 turn = CLOSED (recontextualized, not rewritten; "would you have remembered
+me if you never lost?"). Addiction = HALF (promise arms it + Ch20 sober-terror pays some, but no
+on-page TEMPTATION scene where sobriety is tested/chosen -- ideally in the "winning"/party terrain).
+Presser = engine right, but Ch20 SPENT the redemption payoff -> the Act I FACADE presser is now
+OWED (priority up).
+
+**Owed debts (accumulating under deadline):** facade presser; one temptation/craving scene;
+Vlad's humanization (Ch20 is his 1st characterization and it's "cartoon villain" in a no-villains
+book -- why does HE hate frauds? -- owed before their fight); one flicker of Liz's doubt seeded
+back in Ch17.
+
+**Continuity:** Liz vs Lisa ("they call me Lisa now," Ch16; "Liz" = unflagged 3rd name -> DEFECT
+by default, ASSET if made a deliberate marked beat via the names-as-selves system). Vlad at
+presser = NO fight-order drift (Rodriguez presser, Vlad crashing = map-consistent). "fraud" now a
+recurring motif (Dad->Coach, Vlad->Chuck). Arithmetic passed: 22 fights = 20-0 + Vlad + Rodriguez.
+
+**Motif wins:** "My heart didn't thump today" = best motif move since HEB (absence=peace,
+return=threat; the motif now has an ARC -- partially answers the inflation warning). "New
+sanctuary burns down" echoes Ch8.
+**Thud->Slap PUSHBACK (Fable):** Thud's ambiguity (door/fist/wall/body) was a feature; "Slap"
+narrows it AND Interlude 2 opens on a slammed DOOR (doesn't slap). Test "Slap" vs all 5 instances
+before committing; trade range for specificity only with eyes open.
+
+**THE WARNING:** ~20k left incl. the draw ending, all vs Sunday; the draw (most execution-sensitive
+object) sits at the end of the sprint = written by the most tired author. "If Sunday forces a
+choice between shipping on time and giving the final fight the writing it needs -- MISS THE
+DEADLINE. The deadline is a discipline tool; the ending is the book."

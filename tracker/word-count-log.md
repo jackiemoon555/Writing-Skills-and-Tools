@@ -17,6 +17,10 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
   day from 10,500 → 30k+; on-pace, matches today's 4,659). Then **revision = 2 weeks (~Aug 17–31)**
   — this 2-week window IS the bounded revision plan / stop rule (keeps revision from becoming a
   graveyard). Then editor (copyedit + proofread), then KDP.
+  - **⚠️ Ending > deadline (Fable, 2026-08-12):** the draw finale is the most execution-sensitive
+    object in the book and sits at the END of the sprint. If Sunday ever forces a choice between
+    shipping on time and giving the final fight the writing it needs, **MISS THE DEADLINE.** The
+    deadline is a discipline tool; the ending IS the book.
 
 Progress: `███░░░░░░░` ~35%
 
