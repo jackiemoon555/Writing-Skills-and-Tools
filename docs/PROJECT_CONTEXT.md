@@ -41,6 +41,12 @@ I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
   come to *him*** off a proven, selling catalog — with leverage, not from a slush pile. Revisit
   trad only from a position of strength (a full novel + real sales), and only if it appeals then.
   *Claude: don't re-raise the trad/agent route unless the author asks.*
+- **Publishing/marketing/editor reference:** `docs/self-pub-playbook.md` (compiled 2026-08-12;
+  revisit post-revision + once an editor is found). Contains editor costs, launch plan, *The
+  Champ* positioning (package as comeback/men's-fiction, NOT literary or romance), and one open
+  strategic decision: **genre-agnostic vs. read-through** (a genre-agnostic catalog has ~zero
+  read-through, which weakens the backlist engine — mitigations: cluster genres, pen-name lanes,
+  or connected books).
 
 ## Hard rule for Claude: **no prose writing**
 
