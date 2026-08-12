@@ -243,3 +243,44 @@ Author decided the full belt map (see outline "BELT MAP & TITLE LOGIC"):
   reconciliation). Vlad's weak-leg problem SOLVED — he now has his own arc + a real stake.
 - Title-irony resolved: 20–0 Chuck is *called* champ (unearned nickname) → *earns* it.
 - Open: who wins the John fight (not belt-dependent). Craft watch: don't info-dump the lineage.
+
+---
+
+## Pass 4 — Fable plan re-review (2026-08-12)
+
+Re-reviewed the updated plan (belt map, interim title, draw ending). Prose unchanged.
+**Net: decisively stronger** — every original objection resolved or promoted to a must-build.
+
+**Belt map — resolved; 3 residual obligations:**
+- **Unification dangle:** interim belt implies an unfought bout w/ the injured champ. If the
+  book ends interim-champ-never-unified AND drew the superfight = two asterisks; epilogue must
+  settle it.
+- **John shadow on Vlad:** Chuck beats a Vlad coming off a loss to John. Partly defused (Chuck
+  beats him at 155, the original crime scene). Make it deliberate, not accidental.
+- **"Winner unrevealed" breaks 1st person:** narrator is IN the cage; he hears the decision.
+  → use an **official DRAW** (scorecards say no one won), not a cut-away. Draw = goes the
+  distance, competitive throughout, no finish.
+
+**Vlad:** plot-leg fixed; PERSON-leg not (still faceless). "Add more to Vlad early" is now
+LOAD-BEARING. His drop-down to recapture gold is inherent "was it worth it?" material.
+
+**Interim belt = asset IF the pages own the asterisk.** Lean in (the ladder secretly argues
+"belts stopped mattering" — final fight is for no belt). (a) Vlad win must feel incomplete or
+the climax lands a fight early; (b) epilogue must NOT grant the undisputed belt — un-says the
+draw. Ambivalence is the only losing move.
+
+**Draw + epilogue = 100% execution.** Retrain the reader to stop keeping score before the final
+bell (Coach interlude = the tool; fight prose = recognition not scoring). Make the ego/closure
+split legible (or Chuck reads as relapsing into The Chosen). Corniness discipline: no mid-fight
+speeches / smiles through blood / embrace at the bell. Asset: "AND THE NEW" + devalued "champ"
+already relate to a decision that crowns no one (planted Ch1/Ch13).
+Epilogue rules: resolve people through STATE not summary; **sobriety NOT "cured"** (a practice);
+a draw demands a rematch — close that door or the ending feels un-ended.
+
+**New obligations:** exposition load — every belt fact should land as an EMOTIONAL fact, not
+standings; the up-and-comer = pure plumbing, keep offstage/nameless; **word budget now ~35–38k,
+not 30k — re-baseline**; Act III is three frictionless outcomes (W/W/D) — in-fight adversity all
+still to write; John's half of the draw must be earned too (don't make Nicole collateral).
+
+**Directive (both reviewers agree):** design layer has outgrown the pages twice in one day.
+STOP PLANNING — write the Rodriguez camp. No outline revision can write it.
