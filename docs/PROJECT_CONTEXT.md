@@ -15,12 +15,16 @@ I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
 - Money along the way is a **bonus**. The ultimate goal is that, with enough
   books / a big enough backlist, I can **transition out of my day job**.
 - Each book compounds — the body of work is the engine, not any single title.
-- **Production cadence — aspirational standard (set 2026-08-12): ~one
-  novella/novel per month.** A north star to aim at, **not a hard quota** — missing
-  it in a given month is fine; it just sets the bar. **Genre-agnostic** — write what
-  I feel and blend it into a story (as I'm doing with *The Fighter*). "Stephen King
-  it" — high volume, write daily, don't wait on inspiration or lock to a genre.
-  (Daily target: 2,000/day now → 5,000/day; note King's own quota is ~2,000/day.)
+- **Production cadence — HARD COMMIT (updated 2026-08-12): ≥ one novella/novel per
+  month, more as the process refines.** Not slowing down until the backlist reaches
+  career-viability — then reassess. (Upgraded from the earlier "aspirational, not a
+  quota" framing — the author has committed.) **Genre-agnostic** — write what I feel
+  and blend it into a story. "Stephen King it" — high volume, write daily, don't wait
+  on inspiration or lock to a genre. (Daily target: 2,000/day now → 5,000/day; King's
+  own quota ~2,000/day.) **Keep the commit sane:** the monthly bar is a *drafting*
+  cadence (start/finish a draft each month); full pipeline-to-publish (revision +
+  editor) may trail — measure by drafts completed, not only titles published, so the
+  bar stays real and can't quietly become a failure metric.
 
 - **Production pipeline (per book):** first draft → **revision (may take a few passes)** →
   editor → publish (KDP). **Guardrail (author, 2026-08-12): the revision phase is where books
