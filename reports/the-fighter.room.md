@@ -151,9 +151,12 @@ plus one neglected. Simulated perspectives, not real readers.
   he went wrong, and realizing **the people who were truly there (Dad, Lisa) never
   left — he just couldn't see it.** Lisa echoes it directly (Ch17: "I never left you,
   you left me… I'm still here"). Any future "Coach vs Dad father-figure" flag is void.
-- **[F-PACE] DIDN'T BUY IT (risk) — Ch17 date→bed.** Cold/accusatory → "Don't go" →
-  her apartment, one beat. Turn resolves too fast; needs a beat more resistance/earning.
-  READER-MEDIUM. Flag for author.
+- **[F-PACE] RECLASSIFIED — author-intent CHOICE (Lisa's enduring love).** The rush to
+  the apartment is meant to show she still loves him and always did (theme: "I never
+  left you… I'm still here"). Protected as deliberate — not a defect. **Reader-clarity
+  watch (honest):** intent ≠ execution; the "she never stopped" read lands best if her
+  love shows *under* the anger earlier in the scene, so the turn plays as a dam breaking,
+  not a switch flip. Author's call.
 - **[F-TELL2] TASTE — Dad's Ch15 monologue** is long and explains backstory rather
   than dramatizing. Earned but on the tell side; a trim would sharpen it.
 - **[Coach Ch10 tone — author RULING] Keep it sympathetic/human.** Coach's expulsion
@@ -164,6 +167,14 @@ plus one neglected. Simulated perspectives, not real readers.
   **Review implication:** never push to villainize Coach (or anyone) — help humanize.
 - **Mechanical:** typo density up (fast drafting), parked. Word-choice errors to catch
   in cleanup: `extenuating`→accentuating, `manger`→manager, "pinning me to my sit"→seat.
+- **[Two-losses contrast — author-confirmed CHOICE.]** The two losses are deliberately
+  different textures: **Vlad (title fight, Ch1/6)** = a real competitive loss — Chuck
+  landed, "saw the light leave his eyes," briefly had him. **Rodriguez (Ch8/12)** = a
+  total mental collapse — he was already gone, finished in under a minute, "zero
+  significant strikes." This gap sets the rematch stakes (Vlad = redeem a close loss;
+  Rodriguez = redeem a humiliation). **Reader-clarity watch:** "0 significant strikes"
+  reads as brutal to MMA fans but may not register the humiliation for general readers
+  — the planned pre-Rodriguez press-conference scene (below) is the intended reinforcement.
 
 **Wins:** Dad reframes the whole arc; emotional-damage-as-strike device extended
 unprompted (Ch17); *Thump* repurposed to signal **happiness** at HEB (Ch16).

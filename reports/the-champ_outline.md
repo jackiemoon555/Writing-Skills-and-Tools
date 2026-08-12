@@ -26,6 +26,14 @@ with the protégé who replaced him.
 **Hopeful / redemptive — NOT doom and gloom.** John and Chuck reconcile; most of the
 cast lands in a good place. The climb pays off.
 
+## THE TWO LOSSES (deliberate contrast)
+- **Vlad (title fight):** a real *competitive* loss — Chuck landed, "saw the light
+  leave his eyes," briefly had him. The rematch = redeem a close loss.
+- **Rodriguez:** a total *collapse* — already gone, finished in under a minute, "zero
+  significant strikes." The rematch = redeem a humiliation.
+- Watch: "0 significant strikes" reads brutal to fight fans; the pre-Rodriguez
+  press-conference scene (see revisions) is the fix so it lands for everyone.
+
 ---
 
 ## STRUCTURE
@@ -89,8 +97,10 @@ structural.
 - **Women** — Nicole interiority (the interlude); give Lisa depth so she isn't "the
   girl who waited."
 - **Ch17 pacing** — the date→bed turn resolves too fast; earn it.
-- **Press-conference scenes** — dramatize Chuck's bravado (pre-title-fight flashback +
-  pre-Rodriguez).
+- **Press-conference scenes** — dramatize Chuck's bravado: (1) pre-title-fight
+  flashback; (2) **pre-Rodriguez — Chuck performing "The Chosen" facade while falling
+  apart inside** (new chapter or folded into the Rodriguez section). #2 also makes the
+  sub-minute blowout land and shows his asshole side / the two selves cracking.
 - **Physicalize emotional damage** — extend the "truth as a punch to the liver" device
   (already recurring).
 - **Duplicated "Chapter 1"** heading at the top; fix the in-doc title line to *The Champ*.

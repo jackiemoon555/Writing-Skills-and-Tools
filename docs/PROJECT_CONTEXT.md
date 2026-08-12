@@ -117,10 +117,13 @@ book — the `.docx` files are still named `the-fighter`.*
   of Chuck's bravado. Two of them:
   1. **In the past — before the title fight** (the first fight, vs the Russian
      champ that opens Ch1 and is lost in Ch2). A flashback press conference.
-  2. **Before the second fight** (vs Rodriguez, Ch8–9). Note: the current draft
-     already *references* this presser in passing — "the slick talking,
-     well-tailored man that was at the press conference" (Ch9) — so this scene
-     would dramatize a moment the book currently only alludes to.
+  2. **Before the (first) Rodriguez fight** — Chuck **performs "The Chosen" facade
+     while falling apart inside.** Can be a **new chapter or folded into the Rodriguez
+     section** (Ch7–8). Triple duty: (a) dramatizes the presser the draft only alludes
+     to ("the slick talking, well-tailored man that was at the press conference," Ch9);
+     (b) makes the sub-minute blowout / "0 significant strikes" land the *humiliation*
+     for general readers (not just fight fans); (c) shows Chuck's asshole side / the two
+     selves cracking.
   - Purpose: showcase Chuck's arrogance/showmanship (the "bravado" the UFC "loved"
     him for, per Ch7) on the page, before the losses hollow it out — sharpening the
     contrast with the broken man he becomes.
