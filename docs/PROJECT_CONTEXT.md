@@ -95,6 +95,10 @@ book — the `.docx` files are still named `the-fighter`.*
   Chuck reconnecting with his roots: where he went wrong, how much changed, and the
   realization that the people truly there for him (Dad, and Lisa) never left — he
   just couldn't see it. Lisa voices it: "I never left you, you left me."
+- **Two selves / two beginnings (deliberate):** the **Miami gym + Coach** = birth of
+  **"The Chosen"** (persona/false self); **Dad's Texas gym** = birth of **Chucky
+  Miles** (the real man). Both are called "where it all began" *on purpose* — one per
+  self, not a continuity error.
 
 ### Outstanding items on the manuscript
 - **3 real typos to fix:** `enroute` → "en route", `inbetween` → "in between",

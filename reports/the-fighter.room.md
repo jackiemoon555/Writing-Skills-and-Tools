@@ -136,8 +136,13 @@ plus one neglected. Simulated perspectives, not real readers.
 - In-doc **title changed to "The Champ"** (title line). Duplicated Ch1 heading (C3) persists.
 
 **New findings:**
-- **[C6] CONTRADICTION — "where it all began."** Applied to the Miami/Coach gym
-  (Ch4) AND Dad's Texas gym (Ch14–15, the true origin). AUDIT-MEDIUM. Pick one.
+- **[C6] RESOLVED — author-confirmed CHOICE (do not re-flag).** The two "where it
+  all began" markers are **two beginnings for two selves**: the Miami gym + Coach =
+  the birth of **"The Chosen"** (the persona/star/false self); Dad's Texas gym = the
+  birth of **Chucky Miles** (the real man, the *true* beginning). Deliberately paired
+  with the Coach-left/Dad-stayed spine — the false origin abandons him, the real
+  origin is the one he must return to. Reader-clarity watch only: signpost the pairing
+  enough that a reader reads it as intentional, not as an error.
 - **[C7] RESOLVED — author-confirmed CHOICE (do not re-flag).** The Coach/Dad
   parallel is the act's spine: **Coach (the chosen "second father") left; Dad (the
   real one) never did.** So the Ch8 "second father" label is deliberate dramatic
