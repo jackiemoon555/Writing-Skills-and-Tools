@@ -207,9 +207,10 @@ book — the `.docx` files are still named `the-fighter`.*
 
 ## Word-count tracker (rules)
 
-- **Daily minimum: 750 words.**
+- **Daily minimum: 1,000 words/day** (raised from 750 on 2026-08-12; built to be hit every
+  day regardless of motivation, split across two sessions — work downtime + home).
 - Tracked in `tracker/word-count-log.md`: date, words written that day, cumulative
-  total, and whether the 750 goal was met.
+  total, and whether the 1,000 goal was met.
 - Daily words = new manuscript total − previous total.
 - **Cumulative baseline: 4,012 words on 2026-08-11.**
 
@@ -251,7 +252,7 @@ Notion is being phased out.)*
 ## Suggested next steps
 
 1. Fix the 3 typos in *The Fighter*.
-2. Keep writing toward 30k (750+/day); share each day's `.docx` for a report +
+2. Keep writing toward the full draft (1,000+/day floor); share each day's `.docx` for a report +
    tracker update.
 3. When ready, resume the KDP-mechanics research.
 4. After the first draft: editor prep, then formatting, then KDP, then marketing.

@@ -7,7 +7,9 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 
 - **Word-count goal:** ~30,000 words (soft target)
 - **Current total:** **5,841 words** → **~19.5%** of goal
-- **Daily minimum goal:** 750 words (floor)
+- **Daily minimum goal:** **1,000 words/day (floor — raised from 750 on 2026-08-12)** —
+  chosen to be sustainable *regardless of motivation*, ideally split into two sessions
+  (work downtime + home). Stretch stays 2,000→5,000 on good days.
 - **Stretch target (from 2026-08-12):** **2,000/day now, building toward 5,000/day.**
   Writer is committing seriously to the project.
 - **Source of truth:** Google Docs (exported from Reedsy as `.docx`)
@@ -16,13 +18,13 @@ Progress: `██░░░░░░░░` ~19.5%
 
 ## Rules
 
-- ✅ = met the 750-word daily minimum · ⚠️ = under · ⏳ = estimate pending exact count
+- ✅ = met the **1,000-word** daily minimum (was 750 before 2026-08-12) · ⚠️ = under · ⏳ = estimate pending exact count
 - Each day's "words written" = new manuscript total − previous total. When only a
   full-manuscript snapshot is shared, the daily figure may be estimated.
 
 ## Log
 
-| Date | Words written | Cumulative total | Goal (750) |
+| Date | Words written | Cumulative total | Goal (1,000) |
 | --- | ---: | ---: | :---: |
 | 2026-08-11 | ~1,000 | 4,012 | ✅ ⏳ |
 | 2026-08-11 (session 2) | 1,581 | 5,555 | ✅ |
