@@ -34,6 +34,14 @@ I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
   plan (a fixed number of passes + a stop rule) so revision has a finish line. Matches the
   reps/backlist strategy.
 
+- **Publishing path — DECIDED (2026-08-12): self-publish via KDP, backlist-first.** Explored
+  the traditional / literary-agent / small-press routes and set them aside — too many hurdles,
+  too slow, novella-unfriendly, and out of line with the high-cadence, ship-no-matter-what
+  strategy. Plan: **build the backlist and let opportunity (agents, publishers, audio, film)
+  come to *him*** off a proven, selling catalog — with leverage, not from a slush pile. Revisit
+  trad only from a position of strength (a full novel + real sales), and only if it appeals then.
+  *Claude: don't re-raise the trad/agent route unless the author asks.*
+
 ## Hard rule for Claude: **no prose writing**
 
 I write **all my own prose.** Claude must **never write or rewrite my fiction.**
