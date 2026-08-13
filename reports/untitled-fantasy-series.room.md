@@ -510,3 +510,50 @@ archmage bloodline + century-long con + national-styles geopolitics + trilogy). 
 dense interlocking machinery is unforgiving; every Book-1 seed must pay off two books later, so
 attempt it once the payoff-landing craft is proven on simpler books. Ledger stands ready to
 resume.
+
+---
+
+## RECONCILED FLAWS & REVISION MAP — Opus × Fable, both blind (2026-08-13)
+
+Two independent blunt flaws-passes converged hard. Priority = by LEVERAGE (fix upstream first).
+Note: Opus initially ranked mechanics #1; Fable correctly flagged that self-ranking as INVERTED —
+mechanics is most fixable + least important; the passive protagonist is #1 and only the author can
+fix it. Also a KEY reading-parallel correction: the actual structural template is **Ilona Andrews /
+Hidden Legacy (Burn for Me)** — hereditary magic dynasties ruling modern America, power-ranked,
+supreme "Prime"≈archmage tier, arranged dynastic marriages, Houses as political units. Influences
+are on the page as PREMISE/FURNITURE (Andrews premise, Zodiac Academy chassis, ASOIAF bastard,
+Sanderson interlude-labels) but NOT yet as CRAFT — the studied moves (splatter violence, thriller
+hooks, DCC voice, Kennedy banter) did not transfer. Root gap = study hasn't converted to skill.
+
+**Confirmed work list (both reviewers, ranked):**
+1. **PASSIVE PROTAGONIST (#1 — the book-killer).** Will decides nothing ("I want to be free, but
+   that comes later"). FIX = Scene Card rule (WANTS/OBSTACLE/DOES/CHANGES); Will must disobey,
+   deceive, or demand once per chapter.
+2. **Exposition by lecture** (Ch7 monologue, Green's syllabus). FIX = "why are you telling me this?"
+   test; exposition through conflict; ≤2 sentences world-history per page.
+3. **Catalog instead of render** — DMV intros ("clean-shaven"×5, "massive"×15), named emotion, and
+   **"began to" ×35** (verb-avoidance tic), plus PROPORTION error (violence underwritten, breakfast
+   overwritten). FIX = 2 details max (one odd, in Will's voice); emotion→body/action; search-destroy
+   "began to"; scale wordage to what changes Will.
+4. **Voice whiplash** (crude dialogue vs Victorian narration) + tense drift. FIX = bar test; voice
+   bible; study DCC for narration=dialogue-same-voice.
+5. **Continuity** (Archie's contradictions; Wright "only in NY"→"East Coast"; the four Johns). FIX =
+   story bible (character/family/world/timeline); rename to kill first-initial collisions.
+6. **Mechanics (LAST — most fixable, least important).** Part is a CORRUPTION PIPELINE (dictation/
+   autocorrect: "Fr, ed", "N, ow", "concuss"), not grammar. FIX = repair pipeline; personal 5-error
+   checklist; grammar-check as final pass only.
+
+**The hidden flaw (Fable, high value):** he thinks voice = dialogue/profanity, so NARRATION defaults
+to stiff "how books sound." The grammar-anxiety and stiff narration are the SAME wound — self-taught
+self-consciousness performing "Formal Writing." Fix is a MINDSET: the narrator IS Will, not "the
+author writing." Ties to [[user_learning_style]].
+
+**What he's genuinely good at (both agree):** story architecture + hook instinct — plotting brain
+ahead of prose; skeleton publishable, flesh not yet. Prose is trainable; structural instinct isn't.
+Better problem to have.
+
+**SINGLE NEXT MOVE (both converge):** do NOT stop to revise the 13k — keep drafting to the end, but
+apply the Scene Card rule from the next chapter and give Will a concrete ACTIVE want now (sharpen the
+planted "travel/play golf" line into something he schemes toward against his father). Use the weekly
+short-story comps as the drill lab for isolated skills (rendering, voice). Reread 20pp of DCC for
+narration=dialogue, then draft same-day.
