@@ -513,3 +513,17 @@ walks out. Identity shed via the ring announcement alone: pure show-don't-tell. 
 of the draft. Build on it — the eventual John (Keller) showdown can be the real "Chucky Miles" vs.
 the persona-trap John fell into. Ties to the fraud/mask theme + the two-beginnings motif
 (Miami/"Chosen" vs. Texas/dad = the real Chucky).
+
+## STRUCTURAL DECISION (2026-08-13) — interlude count / multi-POV scope
+Alec is warming to multiple viewpoints. DECISION for *The Champ*: **hold the current pace — the
+2 remaining planned interludes (Rob, Coach) are the CEILING, not the floor. Do NOT add more.**
+Rationale: the book's engine is Chuck's first-person intimacy; interludes work BECAUSE they're the
+exception/chorus, not a co-lead. A ~30k novella supports a protagonist + a small chorus (Chuck +
+John/Nicole/Rob/Coach ≈ the max); each interlude is ~1–2k words not advancing Chuck's arc. Both
+reviews called the interlude structure his strongest asset — protect the RATIO. Test for the two
+remaining (and any temptation): does this POV show something essential Chuck can't, AND serve the
+"who stayed / who left / winning corrupts" spine? Rob + Coach pass (both LEFT him; both father/
+fraud figures). Optional placement (revision): cluster Rob + Coach interludes LATE, as Chuck rises,
+mirroring John/Nicole's Ch22 decay. **The growing multi-POV appetite belongs in the BIGGER
+canvases** (college football = ensemble; fantasy trilogy = warring houses) — develop the muscle
+here, unleash it there.
