@@ -557,3 +557,15 @@ apply the Scene Card rule from the next chapter and give Will a concrete ACTIVE 
 planted "travel/play golf" line into something he schemes toward against his father). Use the weekly
 short-story comps as the drill lab for isolated skills (rendering, voice). Reread 20pp of DCC for
 narration=dialogue, then draft same-day.
+
+---
+
+## SCOPING DECISION (2026-08-13): "no villains" is THE CHAMP ONLY
+Author decided "there are no villains, everyone's going through something" is a *Champ-specific*
+theme, NOT a universal one. **Consequence for this fantasy:** genuine villains are BY DESIGN —
+Charles and the dark force are meant to be real antagonists. This SUPERSEDES any earlier framing
+that treated Charles's villainy as a "theme contradiction." He can be a true villain who is ALSO
+rich and tragic (the pawn-reveal / hubris arc already gives him depth — complexity ≠ "no villains").
+Remaining craft note is minor and optional: a villain with interiority reads stronger than a pure
+rage-and-whiskey cartoon — but that's taste/craft, not a theme violation. Stop grading the fantasy
+against the Champ's moral architecture.
