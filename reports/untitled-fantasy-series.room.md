@@ -465,3 +465,10 @@ should be about doctrine (how they think about power), not stereotype.
   The reader should watch Charles *manufacture his own enemy* -- every cruel scene is him losing
   the one thing he needs. Make sure at least one early beat shows Charles COULD have had Will's
   loyalty and threw it away. That near-miss is what makes it tragedy, not just comeuppance.
+
+**Canon correction (2026-08-13):** the US is ALREADY unified (one nation, five families under an
+elected king). So the doomsday is not "unify the US" -- it's **Charles unifying the five FAMILIES
+BY FORCE:** using the archmage weapon (Will) to overpower the other four families, break the
+five-way balance and topple/escape the elected light-throne, and weld them into a single bloc
+under Sinclair rule -- THEN turn that unified force toward world domination (books 2-3 / the
+international layer). Supersedes the "unify the United States" phrasing above.
