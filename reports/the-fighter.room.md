@@ -454,3 +454,20 @@ Craft guards: seed it subtly first (Ch6 "a man from Russia, I'm sure with his ow
 existing hint -- maybe one more flicker) so the reveal reads as "there all along," not a twist.
 Keep the distinction sharp: the VILLAINY was the show; the person + the struggle are REAL. Timing
 holds -- mask falls AFTER Chuck wins, so fight stakes stay live during, humanity lands after.
+
+---
+
+## Fraud motif -- DEEPENED (author recognized it, 2026-08-12; develop deliberately in revision)
+
+The recurring "fraud" accusation (Dad->Coach, Vlad->Chuck, Chuck judging everyone as "The Chosen")
+emerged organically. Its true subject: **HYPOCRISY / projection -- everyone accuses others of the
+fraud they refuse to see in themselves.**
+- Chuck's redemption = the one thing none of them do: **acknowledge his OWN fraudulence.** The fall
+  forces it; winning/success is what let him refuse it (impunity = never facing yourself) -- ties
+  straight to the winning-lets-you-be-your-worst-self thesis.
+- The **draw ending** is the final move: neither man "wins," so neither gets to keep projecting --
+  they must see each other, which means seeing themselves. The book is people refusing the mirror
+  until loss makes them look.
+- Revision task: this is now a CONSCIOUS theme -- develop the fraud-accusations deliberately as a
+  through-line (who accuses whom, who ever turns it on themselves), and let the mask-drops (Vlad;
+  Chuck's own) be the payoff of looking in the mirror.
