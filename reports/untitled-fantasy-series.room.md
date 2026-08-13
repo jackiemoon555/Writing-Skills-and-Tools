@@ -472,3 +472,12 @@ BY FORCE:** using the archmage weapon (Will) to overpower the other four familie
 five-way balance and topple/escape the elected light-throne, and weld them into a single bloc
 under Sinclair rule -- THEN turn that unified force toward world domination (books 2-3 / the
 international layer). Supersedes the "unify the United States" phrasing above.
+
+**Canon refinement (2026-08-13):** "world domination" = **imperialism, not overt conquest.** The
+unified families project **control via their vast resources and power** -- economic/magical
+hegemony, coercion, client states, resource extraction -- explicitly modeled on **US-style
+imperialism.** Grounds the endgame (a critique of power-concentration, not cartoon world-conquest).
+*Connective note:* the families are ALREADY domestic imperialists over their own people (the
+"hell wrapped in gold," the suppressed "help," barred women, hoarded magic) -- so going global is
+just **scaling the same machine outward.** The domestic rot and the imperial ambition are one
+system at two sizes.
