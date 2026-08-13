@@ -3,6 +3,13 @@
 *Prepared 2026-08-13. Writing partnership with Alec (pen name **Jack Moon**). Point a new session
 at this file to get fully caught up without re-doing today's work.*
 
+> **THIS REPO IS THE STANDALONE HOME OF THE WRITING PROJECT.** Writing is now Alec's main focus and
+> is kept SEPARATE from any other work (e.g. sports-betting). **Run writing sessions from this
+> repo's own local folder** — that gives them their own project/memory namespace, cleanly divorced
+> from everything else. Everything a session needs is IN this repo (this handoff + `reports/`,
+> `tracker/`, `docs/`, `manuscripts/`) — it does NOT depend on any external memory. If a session
+> starts fresh with no memory, that's expected: just read this file.
+
 > **HOW TO USE THIS DOC:** it's a **summary / index** for fast orientation — fine to summarize
 > from. But when Alec asks anything in **detail**, do NOT answer from this summary — **re-read the
 > verbatim source**: the ledgers/trackers listed below are the source of truth, and the prose
@@ -39,7 +46,6 @@ unless he asks.
 - **Scoped reading:** close-read ONLY the pages he points to, WHEN he says. Never re-review the
   whole manuscript or re-surface already-game-planned issues. Engage new pages on their own terms;
   if something genuinely new matters, flag it in ONE line and let him choose to go deeper.
-  (See memory `feedback_scoped_reading_process`.)
 - **Honesty over flattery.** He wants blunt, evidence-based takes and will ask "are you just
   blowing my head up?" Don't.
 - **Dual review is standing but on-request:** after an Opus read, spawn a **Fable-model** agent for
