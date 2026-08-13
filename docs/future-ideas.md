@@ -173,3 +173,34 @@ This is a defining authorial trait -- part of the "flawed people, honest reckoni
 - **Research (when he picks the mechanism):** ground the conceit with real texture -- CRISPR/gene-
   editing, biometrics, bioweapon/kill-switch plausibility, eugenics/black-ops history. Don't
   rabbit-hole for a superhero novella.
+
+---
+
+## COLLEGE FOOTBALL (working title TBD) — vault; groundwork for NEXT MONTH (2026-08-13)
+
+**Premise:** a college-football drama. Same DNA as *The Champ* (contact sport, toxic masculinity,
+the cost of winning, bodies destroyed for glory) but **UPSCALED from one man's soul to a whole
+SYSTEM's** — individual → institutional; one fighter → a pipeline of kids; intimate → the machine
+(university, program, town, money, coaches, parents, recruiting, NIL, "the league"). Author's own
+read: "so much of what I've started with, but with upscaled stakes." Correct — it's *The Champ*'s
+engine on a systemic canvas with **child-exploitation stakes.**
+
+**Themes (his):** big paydays / NIL; head trauma / CTE; toxic masculinity; **sports as the great
+unifier** (football-as-religion, "look at you Alabama"); egos & competitiveness; overbearing parents
+& coaches; pushing kids toward huge goals too young; **stripping kids of education/life skills** so
+they focus solely on football chasing a <2% shot at the NFL — the **dream as a trap**, and it's
+CHILDREN, which raises the tragedy above *The Champ*'s adult stakes.
+
+**Sharp connections (Opus — capture only, do NOT develop yet):**
+- **Football-as-religion = his cheap-grace/religion theme in a new arena.** The stadium as church, a
+  communion that papers over the exploitation underneath — a bridge to the O'Connor/atonement
+  interest ([[[see Sanderson/religion convo]]]).
+- **Coach-vs-father** = *The Champ*'s coach/dad thread scaled to the whole youth-sports machine
+  (coach as surrogate/abusive father figure).
+- **Research already done:** League of Denial (CTE/head trauma) is on his finished-reading list.
+- **Write what you know:** he's TEXAS-based = football country. Lived-experience asset.
+- **Comp / north star: Friday Night Lights** (Buzz Bissinger's book + the show) — the definitive
+  version of exactly this, set in Texas. Read/watch it — but AFTER *The Champ*.
+
+**STATUS: VAULT ONLY.** No development until *The Champ* first draft is done. This is the LAST
+planning item — planning is closed until then.
