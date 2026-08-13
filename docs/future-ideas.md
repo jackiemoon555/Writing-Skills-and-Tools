@@ -146,3 +146,30 @@ This is a defining authorial trait -- part of the "flawed people, honest reckoni
 - Do about it: (1) foreground the genocide/aftermath/kill-list/personal so registration is backdrop
   not the point; (2) DON'T stage Civil War's iconic beats (two hero camps, "whose side," the
   ideological hero-vs-hero brawl) -- the survivor-in-the-ashes framing naturally avoids them.
+
+**Structure + worldbuilding (2026-08-13):**
+- **Structure:** PRELUDE = the day the genocide starts; INTERLUDES seed backstory (villain,
+  strongest hero, MC). Villain's identity HIDDEN from reader until the end; the MC pieces it
+  together and that revelation sends him to the final tower. (Detective/mystery layer on the
+  survivor story.)
+  - Craft: plant FAIR clues (reveal = "there all along," not a cheat). Hide the friend-villain by
+    making him PRESUMED DEAD among the fallen (nobody suspects a corpse); backstory interludes show
+    him without the reader knowing he's the villain (dramatic irony on reread).
+- **Reframe:** origin-of-supers + the weakness are CREATIVE CHOICES, not research questions (can't
+  research fictional powers). Research only grounds the chosen conceit. Don't over-engineer -- a
+  coherent, thematic conceit beats hard science (Boys' Compound V isn't real virology).
+- **Origin (recommended):** supers were ENGINEERED, and it was the villain's/a cabal's LONG GAME --
+  the whole age of heroes was a stage the architect built to shape society, then tore down. Fraud/
+  performance at cosmic scale; unifies origin + genocide + the clap/showman villain ("the world was
+  his show; the genocide is him closing the curtain"). Engineered, not born.
+- **THE WEAKNESS -- synthesis that unifies everything:** registration required an INJECTION (a
+  "power-stabilizer"/mandatory screening) that was secretly the KILL SWITCH. Villain flips it ->
+  every REGISTERED super dies fast (explains the week-long total genocide). MC survived because he
+  refused to register (never took the shot) -- mechanically airtight now. The STRONGEST hero died
+  "easily" because he was the compliant PUBLIC FACE of registration -- fully injected; the villain
+  doesn't fight him, just flips the switch live on TV and the icon drops. Fuses registry-as-kill-
+  list + virus + why-strongest-fell + why-MC-lived into ONE mechanism. Theme: conformity was the
+  leash and the leash was a noose; his rebellion literally saved him.
+- **Research (when he picks the mechanism):** ground the conceit with real texture -- CRISPR/gene-
+  editing, biometrics, bioweapon/kill-switch plausibility, eugenics/black-ops history. Don't
+  rabbit-hole for a superhero novella.
