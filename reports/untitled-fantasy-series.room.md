@@ -355,3 +355,31 @@ that bigger thing is:
   methods* (rule founded on extermination, returning as demon-bargained revenge), which rhymes
   with Will's arc and the throne-hunger theme. **A** is the pick if you want straight
   cosmic-horror escalation without the political-history weight.
+
+**Canon — light/dark as the MORAL SPINE (2026-08-13):**
+- Light and dark are **naturally at odds** — and it's not just mechanics, it's **morality.** The
+  **families have lost their moral compass**, and **Charles (Will's dad) is the embodiment** of
+  that rot.
+- **Charles wants to LEAVE THE LIGHT and bring the families INTO THE DARK.** The series' central
+  fall: an order that once belonged to the light (the throne) being dragged into darkness by its
+  most corrupted head.
+- **Proposed mechanical "why" (Opus — for author approval):** light (throne) **suppresses/
+  neutralizes all other magic**, so the families are *permanently leashed* to whoever holds the
+  crown — the king can switch any of them off. Dark magusers **trade away their natural elements**
+  for the demon pact... so dark magic may sit **OUTSIDE light's suppression** (there's no
+  element left for the light to neutralize). If so: **going dark is the one way the families
+  escape the throne's leash forever.** That gives Charles a cold, rational endgame — not "he's
+  evil," but "as long as light exists, we kneel; the dark is the only exit." *Flag: confirm/deny
+  this suppression-immunity mechanic; it's currently the cleanest engine for the whole fall.*
+- **Locks Will's arc:** Will is bred to be the **instrument of the fall** — the archmage weapon
+  that lets Charles pull the families out of the light. Will *resisting* = refusing to be the tool
+  that drags them into darkness. Pairs with the Dean (Interlude 1: wants Will to "be better than
+  his family," rise to the throne, "make the change") — **Dean + Will = the light/reform pole;
+  Charles + corrupted families = the dark.** The end (Will + Dean → resistance) = holding the
+  line against the descent.
+- **Unifies the villainy (resolves the "larger force"):** the dark now has **two converging
+  vectors** — an INTERNAL one (Charles pulling the families in) and an EXTERNAL one (the masked
+  man / near-extinct dark order, Directions B/C above). Whether they're allied, rival, or one
+  using the other is the series' engine. Charles as the *inside* agent of the same darkness the
+  masked man serves = a tight, ironic trap (Charles thinks he's seizing power; he may be a pawn
+  of the older dark force he's inviting in).
