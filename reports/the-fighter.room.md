@@ -429,3 +429,28 @@ DEADLINE. The deadline is a discipline tool; the ending is the book."
   the wagon AGAIN" = Dad knows winning is the danger, asks Chuck to stay sober despite it. No rewrite.
 - The **draw ending delivers it**: denying Chuck the win denies him the thing that would re-license
   his worst self -- he must stay the real, sober man WITHOUT the crutch of being champion.
+
+---
+
+## Vlad -- RESOLVED (2026-08-12; resolves Fable's "cartoon villain in a no-villains book" flag)
+
+**Decision: keep Vlad a cartoon villain the whole way, then DROP HIS MASK when Chuck beats him**
+(the interim-title fight). The villainy was a performance/show; underneath he's another struggling
+human. Payoff line: "it was never just Chuck who goes through this -- he's surrounded by them."
+
+Why it's load-bearing (not just a patch):
+- Universalizes the **no-villains** thesis in one beat (everyone wears a mask / is performing).
+- Pays off the **fraud motif** (Dad->Coach, Vlad->Chuck): a performed villain screaming "fraud" is
+  a mirror. Everyone's calling everyone a fraud while faking.
+- Rhymes with the **winning/losing thesis**: Chuck's "Chosen" mask fell when he lost; Vlad's mask
+  falls when HE loses -- defeat strips the performance.
+- **Sets up the John finale**: Vlad teaches Chuck (+ reader) the "enemy" is a person -> primes the
+  draw where Chuck & John "see each other." One fight early.
+- **Poirier connection**: Vlad = manufactured villain (McGregor-type showman); the mask-drop
+  affirms the Poirier truth (humans behind the promotion). Sits next to the book's Broner(fall)/
+  Poirier(redemption) DNA.
+
+Craft guards: seed it subtly first (Ch6 "a man from Russia, I'm sure with his own battles" is the
+existing hint -- maybe one more flicker) so the reveal reads as "there all along," not a twist.
+Keep the distinction sharp: the VILLAINY was the show; the person + the struggle are REAL. Timing
+holds -- mask falls AFTER Chuck wins, so fight stakes stay live during, humanity lands after.
