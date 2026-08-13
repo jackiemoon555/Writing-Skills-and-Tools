@@ -383,3 +383,49 @@ that bigger thing is:
   using the other is the series' engine. Charles as the *inside* agent of the same darkness the
   masked man serves = a tight, ironic trap (Charles thinks he's seizing power; he may be a pawn
   of the older dark force he's inviting in).
+
+**Canon / brainstorm — national "schools" of magic (2026-08-13). Scope: this book = TRILOGY;
+international layer widens across books 2-3 + potential SPIN-OFFS.**
+Concept: same fundamentals everywhere (mana + four elements + words of power), but each country
+has a distinct magical PHILOSOPHY -- like national styles in a sport (US vs Japanese baseball:
+both produce all-time greats like Ohtani, via opposite methods). Sharpest version: each culture
+**defines greatness differently**, so there is NO single "strongest" -- the US archmage-worship
+is a US *bias*, not a universal truth.
+
+**Built-in vehicle (already on the page):** the **World Tournament League** (Ch6 -- Archie signed
+to go pro) is the ready-made arena to stage national styles clashing, like international sport.
+Archie is the POV door into it.
+
+**Axes of contrast (mix-and-match per country):**
+1. ACCESS -- who may be a mage? aristocratic bloodline (US) / meritocratic mass-selection /
+   state-assigned / guild / spiritual calling.
+2. TRAINING -- individual talent-worship / collective drilling / ascetic-spiritual / systematic-
+   technological.
+3. TECHNIQUE -- words of power (US) vs movement/kata vs instruments/tools vs silent vs
+   combined/formation casting; raw power vs precision vs speed.
+4. WHAT'S PRIZED -- the superstar / the flawless system / harmony / innovation / depth.
+5. RELATION TO THE TABOO -- how each polices or embraces light(n/a, throne-only)/dark/blood.
+
+**Seed schools (examples, keep open):**
+- **USA (canon):** the *superstar power game.* Bloodline-hoarded, institutional (colleges),
+  worships the singular prodigy/archmage; big raw mana pools, explosive/flashy, brute force;
+  magic as inherited property/status. Blind spot: hoarding wastes the wider population (barred
+  women, "weird" suppressed help) -- talent left in the ground.
+- **BREADTH vs DEPTH school (a specialist culture):** prizes going impossibly DEEP in ONE element
+  over the archmage's breadth. Produces single-element *masters* who can beat a four-element
+  archmage inside their domain. Directly challenges the US premise that archmage = strongest.
+  (Great Will-relevant tension: jack-of-four vs master-of-one.)
+- **The precision/craft school (Japan-analog):** magic as discipline -- endless drilling, forms,
+  mana-ECONOMY; same fireball for a fraction of the cost via perfect control. Beats a bigger mage
+  through efficiency, not size. US = biggest pool wins; here = best control wins.
+- **China (seeded rival: "vying for supreme power," "don't know what else they have"):** the
+  *collective/state doctrine.* Not bloodline -- state-cultivated at SCALE; formation/combined
+  casting where many channel as one, a coordinated ocean that dwarfs any lone archmage. The
+  individual is nothing, the array everything. Threatens the US bet-on-one-genius model head-on.
+- **Old-world / guild school (Europe-analog):** oldest tradition, blurrier taboo lines, mercantile
+  guilds-for-hire (the "guilds and companies" recruiting Gertrude). Candidate home for the
+  **surviving old dark-order** (never purged its dark magusers) -- ties to the larger-force B/C.
+
+**Craft caution:** national styles must be magical *philosophies with internal logic*, each with
+its own genuine greatness (per author's Ohtani point) -- NOT ethnic caricature. The differences
+should be about doctrine (how they think about power), not stereotype.
