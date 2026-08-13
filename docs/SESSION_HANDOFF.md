@@ -3,6 +3,13 @@
 *Prepared 2026-08-13. Writing partnership with Alec (pen name **Jack Moon**). Point a new session
 at this file to get fully caught up without re-doing today's work.*
 
+> **HOW TO USE THIS DOC:** it's a **summary / index** for fast orientation — fine to summarize
+> from. But when Alec asks anything in **detail**, do NOT answer from this summary — **re-read the
+> verbatim source**: the ledgers/trackers listed below are the source of truth, and the prose
+> snapshots under `manuscripts/` hold the actual manuscript text (or ask Alec for a fresh export
+> before close work — his Google Docs/Reedsy is the live source of truth). Summary for speed;
+> verbatim for depth.
+
 ## ⭐ THE ONE LIVE PRIORITY
 **Finish the first draft of *The Champ*.** NO new planning on any other project until it's done —
 this is Alec's firm call. His real roadblock (self-diagnosed) is that he **hasn't finished anything
@@ -53,6 +60,10 @@ unless he asks.
 - `docs/future-ideas.md` — vault: No More Heroes, Black Market Therapist, El Dorado, **College Football**
 - `docs/self-pub-playbook.md` — editors, costs, marketing, comps
 - `docs/PROJECT_CONTEXT.md` — older canonical catch-up doc
+- `manuscripts/the-champ_snapshot_2026-08-13.txt` — **verbatim prose** of *The Champ* as of this
+  handoff (point-in-time snapshot; Alec's Google Docs/Reedsy is the LIVE source — ask for the
+  latest export before close-reading pages)
+- `manuscripts/untitled-fantasy_snapshot_2026-08-13.txt` — verbatim prose of the fantasy opener (DEFERRED)
 
 ## Deferred / parked (captured — do NOT develop until *The Champ* is done)
 - Fantasy trilogy (~1.5-yr pipeline) · College football (next-month idea) · No More Heroes / Black
