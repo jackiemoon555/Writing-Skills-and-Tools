@@ -70,3 +70,18 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
     session. Reviewed in-session for grammar + structure (POV slip, timeline
     anchor, a few typos flagged). Note: a "Chapter 14" heading exists but is still
     empty.
+
+## 2026-08-13 — MAJOR RESTRUCTURE (not just new pages)
+- **Prose-only count: 11,618 words** (MD5 `b265ef7a44ae861557a42cf029859b50`, verified genuinely new).
+- Net delta from the 10,500 snapshot is only ~+1,100 words, but that **understates the work** — this
+  is a full structural rewrite: the rock-bottom middle (Ch8–13) reworked into a fractured/dissociative
+  motif-braid (fights + DUI arrest + parents' door + Bruce's call bleeding together), plus **new
+  rematch chapters (Ch21–22)** including the Rodriguez-rematch WIN shown from John & Nicole's POV as
+  their relationship implodes. Ends mid-Ch20 press-conference (Vlad taunt) with Ch21–22 marked
+  "Potential Chapter."
+- Craft notes logged to review: the dissociative structure works but timeline clarity is the #1 risk
+  (Vlad loss / 1st Rodriguez loss out of order / 2-yr void / rematch); Ch22 has first-person POV slips
+  in a 3rd-person section; motif rename (Knock→Rap, Thud→Crack) still pending; mechanics cleanup-later.
+- **"I'm still here"** identified as the thematic spine / possible title (Dad Ch15 + Liz Ch17), echoing
+  the John Wall touchstone in fuel.md.
+- **Baseline re-anchored to 11,618** for next session.
