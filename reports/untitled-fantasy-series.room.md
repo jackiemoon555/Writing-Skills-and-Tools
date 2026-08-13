@@ -183,3 +183,46 @@ bad"). End chapters where the pressure is highest; let consequences hurt across 
 version; THEN (2) one structural pass asking per scene "what does Will *decide* here?" — every
 "nothing" is the revision list, in order. Prose fixes are passes; the passive protagonist is the
 only item that can sink the series.
+
+---
+
+## 8. Canon / author intent (locked 2026-08-13)
+
+**Power system (settles the D5 confusion at the RULE level):**
+- Four elements. **Most people can use only ONE** (the body can't hold more). **Rare** individuals
+  use more than one. **Archmages** master **all four** — that's what the dean is (~why archmages
+  are near-mythic).
+- Will is on the archmage track (native fire+earth, being taught the rest) — which is why Wright
+  took him. **NOTE (execution, not rule):** the *rule* is now clear, but the TEXT still
+  contradicts itself — Will recites "predetermined at birth," then conjures water as a third
+  element and narrates "it's a wonder I was capable of two." Revision fix: have Will *register*
+  that he's the anomaly, not violate his own stated rule without noticing.
+- **Archmage astral tier (soft magic, intentional):** mastery of all four unlocks **astral
+  magic** that "flirts with the fabric of reality" — teleportation (impossible for anyone else)
+  + more, deliberately **left open** for plot flexibility for now. Author's conscious CHOICE.
+  *Tradeoff to keep an eye on later:* an open-ended top tier is flexible but is where
+  deus-ex-machina risk lives; the discipline is establishing *limits/costs* before using it to
+  solve a problem. Not a now-problem — flagged, not fixed.
+
+**Theme (spine):** Will **resisting his family's plans and his lineage**. Charles's goal is to
+**use Will as a weapon to seize the throne.** ("Hell wrapped in gold" is the felt version of this.)
+
+**Planned ending — Book 1 (structural target):**
+- Charles sees Will distancing himself, so he **moves early** instead of waiting.
+- He uses **the same illegal drug Lloyd (the War Hound) used** — and **overdoses / goes
+  overboard.** Whether it kills him is **UNDECIDED.**
+- **The dean + Will abandon society → the resistance begins.** (Series launch = Will finally
+  *choosing* — the active turn the whole draft is building toward. Directly answers Risk #1: the
+  passivity is the setup; the ending is the payoff. Worth making sure Will's agency *starts
+  climbing* before the very end, not only at it.)
+
+**Reconciles D4 (Lloyd-murder silence):** intentional. **The world DOES know** about the
+rooftop battle — it's what **explains Charles's absence** (he's managing the fallout). **Will
+just doesn't know yet.** *Execution note:* the current line — "No notifications on my phone,
+which was a good sign" — reads as *nothing happened*, not as *Will is being kept in the dark.*
+Revision fix: make his ignorance feel like **managed suppression** (he's being handled), and let
+the world's reaction land off-page via Charles's absence. Plot-sound; the text just needs to
+signal the difference.
+
+**Standing instruction:** leave typos for a later dedicated pass (same room methodology) — do
+not line-edit yet.
