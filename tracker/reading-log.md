@@ -1,0 +1,92 @@
+# Reading Log — books actually FINISHED (self-reported 2026-08-13)
+
+Everything Jack (Alec) has **finished** in ~1.5 years (does NOT count DNFs). His own framing:
+*"the accumulation of all these books in a short time frame were my classes."* Correct — this is
+his self-designed education, and it's a seminar in **commercial storytelling**, not the literary
+canon. Separate from the Kindle library (which includes unread/to-read titles + Claude-read
+research books). This log = ground truth for the influence map.
+
+## Romance / Romantasy (a dominant personal-taste cluster — he loved it, slightly sheepish)
+- **Off-Campus series, all 5 — Elle Kennedy** ("liked more than I care to admit — loved actually")
+- The Graham Effect #1 — Elle Kennedy
+- Misfit — Elle Kennedy
+- Corrupt — Penelope Douglas (dark romance)
+- Sugar Daddies — Jade West (erotic/dark romance)
+- Burn for Me — Ilona Andrews (paranormal romance)
+- Zodiac Academy #1–6 — Caroline Peckham & Susanne Valenti (romantasy / bully-romance academy)
+- Ice Planet Barbarians #1 — Ruby Dixon (sci-fi romance)
+
+## Horror (skews EXTREME / transgressive / splatter)
+- Full Brutal — Kristopher Triana (extreme horror)
+- Our Dead Girlfriend — Jon Athan
+- The President's Son — Jon Athan
+- Raperzoid — Max Trash (bizarro/splatter)
+- Clown in a Cornfield — Adam Cesare (slasher)
+- Seven Rabbits — Timothy King
+- (also When She Weeps — Jon Athan, per Kindle library)
+
+## Thriller / Domestic Suspense (twist-driven, hook-driven)
+- The Housemaid — Freida McFadden
+- The Boyfriend — Freida McFadden
+- The Teacher — Freida McFadden
+- First Lie Wins — Ashley Elston
+- Listen for the Lie — Amy Tintera
+- Through the Eyes of Desperation (red & black versions, two different authors)
+
+## Fantasy / Sci-fi / LitRPG / Progression (his trilogy's home genre)
+- **Red Rising #1–2 — Pierce Brown** (reading #3 now) ← most confirmed recent fiction touchstone
+- The Dresden Files #1–3 (Storm Front / Fool Moon / Grave Peril) — Jim Butcher (urban fantasy)
+- Dungeon Crawler Carl, all books — Matt Dinniman (LitRPG)
+- The Extinction Cycle #1–3 — Nicholas Sansbury Smith (post-apoc/military SF)
+- Convergence #1 — Craig Alanson (SF)
+- Stormlight Archive spinoffs — Dawnshard (+ Edgedancer) — Brandon Sanderson
+- Morningwood #1 — Neven Iliev (comedic LitRPG)
+- The Black Witch — Laurie Forest (YA fantasy)
+
+## Sports & narrative nonfiction (skews SCANDAL / CORRUPTION — note the pattern)
+- Blood Sport — A-Rod & steroids (Elfrink & Garcia-Roberts)
+- Game of Shadows — Bonds & BALCO (Fainaru-Wada & Williams)
+- League of Denial — NFL concussion cover-up (Fainaru-Wada & Fainaru)
+- Boys Will Be Boys — 90s Cowboys — Jeff Pearlman
+- Showtime — Lakers — Jeff Pearlman
+- Lucky Me — Rich Paul (sports-agent memoir)
+- The Fort Bragg Cartel — Seth Harp (investigative)
+- Moneyball — Michael Lewis (DNF ~65%, "got boring")
+
+---
+
+## Rebuilt influence map (from REAL finished-reading data)
+
+**Corrections to earlier (library-based) assumptions:**
+- **James Islington — UNREAD.** Retract "Will of the Many is your closest cousin." It's a to-read.
+- **Abercrombie (Blade Itself) — in progress, not finished.** Aspirational, not yet an influence.
+- **Dostoevsky / literary canon — owned but NOT in the finished list.** The literary end is
+  still to-read, not consumed. Don't credit him with literary influences he hasn't read yet.
+- **Sanderson (mainline) & GRRM (all 5 ASOIAF)** — read EARLIER (outside this 18-mo window; only
+  Sanderson novellas appear here). Real but not recent.
+
+**What the real data shows:**
+1. **Recent confirmed fiction touchstone = Pierce Brown / Red Rising.** Everything else recent is
+   genre-diverse commercial fiction.
+2. **He's a broad commercial-genre omnivore** with three heavy personal-taste lanes:
+   **romance/romantasy, extreme horror, and domestic thriller.** NOT primarily an epic-fantasy
+   literary reader — that frame was wrong.
+3. **His theme is confirmed by his NONFICTION.** The sports books he chooses are all
+   *winning-at-any-cost / cheating / institutional rot* (A-Rod, Bonds/BALCO, concussion cover-up,
+   dynasty dysfunction). His "winning lets you be your worst self" thesis is literally what he
+   reads for pleasure in real life. Fiction themes + nonfiction diet = one obsession.
+4. **His favorite authors ARE his business plan.** Elle Kennedy, Freida McFadden, Matt Dinniman,
+   Jon Athan — all indie/self-pub-to-massive success stories. He's been reading the careers he
+   wants to build.
+
+**Actionable takeaways:**
+- **Romance fluency is a real, underrated asset** — feeds *Forgotten* (relationship/erotic arc) and
+  *The Champ*'s romance threads. He should own it, not be sheepish; romance is the biggest, most
+  loyal market in fiction.
+- **Comfort with transgression** (extreme horror) means he won't flinch from the ugly places his
+  themes need (abuse, moral rot, violence). Asset for the prosecutorial/dark direction.
+- **Thriller fluency** feeds his structural instincts (hooks, reveals, dramatic-irony interludes).
+- **Honest gap (matches both manuscript reviews):** the finished diet is ~all commercial genre;
+  **literary depth / prose stylists / interior irony is the to-read growth area** — Ishiguro,
+  O'Connor, and actually *finishing* Dostoevsky and Abercrombie. His commercial engine is strong;
+  literary depth is the edge still to build.
