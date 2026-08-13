@@ -301,3 +301,57 @@ not line-edit yet.
 *Thematic read: every stratum of this society is juiced on illicit or dangerous power — heirs on
 blood magic, the father-gen on a monster-drug, throne on angel-pacts, the enemy on demon-pacts.
 The whole world is chasing power it shouldn't have. That IS the throne-hunger theme, systematized.*
+
+**Canon REVISION — light isolated; dark=black merged (2026-08-13). Supersedes the Light and
+Dark rows in the taxonomy table above:**
+- **LIGHT MAGIC = the throne.** Only the **sitting king** can use it — no one else in the world,
+  ever. It is **bound to the throne of the five families** (comes with the office, not a
+  bloodline, not a contract). *(This REPLACES the earlier "contract an angel" cost — light is NOT
+  a contract; scratch the angel entirely unless reintroduced elsewhere.)*
+  - **Power: suppress + neutralize all other magic.** ALREADY SEEDED and now load-bearing —
+    Ch6's "**Bands of light** like restraints appeared around my dad's wrists," + "any more use of
+    magic and I will have you removed." That's the mechanic on the page.
+  - **Worldbuilding payoff:** this is *why one elected king holds five monster-families in check*
+    — he can switch any of them off. It also raises the throne's stakes to the max: winning the
+    crown = gaining the one power that trumps every other. It sharpens **why Charles needs an
+    archmage weapon** (can all-four/astral overcome the king's suppression? = a central Book-1/
+    series tension to pin).
+  - **Correction to earlier note:** George Kennedy does NOT use light (I'd inferred it from the
+    white suit) — only his brother the King does. George is just light-*coded* aesthetically.
+- **DARK MAGIC = black magic (one thing).** Keep the single name **"dark magic"** as the direct
+  contrast to light. Cost unchanged: **contract a demon, lose your natural elements.**
+  - *Text reconciliation:* Interlude 2's "how much longer before you **graduate to black
+    magic**?" now implies a tier that no longer exists — reread it as *deepening within* dark
+    magic (getting closer to the demon), or adjust the line.
+
+**BRAINSTORM — dark magic as the vector for a "larger force" (author-requested):**
+Seeds already on the page to build from (Interlude 2): dark magic is **rare and hunted** —
+"Only a few people possessed dark magic, and of those only one was still alive"; "you yourself
+killed two of the last three dark magic users." So the families (via assets like Lloyd) **nearly
+exterminated** dark magusers. The masked figure is one of the last — AND he knows everyone's
+secrets, plays every side (kills royal mages, targets the Sinclairs, knows Stephen's plan). He
+already reads as an **agent of something bigger**, not a lone villain. Three directions for what
+that bigger thing is:
+- **A) Cosmic/demonic.** Every dark contract is a foothold; the "larger force" is a demonic
+  power gaining purchase in the world one soul at a time. The masked man is its herald;
+  "graduating"/"married to a demon" = becoming its vessel. Cleanest escalation to series-scale
+  cosmic stakes.
+- **B) The displaced old order (thematically richest).** Before the five families ruled "since
+  colonial times," someone else did — dark magusers the families **purged and wrote out of
+  history**. Survivors/heirs are the larger force, wielding the one power left to the outcast.
+  This mirrors the families' own sin back at them (their rule was built on a genocide, now
+  clawing back) and ties to the century of **royal-mage killings + Jonathan Sinclair's 1914
+  assassination** — the force has been moving for 100+ years. Makes dark magic **the power of the
+  dispossessed** — everyone the families stepped on — i.e., an *ideological* enemy, not just a
+  monster. Mirrors Will (a spirit-dispossessed heir).
+- **C) Hybrid (most flexible).** The old order struck the demon pacts to survive the purge — now
+  they're both a political resistance AND a cosmic infection. Combines B's ideological engine with
+  A's rising cosmic dread.
+- **Why "pushing the families AND their enemies" fits:** a buried old-order/demonic force is
+  aligned with no current faction — it destabilizes the families, the archmage cabal, and foreign
+  powers (China) alike. A **third pole** that plays everyone. Consistent with the masked man
+  already antagonizing all sides.
+- **Opus lean:** **B or C** — because the antagonist becomes a *mirror of the families' own
+  methods* (rule founded on extermination, returning as demon-bargained revenge), which rhymes
+  with Will's arc and the throne-hunger theme. **A** is the pick if you want straight
+  cosmic-horror escalation without the political-history weight.
