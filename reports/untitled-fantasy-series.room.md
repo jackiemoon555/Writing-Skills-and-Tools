@@ -481,3 +481,32 @@ imperialism.** Grounds the endgame (a critique of power-concentration, not carto
 "hell wrapped in gold," the suppressed "help," barred women, hoarded magic) -- so going global is
 just **scaling the same machine outward.** The domestic rot and the imperial ambition are one
 system at two sizes.
+
+**OPEN DECISION (deferred) -- does Charles die at the end of Book 1? (2026-08-13)**
+Author flagged this as the one unresolved build issue. Options he listed: (1) lives -> goes
+deeper into the dark; (2) lives -> rescales the plan in a new country; (3) switch antagonists;
+(4) reveal he was a PAWN of the larger order all along (seeded in Lloyd's interlude).
+- **Opus read: #4 is the keystone that resolves the rest.** Already PLANTED -- Charles's own
+  creed (Ch2): "Everybody is a tool for your success." The ultimate user revealed as the used.
+  The masked man already knows Charles's whole plan/drug/Stephen-deadline = he sits above Charles.
+  Deepen it: the order may have ENGINEERED the Sinclairs' century of grievance (Jonathan's 1914
+  assassination, "barred from regency") to manufacture a desperate Sinclair who'd breed an
+  archmage and crack the light-throne open for the dark. Charles didn't build the plan; he was
+  born into one.
+- With the pawn-reveal, dead-or-alive becomes TACTICAL:
+  - **DEAD (Opus lean):** the order discards him once he's served his purpose; the overdose = him
+    being spent. Promotes the larger dark order to the trilogy's true antagonist; answers
+    "what's next" cleanly (dark order + imperial turn = Books 2-3).
+  - **ALIVE:** survives broken + discarded, goes deeper into the dark (opt 1) to reclaim
+    relevance -- sadder/lesser villain, keeps the father-son knot, risks spent-force repetition.
+- Thematic tie either way: Charles's hubris isn't just cruelty -- it's that the man who saw
+  everyone as an instrument never suspected he was one. NOT decided; revisit when the project
+  activates.
+
+**PIPELINE UPDATE (2026-08-13):** author is moving this project **LATER** -- wants more writing
+reps first. This is his most ambitious/complex idea (light/dark moral cosmology + engineered
+archmage bloodline + century-long con + national-styles geopolitics + trilogy). Sequence now:
+*The Champ* (active) -> *Forgotten* -> ... -> this fantasy trilogy (after more reps). Rationale:
+dense interlocking machinery is unforgiving; every Book-1 seed must pay off two books later, so
+attempt it once the payoff-landing craft is proven on simpler books. Ledger stands ready to
+resume.
