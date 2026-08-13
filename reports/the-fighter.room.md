@@ -482,3 +482,24 @@ fraud they refuse to see in themselves.**
   Chuck in 45s). Under the no-villains stance he deserves real depth -- BUT give him a DIFFERENT
   flavor of humanity than Vlad's (Vlad = mask-drop-when-beaten; Rodriguez should humanize his own
   way, so the two Act III opponents don't resolve identically). Revision/fill-later task.
+
+---
+
+## Ch21–22 new material — the "antagonists'-POV climax" (reviewed 2026-08-13)
+The climax is split, and the split is the strength: **Ch21 = Chuck's healed walkout from the
+INSIDE** (deliberate mirror of Ch8's numb/terrified walkout — "I embraced each and every one" of
+his demons); **Ch22 = the rematch WIN from the OUTSIDE**, through John & Nicole as their
+relationship implodes. Interiority for the growth, exteriority for the payoff. Chuck's rise = John's
+fall, simultaneously (John inherits the drinking/ego spiral: "Another one somehow ended up in his
+hand"). Thesis-as-structure; also pre-loads the eventual Chuck–John showdown. KEEP IT.
+
+**REVISION ITEMS:**
+1. **CRITICAL — first-person POV slips in Ch22** ("She didn't even look at *me*"; "Before *me*
+   brutality unfolded"). These break the whole device (the power is being OUT of Chuck's head).
+   Hunt & kill every first-person pronoun in the John/Nicole sections.
+2. **Filter the fight through their wounds, not neutral fight-mechanics.** Currently described with
+   a technical/announcer's eye ("slipped in and out of the pocket"); should land on John's and
+   Nicole's guts — Nicole watching "not good enough" become champion; John watching his rival prove
+   he was never the better man.
+3. **POV discipline:** currently head-hops John↔Nicole. Decide — anchor primarily to JOHN (his
+   fall), Nicole observed from outside; or commit to controlled omniscient.
