@@ -471,3 +471,14 @@ fraud they refuse to see in themselves.**
 - Revision task: this is now a CONSCIOUS theme -- develop the fraud-accusations deliberately as a
   through-line (who accuses whom, who ever turns it on themselves), and let the mask-drops (Vlad;
   Chuck's own) be the payoff of looking in the mirror.
+
+---
+
+## Owed / placeholder (noted 2026-08-13)
+
+- **Placeholder between Ch20 and Ch21** -- author marked a spot in the draft; pushing forward,
+  fill later.
+- **Rodriguez needs characterization.** Currently flat ("stone cold killer," shaved head, starched
+  Chuck in 45s). Under the no-villains stance he deserves real depth -- BUT give him a DIFFERENT
+  flavor of humanity than Vlad's (Vlad = mask-drop-when-beaten; Rodriguez should humanize his own
+  way, so the two Act III opponents don't resolve identically). Revision/fill-later task.
