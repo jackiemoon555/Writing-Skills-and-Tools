@@ -244,3 +244,31 @@ not line-edit yet.
   Will (firstborn son AND archmage) is the jackpot. Retroactively purposes the whole sprawling
   sibling cast (the bastards, the rivalry) and sharpens *why Will specifically* is the weapon.
   Consider whether Will (or the reader) learns this breeding purpose — it's a gut-punch beat.
+
+**Canon addendum — the second magic axis + the "bred for it" reveal (2026-08-13):**
+- **Will learns he was engineered — eventually.** Already **partially alluded to** the night he
+  first meets Lloyd (the Ch7 father's-office scene: "they feared the power I hold... the council
+  decided that my children would not be allowed to be powerful... but it was all part of the
+  plan," + "he had the most kids"). Seed is planted; the full gut-punch lands later.
+- **Second magic axis beyond the four elements: LIGHT and DARK** (aka black magic / blood magic —
+  **author undecided** whether dark/black/blood are one thing or distinct; leaving open).
+  - **First shown in Interlude 2** (the masked figure's **shadow/dark** magic: "black tendrils of
+    shadow," "Dark magic. Only a few people possessed dark magic").
+  - **The current king (John Kennedy) and his brother (George Kennedy) use LIGHT magic.**
+    ALREADY SEEDED: the king's "**Bands of light** like restraints appeared around my dad's
+    wrists" (Ch6); George = white suit, platinum hair, light-coded.
+- **THE COST (hard rule, unlike the open astral tier):** to access light/dark you **sign a
+  contract with an angel (light) or demon (dark)** and **lose access to your natural elements.**
+  Faustian trade: give up what you were born with for something other.
+- **Textual hints to keep consistent:** the masked figure is "making deals with demons" / is
+  "married to" a demon, and Lloyd taunts "how much longer before you **graduate** to black
+  magic?" — implies **dark → black is a progression/tiering** (entry vs. deeper). Reconcile when
+  you decide dark/black/blood.
+- **Two supernatural paths now fork thematically:** ARCHMAGE = master all four elements, *keep*
+  them, unlock astral. LIGHT/DARK = *trade away* your elements for a contract. Mastery vs. the
+  bargain.
+  - **Juicy open tension (flag, not fix):** a contract COSTS your elements — so for **Will (the
+    born archmage), taking a contract = destroying the very thing he is.** That makes the
+    dark-path a live *temptation* with a uniquely steep price for him specifically. Also: does an
+    all-elements archmage even interact with astral vs. a no-elements light/dark user as a
+    power-balance question? Worth pinning before Book 1's climax uses either.
