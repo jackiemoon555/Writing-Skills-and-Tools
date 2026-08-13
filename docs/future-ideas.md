@@ -113,3 +113,23 @@ actually finds El Dorado -- and can keep its secrets OR publish for fame and wea
 He consistently chooses bittersweet/costly/non-triumphant endings: The Champ (draw, not a win),
 Forgotten (redemptive-for-him, tragic-for-the-relationship), No More Heroes (Bebop-melancholy).
 This is a defining authorial trait -- part of the "flawed people, honest reckonings" brand.
+
+**Villain identity (2026-08-13): the MC's former FRIEND + the strongest hero's OTHER protege --
+"his greatest failure."**
+- One mentor, TWO proteges, two paths: MC = last real hero; villain = the monster. His recurring
+  bond (Chuck+Johnny) at max. AND it's literally Spike vs. Vicious (former brothers) -- so the
+  villain-as-former-friend makes the Bebop-finale reference thematically airtight (the tower climb
+  = ascend to confront your brother).
+- "Greatest failure" reframes the mentor into TRAGEDY: his own failed protege assassinated him
+  (live TV) and genocided the heroes -- his creation destroyed the world. Feeds the hollow-hero
+  thread. (Did the mentor know? Cover it up? Is guilt why he kept defending the unregistered MC?)
+- **The Jack-Moon move -- make the MC COMPLICIT:** if MC was the FAVORED protege (defended, loved)
+  while the other was the neglected "failure," then MC's GUILT is the engine of the final fight --
+  he's fighting the friend he helped break by being the favorite. Hero complicit in the villain's
+  making = mask/fraud/complicity DNA. Turns "climb the tower" into "climb through his own guilt."
+- **Wire the clap to the wound (kills the campy risk):** he claps because NO ONE ever clapped for
+  HIM -- always performing for approval he never got (while MC got it). Now he's his own audience,
+  forcing the world to watch his show, self-applause weaponized into power. The clap = the
+  applause he was denied. Power tied to psychology (like the Thump/Flash motifs).
+- Echo-note: villain-as-former-brother is a classic (Bebop et al.) -- differentiate via
+  registry-as-kill-list + clap-as-denied-applause + MC's complicity.
