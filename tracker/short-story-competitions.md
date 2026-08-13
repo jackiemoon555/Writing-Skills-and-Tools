@@ -7,6 +7,34 @@ muscles (interior irony, the atonement/"cheap grace" theme). Additive to — not
 *The Champ* and the daily word floor; a flash piece (500–3,000 words) is a small lift at Jack's
 pace and doubles as a warm-up.
 
+## ⭐ FLAGSHIP PRIORITY — NYC Midnight (enter EVERY challenge)
+
+**Standing rule (set 2026-08-13):** NYC Midnight is the **non-negotiable core** — Jack wants to be
+in *every* challenge they run, going forward, above all other short-story activity. The Reedsy
+weekly grind (below) is the *additive practice between* NYC Midnight challenges, not a substitute.
+
+- **Master calendar (source of truth):** https://www.nycmidnight.com/calendar — **verify exact
+  registration deadlines + entry caps here.** Spots are LIMITED and registration closes before
+  each challenge starts. Do not rely on the table below alone; confirm on the calendar.
+- **Money-saver:** $10 off entry for a social-media post.
+- **Budget:** ~$30–85 per challenge across rounds — a real line item; fold into the project budget.
+
+**Still open in 2026 → early 2027 (jump on these — VERIFY dates on the calendar):**
+
+| Challenge | Format | Competition begins | Register by | Fee |
+| --- | --- | --- | --- | --- |
+| **Rhyming Story 2026** | rhyming story | Sep 15, 2026 | **Sep 15** (early-bird was Aug 13) | $42 early / $49 |
+| **Scary Story 2026** ⭐genre-fit | ≤400-word scary story, 48 hrs | Oct 16, 2026 (R2 Dec 11–13; Final Feb 12–14, 2027) | before Oct 16 | see calendar |
+| **250-word Challenge 2026** | ≤250 words, 48 hrs | Dec 4, 2026 | before Dec 4 | see calendar |
+| **Short Story Challenge 2027** | short story, multi-round | Jan 22, 2027 | before Jan 22 | see calendar |
+| **Flash Fiction Challenge 2027** | ≤1,000 words, 48 hrs | ~May 2027 (annual) | TBA | see calendar |
+
+**Already passed in 2026 (catch these in 2027):** Flash Fiction (May), 100-word Microfiction
+(Mar–Jun), 500-word (May–Sep), Two-Story (Jul). Note them for the 2027 calendar so none get missed.
+
+**Genre note:** the **Scary Story Challenge (Oct 16)** is the best immediate fit — Jack reads/likes
+horror (Wytches, *When She Weeps*), and a 400-word horror piece in 48 hrs is right in his wheelhouse.
+
 ## The vetted competitions (legit; no fee-farming)
 
 | Competition | Cadence | Length | Fee | Prize | Notes / link |
