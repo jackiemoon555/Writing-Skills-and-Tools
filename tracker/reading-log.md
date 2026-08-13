@@ -90,3 +90,32 @@ research books). This log = ground truth for the influence map.
   **literary depth / prose stylists / interior irony is the to-read growth area** — Ishiguro,
   O'Connor, and actually *finishing* Dostoevsky and Abercrombie. His commercial engine is strong;
   literary depth is the edge still to build.
+
+---
+
+## Non-book influences — GAMES & film (added 2026-08-13; a MAJOR vector)
+
+His fantasy/sci-fi DNA comes largely through **games**, not recent reading (deliberate: read for
+"insight and perspective," get genre through interactive media). The games are strikingly
+on-theme — his taste selects the same obsession across every medium:
+- **Cyberpunk 2077 (current GOAT):** bittersweet/costly endings (= his "never a clean win" ending
+  signature), corporate-imperial power-rot (= families-as-hegemon), fame/masks/self-destruction
+  (Johnny Silverhand), mortality-as-cost (V dying throughout). "Hell wrapped in neon" ≈ his "hell
+  wrapped in gold."
+- **Fallout: New Vegas:** THE morally-grey-faction game — NCR/Legion/House/Yes Man each with a
+  real argument = his "no true villains, everyone has reasons" ethos, plus imperialism &
+  who-should-rule.
+- **Divinity: Original Sin 2:** ascension/divinity/who-deserves-power + a rigorous Source magic
+  system = his archmage/astral "gift awarded the chosen" + hard-magic instinct.
+- **League of Legends (since 2009 launch):** Runeterra's regions = distinct national/cultural/
+  magical philosophies (Noxus imperial, Demacia order/anti-magic, Ionia spiritual, Piltover/Zaun
+  class-split) = the **direct ancestor of his "national schools of magic" idea.** Arcane (if seen)
+  = two sisters, class war, cost of power, no villains, bittersweet — his themes exactly.
+
+**Why this matters:** (1) His worldbuilding, systems, moral-choice structure, and atmosphere
+instincts are richly fed (books + these games) — explains why those are his strengths. (2) Games
+feed theme/world/mood but NOT prose/sentence-craft — which is exactly why prose-line-depth remains
+his growth gap (consistent across all inputs). (3) Game influence is inherently MORE digested than
+book influence (you can't copy a game's prose — only re-express its world/mood in your own words),
+so it comes through as theme/structure, not derivative sentences — a healthier kind of influence
+re: his "influences come off strong" worry.
