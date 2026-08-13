@@ -133,3 +133,16 @@ This is a defining authorial trait -- part of the "flawed people, honest reckoni
   applause he was denied. Power tied to psychology (like the Thump/Flash motifs).
 - Echo-note: villain-as-former-brother is a classic (Bebop et al.) -- differentiate via
   registry-as-kill-list + clap-as-denied-applause + MC's complicity.
+
+**Civil War differentiation (2026-08-13):**
+- Real parallels (readers will notice): (1) mandatory superhuman registration law; (2) unregistered
+  = outlaw/fugitive hunted by the state (MC = the anti-reg fugitive); (3) a live-TV catastrophe as
+  inciting event (loose; comic's Stamford). The REGISTRATION world reads Civil-War-adjacent.
+- BUT the story is fundamentally different: Civil War = hero-vs-hero ideological schism, heroes
+  survive. No More Heroes = a VILLAIN genocides the heroes, told in the AFTERMATH, lone survivor,
+  registry weaponized as a KILL LIST, personal mentor/friend war, Bebop ending. Different engine.
+- Reframe: registration-as-worldbuilding is a genre TRADITION, not Civil-War-specific (X-Men Mutant
+  Registration Act -- actually the closer match; Watchmen Keene Act; Incredibles super-ban).
+- Do about it: (1) foreground the genocide/aftermath/kill-list/personal so registration is backdrop
+  not the point; (2) DON'T stage Civil War's iconic beats (two hero camps, "whose side," the
+  ideological hero-vs-hero brawl) -- the survivor-in-the-ashes framing naturally avoids them.
