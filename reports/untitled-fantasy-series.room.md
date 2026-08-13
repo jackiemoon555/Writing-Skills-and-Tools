@@ -130,6 +130,56 @@ personal pattern worth a dedicated find-pass in revision, not one-off fixes.
 - **The masked dark-mage's identity** is withheld from the reader but known to Lloyd — good;
   just make sure the eventual reveal is clued fairly (planted, not sprung).
 
-## 7. Reconciliation log
+## 7. Reconciliation log — Opus × Fable (independent full reads)
 
-- (pending) Fable independent full read — merge findings, note agreements/disputes here.
+**Strong convergence (trust these):**
+- **PASSIVE PROTAGONIST = #1 risk in BOTH reads, independently.** Fable's sharper framing:
+  the narration has a *"tic of declining the plot"* — "not my problem," "I didn't question it
+  much," "leaving it be was the best course of action." The prose literally keeps refusing the
+  story. Fix target: one concrete, self-chosen goal for Will by ~Ch3.
+- Archie's contradictory description (D#1 both). Element-count contradiction (both — Fable adds:
+  it's spoken **by the narrator himself** right after he recited "predetermined at birth").
+  Exposition-dump/talking-heads (both). Description formula (both). Name soup / four Johns (both).
+  1664≠1666, tense drift, "apart of," "wearily→warily," "bear→beard" (both).
+
+**Fable caught what Opus missed (add to the fix list):**
+- **NEW — the text corruption is ONE mechanical event, not scattered typos.** The
+  comma-spliced-inside-a-word + orphaned-fragment pattern ("Y, es", "Fr, ed", "N, ow", "said,d",
+  "heads,s", "on board, rd", "B, ah m, an disregard your loyalty" ← unrecoverable) is
+  concentrated in Ch4–7 + Interlude 1 and looks like a bad global find-replace or a
+  dictation/autocorrect pass gone wrong. **ACTION: diff this file against an earlier draft and
+  RECOVER the text BEFORE line-editing — some intended sentences may exist only in a prior
+  version.** This reframes half the "typo list" as one recoverable event.
+- **NEW — the world doesn't react to Lloyd's murder (logic hole).** A building-shaking,
+  wall-of-water, sirens-blaring battle leaving a corpse "impaled on spikes of shadows" atop the
+  family HQ — and next day Will: "No notifications on my phone, which was a good sign." Disproof
+  fails: Charles said plans were "expedited," so the one man affected would be calling his heir.
+  One line of cover-up/suppression closes it.
+- **NEW — Ch4 and Ch5 run the IDENTICAL beat twice.** "Tell me what you know of magic?" (Wright)
+  and "tell me everything you know about magic" (Green) — two teachers, two near-verbatim
+  recitations a week apart. Cut or differentiate one.
+- **NEW — Kennedy family adds a name error:** "Ken and I have agreed" (Ch7) names Emily's father
+  **Ken**, but the Kennedy head is **George**. (Compounds Opus's Samuel/Erick/Helen tangle.)
+- **NEW — narration-vs-dialogue register war:** the narrator who says "fucking barbarians" also
+  writes "exuding confidence and demanding respect." Fix = raise the *narration* to match the
+  voice, NOT sand the voice down.
+- **NEW — real-world name resonance:** "John Kennedy" (head of state) + "George Kennedy" will
+  pull US readers out; if intentional, nothing on the page owns it.
+
+**Opus caught what Fable missed (keep):** Usher's lone young member is "Henry" (Ch3) vs
+"Sebastian" the heir (Ch6); Elise "moved out last year" vs constant campus presence.
+
+**Where BOTH push back on workshop reflex (agreements):**
+- **Keep the interludes.** Early omniscient cutaways get reflexively flagged, but here they're
+  the only working suspense engine. Both reads: this is the book's strongest asset, do not cut.
+- Profanity is genre-appropriate (progression-fantasy / web-serial register), not a defect.
+
+**Fable's added structural note (R3, Opus concurs):** tension is built and then defused inside
+the same chapter — "drifted to sleep," "let's go get something to eat," the **betrothal**
+detonating in a subordinate clause then narrated back to baseline ("College so far hadn't been
+bad"). End chapters where the pressure is highest; let consequences hurt across breaks.
+
+**Single agreed next step:** (1) recover/repair the corrupted text via a diff against an earlier
+version; THEN (2) one structural pass asking per scene "what does Will *decide* here?" — every
+"nothing" is the revision list, in order. Prose fixes are passes; the passive protagonist is the
+only item that can sink the series.
