@@ -226,3 +226,21 @@ signal the difference.
 
 **Standing instruction:** leave typos for a later dedicated pass (same room methodology) — do
 not line-edit yet.
+
+**Canon addendum — Will is the engineered archmage (2026-08-13):**
+- Will **is the next archmage.** Charles **engineered him** by fathering many children until an
+  archmage was born — a deliberate **breeding program for power.**
+- **THE SIGN:** an archmage-to-be is born already wielding **two** native elements. Will's fire +
+  earth **came to him** — he never had to learn them. That two-native status IS the marker; the
+  remaining two (water, air) he *unlocks* through training toward full archmage.
+- **This fully resolves D5 (was "contradiction," now "clarified"):** elements ARE predetermined
+  at birth (most = one; archmage-born = two), so Will's recited rule and his "wonder that I was
+  capable of two" are actually *correct* — two native is the rare tell. Only text tweak left:
+  distinguish his **native** pair (fire/earth, unbidden) from the **learned/unlocked** ones
+  (water in Ch5, air later), and let Will grasp that being born with two = the archmage sign.
+- **Theme payoff — loads earlier detail with menace:** Ch1/Ch7's "he had the most kids out of
+  all the family heads" + "he wasn't strong enough to win the throne" now read as a **eugenic
+  gamble** — Charles rolled the reproductive dice for generations to manufacture a weapon, and
+  Will (firstborn son AND archmage) is the jackpot. Retroactively purposes the whole sprawling
+  sibling cast (the bastards, the rivalry) and sharpens *why Will specifically* is the weapon.
+  Consider whether Will (or the reader) learns this breeding purpose — it's a gut-punch beat.
