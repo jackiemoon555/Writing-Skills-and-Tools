@@ -429,3 +429,39 @@ Archie is the POV door into it.
 **Craft caution:** national styles must be magical *philosophies with internal logic*, each with
 its own genuine greatness (per author's Ohtani point) -- NOT ethnic caricature. The differences
 should be about doctrine (how they think about power), not stereotype.
+
+**Canon CORRECTION + core lock (2026-08-13).**
+- **RETRACT the "breadth vs depth / archmage isn't the pinnacle" idea** from the national-schools
+  note above -- it violated a core pillar. **Archmages ARE the universal pinnacle**, everywhere,
+  full stop. Not a US bias.
+- **Reconciliation that KEEPS national flavor without touching the pillar:** national "schools"
+  differ in the ranks *below* archmage (how each culture trains/defines greatness among ordinary
+  and elite mages). The **archmage tier sits ABOVE nations** -- the shared summit every culture
+  recognizes. National style is the 99%; the archmage is the apex that transcends style.
+- **ASTRAL magic = "the gift awarded the chosen."** The world's archmages **together guard the
+  secret of astral** -- implies a **transnational order/fraternity of archmages** above national
+  loyalties, keeping the apex secret. Astral is **bestowed/awarded** (not merely earned by
+  mastering four elements) -- chosen by whom/what = open mystery, deliberately. (Refines earlier
+  "unlock astral by mastering all four": mastery is the gate; the gift is granted.)
+
+**Canon -- Stephen (Dean) + the stakes:**
+- **Stephen sees the truth of the world he's in.** He can sense **"someone moving behind the
+  shadows"** -- i.e., he's partially aware of the LARGER DARK FORCE (Directions B/C). He doesn't
+  know its full extent, but he knows it's there.
+- **Stephen knows Will is KEY** -- not just an archmage-in-training, but the **first archmage
+  from the five families in a century.** That specific fact is the crux.
+- **The doomsday if Charles "turns" Will:** an archmage under the corrupted families -> the
+  families **unify the United States** and **turn toward world domination.** THIS is why Stephen's
+  2-year deadline (Interlude 1) exists, and it's the on-ramp to the international/trilogy layer:
+  world domination -> other nations -> books 2-3.
+
+**Canon -- the villain's tragic engine (this is the spine of Charles):**
+- **Charles's biggest downfall is his own HUBRIS.** His entire plan depends on Will's
+  cooperation -- and his cruelty as a **father is exactly what pushes Will away.** He is
+  **sabotaging his own masterpiece**, blind to it because of his arrogance. Self-authored
+  downfall. Rhymes hard with the cross-project theme ("winning/power lets you be your worst
+  self"): the man's rot is the mechanism of his defeat.
+- **Story consequence:** Will's arc (resisting, distancing) IS the instrument of Charles's ruin.
+  The reader should watch Charles *manufacture his own enemy* -- every cruel scene is him losing
+  the one thing he needs. Make sure at least one early beat shows Charles COULD have had Will's
+  loyalty and threw it away. That near-miss is what makes it tragedy, not just comeuppance.
