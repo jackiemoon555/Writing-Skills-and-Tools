@@ -138,3 +138,24 @@ went to the EXTREMES first on principle: *"I always like to see the ceilings fir
   material needs register-control (his own rule: keep certain material non-explicit). Both need the
   quiet ceiling more than the loud one. He's already intuited the dial matters (register-firewall
   rule) — now study how the masters run it.
+
+## Per-cluster parallels to his ACTUAL writing (added 2026-08-13) — "each cluster feeds an organ"
+- **Dungeon Crawler Carl (Matt Dinniman)** — his stated favorite; the KEY voice/tone parallel
+  (likely > Abercrombie, whom he's only half-read). DCC = crude/profane deadpan narrator over real
+  brutality + genuine emotional gut-punches; comedy+horror+heart welded; earnest heart under the
+  crude = HIS differentiator exactly. Will's "what fucking barbarians" IS a Carl sentence. Also a
+  dystopian entertainment-spectacle (audience/ratings) = cousin of his fame/masks + "No More
+  Heroes" power-as-spectacle.
+- **Romance (Elle Kennedy et al.)** → his EARNESTNESS (romance is unashamed of sincere feeling =
+  why he's warm where the cold ironists aren't) + bro-banter/found-brotherhood (Will/Archie/Johnny).
+- **Thrillers (McFadden ×3, Elston, Tintera)** → his REVEAL/dramatic-irony structure (interludes,
+  hidden villain, pawn-reveal, Vlad mask-drop).
+- **Extreme horror (Athan ×3, Triana)** → his NERVE (sits in abuse/trauma/ugliness without
+  flinching: Nicole, Lloyd's death, Forgotten material).
+- **Dresden Files (Butcher)** → snarky first-person mage + hidden supernatural war = Will's voice +
+  the buried-conspiracy plot.
+
+**Synthesis:** voice = DCC + Dresden · structure = thrillers · heart = romance · nerve = extreme
+horror · theme = sports-corruption nonfiction + games. None are prose stylists → the literary
+sentence is the one organ his inputs don't feed (consistent gap). This list built a STORYTELLER;
+stylists would build the WRITER on top.
