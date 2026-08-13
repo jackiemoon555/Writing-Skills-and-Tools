@@ -119,3 +119,22 @@ his growth gap (consistent across all inputs). (3) Game influence is inherently 
 book influence (you can't copy a game's prose — only re-express its world/mood in your own words),
 so it comes through as theme/structure, not derivative sentences — a healthier kind of influence
 re: his "influences come off strong" worry.
+
+## Craft-research METHOD (added 2026-08-13) — "see the ceilings first"
+The extreme-horror and dark-romance clusters were **deliberate craft study**, not just taste:
+Jack specifically sought out how writers handle **violence** (extreme horror: Athan, Triana,
+splatter) and **sex** (dark/explicit romance: West, Douglas) — the two hardest scene types — and
+went to the EXTREMES first on principle: *"I always like to see the ceilings first if I can."*
+- **Why it's smart:** mapping the maximal edge of a skill gives the full coordinate system to
+  calibrate everything else within. Same autodidact move he uses everywhere (find the sharpest
+  version, then place yourself relative to it).
+- **The completing note (Opus):** the ceiling of EXPLICITNESS ≠ the ceiling of EFFECT. Splatter/
+  explicit shows maximum *intensity* and where the edge is — but the deepest craft in both violence
+  and sex is CONTROL: restraint, implication, the cut-away, the aftermath, the telling detail
+  (McCarthy makes one sentence of violence hit harder than ten pages of gore; the charged sex scene
+  is often the implied one). Next study target = the **restraint masters** (the "quiet ceiling").
+- **Serves his projects directly:** *Forgotten*'s "sex as a progress-meter" is a CALIBRATION
+  device (intensity must modulate to track the arc), not a max-heat device; and *The Champ*'s abuse
+  material needs register-control (his own rule: keep certain material non-explicit). Both need the
+  quiet ceiling more than the loud one. He's already intuited the dial matters (register-firewall
+  rule) — now study how the masters run it.
