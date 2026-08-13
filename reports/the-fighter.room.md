@@ -503,3 +503,13 @@ hand"). Thesis-as-structure; also pre-loads the eventual Chuck–John showdown. 
    he was never the better man.
 3. **POV discipline:** currently head-hops John↔Nicole. Decide — anchor primarily to JOHN (his
    fall), Nicole observed from outside; or commit to controlled omniscient.
+
+## KEY BEAT caught 2026-08-13 — Chuck sheds "The Chosen"
+At the Rodriguez rematch (Ch21), Bruce announces him as just **"Chucky Miles, fighting out of
+Kingsville, Texas"** — dropping the **"The Chosen"** he carried the entire book ("Chucky 'The
+Chosen' Miles"). The manufactured Miami ego-persona — the "fraud" Vlad names at the presser, the
+"fortress built on lies" (Ch15) — is DEAD; the authentic man (his father's son, his roots) is who
+walks out. Identity shed via the ring announcement alone: pure show-don't-tell. This is a top beat
+of the draft. Build on it — the eventual John (Keller) showdown can be the real "Chucky Miles" vs.
+the persona-trap John fell into. Ties to the fraud/mask theme + the two-beginnings motif
+(Miami/"Chosen" vs. Texas/dad = the real Chucky).
