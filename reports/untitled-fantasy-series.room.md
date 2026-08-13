@@ -272,3 +272,32 @@ not line-edit yet.
     dark-path a live *temptation* with a uniquely steep price for him specifically. Also: does an
     all-elements archmage even interact with astral vs. a no-elements light/dark user as a
     power-balance question? Worth pinning before Book 1's climax uses either.
+
+**Canon addendum — blood magic + consolidated magic taxonomy (2026-08-13):**
+- **BLOOD MAGIC is its own category** (separate from light/dark). **Cost = blood.** It is a
+  **taboo, outlawed by society.**
+- **Who's using it:** **Will and his cohort of heirs** are **dabbling** in it — **the cohort
+  more than Will.** Meanwhile **Charles is focused on the illegal magic DRUG** (the one Lloyd
+  injected in Interlude 2 — Charles manufactures it; "I know where it comes from Lloyd").
+- **AGENCY NOTE (ties to Risk #1):** Will *dabbling in outlawed magic* is exactly the kind of
+  **self-chosen, transgressive want** both reviews said he lacks. Even if "cohort more so,"
+  consider pulling Will's blood-magic curiosity *forward/onto the page* as an active thread — it
+  gives the passive early chapters a spine that's his own choice, not something done to him.
+- **OPEN QUESTION (flag, not fix):** is Charles's monster-drug a *synthesized form of blood
+  magic*, or a separate forbidden tech? Linking them would tie the father's project to the
+  cohort's dabbling into one web; keeping them separate keeps more threads. Your call.
+- **NOT yet on the page:** blood-magic dabbling isn't in the current 13k extract — forward canon.
+
+**CONSOLIDATED MAGIC MAP (reference):**
+| Path | Source / cost | Who (so far) | On page yet? |
+|---|---|---|---|
+| **Four elements** | born with it; most = 1 | everyone | yes |
+| **Archmage / astral** | master all 4 (born with 2 = the sign); flirts w/ reality (teleport) | Dean Wright; Will (becoming); Lloyd used all 4 but never mastered | yes |
+| **Light magic** | contract an **angel**; **lose your elements** | King John Kennedy + bro George | seeded ("bands of light," Ch6) |
+| **Dark → black magic** | contract a **demon**; **lose your elements**; dark→black = progression | the masked killer | yes (Interlude 2) |
+| **Blood magic** | cost = **blood**; **taboo/outlawed** | Will + heir cohort (cohort more) | not yet |
+| **The illegal drug** | manufactured (by **Charles**); 10x mana, monster-transformation, drains fast | Lloyd (Interlude 2) | yes |
+
+*Thematic read: every stratum of this society is juiced on illicit or dangerous power — heirs on
+blood magic, the father-gen on a monster-drug, throne on angel-pacts, the enemy on demon-pacts.
+The whole world is chasing power it shouldn't have. That IS the throne-hunger theme, systematized.*
