@@ -10,7 +10,9 @@ pace and doubles as a warm-up.
 ## ⭐ FLAGSHIP PRIORITY — NYC Midnight (enter EVERY challenge)
 
 **Standing rule (set 2026-08-13):** NYC Midnight is the **non-negotiable core** — Jack wants to be
-in *every* challenge they run, going forward, above all other short-story activity. The Reedsy
+in *every* challenge they run, going forward, above all other short-story activity — **except pure
+poetry/rhyming formats** (e.g. the Rhyming Story Challenge), which aren't his register (prose only).
+The Reedsy
 weekly grind (below) is the *additive practice between* NYC Midnight challenges, not a substitute.
 
 - **Master calendar (source of truth):** https://www.nycmidnight.com/calendar — **verify exact
@@ -23,8 +25,8 @@ weekly grind (below) is the *additive practice between* NYC Midnight challenges,
 
 | Challenge | Format | Competition begins | Register by | Fee |
 | --- | --- | --- | --- | --- |
-| **Rhyming Story 2026** | rhyming story | Sep 15, 2026 | **Sep 15** (early-bird was Aug 13) | $42 early / $49 |
-| **Scary Story 2026** ⭐genre-fit | ≤400-word scary story, 48 hrs | Oct 16, 2026 (R2 Dec 11–13; Final Feb 12–14, 2027) | before Oct 16 | see calendar |
+| ~~Rhyming Story 2026~~ | rhyming story | Sep 15, 2026 | **SKIP** — not his format (dislikes rhyming/poetry, decided 2026-08-13) | — |
+| **Scary Story 2026** ⭐**FIRST TARGET** | ≤400-word scary story, 48 hrs | Oct 16, 2026 (R2 Dec 11–13; Final Feb 12–14, 2027) | **before Oct 16** | see calendar |
 | **250-word Challenge 2026** | ≤250 words, 48 hrs | Dec 4, 2026 | before Dec 4 | see calendar |
 | **Short Story Challenge 2027** | short story, multi-round | Jan 22, 2027 | before Jan 22 | see calendar |
 | **Flash Fiction Challenge 2027** | ≤1,000 words, 48 hrs | ~May 2027 (annual) | TBA | see calendar |
