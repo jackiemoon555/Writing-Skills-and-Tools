@@ -64,6 +64,14 @@ subject.** Tied to Future's *rise in popularity* itself:
 - **Catalog tie:** this essay is a nonfiction proof-of-concept of the exact thesis driving *The
   Champ* and *Forgotten*. Same obsession (men who won't face themselves; success as the anesthetic),
   different door. The blog and the novels share one spine — reinforces the one-author brand.
+- **ROOT (the universal engine, author 2026-08-14):** it's extremely hard for humans to come to
+  terms with their flaws. Future is just the spotlit instance; the not-hearing is the everyday human
+  default. This is what makes the piece land beyond rap fans — it's about everyone.
+- **Recursion / the trap to name:** the essay is itself a mirror. Readers will be tempted to do to
+  it exactly what the fans do to the music — admire the craft, decide it's about Future or "that
+  generation," and dodge the self-recognition. Naming that inside the piece ("you'll want to make
+  this about someone else") closes the escape hatch. Advanced move, but consistent with the
+  self-implicating "empowered me" opener.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
   situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
   including the author. The essay's own opening ("degenerate subject matter empowered me") = the
