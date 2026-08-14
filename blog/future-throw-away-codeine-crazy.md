@@ -31,7 +31,8 @@ has been" — accountability stays on Future. BUT the music reads as a cry for h
 amazing beat selection — and **whether or not it's heard is lost upon the listener** (surface reads
 as obliviousness — the cry never registers *as* a cry — but see the societal layer below: underneath
 the obliviousness is a self-protective refusal). The production is the mask; the crowd dances to a
-man drowning. Link to OutKast's "Hey Ya!" — Andre 3000: *"Y'all don't want to hear me, you just
+man drowning. *(REFINED 2026-08-14 — see CAPSTONE near the end: most people CAN see it; the failure
+is in what they do with the seeing, not perception. Let the capstone supersede "obliviousness.")* Link to OutKast's "Hey Ya!" — Andre 3000: *"Y'all don't want to hear me, you just
 want to dance."* (Verify exact lyric against official source before publishing.)
 - **Two layers of not-hearing (structural rhyme):** Future refuses to hear *himself* (won't
   address) / the audience is *unable* to hear *him* (the beat makes the pain inaudible). Nobody in
@@ -165,6 +166,26 @@ draft ("creating the cycle of hurt," Throw Away section) — this makes it expli
   that makes "create more Monsters" land on the READER too — each of us breeds and feeds our own.
   Universalizes the closer through the ROOT (everyone has a flaw they won't face). The humility isn't
   just honesty; it's what makes the essay reach off the page and grab the reader.
+
+**CAPSTONE — author's worldview (2026-08-14). REFINES the earlier "obliviousness / can't hear" note.**
+- **Future's popularity IS the proof:** "we're all dancing to Future or he wouldn't be so popular."
+  The scale of the fame = the scale of the collective complicity.
+- **Anti-elevation, sharpened:** seeing the bigger picture doesn't make him special — and in fact
+  **most people CAN see it too.** (This SUPERSEDES the earlier "the cry is inaudible / lost on the
+  listener" framing — it's not mainly a perception failure.)
+- **The split is in what people DO with the seeing, not whether they see:** some **can't handle it**
+  → look away/suppress; others **just don't care** → indifference; and everyone **entertains the
+  contradiction to maintain sanity** — you can't live at that volume all the time or you break, so
+  you dance while knowing.
+- **Deepest layer — the contradiction as survival.** Holding "I see the truth AND I keep feeding it"
+  isn't only hypocrisy-as-failure; it's the human condition — the denial that lets us function.
+  Loops back to the ROOT (facing flaws is unbearable), the no-villains ethos (people aren't deaf or
+  dumb — they're surviving knowing), and the author's own spot (he sees it and dances too). Makes the
+  essay MORE humane: not "wake up, sheep," but "we all hold this to stay sane, me included."
+- **CRAFT DECISION (author's call):** this and the earlier "audience can't hear it / obliviousness"
+  beat can't both be the thesis. Recommend THIS one wins — "we all hear it and dance anyway" keeps
+  the author level, whereas "they can't hear what I hear" secretly flatters him (the exact elevation
+  he's rejecting). Let the capstone supersede the obliviousness framing.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
   situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
   including the author. The essay's own opening ("degenerate subject matter empowered me") = the
