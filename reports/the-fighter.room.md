@@ -620,6 +620,17 @@ Keller into Johnny Law the way success remade him. Pull that thread → Rob does
 drowns others = "create more Monsters" inside the novel + feeds John's parallel fall. (WIP backup
 saved: `manuscripts/the-champ_interlude3-rob_wip_2026-08-14.txt`.)
 
+**INTENTIONAL AMBIGUITY (author, 2026-08-14) — "his new wife left him" is a DEVICE, not an error.**
+Do NOT "fix" it in revision. Whether she's leaving the scene or is just "one of many bodies," Rob
+barely notices / doesn't care — the ambiguity RENDERS his emptiness: the present isn't real to him;
+only the lost love (the one he pushed away) is vivid. **Deeper: Rob is in DENIAL.** The denial lives
+in the gap between his framing — "the one that got away" (passive; absolves him) — and what the scene
+SHOWS: "At what cost Robert?… Fuck you Robert. She left that day" (he DROVE her out; culpable). The
+reader sees the truth Rob won't = dramatic irony serving the thesis (acknowledges the loss, won't
+accept his own hand in it — the same acknowledge-but-won't-address failure). Craft lever if he wants
+it sharper later: widen the felt distance between "got away" and "pushed away" (both already on the
+page). SUPERSEDES the earlier note that listed this as a clarity/cleanup item.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
@@ -634,5 +645,6 @@ hunt & kill every first-person pronoun in non-Chuck sections.)
 - **Interlude 3 items for the cleanup pass (all PARKED):** "at hit"→at it; "edition"→addition;
   "boring ole,"→old; "reached for decanter"→the decanter; double period after "Robert Franklin III";
   "the who started all this"→the one who; "the one that who held him up"→who held; laid→lay
-  (recurring); the "she screamed at me / I deflected" first-person POV slip (F-POV); "his new wife
-  left him" ambiguity (room vs. for good). None of these are to be surfaced mid-draft.
+  (recurring); the "she screamed at me / I deflected" first-person POV slip (F-POV). None to be
+  surfaced mid-draft. **NOTE: the "his new wife left him" ambiguity is NOT on this list — it's an
+  INTENTIONAL device (Rob's emptiness/denial), see the Interlude 3 review above; do not "fix" it.**
