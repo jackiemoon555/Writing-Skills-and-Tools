@@ -789,6 +789,53 @@ The climax's emotional/thematic payoff:
   catch-John / walk away from the belt / Nicole accepted). Final frame = a wedding + a hand pulling a
   fallen man up: union and rescue, not a belt. Architecture done; the rest is execution.
 
+## The John fight — the FINAL BEAT + corniness guardrail (author, 2026-08-14)
+Plan: Chuck/John = a DRAW; John finally FALLS APART in Chuck's arms mid-octagon; Chuck's internal
+monologue = "this feels right"; then either (A) end there, or (B) Chuck leaves his belt + gloves in
+the middle of the ring.
+- **Shape is RIGHT** (draw + the catch + walking away = the earned climax). Preserve the bones.
+- **HONEST FLAG — as described it's the SENTIMENTAL version; trips 3 tripwires already named** (ledger
+  corniness rule: "no mid-fight speeches / smiles through blood / embrace at the bell"): (1) the
+  embrace at the bell (John in his arms); (2) the STATED "this feels right"; (3) the symbolic belt-drop
+  (Big Gesture). No-clean-wins signature demands the RESTRAINED version. Enemy at the climax =
+  sentimentality, not weakness.
+- **EARN IT via restraint / underwriting:**
+  - **Catch = RAW, not soft.** John a wreck (snot/blood), maybe fights it, maybe Chuck doesn't know how
+    to hold him. Ugly-and-real wrecks a reader; tender-and-clean makes them check out.
+  - **"Feels right" = DON'T state it.** Use the existing tool — the Thump motif's ABSENCE ("my heart
+    didn't thump today" = peace). Signal rightness via the heartbeat going quiet / one physical detail.
+    Stated = voiceover; shown = devastating.
+  - **Belt/gloves:** (a) **CUT here → let the EPILOGUE reveal the retirement** (preserves the planned
+    reveal, dodges the Big Gesture, ends on the human note) — CLAUDE'S LEAN; or (b) KEEP but strip the
+    ceremony (unstrap, set down, walk; no crowd shot/slow-mo; trades the epilogue reveal for an in-scene
+    one).
+- **A vs B — Claude rec: end the SCENE on JOHN, not on Chuck's gesture.** Ending on the OTHER man (not
+  the protagonist's symbolic statement) is the restraint that lands hardest AND keeps the retirement as
+  the epilogue's quiet reveal. The belt-in-the-ring feels powerful while writing but reads as staged.
+- **Principle:** the beat is so earned you can afford to UNDERplay it — underplaying is what makes
+  readers cry instead of cringe.
+
+## Epilogue POV — author considering an OUTSIDE viewpoint (not main cast; "someone like Carl"), 2026-08-14
+- **Strong instinct, BACKED by the book's own logic:** Ch22 already used "exteriority for the payoff"
+  (the rematch shown from John/Nicole's POV) — an outside-POV epilogue EXTENDS an established
+  technique, not a new gamble.
+- **It solves the epilogue's biggest risk by design:** an observer can only report what they SEE →
+  structurally FORCES show-don't-tell (can't narrate "Chuck found his calling"; can only show the hand
+  on a kid's shoulder). The POV choice is the corniness fix.
+- **Carl as the pick — good, for the reason to name: his crude/unsentimental voice is a CORNINESS
+  SHIELD.** The most sentimental scene in the book, filtered through the one guy who'd never say
+  anything corny and tears up anyway = readers feel it without cringing. Plus Carl MISSED the fall
+  (Thailand) → sees the changed Chuck FRESH, mirroring what the reader needs to feel (how far he came).
+  Fits the wedding setting (Chuck's brother). A total stranger = arbitrary; a mentee-kid = wants the
+  gym, not the wedding.
+- **Conscious tradeoff:** ending the whole book OUTSIDE Chuck's head = goodbye to his first-person
+  voice for good at the very end. Can be gorgeous (we finally see the healed man as the world sees him
+  — the real self, seen) but it's a deliberate exit from the intimacy the book ran on. Make sure that's
+  the last note wanted.
+- **Alt (thematically richest, changes the setting):** POV of someone Chuck is MENTORING — the good
+  cycle propagating, the next generation's voice, the anti-Monster. Wants the gym, not Nicole's
+  wedding. Carl fits the current plan; a mentee would move the setting.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
