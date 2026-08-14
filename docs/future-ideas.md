@@ -204,3 +204,16 @@ CHILDREN, which raises the tragedy above *The Champ*'s adult stakes.
 
 **STATUS: VAULT ONLY.** No development until *The Champ* first draft is done. This is the LAST
 planning item — planning is closed until then.
+
+---
+
+## BLOG / NON-BOOK WRITING (vault; post-draft — added 2026-08-14)
+
+**The idea:** a home (blog / outlet) for the writing that ISN'T a book or novella — **analysis and
+opinion pieces** and other shorter non-fiction. A separate lane from the fiction catalog.
+
+**STATUS: PARKED — start AFTER the first draft of *The Champ* is done.** Author's explicit call
+(2026-08-14): capture now, develop later. To flesh out when unparked: what topics/lanes (his
+obsessions already point at sports-corruption / cost of winning / toxic masculinity — analysis
+in the same vein as the nonfiction he reads), what platform, cadence, and whether it runs under the
+**Jack Moon** name or a separate byline.
