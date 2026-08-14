@@ -28,9 +28,13 @@ doing nothing.*
 
 **Framing device (author, 2026-08-14): the Andre 3000 conundrum.** "He's the problem, he always
 has been" — accountability stays on Future. BUT the music reads as a cry for help hidden behind
-amazing beat selection. The production is the mask; the crowd dances to a man drowning. Link to
-OutKast's "Hey Ya!" — Andre 3000: *"Y'all don't want to hear me, you just want to dance."* (Verify
-exact lyric against official source before publishing.)
+amazing beat selection — and **whether or not it's heard is lost upon the listener** (not refusal,
+obliviousness: the cry never registers *as* a cry). The production is the mask; the crowd dances to
+a man drowning. Link to OutKast's "Hey Ya!" — Andre 3000: *"Y'all don't want to hear me, you just
+want to dance."* (Verify exact lyric against official source before publishing.)
+- **Two layers of not-hearing (structural rhyme):** Future refuses to hear *himself* (won't
+  address) / the audience is *unable* to hear *him* (the beat makes the pain inaudible). Nobody in
+  the whole transaction does the work.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
   situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
   including the author. The essay's own opening ("degenerate subject matter empowered me") = the
