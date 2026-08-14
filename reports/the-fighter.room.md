@@ -575,3 +575,32 @@ Vlad interim); Grove/Banks name bug resolved diegetically (Carl misremembers →
 - **Warm-stretch watch:** post-Rodriguez, everything comes up roses (girl, brother, belt shot).
   Thesis is *winning re-licenses the worst self*, not *winning heals*. Shadow IS planted ("more
   fame, more drinks, more lines," Ch25) — keep it alive so this reads as calm-before-the-cost.
+
+## Forward plan — coming chapters (author, 2026-08-14)
+- **Add a more serious THREAT to Chuck's progress** (two fights left: Vlad interim → John
+  superfight). Directly fixes the standing structural flaw (Fable #1: Chuck is a passenger; comeback
+  granted not chosen; Act III = frictionless W/W/D; addiction evaporates with no on-page fight).
+  **Craft steer: the most on-thesis threat is INTERNAL** — success/fame clawing back the worst self,
+  the relapse temptation as he rises (the owed temptation/craving scene lives HERE, where sobriety is
+  tested AND chosen) — not just a scarier opponent. Pair with external stakes (Vlad; the young champ).
+- **Johnny as parallel (rise/fall mirror), converging at the superfight; the planned ending ties it
+  together.** KEEP — thesis-as-structure (Chuck rises / John inherits the spiral). Both reviews'
+  favorite instinct.
+- **Reopen the family MMA gym; accumulate returning people (past friends, coaches, opponents).**
+  "Chuck can be the person he always needed. Fix the system, don't let it continue to break." BIG
+  payoff on three fronts: (1) **gives Chuck AGENCY** — fixes the passenger problem: he BUILDS and
+  PROTECTS something, not just rebuilds himself; a man with a want + something to lose; (2) pays off
+  **who-stayed + no-villains** (opponents/coaches reconciling under one roof); (3) it's the
+  **ANTIDOTE to the cycle of hurt** — the fiction's answer to the Future essay's "create more
+  Monsters." Chuck BREAKS the cycle instead of feeding it (The Champ = the healed version; the Future
+  essay = the unhealed — the dark-mirror pairing, deliberate).
+  - **Watch-out A — keep the EDGE.** If everyone returns and reconciles into one warm room, it's a
+    bow — and the signature is NO CLEAN WINS (the draw). The reopening must coexist with real cost:
+    John still falls, maybe someone does NOT come back, the win still isn't clean. Warmth with a
+    wound.
+  - **Watch-out B — CURATE, don't flood.** A ~30–38k novella can't absorb a parade of faces. Each
+    returning person needs a REASON + a SEED (avoid pre-solved cameos, cf. Carl). Mind the word
+    budget. Reconciling *opponents* only works for ones already faced (Vlad is still ahead).
+- **Lisa interlude: author will draft it SEPARATELY to test fit** — right approach; hold it against
+  the interlude bar (shows what Chuck can't? earns the 5th slot?) before folding in. No ceiling
+  commitment until it earns it.
