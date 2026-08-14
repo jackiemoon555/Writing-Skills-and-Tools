@@ -883,6 +883,48 @@ Solves the tidiness risk by adding WEIGHT and DEPTH, not by smoothing:
   interlude earned her interiority). (3) The permission conversation likely lands hardest as a quiet
   beat AFTER the John fight, when Chuck's already at peace.
 
+### Vlad's mask-drop — the backstage apology (author, 2026-08-14; author asked "is it too much?")
+Consistent with the decided Vlad plan (cartoon-villain → mask drops when Chuck beats him, interim
+fight). Author's specifics: after the win, Vlad meets Chuck backstage — big hug, tears — and
+apologizes for NOT recognizing the signs / reaching out, having chosen to continue his prolific
+career at a new weight class.
+- **VERDICT: the idea isn't too much; the execution as staged IS.**
+- **KEEP (the on-thesis core):** the apology isn't "sorry I was mean" — it's "I saw you drowning and
+  chose my career over reaching out." Makes Vlad a MIRROR of Chuck (another man who let success cost
+  him the people around him) — the book's whole argument landing on the last guy you'd expect. Protect
+  this.
+- **WHY IT'S "TOO MUCH" AS DRESSED:** (1) corniness tripwire — big hug + tears played straight = the
+  embrace-at-the-bell in another room (against the corniness rule); (2) WHIPLASH — pure cartoon →
+  sobbing sincerity in one beat, unearned; SEED his humanity first (the Ch6 "his own battles" hint +
+  a flicker or two) so it reads "there all along," not a transplant at the buzzer; (3) SATURATION —
+  now the 3rd/4th tearful-hug reconciliation (John catch, Vlad, Carl, the wedding); stacked, they
+  rhyme and flatten each other.
+- **FIX (keep the beat, kill the "too much"): SEED it + UNDERPLAY it + DIFFERENTIATE its texture from
+  the John hug.** Dry it out — Vlad can't fully drop the showman even while apologizing (cartoon
+  flickering under real regret = truer/funnier/sadder), or strip to one quiet true line ("I should
+  have called you"), no big embrace. The showman shrunk to human size hits harder than waterworks.
+- **DISTINCT FLAVOR:** everyone in the book is a version of "success made me fail the people I love" —
+  give Vlad HIS: he's the one who WON and it WORKED (kept climbing, new weight). So his regret is the
+  quiet, functional guilt of the successful man who's fine and still didn't throw the rope — a
+  different note than Chuck (wreckage) or Rob (rotting). Play THAT, not generic tears.
+- **VLAD = an ISLAM MAKHACHEV / KHABIB parallel (author, 2026-08-14).** Extends the book's real-fighter
+  grounding method (Chuck = Broner-fall / Poirier-redemption). Dominant Russian/Dagestani grappler,
+  prolific, moves UP a weight class (fits "continue his prolific career at a new weight class").
+  - **STRENGTHENS the mask-drop / answers the whiplash worry:** Khabib IS the real-world proof of the
+    device — the booed "villain" (send-me-location, cage-jump heel) who was actually the humble,
+    faith/family-driven man who wept openly and retired 29-0 for his mother. The sincere human under
+    the heel is the TRUE story of the archetype, so for fight-literate readers the tearful apology
+    reads as recognizable truth, not a transplant. (Still seed for general readers.)
+  - **REFRAME (corrects the earlier "McGregor-type showman" note):** Khabib/Islam villainy is COLD,
+    stoic, dominant, menacing — the unstoppable foreign wrecking machine — NOT corny/loud/over-the-top
+    (that's McGregor/Broner). PICK THE LANE: Vlad = cold-dominant, not corny-cartoon. The cold version
+    is stronger AND makes the mask-drop hit harder (granite wall cracking > loudmouth going soft).
+  - **ELEVATED OPPORTUNITY — ties to the Future essay's "we make the Monsters":** Khabib was
+    villainized BY the crowd + promotion (sold PPVs; also a foreign Muslim fighter). If Vlad's villainy
+    is MANUFACTURED, the mask-drop indicts the AUDIENCE that needed him to be a villain — not "he's
+    nice actually" but "look what we projected onto a whole human." Same move as the Future essay
+    (we build the monster). Also the RESPECTFUL framing (villainy on the crowd, not the man's roots).
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
