@@ -739,6 +739,56 @@ The climax's emotional/thematic payoff:
   internal temptation/pressure work) — the pick-up is the DEMONSTRATION of it. And John's failure to
   help during Chuck's fall (Interlude 1) must stay legible so the reversal reads.
 
+## EPILOGUE — Chuck retires; the mentor, not the warrior (author reveal, 2026-08-14)
+- **Chuck RETIRES (revealed in the epilogue).** Holding the INTERIM title, he ABANDONS the quest to be
+  undisputed champion. **Realization (from picking up John): his calling was the MENTOR all along —
+  not the warrior/fighter.**
+- **Completes the TITLE IRONY:** "The Champ" is a man who walks AWAY from being champion — the belt was
+  never the point. Resolves the interim-belt dangle (he never unifies it — deliberately; belts stopped
+  mattering; the ladder's secret argument, delivered).
+- **Thesis capstone:** he denies himself the championship — the very thing that would re-license his
+  worst self. Draw (doesn't beat John) + retirement (doesn't chase the belt) = steps off the wheel
+  before it can corrupt him again. The anti-Future move (Future feeds the Monster; Chuck walks off the
+  treadmill).
+- **DAD PARALLEL (the payoff):** Dad traded his wrestling career to raise/train Chuck; Chuck trades his
+  to mentor John. **Chuck BECOMES his father** — the GOOD cycle (mentorship/love: Dad→Chuck→John)
+  replacing the bad cycle (hurt). The son completing the father's arc.
+- **EXECUTION LEVERS (epilogue = the most execution-sensitive stretch in the book):**
+  - **SHOW, don't STATE.** "He realizes the mentor was his calling all along" is the single most
+    corny-prone line in the book. Epilogue rule (from the reviews): resolve PEOPLE through STATE, never
+    explain the theme. Dramatize the calling (Chuck in the gym, doing what Dad did); never let Chuck
+    narrate "this is who I was meant to be." The image says it; the words kill it.
+  - **Retiring = moving TOWARD (calling/peace), not running FROM (avoidance/fear).** Risk: "abandons
+    his quest" could read as giving up / a bigger avoidance-bubble. Make mentorship the positive pull,
+    not just the safe exit. The draw helps (not retiring in defeat). Peace as strength, not retreat.
+  - **The un-chased belt must read as PEACE, not anticlimax** — retrain the reader across the arc to
+    stop keeping score (they shouldn't want him to chase it either).
+  - **Epilogue owes the OTHER people too** (Lisa, Nicole, Rob, Dad, sobriety) — resolve by the STATE
+    they land in, not by explaining.
+- **SETTING — the epilogue is at NICOLE'S WEDDING (author, 2026-08-14).** Nicole finally meets/marries
+  someone who accepts her AS SHE IS — not the person she so badly wants to be. Pays off the debt the
+  reviews flagged ("epilogue owes Nicole a real answer, not collateral of John's arc") AND answers her
+  interlude's literal closing question ("Did she deserve her happily ever after?") — yes.
+  - **Nicole = the MIRROR of Rob.** Rob DIES inside his mask (never accepted as Robert). Nicole's mask
+    comes OFF (finally accepted as herself). Same wound (the persona built because you think the real
+    you isn't enough), opposite endings. Deliberate rhyme — let the epilogue and the Rob interlude
+    speak to each other.
+  - Completes the cast-wide mask theme 4 ways: Chuck sheds The Chosen · John caught · Rob drowns in the
+    name · Nicole accepted. No-villains all the way down — even Nicole (who left Chuck) gets GRACE, not
+    punishment.
+  - **EXECUTION: show, don't state.** Never "she finally found someone who loved the real her." Show
+    her UNARMORED (the botox performance / aging panic / "bad bitch act" of Interlude 2, gone) and the
+    love in how her partner sees that version. The resolution = the CONTRAST between wedding-Nicole and
+    mirror-Nicole; a stated line flattens it.
+  - **Watch:** (1) don't let the epilogue become a CHECKLIST — it now carries Chuck's retirement + the
+    wedding + owes Lisa/Rob/Dad/sobriety; resolve through a few sharp IMAGES, not a roll-call (the
+    wedding-as-gathering is a smart container for it). (2) POV choice: Chuck AT Nicole's wedding — at
+    peace, no bitterness watching the woman who left him find real love — resolves HIS growth and HERS
+    in one scene.
+- **STATUS: the full book is now mapped spine-to-epilogue and COHERES** — every thread lands (mentor /
+  catch-John / walk away from the belt / Nicole accepted). Final frame = a wedding + a hand pulling a
+  fallen man up: union and rescue, not a belt. Architecture done; the rest is execution.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
