@@ -26,5 +26,19 @@ ever know true love, the cost of true love is too much for him to bear."
 them (own them) → refuses to ADDRESS them (change). Not a man hiding pain — a man narrating it and
 doing nothing.*
 
+**Framing device (author, 2026-08-14): the Andre 3000 conundrum.** "He's the problem, he always
+has been" — accountability stays on Future. BUT the music reads as a cry for help hidden behind
+amazing beat selection. The production is the mask; the crowd dances to a man drowning. Link to
+OutKast's "Hey Ya!" — Andre 3000: *"Y'all don't want to hear me, you just want to dance."* (Verify
+exact lyric against official source before publishing.)
+- Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
+  situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
+  including the author. The essay's own opening ("degenerate subject matter empowered me") = the
+  confession that he was one of the people just dancing. **That is the "changed my opinion" turn:
+  I used to dance to it; now I hear the cry.** Candidate open/close frame for the whole piece.
+- Guardrail: "cry for help" is empathy for the unheard pain, NOT an excuse for the harm. Understood,
+  not exonerated — the accountability ("he's the problem") and the empathy (the drowning) held at
+  once.
+
 *(Codeine Crazy = the proof text for this: the song where he narrates his own drowning in real
 time and reaches for more anyway — self-awareness without surrender.)*
