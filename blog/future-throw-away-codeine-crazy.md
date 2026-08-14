@@ -72,6 +72,27 @@ subject.** Tied to Future's *rise in popularity* itself:
   generation," and dodge the self-recognition. Naming that inside the piece ("you'll want to make
   this about someone else") closes the escape hatch. Advanced move, but consistent with the
   self-implicating "empowered me" opener.
+
+**FINAL THEME (author, 2026-08-14): the cycle of hurt + the false remedy.** Already seeded in the
+draft ("creating the cycle of hurt," Throw Away section) — this makes it explicit.
+- Relationships fail because **people can't accept their truths** (author's phrasing, confirmed —
+  *can't*, inability, not merely *won't*). Instead the culture pushes the false remedy: **"the best
+  way to get over somebody is to get under a lot of somebodies."** Author hates it — it's the
+  distraction sold as a cure.
+- The remedy perpetuates the cycle: more pain, more broken homes, more single parents, further from
+  love — giving in to natural urges to numb overwhelming feelings. *(Guardrail: keep this as the
+  felt, experiential COST — "we" — not a sociological cause-and-effect claim, or it invites
+  "citation needed," same overreach risk as the societal layer.)*
+- Thesis line (keeper): **"you can run from everyone but yourself."**
+- **TEXTUAL PROOF — the scene that exposes the remedy as a lie (Throw Away, 2nd half):** after the
+  party, after the sex, after the drugs, Future is **all alone, wishing for sleep — a brief reprieve
+  from the inner turmoil.** The distraction ends and delivers him right back to himself, more alone.
+  Pair the concrete moment with the abstract line: the emptiness at the end of the night IS "you can
+  run from everyone but yourself." This grounds the claim in the song (answers the "asserted without
+  evidence" flag both reviews raised).
+- **How it nests:** Future's personal throwaway-women defense (individual) → the "get under
+  somebodies" mantra (cultural) → broken homes / further from love (consequence). Same song → man →
+  generation ascent as the rest of the essay, applied to love specifically.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
   situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
   including the author. The essay's own opening ("degenerate subject matter empowered me") = the
