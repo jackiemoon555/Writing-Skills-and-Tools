@@ -925,6 +925,76 @@ career at a new weight class.
     nice actually" but "look what we projected onto a whole human." Same move as the Future essay
     (we build the monster). Also the RESPECTFUL framing (villainy on the crowd, not the man's roots).
 
+### Vlad — REVISED psychology (author, 2026-08-14): the OPPOSITE of Chuck. SUPERSEDES the tearful-apology version.
+- **Vlad is Chuck's FOIL, not his mirror.** Same fork (both felt themselves drowning): Chuck
+  (eventually) ACKNOWLEDGES it and climbs out; **Vlad EMBRACES the drowning** — weaponizes the
+  isolation, **pushes everyone away ON PURPOSE to stay at the top** — and that ruthlessness is what
+  makes him the GOAT.
+- **The DARK counter-thesis.** The book warns "winning lets you be the worst version of yourself";
+  Vlad is the proof that for some, BEING the worst self is HOW you win, and it works. **Vlad = what
+  Chuck would've become if he'd embraced The Chosen instead of being destroyed by it** — the
+  *successful* version of Chuck's disease. So Chuck beating him = the man who chose connection beating
+  the man who chose to win by drowning. The fight means something.
+- **BACKSTAGE = "he RELATES, he doesn't CONSOLE" (author) — REPLACES the hug/tears/apology.** Cold
+  kinship, not consolation: one drowner recognizing another who jumped the other way. Keep it DRY and
+  chilling. Revises the mask-drop for the better: the thing under the cartoon isn't a secretly-sweet
+  guy (the corny risk) — it's something BLEAKER and DELIBERATE, a man who chose the abyss with his
+  eyes open.
+- **Vlad = the ANTI-ROB.** Rob is in DENIAL (won't face what he did). Vlad is total clear-eyed
+  SELF-AWARENESS — chose the dark on purpose, never lied to himself. The most frightening figure in
+  the book: no illusions, no excuses, chose it, won.
+- **CRAFT KEY (keeps it from arguing AGAINST the book): SHOW THE COST.** If Vlad reads as happy/
+  fulfilled/no-downside, he refutes the thesis (worst-self-wins looks great). Make his goat status
+  visibly LONELY — the reason he "relates" to Chuck is that Chuck is the only one left who could
+  understand him (he pushed everyone else away; belts and no one). Then Vlad CONFIRMS the thesis in
+  its darkest key: paid the full human price knowingly. **The loneliness of the goat = what makes him
+  tragic, not aspirational.**
+- **The counter-thesis is HONEST, not a strawman (author: "that's how Khabib & Islam live, two of the
+  greatest ever").** The sacrifice-everything path genuinely produces the greatest ever → Chuck
+  choosing connection over dominance is a real VALUES TRADE (he could've been Vlad-great; chose to be
+  smaller + whole).
+  - **Distinction to DECIDE:** real Khabib/Islam stayed WHOLE because they KEPT their roots (family,
+    faith, team) — connection was their foundation, not their casualty. A Vlad who "pushed everyone
+    away" is the DARKER-than-Khabib version. Choose consciously: ROOTED goat (Khabib-true — admirable,
+    at peace; softer foil) vs. ISOLATED goat (sacrificed the connections the real ones kept; tragic,
+    sharper foil). Can't quite have both.
+
+## Chuck's grounding — JON JONES with accountability (author, 2026-08-14; refines/MMA-natives the Broner note)
+- **Chuck = Jon Jones IF he actually took accountability.** Sharper than Broner AND MMA-native (Broner
+  = boxer; this is an MMA book). The generational, arguably-best-ever talent who keeps torching himself
+  off the cage — the DUI is a literal JONES beat.
+- **The divergence = ACCOUNTABILITY.** Chuck is the redemptive answer to Jon Jones: the self-
+  destructive genius who finally FACES himself. This is the acknowledge → accept → address triad again
+  (the Future-essay spine): Jones never gets past "acknowledge" (if that); Chuck goes all the way to
+  "address." The whole difference between the two = the book's thesis in one real-world contrast.
+- **The real-world CONSTELLATION (a legible axis for fight fans):** Chuck = Jon-Jones-who-owned-it vs.
+  Vlad = Khabib/Islam. The chaotic self-destroyer who faces himself vs. the disciplined machine who
+  sacrificed everything to stay on top. Two roads to greatness, two relationships to the self. (Keeps
+  the earlier Broner-fall / Poirier-redemption genesis poles; Jones is the sharper, sport-native fit.)
+
+## KEYSTONE — Chuck walking away = ACKNOWLEDGING HE DOESN'T WANT TO PAY THE PRICE OF GREATNESS (author, 2026-08-14)
+Unifies Vlad + the retirement + the thesis into ONE decision. The thing the whole back half reaches for.
+- **Reframes the retirement:** NOT "found his calling" (sentiment) or avoidance (fear) — a clear-eyed
+  VALUES CHOICE. Chuck has SEEN the price of greatness (Vlad = the living proof: the lonely goat who
+  paid everything) and REFUSES to pay it. Active, conscious, the least-corny version possible. He's not
+  retreating; he's choosing.
+- **Vlad = the GHOST OF CHRISTMAS FUTURE.** The backstage "relates, doesn't console" moment is Chuck
+  being shown the end of the road — Vlad shows him exactly what's waiting at the summit (alone, hollow,
+  able to relate to no one but the man he beat). Chuck wins the interim belt (the thing that puts him ON
+  that road) and sets it down. **He beats the greatest and refuses to become one.**
+- **Completes the triad a final time:** the price of greatness = becoming your worst, most isolated
+  self (Vlad paid it; Jones-Chuck nearly did). Chuck is the one man who can ACKNOWLEDGE it clearly (the
+  self-awareness Jones never reaches), ACCEPT the cost, and ADDRESS it by walking. See it → own it →
+  act. The walk-away is the whole thesis in one gesture.
+- **CRAFT KEY — WIRE Vlad's price to Chuck's refusal.** The reader must feel Chuck is declining to
+  become THAT specific lonely man. Rhyme the images: Vlad alone backstage (the price) → Chuck quietly
+  leaving the belt behind (the refusal). **DO NOT let Chuck say it** ("I don't want to end up like
+  him") — the IMAGE of Vlad alone is what makes the walk-away legible; stated, it dies. Show the
+  destination, then show Chuck turning around. (Also keeps the retirement SHOW-don't-tell: the mentor
+  life reads as the chosen alternative, not a stated epiphany.)
+- **The book's real claim:** the difference between Chuck and every other man in it isn't that he's
+  better — it's that he LOOKED AT THE PRICE AND SAID NO.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
