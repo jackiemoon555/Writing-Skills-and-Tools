@@ -958,6 +958,22 @@ career at a new weight class.
     away" is the DARKER-than-Khabib version. Choose consciously: ROOTED goat (Khabib-true — admirable,
     at peace; softer foil) vs. ISOLATED goat (sacrificed the connections the real ones kept; tragic,
     sharper foil). Can't quite have both.
+  - **VLAD'S COST, PRECISELY (author refinement): a LIFE UNLIVED — "he's never really spent time
+    outside the octagon."** Not angry isolation — the monastic Khabib/Islam lifestyle (no
+    partying/drinking/drugs, always training, the gym is home, the sport is life). The cost isn't that
+    he's a loner; it's that he was NEVER anything but a fighter.
+    - **NEW FOIL AXIS — too MUCH life vs. too LITTLE:** Chuck's disease = too much life (vices, chaos,
+      the DUI, self-destruction — the Jones pattern); Vlad's cost = too little (nothing but the sport).
+      Opposite relationships to *living itself.*
+    - **Sharpens the KEYSTONE:** the price of greatness = giving up LIFE ITSELF — everything but the
+      sport. Chuck rebuilt a real life (Dad, Lisa, Carl, the gym-as-community, love) = exactly what Vlad
+      never had. Walking away = refusing to trade the life he just built for Vlad's empty summit.
+    - **Rhymes with Chuck's confinement:** Chuck's was TEMPORARY (a bubble to heal/stay sober); Vlad's
+      is PERMANENT (a whole life narrowed to one cage). Vlad = what never leaving the bubble looks like
+      as a lifetime.
+    - **SHOW it:** don't state "he's lonely" — show the octagon is the only place Vlad EXISTS (nowhere
+      to be after the fight, no home but the gym, no one to talk to but the man he just beat), against
+      Chuck who has a whole life waiting outside the arena. The contrast IS the cost.
 
 ## Chuck's grounding — JON JONES with accountability (author, 2026-08-14; refines/MMA-natives the Broner note)
 - **Chuck = Jon Jones IF he actually took accountability.** Sharper than Broner AND MMA-native (Broner
