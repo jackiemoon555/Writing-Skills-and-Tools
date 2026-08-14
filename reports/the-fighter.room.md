@@ -1011,6 +1011,24 @@ Unifies Vlad + the retirement + the thesis into ONE decision. The thing the whol
 - **The book's real claim:** the difference between Chuck and every other man in it isn't that he's
   better — it's that he LOOKED AT THE PRICE AND SAID NO.
 
+## Epilogue — Chuck has a SON (author, 2026-08-14)
+- **Earned, NOT a bow — the VISIBLE PROOF of the keystone.** Vlad has the octagon and nothing; Chuck
+  has a son = the literal LIFE he chose over greatness (the thing Vlad never lived to have). Also
+  literalizes "Chuck becomes his father" (Dad gave up the cage to raise Chuck → Chuck gives it up to
+  raise his boy → Dad→Chuck→son = the good cycle handed down). **The son is the ANSWER to Vlad.**
+- **GUARD THE EDGE — a son in an epilogue is the most sentimentality-prone move in fiction:**
+  - **Give it FEAR, not just joy.** Chuck's a recovering addict — a son is the highest-stakes reason
+    to stay clean AND terrifying (he can still fall; now a kid's whole world depends on him). Sobriety
+    = a practice, not a cure; the son makes the stakes PERMANENT, not resolved. That terror is the edge.
+  - **Thematic, not decorative:** the son as the answer to Vlad + the three-generation image (Dad
+    watching Chuck hold Chuck's son in the gym). Not "they had a baby and were happy."
+  - **SHOW, don't state:** the image does the work; never narrate "fatherhood was his calling."
+- **LOGISTICS:** a son = the epilogue is set meaningfully LATER (Chuck retired → married Lisa → had a
+  kid). Make the time-jump clean + cohere with Nicole's wedding timing (concurrent? both years out?).
+- **POV tie-in:** Chuck's son could BE the outside/innocent epilogue lens — a child's-eye view = the
+  purest show-don't-tell + literally the voice of the future the broken cycle made possible. Big swing;
+  or keep the son in-frame and let Carl (or another outsider) watch.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
