@@ -604,3 +604,32 @@ Vlad interim); Grove/Banks name bug resolved diegetically (Carl misremembers →
 - **Lisa interlude: author will draft it SEPARATELY to test fit** — right approach; hold it against
   the interlude bar (shows what Chuck can't? earns the 5th slot?) before folding in. No ceiling
   commitment until it earns it.
+
+## Interlude 3 (Rob) — read 2026-08-14; strong, motif is the breakthrough
+Author shared it (superseding the earlier "don't read" hold). Verdict: after his in-the-moment
+revision (the "one that got away" memory scene), it's at/near Nicole's level — arguably a stronger
+CONCEPT. **The motif twist = Rob's own name ("Rob Fuckin Banks") on the count-grammar (1→2→3→4→final
+single).** Best motif move in the book: the persona repeating = the mask/name is the wound (rhymes
+with "The Chosen," Keller→Johnny Law, and the Future essay's "Monster created but never healed"). The
+revision weaponized it — the woman who left screams the name AS an ACCUSATION ("that's all it is with
+you Robert"), so the motif now carries pride AND indictment; her past scream bleeds into the present
+wife crying it during hollow sex (the memory-bleed braid, matching Nicole). Closer = best line:
+"Robert died that day… he didn't know if he wanted Robert to come back" (the refusal to heal = the
+thesis in a man). **Lever to make it "the best part yet":** Rob is a MASK-MAKER — he remade John
+Keller into Johnny Law the way success remade him. Pull that thread → Rob doesn't just drown, he
+drowns others = "create more Monsters" inside the novel + feeds John's parallel fall. (WIP backup
+saved: `manuscripts/the-champ_interlude3-rob_wip_2026-08-14.txt`.)
+
+## Mechanics priority (author ruling, 2026-08-14) — story first; sort grammar into two piles
+Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
+easy" (a later cleanup pass). Honor it. SORTING RULE:
+- **Cosmetic → parked, silent** (don't surface mid-draft): typos, agreement, punctuation.
+- **Comprehension / device-breaking → these are STORY, flag now:** POV slips that crack a
+  third-person interlude's device (F-POV), and ambiguities that force a re-read. They hurt the
+  fluid read that IS the current focus.
+- **Interlude 3 cosmetics for the cleanup pass (parked):** "at hit"→at it; "edition"→addition;
+  "boring ole,"→old; "reached for decanter"→the decanter; double period after "Robert Franklin III";
+  "the who started all this"→the one who; "the one that who held him up"→who held; laid→lay
+  (recurring). **Comprehension/story items (current):** the "she screamed at me / I deflected"
+  first-person POV slip in a 3rd-person interlude (F-POV); "his new wife left him" ambiguity (room
+  vs. for good — it's the closing image).
