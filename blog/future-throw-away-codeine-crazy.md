@@ -55,6 +55,21 @@ it deliberately.
   price. Essay = the man who kept paying the price of greatness 12 years; novel = the man who saw the
   price and said no. One body of work, two answers.
 
+**Career-waypoint CANDIDATES (author, 2026-08-14) — verify every song fact on Genius (accuracy = the
+essay's credibility; Claude is NOT a reliable Future-catalog source).** Curation rule: the 2 deep
+reads + ~3–4 waypoints SPREAD across the timeline is plenty; each waypoint = a line or two showing
+"names the flaw → embraces the Monster anyway"; pick the most EXPLICIT acknowledgments; spread/quality
+> quantity (don't bury the two close-reads).
+- **Bookends locked:** 2014 *Monster* = the BIRTH (the two deep-read songs — but VERIFY which album each
+  is actually on; Codeine Crazy may be *DS2* 2015, which would adjust the "born 2014" frame). 2024
+  *We Still Don't Trust You* = the RECENT proof.
+- **Candidates:** "Nights Like This" (*We Still Don't Trust You*, 2024 — author-confirmed; recent anchor)
+  · "Xanax Damage" (verify album/year) · something from *DS2* (2015 = peak lean/drug era; the mid/early
+  anchor) · "Mile High Memoirs" (personally loaded for the author — potential "I hate that I love it"
+  evidence, ONLY if he chooses to go there) · + more TBD (author to dig).
+- Still need: a MID-timeline beat or two (between 2015 and 2024) to complete the arc. Claude offered to
+  verify album+year for the whole list against sources on request.
+
 **Framing device (author, 2026-08-14): the Andre 3000 conundrum.** "He's the problem, he always
 has been" — accountability stays on Future. BUT the music reads as a cry for help hidden behind
 amazing beat selection — and **whether or not it's heard is lost upon the listener** (surface reads
