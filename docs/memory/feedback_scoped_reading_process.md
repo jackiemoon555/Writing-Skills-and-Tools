@@ -37,6 +37,10 @@ exists for exactly that reason.
   *scheduled*, not ignored — so do NOT dismiss them either. But do NOT surface them while he's
   drafting, do NOT inflate a slip into a red flag, do NOT reiterate typos. Log them quietly for the
   revision.
-- **Only exception mid-draft:** a mechanical error that genuinely BREAKS THE STORY (a real
-  comprehension failure), never cosmetic.
+- **Only exception mid-draft (near-never bar):** a mechanical error that **explicitly and TOTALLY
+  destroys the story** — renders a passage incomprehensible enough that the read collapses. A normal
+  typo or POV slip does NOT qualify; don't treat it as a red flag.
+- **High error density is EXPECTED and BY DESIGN.** He drafts FAST on purpose (high-volume,
+  get-it-out). Do NOT remark on typo/error density or treat it as a concern — it's the intended cost
+  of the pace, and the revision window handles it.
 - He likes this pace; it is the standard working rhythm. Match it every time.

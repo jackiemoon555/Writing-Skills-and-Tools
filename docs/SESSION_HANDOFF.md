@@ -53,8 +53,9 @@ unless he asks.
   pass; do NOT surface them while drafting.** Grammar DOES matter to him — it's scheduled work, not
   ignored: his **2-week revision window (Aug 17–31)** exists for exactly this. So neither dismiss it
   NOR inflate it — don't blow slips into red flags, don't reiterate typos mid-draft; just log them
-  quietly for revision. Flag-now bar = does the story/scene/arc work — NOT words or pronouns; the
-  rare exception is a mechanical error that genuinely breaks the STORY.
+  quietly for revision. Flag-now bar = does the story/scene/arc work — NOT words or pronouns. The
+  ONLY mechanical exception (near-never) is an error that **explicitly and totally destroys** the
+  story. High typo density is EXPECTED — he drafts fast on purpose — so never remark on it.
 - **No ghost-writing — of ANYTHING (2026-08-14).** He writes all his own words — fiction AND
   correspondence/blog/posts he'd send or publish. Never draft text for him to send as his own;
   sharpen, critique, and teach so HIS words get better. Assist and elevate, never replace. (Full

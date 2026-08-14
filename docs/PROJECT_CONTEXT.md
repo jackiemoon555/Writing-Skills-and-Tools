@@ -86,8 +86,10 @@ the WHOLE repo: manuscripts, blog, correspondence, everything.
   lands and what doesn't). **Grammar / typos / POV slips / mechanics are PARKED for the bounded
   revision pass** (~2 weeks/project — it exists for exactly this). They matter, so don't dismiss
   them — but don't surface, inflate, or reiterate them while I'm drafting; log them quietly for
-  revision. Only exception mid-draft: a mechanical error that genuinely **breaks the story.** This
-  is MY process — keep it standard. (Full detail: `docs/memory/feedback_scoped_reading_process.md`.)
+  revision. Only exception mid-draft (near-never): a mechanical error that **explicitly and TOTALLY
+  destroys the story.** High typo/error DENSITY is **expected and by design** — I draft fast on
+  purpose, so never remark on it or treat it as a concern. This is MY process — keep it standard.
+  (Full detail: `docs/memory/feedback_scoped_reading_process.md`.)
 
 ## My daily workflow
 
