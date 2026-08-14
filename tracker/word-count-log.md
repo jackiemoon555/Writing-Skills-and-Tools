@@ -6,7 +6,7 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 ## Current project: *The Champ* (novella) — working title (formerly *The Fighter*)
 
 - **Word-count goal:** ~30,000 words (soft target)
-- **Current total:** **13,343 words** → **~44%** of goal (in progress 2026-08-14; prev baseline 11,618)
+- **Current total:** **13,836 words** (prose-only, from the 90% doc; +Rob interlude since) → **~46%** of goal (in progress 2026-08-14; prev baseline 11,618)
 - **Daily minimum goal:** **1,000 words/day (floor — raised from 750 on 2026-08-12)** —
   chosen to be sustainable *regardless of motivation*, ideally split into two sessions
   (work downtime + home). Stretch stays 2,000→5,000 on good days.
@@ -22,7 +22,7 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
     shipping on time and giving the final fight the writing it needs, **MISS THE DEADLINE.** The
     deadline is a discipline tool; the ending IS the book.
 
-Progress: `████░░░░░░` ~44%
+Progress: `████░░░░░░` ~46%
 
 ## Rules
 
@@ -39,9 +39,9 @@ Progress: `████░░░░░░` ~44%
 | 2026-08-11 (session 3) | 286 | 5,841 | ✅ (day) |
 | 2026-08-12 | 4,659 | 10,500 | ✅ |
 | 2026-08-13 | 1,118 | 11,618 | ✅ |
-| 2026-08-14 (in progress) | 1,725 | 13,343 | ✅ |
+| 2026-08-14 (in progress) | 2,218+ | 13,836 | ✅ |
 
-**Cumulative total: 13,343 words** (in progress 2026-08-14)
+**Cumulative total: 13,836 words** (in progress 2026-08-14; prose-only ruler)
 **Day total 2026-08-11: 1,867 words** (750 floor at the time).
 **Day total 2026-08-12: 4,659 words** — work 3,323 + home ~1,336; **first full day on the new
 1,000 floor, met ~4.7× and just shy of the 5,000 stretch.** New content: Interlude 2 (Nicole),
@@ -91,12 +91,17 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
   Rodriguez loss order / 2-yr void / rematch), Ch21–22 first-person POV slips in the 3rd-person
   sections, motif renames (Knock→Rap, Thud→Crack), mechanics cleanup.
 
-## 2026-08-14 — +1,725 so far (sprint to the Sunday first-draft deadline)
-- **In-progress total: 13,343 words** (self-reported mid-day) → **~44%** of the ~30k target.
-- **Day delta so far: +1,725** (11,618 → 13,343) — already past the 1,000 floor, day not over. ✅
-- Same-day self-reported figure (likely the editor/Docs count); **finalize the clean prose-only
-  delta at the end-of-day export** (MD5-verify, as usual). Ruler caveat only affects the exact
-  number, not that the floor's cleared.
-- Sprint math: ~16.7k left to ~30k with ~2 days to Sunday. Aggressive vs. the 4,659 best day.
+## 2026-08-14 — +2,218 so far (sprint to the Sunday first-draft deadline)
+- **In-progress total: 13,836 words prose-only** (measured from the `.docx` the author shared, which
+  was ~90% of the day) → **~46%** of the ~30k target. Earlier mid-day self-report was 13,343.
+- **Day delta so far: +2,218** (11,618 → 13,836) — cleared the 1,000 floor AND the 2,000 stretch,
+  day not over. ✅
+- **True total is a bit higher:** the doc was ~90% of the day AND predates the Rob interlude work
+  (Interlude 3 base + the "one that got away" scene) — that content isn't in this count. Realistic
+  day ≈ 2,400–2,500+. **Finalize the clean number at the end-of-day MD5-verified export.**
+- New chapters today: **Ch23–26** (post-Rodriguez plane/home; the Lisa reconciliation that fixes the
+  old Ch17 problem; Carl the brother introduced; Vlad interim-title fight set) + **Interlude 3 (Rob)**
+  in progress (name-as-motif breakthrough).
+- Sprint math: ~16.2k left to ~30k with ~2 days to Sunday. Aggressive vs. the 4,659 best day.
   **Guardrail stands: ending > deadline** — if forced to choose, give the draw finale the writing
   it needs and miss Sunday.
