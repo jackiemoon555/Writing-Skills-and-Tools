@@ -859,6 +859,30 @@ the middle of the ring.
   NOT pass down her mother's creed (richest payoff of her interlude's cycle, but timeline-later than a
   wedding).
 
+### Carl/Nicole — connective tissue + it DEEPENS Chuck (author, 2026-08-14)
+Solves the tidiness risk by adding WEIGHT and DEPTH, not by smoothing:
+- **How they meet:** Carl is Chuck's CORNER for the last two fights (Vlad + John) → the fight world
+  puts him in Nicole's orbit (she's John's). Seeds planted in the final chapter (keep them LIGHT so
+  they don't compete with the Vlad temptation test / the John catch).
+- **The WEIGHT beat:** Carl asks Chuck for his PERMISSION (re Nicole). Acknowledges the ex-marries-
+  brother awkwardness head-on instead of gliding past it.
+- **Chuck's realization (the depth):** fully committed to Lisa, he sees he **never actually loved
+  Nicole** — she was arm candy to The Chosen; he was drowning + success made him trust women less.
+  The SAME arm-candy issue John is repeating now (the champ's accessory). **BUT he doesn't hold it
+  against her** = grace born of ACCOUNTABILITY (his emptiness, not her betrayal — he never gave her a
+  reason to stay). Anti-cycle + on-thesis (winning made him worse, even in how he loved).
+- **Three-man parallel:** Chuck (arm candy) → John (same) → Carl (SEES her). Both champs reduce her to
+  status; the maskless/statusless man sees the person. Reinforces mask + success-corrupts themes.
+- **Bonus:** committing to Lisa is what LETS Chuck see the truth about Nicole (real love reveals the
+  old thing was never love) → strengthens BOTH relationships.
+- **EXECUTION LEVERS:** (1) "doesn't hold it against her" must land as WARM ACCOUNTABILITY, not cold
+  dismissal — "I was too empty to see you, that was my failure, glad someone finally does," NOT "never
+  loved you anyway." Play the generosity or it reads as a shrug. (2) KEEP NICOLE'S AGENCY central —
+  permission is a courtesy between the men, but her resolution = HER actively CHOOSING the man who
+  sees her; guard against her being passed brother-to-brother (the book's thin-women weak spot; her
+  interlude earned her interiority). (3) The permission conversation likely lands hardest as a quiet
+  beat AFTER the John fight, when Chuck's already at peace.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
