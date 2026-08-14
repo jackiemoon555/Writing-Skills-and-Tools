@@ -836,6 +836,29 @@ the middle of the ring.
   cycle propagating, the next generation's voice, the anti-Monster. Wants the gym, not Nicole's
   wedding. Carl fits the current plan; a mentee would move the setting.
 
+### Idea being entertained — the wedding is CARL + NICOLE (author, 2026-08-14)
+- **Thematic core is ELEGANT:** Carl is the one MASKLESS character (sees people "as they are"; clocked
+  Rob as fake). Nicole's wound = nobody saw past her persona. So Carl is thematically the RIGHT man to
+  love her, and it completes her arc — for the first time she'd choose a man for who he IS (broke,
+  no-status, carefree) over what he GIVES her (status/being seen). Her pattern broken on the page.
+  Also rhymes: Rob = mask wins; Carl = no mask; Nicole (trapped in mask) freed by the maskless man.
+- **RISK 1 (specific): ex-marries-brother is a small-world / soap-opera move.** Can land (family
+  absorbs Nicole = no-villains; Chuck at peace enough to be HAPPY about it = his growth) but the
+  default is "too tidy." EARN it with WEIGHT: let the awkwardness exist, let it cost a beat, make the
+  Carl/Nicole connection actually make sense (she was John's). Frictionless = a bow.
+- **RISK 2 (the big one — META): the epilogue is stacking too many happy endings** (Chuck+Lisa,
+  Carl+Nicole, John saved, Chuck the beloved mentor, maybe a baby). Signature = HOPE WITH A WOUND / no
+  clean wins. The more pairings pile in, the harder to guard the edge. Keep something unresolved, let
+  something cost, leave one thing raw — an epilogue where LITERALLY everyone wins is where the book's
+  honesty could desert it after 30k of earning it. GUARD THE EDGE.
+- **POV pivot (Carl now a groom, can't be observer):** show-don't-tell logic holds for any outside
+  lens. "Someone's kid" (a child introduced only in the epilogue) is evocative — purest witness (can
+  only report, not narrate theme) + the future/the broken cycle. Cautions: (a) child voice tips
+  cutesy/precious fast (own corniness vector) + big tonal swing for a gritty addiction book to close
+  on; (b) WHOSE kid matters — Chuck's = Chuck-as-father (mentor theme literalized); NICOLE's = she does
+  NOT pass down her mother's creed (richest payoff of her interlude's cycle, but timeline-later than a
+  wedding).
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
