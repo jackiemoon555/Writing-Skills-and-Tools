@@ -631,6 +631,49 @@ accept his own hand in it — the same acknowledge-but-won't-address failure). C
 it sharper later: widen the felt distance between "got away" and "pushed away" (both already on the
 page). SUPERSEDES the earlier note that listed this as a clarity/cleanup item.
 
+## Fable review — today's additions only (Ch23–26 + Rob interlude), 2026-08-14
+Blind Fable pass on ONLY today's new pages (grammar rule enforced — mechanics parked). HIGH
+convergence with the Opus read; where both landed independently = the real signal.
+- **BOTH: Lisa's turn too fast / not earned in-scene.** Fable: "clock is wrong ~300%." Fix — let her
+  NOTICE Chuck refused to promise (the missing salesmanship IS the proof); door only half-open, not
+  full surrender the same night.
+- **BOTH: post-win stretch is frictionless** — hands him win/girl/brother/title shot at ~zero cost.
+  Needs cost (= standing passenger-problem + the author's own "add a real threat" plan).
+- **BOTH: the Nicole flash ("accessory to your lifestyle") should be the HINGE of the reconciliation,
+  not a flicker.**
+- **BOTH: Carl needs grounding — Fable's sharper angle: his 4-yr ABSENCE (through the collapse) is a
+  who-stayed/who-left issue;** a quiet brother scene is owed (only Dad's tear registers it now).
+- **BOTH, independently, named the SAME Rob-interlude keepers:** name-as-motif is the standout; wife
+  crying the fake name during sex = the devastating beat; the revision's ending ("didn't know if he
+  wanted Robert to come back") wins; keep "only she calls him Robert" absolute. Strongest signal —
+  keep all.
+- **FABLE CAUGHT (Opus missed):**
+  - **Vlad announcement plays as a SCHEDULING problem, not a trauma** — Chuck reacts to the timing
+    ("another fight this soon?"), not the NAME of the man who broke him. The Thump heartbeat never
+    fires in these 4 chapters — THIS is the moment for it: one Thump on "Popov."
+  - **#1 STRUCTURAL NOTE — wire Lisa's conditional trust to Vlad's name.** She bets her heart on "if
+    you fall again, leave"; the fight likeliest to make him fall drops the next chapter; Chuck never
+    connects them. Connected = the loaded gun of Act III (dread under every warm scene). THIS IS the
+    "real threat" the author wants — already latent in the pages.
+  - **Dad's "the kid" dread evaporates** when Rojas pulls out — let Dad react to the Vlad swap (his
+    read carries weight) or trim the Rojas buildup.
+  - Tonal: "woman searching for love / competition younger" simile undercuts Chuck in his love-arc
+    chapter; Ch23 cold open broods with no referent yet.
+- **Waitress (TENSION):** author says Mom-as-waitress is intentional warmth (good) — but Fable,
+  blind, independently read it as a diner for several lines (same as Opus). Intent fine; page not yet
+  signaling it → add one cue so the warmth lands first read. Also: Carl's fight-backstory exchange
+  (who KO'd whom) is genuinely hard to follow — clarity pass later.
+- **Rob interlude story-level fixes:** revision has a timeline tangle — the "took her there" sex beat
+  appears to run twice; clean order = empties → memory of the one who left → present flight into
+  current wife → she yells the name → post-coital emptiness → "Robert died that day" → ending. POV
+  "I deflected" slip: choose deliberately (mask cracking into "I") or cut.
+- **Keepers Fable named:** Dad's voice (best-drawn — handicap gag, "sixty-five dumb ass," the buried
+  tear); the Knock-count escalation MIGRATING to the "I love you" count (violence motif → tenderness
+  = most sophisticated formal move in the chapters); "another win, another shot, another line" double
+  meanings; "Was this happiness? Do I deserve this?" as the pre-fall note.
+- **#1 MOVE (both point here):** give the stretch COST by wiring Lisa's trust ↔ the Vlad threat — the
+  exact threat the author already planned; Fable found it half-built in what's written.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
