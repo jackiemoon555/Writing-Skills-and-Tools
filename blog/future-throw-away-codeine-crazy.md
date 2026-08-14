@@ -159,6 +159,12 @@ draft ("creating the cycle of hurt," Throw Away section) — this makes it expli
   His "the hard truth, I too, am the Monster" framing already does most of that work.
 - **Full ending movement:** feed-the-Monster confession → the collapse ("I am the Monster") → the
   warning closer ("…create more Monsters"). Spine to last word, the ending is built.
+- **"I have my own Monster" (author, 2026-08-14):** the metaphor goes personal and portable — the
+  Monster isn't only Future's persona or the collective; EVERYONE carries their own (their own unfaced
+  flaw). Not above anyone: "I have my flaws just like them, just like Future." This is the mechanism
+  that makes "create more Monsters" land on the READER too — each of us breeds and feeds our own.
+  Universalizes the closer through the ROOT (everyone has a flaw they won't face). The humility isn't
+  just honesty; it's what makes the essay reach off the page and grab the reader.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
   situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
   including the author. The essay's own opening ("degenerate subject matter empowered me") = the
