@@ -24,7 +24,9 @@ yet**; finishing is the skill to build. Everything else is parked and captured. 
 unless he asks.
 
 ## *The Champ* — current state
-- Prose-only count: **11,618 words** (latest export MD5 `b265ef7a…`). A restructured draft.
+- Prose-only count: **11,618 words** (latest export MD5 `b265ef7a…`). **Purely additive since the
+  10,500 snapshot — no rewriting/cutting done yet** (author confirmed 2026-08-14). The dissociative
+  restructure of the middle is a PLANNED revision, not executed.
 - Drafted through the **Rodriguez rematch WIN** (Ch22, shown from John & Nicole's POV as their
   relationship implodes — his strongest structural swing) + a Ch20 press-conference cliffhanger
   (Vlad taunt). **Still to write:** the rest of the fight ladder + ending →
@@ -37,10 +39,10 @@ unless he asks.
   "fraud" Vlad names) is dead; the authentic man — his father's son, his roots — is who returns.
   Show-don't-tell identity shed, signaled purely through the ring announcement. PRESERVE + build on
   it (e.g. the John superfight could pit the real "Chucky Miles" vs. the persona-trap John fell into).
-- **PARKED for the revision pass — do NOT re-raise while he's drafting:** motif rename
-  (Knock→Rap, Thud→Crack), POV slips (everyone who isn't Chuck = 3rd person), mechanics/typos
-  (a Grammarly-AI corruption pipeline), timeline clarity (two Rodriguez fights + the Vlad loss).
-  All logged in `reports/the-fighter.room.md`.
+- **PARKED for the revision pass — do NOT re-raise while he's drafting:** the fractured/dissociative
+  restructure of the rock-bottom middle (Ch8–13), motif rename (Knock→Rap, Thud→Crack), POV slips
+  (everyone who isn't Chuck = 3rd person), mechanics/typos (a Grammarly-AI corruption pipeline),
+  timeline clarity (two Rodriguez fights + the Vlad loss). All logged in `reports/the-fighter.room.md`.
 
 ## How to work with Alec (PROCESS — important)
 - **Scoped reading:** close-read ONLY the pages he points to, WHEN he says. Never re-review the

@@ -71,17 +71,20 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
     anchor, a few typos flagged). Note: a "Chapter 14" heading exists but is still
     empty.
 
-## 2026-08-13 — MAJOR RESTRUCTURE (not just new pages)
+## 2026-08-13 — +1,118 words (purely additive; NO rewriting yet)
 - **Prose-only count: 11,618 words** (MD5 `b265ef7a44ae861557a42cf029859b50`, verified genuinely new).
-- Net delta from the 10,500 snapshot is only ~+1,100 words, but that **understates the work** — this
-  is a full structural rewrite: the rock-bottom middle (Ch8–13) reworked into a fractured/dissociative
-  motif-braid (fights + DUI arrest + parents' door + Bruce's call bleeding together), plus **new
-  rematch chapters (Ch21–22)** including the Rodriguez-rematch WIN shown from John & Nicole's POV as
-  their relationship implodes. Ends mid-Ch20 press-conference (Vlad taunt) with Ch21–22 marked
-  "Potential Chapter."
-- Craft notes logged to review: the dissociative structure works but timeline clarity is the #1 risk
-  (Vlad loss / 1st Rodriguez loss out of order / 2-yr void / rematch); Ch22 has first-person POV slips
-  in a 3rd-person section; motif rename (Knock→Rap, Thud→Crack) still pending; mechanics cleanup-later.
+- **Clean same-ruler delta: +1,118 words** (10,500 → 11,618). **Purely additive** — nothing was
+  rewritten or cut (author confirmed 2026-08-14), so the delta is exactly the new prose written.
+  An off-day count, still over the 1,000 floor. ✅
+- New content: **Ch20 press-conference** (ends on the Vlad "fraud" taunt) + **new rematch chapters
+  Ch21–22** (the Rodriguez-rematch WIN, shown from John & Nicole's POV as their relationship
+  implodes), both marked "Potential Chapter."
 - **"I'm still here"** identified as the thematic spine / possible title (Dad Ch15 + Liz Ch17), echoing
   the John Wall touchstone in fuel.md.
 - **Baseline re-anchored to 11,618** for next session.
+- **PLANNED REVISION (post–first-draft — do NOT execute while drafting):** the fractured/dissociative
+  restructure of the rock-bottom middle (Ch8–13 — fights + DUI arrest + parents' door + Bruce's call
+  braided together) is a revision idea, **not done**. File it with the Aug 17–31 pass, not as
+  completed work. Related notes for that pass: timeline clarity is the #1 risk (Vlad loss / 1st
+  Rodriguez loss order / 2-yr void / rematch), Ch21–22 first-person POV slips in the 3rd-person
+  sections, motif renames (Knock→Rap, Thud→Crack), mechanics cleanup.
