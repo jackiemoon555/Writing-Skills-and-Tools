@@ -93,6 +93,28 @@ draft ("creating the cycle of hurt," Throw Away section) — this makes it expli
 - **How it nests:** Future's personal throwaway-women defense (individual) → the "get under
   somebodies" mantra (cultural) → broken homes / further from love (consequence). Same song → man →
   generation ascent as the rest of the essay, applied to love specifically.
+
+**CLOSING LINE — the last line of the piece (author's exact words, 2026-08-14):**
+> "If we never learn to look inward, to accept ourselves for who we are, then all we'll ever do is
+> create more Monsters."
+- Author's intent: close on a warning that **feeds back into the album name** (*Monster*, the 2014
+  mixtape both songs live on) and "the truth of Future the artist." Bookends the whole essay.
+- **Setup dependency (important):** this payoff only detonates if the *Monster* mixtape is NAMED
+  explicitly earlier in the piece — otherwise "Monsters" here reads as generic. Ties to the earlier
+  note on "This is how the Monster was created" (the pun is invisible until the tape is named). Plant
+  it up top so the last word lands.
+- Why it works: it's in the **"we"** (self-implicating, not "they" — nails the guardrail), and it
+  hits the **accept** beat of the acknowledge → accept → address triad.
+- **What "Monster" means here (author, 2026-08-14): "Future" the CHARACTER was created but never
+  healed.** The persona the artist built (Future / the Monster) is a mask born of the wound and never
+  taken off, never mended — it just keeps drowning. So "create more Monsters" = create more unhealed
+  personas. This is the *truth of Future the artist*: the man made a character to survive and then
+  never healed the character.
+- **Catalog mirror (do not miss):** this is the EXACT device as Chuck's "The Chosen" — a persona
+  built from pain — with the decisive contrast that **Chuck sheds and heals it** (returns to Chucky
+  Miles) while **Future never does.** The essay and *The Champ* are the same story with opposite
+  endings: one man heals the mask, one drowns inside it. The Future piece is a dark-mirror companion
+  to the novel.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
   situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
   including the author. The essay's own opening ("degenerate subject matter empowered me") = the
