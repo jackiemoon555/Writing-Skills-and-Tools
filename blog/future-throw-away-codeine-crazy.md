@@ -115,6 +115,24 @@ draft ("creating the cycle of hurt," Throw Away section) — this makes it expli
   Miles) while **Future never does.** The essay and *The Champ* are the same story with opposite
   endings: one man heals the mask, one drowns inside it. The Future piece is a dark-mirror companion
   to the novel.
+
+**ENDING MOVEMENT — the knife turns on the author (author's exact words, 2026-08-14):**
+> "Yet here we are, here I am feeding the Monster, perpetuating the cycle not ending it. By
+> continuing to listen and support I only feed the machine."
+- **The triad turned on HIMSELF:** he acknowledges (hears the cry) but still won't address (keeps
+  listening/supporting) — the exact acknowledge-but-won't-address failure he diagnosed in Future. He
+  sits one rung above the oblivious crowd (he hears it) and still fails the last step. Caught in his
+  own thesis.
+- **Adds the MACHINE / commerce layer:** support = literal fuel (streams = money); the industry
+  monetizes the drowning and the fan funds it. "Feed the Monster" becomes economic, not just
+  metaphor.
+- **Structure of the ending:** [self-implicating confession] → [final warning: "…create more
+  Monsters"]. Convicting himself first earns the closer's "we" — a "we" that plainly includes him.
+- **KEEP IT UNRESOLVED — do NOT end on "and so I stopped listening."** That's a lie and it's corny.
+  The honesty is that he sees it and STILL does it. Matches the author's no-clean-wins signature (the
+  draw; the happy-ending-that-isn't). The discomfort of continuing IS the truth.
+- This is the recursion note in action: he models the self-implication he asks of the reader, which
+  earns him the right to hold the mirror up to them.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
   situates Future in a lineage (Andre → Future = elevates the take), AND implicates the LISTENER —
   including the author. The essay's own opening ("degenerate subject matter empowered me") = the
