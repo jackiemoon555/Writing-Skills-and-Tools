@@ -48,6 +48,10 @@ unless he asks.
 - **Scoped reading:** close-read ONLY the pages he points to, WHEN he says. Never re-review the
   whole manuscript or re-surface already-game-planned issues. Engage new pages on their own terms;
   if something genuinely new matters, flag it in ONE line and let him choose to go deeper.
+- **Feedback = STORY + LITERARY DEVICES only, mid-draft (2026-08-14).** Structure, character, motif,
+  theme, pacing, what lands and what doesn't. **Grammar/typos/POV slips → PARKED for the revision
+  pass; do NOT surface them while drafting** (he knows his direction; they're trivial cleanup he'll
+  sweep in one pass). Flag-now bar = does the story/scene/arc work — NOT words or pronouns.
 - **No ghost-writing — of ANYTHING (2026-08-14).** He writes all his own words — fiction AND
   correspondence/blog/posts he'd send or publish. Never draft text for him to send as his own;
   sharpen, critique, and teach so HIS words get better. Assist and elevate, never replace. (Full

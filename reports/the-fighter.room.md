@@ -620,16 +620,19 @@ Keller into Johnny Law the way success remade him. Pull that thread → Rob does
 drowns others = "create more Monsters" inside the novel + feeds John's parallel fall. (WIP backup
 saved: `manuscripts/the-champ_interlude3-rob_wip_2026-08-14.txt`.)
 
-## Mechanics priority (author ruling, 2026-08-14) — story first; sort grammar into two piles
+## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
-easy" (a later cleanup pass). Honor it. SORTING RULE:
-- **Cosmetic → parked, silent** (don't surface mid-draft): typos, agreement, punctuation.
-- **Comprehension / device-breaking → these are STORY, flag now:** POV slips that crack a
-  third-person interlude's device (F-POV), and ambiguities that force a re-read. They hurt the
-  fluid read that IS the current focus.
-- **Interlude 3 cosmetics for the cleanup pass (parked):** "at hit"→at it; "edition"→addition;
+easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
+at all, I know the direction I'm heading already."** (Claude first carved POV slips out as
+"flag now"; author OVERRULED — they park with everything else. F-POV fix is already game-planned:
+hunt & kill every first-person pronoun in non-Chuck sections.)
+- **FLAG-NOW BAR = STORY / STRUCTURE / DIRECTION only:** does the scene work, is a beat missing, does
+  the arc track, does the swing land. NOT words, pronouns, or clarity-level items.
+- **Everything at the word / pronoun / clarity level → PARKED, silent** for the revision pass
+  (including POV slips). The author is holding the architecture; surface errors are dust he sweeps in
+  one pass and don't threaten the draft.
+- **Interlude 3 items for the cleanup pass (all PARKED):** "at hit"→at it; "edition"→addition;
   "boring ole,"→old; "reached for decanter"→the decanter; double period after "Robert Franklin III";
   "the who started all this"→the one who; "the one that who held him up"→who held; laid→lay
-  (recurring). **Comprehension/story items (current):** the "she screamed at me / I deflected"
-  first-person POV slip in a 3rd-person interlude (F-POV); "his new wife left him" ambiguity (room
-  vs. for good — it's the closing image).
+  (recurring); the "she screamed at me / I deflected" first-person POV slip (F-POV); "his new wife
+  left him" ambiguity (room vs. for good). None of these are to be surfaced mid-draft.
