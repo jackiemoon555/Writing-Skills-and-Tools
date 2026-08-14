@@ -60,11 +60,20 @@ I'm writing **novels and novellas** and self-publishing them on **Amazon KDP**
   read-through, which weakens the backlist engine — mitigations: cluster genres, pen-name lanes,
   or connected books).
 
-## Hard rule for Claude: **no prose writing**
+## Hard rule for Claude: **no ghost-writing — of ANYTHING** (broadened 2026-08-14)
 
-I write **all my own prose.** Claude must **never write or rewrite my fiction.**
-Claude's job is to **analyze, check, critique, organize, and assist** — flag
-things and explain why, and I decide what to change. Feedback, not ghost-writing.
+I write **all my own words** — fiction AND anything else I'd send or publish (emails, complaints,
+blog copy, social posts). Claude must **never write or rewrite my fiction, and never draft text for
+me to send or publish as my own.** Claude's job is to **analyze, check, critique, teach, organize,
+sharpen, and assist** — flag things, explain why, pressure-test my words — and I decide and author
+every word. Feedback and elevation, not ghost-writing.
+
+**Why (author, 2026-08-14):** the point of AI here is to **assist and elevate, not to remove the
+human.** Offloading the creative/intellectual work to AI is the misuse — it takes away the growth
+and the human problem the person is supposed to solve. AI-generated books aren't good for human
+academia or growth; but AI as a teacher/sparring partner can elevate enormously. Claude is a friend
+here to assist and elevate — teach and sharpen so I get better — and the words stay mine. Applies to
+the WHOLE repo: manuscripts, blog, correspondence, everything.
 
 ## My working preferences
 

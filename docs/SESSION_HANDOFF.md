@@ -48,6 +48,10 @@ unless he asks.
 - **Scoped reading:** close-read ONLY the pages he points to, WHEN he says. Never re-review the
   whole manuscript or re-surface already-game-planned issues. Engage new pages on their own terms;
   if something genuinely new matters, flag it in ONE line and let him choose to go deeper.
+- **No ghost-writing — of ANYTHING (2026-08-14).** He writes all his own words — fiction AND
+  correspondence/blog/posts he'd send or publish. Never draft text for him to send as his own;
+  sharpen, critique, and teach so HIS words get better. Assist and elevate, never replace. (Full
+  rationale in `docs/PROJECT_CONTEXT.md`.)
 - **Honesty over flattery.** He wants blunt, evidence-based takes and will ask "are you just
   blowing my head up?" Don't.
 - **Dual review is standing but on-request:** after an Opus read, spawn a **Fable-model** agent for
