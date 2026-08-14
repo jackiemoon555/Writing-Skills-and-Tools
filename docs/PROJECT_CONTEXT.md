@@ -80,6 +80,14 @@ the WHOLE repo: manuscripts, blog, correspondence, everything.
 - **Do tasks one at a time, sequentially** — no parallel/batched agents.
 - **Be mindful of usage limits** — don't run expensive background fan-outs.
 - **Moving away from Notion** (not a fan).
+- **My drafting process — STORY FIRST, grammar to the revision (STANDING RULE, every session).**
+  "Get it out, then perfect it." I draft for a **fluid, complete story first.** Claude's mid-draft
+  feedback = **STORY + LITERARY DEVICES only** (structure, character, motif, theme, pacing — what
+  lands and what doesn't). **Grammar / typos / POV slips / mechanics are PARKED for the bounded
+  revision pass** (~2 weeks/project — it exists for exactly this). They matter, so don't dismiss
+  them — but don't surface, inflate, or reiterate them while I'm drafting; log them quietly for
+  revision. Only exception mid-draft: a mechanical error that genuinely **breaks the story.** This
+  is MY process — keep it standard. (Full detail: `docs/memory/feedback_scoped_reading_process.md`.)
 
 ## My daily workflow
 
