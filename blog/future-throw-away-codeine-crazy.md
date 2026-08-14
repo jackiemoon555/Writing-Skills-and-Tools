@@ -16,11 +16,15 @@ The second half of Throw Away is where the beauty of Future truly shows. The bea
 
 *Unfinished. Codeine Crazy analysis not written yet — started it and forgot; want to finish it.*
 
-**Thesis (author's own words):** "Future is misunderstood, he[’s] drowning in his vices and HE
-REFUSES to sit down and acknowledge them, a common pitfall for men. So instead of addressing his
-issues he acknowledges that they are the[re] but he never accepts them. He simply keeps falling
-deeper and deeper into the black hole. He likely won’t ever know true love, the cost of true love
-is too much for him to bear."
+**Thesis (author's own words; "address" corrected from a repeated "acknowledge"):** "Future is
+misunderstood, he[’s] drowning in his vices and HE REFUSES to sit down and address them, a common
+pitfall for men. So instead of addressing his issues he acknowledges that they are the[re] but he
+never accepts them. He simply keeps falling deeper and deeper into the black hole. He likely won’t
+ever know true love, the cost of true love is too much for him to bear."
+
+*The distinction is the whole argument: he ACKNOWLEDGES the vices (names them) → refuses to ACCEPT
+them (own them) → refuses to ADDRESS them (change). Not a man hiding pain — a man narrating it and
+doing nothing.*
 
 *(Codeine Crazy = the proof text for this: the song where he narrates his own drowning in real
 time and reaches for more anyway — self-awareness without surrender.)*
