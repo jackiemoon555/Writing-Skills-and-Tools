@@ -527,3 +527,51 @@ fraud figures). Optional placement (revision): cluster Rob + Coach interludes LA
 mirroring John/Nicole's Ch22 decay. **The growing multi-POV appetite belongs in the BIGGER
 canvases** (college football = ensemble; fantasy trilogy = warring houses) — develop the muscle
 here, unleash it there.
+
+---
+
+## Ch23–26 — author clarifications + OPEN decisions (2026-08-14)
+New chapters read this session (Ch23–26; Rob interlude NOT read per author — unfinished). Verdict:
+strong day; Ch24 (Lisa reconciliation) retires a top-3 ledger item — Chuck wins her by SEEING her +
+owning the harm (Nicole's voice as conscience = interlude payoff) and giving her the exit, not by
+neediness (fixes the old Ch17 problem). Carl (brother, ex-Thailand muay-thai) = the warmth/comedy
+valve + "who stayed" in a body; belt map executing clean (Rodriguez avenged → Rojas out → Chuck vs
+Vlad interim); Grove/Banks name bug resolved diegetically (Carl misremembers → "Rob Banks").
+
+- **Ch26 "waitress" = INTENTIONAL (author), not a logic gap.** Mom plays waitress at the family
+  breakfast — a warm *fixture*; the "hyena" = Mom laughing. Purpose: pull the seriousness out,
+  family-back-together, Chuck "can breathe for the first time." Resolves on the page ("Mom was
+  laughing hysterically" = the waitress is Mom). Claude over-flagged it as home-vs-diner confusion.
+  Residual (optional): reads literal for a half-beat; one cue that Chuck's calling Mom "waitress" as
+  a bit makes it airtight.
+- **Mom — author intent: NOT an average/submissive stay-at-home extra; an ACTUAL piece of the
+  family.** Ties to the book's known weak spot (both reviews: women underwritten / "scenery").
+  Honest note: waitress + hyena beats make her warm/present (upgrade from a prop), but her
+  characterization is still all nurturing/serving/reacting to the men (feeds, hugs, cries, enforces
+  Dad's rule). To be a real member, give her ≥1 beat that's HERS — an opinion, an edge, a want, a
+  history not about the men; a moment the scene bends around HER. Theme bonus: she's a "who stayed"
+  figure + a potential counter-model to Nicole's mother (who passed the cycle down) — the
+  warm-AND-strong mother.
+- **Lisa/Ch24 — author intent:** the parents setting up the dinner = they saved Chuck AGAIN, this
+  time NOT from himself/failure but *toward* the love they can see between him and Lisa. Author:
+  "implied too much." Agreed — currently too compressed (reads as meddling, not rescue-toward-love);
+  needs a clearer signal. Also: Lisa's turn guarded→all-in is still a touch fast (the WHY is fixed;
+  watch the SPEED).
+- **OPEN DECISION — possible LISA INTERLUDE, mid-book (author leaning yes; "even if it adds to the
+  timeline… I think it'll make the story better").** REOPENS the 2026-08-13 ceiling (Rob + Coach =
+  the last two; don't add more).
+  - FOR: passes the interlude test — shows what Chuck CAN'T (her inner reason to trust him again,
+    which retroactively powers the whole reconciliation), fixes the too-fast turn + "girl who waited"
+    depth, and is the PUREST embodiment of the "who stayed / I never left you, I'm still here" spine
+    (Rob & Coach both LEFT).
+  - AGAINST: it's a 5th interlude, past the ceiling he set; risks diluting Chuck's first-person
+    intimacy (interludes work as the exception); timeline cost (author-flagged); different register
+    from the cost-of-success chorus.
+  - IF done: make Lisa the deliberate COUNTERPOINT to the fallen chorus (the road not taken / the one
+    who stayed), give one orienting time cue (standing interlude rule), and weigh the smaller
+    alternative (more resistance in Ch24 + a line where Chuck realizes what his parents did).
+  - Claude rec: worth breaking the ceiling for IF it delivers her interiority — which the in-scene
+    fix can't fully do.
+- **Warm-stretch watch:** post-Rodriguez, everything comes up roses (girl, brother, belt shot).
+  Thesis is *winning re-licenses the worst self*, not *winning heals*. Shadow IS planted ("more
+  fame, more drinks, more lines," Ch25) — keep it alive so this reads as calm-before-the-cost.
