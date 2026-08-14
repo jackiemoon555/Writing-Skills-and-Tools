@@ -674,6 +674,39 @@ convergence with the Opus read; where both landed independently = the real signa
 - **#1 MOVE (both point here):** give the stretch COST by wiring Lisa's trust ↔ the Vlad threat — the
   exact threat the author already planned; Fable found it half-built in what's written.
 
+### Author intent + plan (2026-08-14) — the warm stretch is DELIBERATE; stakes come NEXT
+Recontextualizes the "frictionless" note above — don't read the Rodriguez aftermath as a flaw:
+- **The Rodriguez win + warm aftermath (Ch23–26) is a DELIBERATE relief beat — "finally give everyone
+  something to smile about."** The book's been all fall; the reader needs to breathe (guards against
+  burnout). NOT doom-and-gloom by design. The arc isn't resolving here — it's the calm before the
+  storm.
+- **The CHALLENGE comes in the NEXT chapters (Vlad buildup):** "everything for his return fell in
+  place, but can he deal with the ADDED PRESSURES — the return of the man who broke him, another
+  press conference where he's attacked." = the on-thesis INTERNAL threat (success/pressure testing
+  whether he relapses into The Chosen / off the wagon = the owed temptation-craving scene) + Vlad
+  (external) + the OWED attack-presser (pays off the Ch20 Vlad "fraud" taunt + the facade↔redemption
+  presser mirror; a public stage to test hold-as-Chucky vs. crack-into-The-Chosen). This IS the "add
+  a real threat" plan, delivered.
+- **RECONCILIATION (keep BOTH):** keep the warmth — the reviews aren't asking for gloom, only that
+  the warm stretch not read as RESOLVED. Thread ONE line of the coming storm through it (wire Lisa's
+  trust ↔ Vlad; keep the shadow alive): reader enjoys the smile AND feels the cloud. A single cloud
+  on a sunny day, not a storm.
+- **Rodriguez = fixture, not a living being — author AGREES.** Already a known build item: give him a
+  DIFFERENT flavor of humanity than Vlad (so the two Act III opponents don't resolve identically).
+  His fight is already written → a build/revision touch, not a now-problem.
+- **KEY CHARACTER INSIGHT (author, 2026-08-14): Chuck has largely CONFINED HIMSELF to avoid
+  temptation.** His sobriety is AVOIDANCE, not resistance — he's built a small, safe, temptation-free
+  world (Dad's gym, home, Texas, family) so he never has to FACE the drink/line/fame. This is why the
+  warm stretch has no on-page craving: NOT a gap — it's the character's coping strategy on the page (a
+  man hiding, reading as peace). And it's fragile by design: avoidance isn't recovery; it holds only
+  while he stays in the bubble. **This is the temptation-scene the reviews wanted — but subtler:** the
+  Vlad fight drags him back OUT into media/fame/pressure/attack = the temptation-rich world he fled.
+  The real test isn't resisting a drink in the safe world; it's surviving being forced BACK into the
+  world he ran from (the bubble popping). **LEVER:** plant that the confinement is a deliberate SHIELD
+  (a Chuck or Dad beat naming that he's staying small on purpose to stay sober) so its breach by the
+  Vlad circus has weight — that's the single cloud to thread through the warmth. Ties the warm stretch
+  and the Vlad storm into one arc.
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
