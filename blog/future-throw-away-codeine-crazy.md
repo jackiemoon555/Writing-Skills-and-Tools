@@ -146,12 +146,17 @@ draft ("creating the cycle of hurt," Throw Away section) — this makes it expli
   ADDRESS (keeps listening). So the hardest truth isn't "look inward and you're saved"; it's "I
   looked inward, accepted the worst of myself, and I'm STILL the Monster, because seeing it didn't
   make me stop." Acceptance without action = still the Monster. Darker and truer than redemption.
-- **Seam to get right (honest craft flag):** this slightly complicates the closer. "If we never
-  learn to look inward… create more Monsters" implies inward-looking is the CURE — but the collapse
-  shows him looking inward and still being the Monster. Thread it deliberately: looking inward
-  (acknowledge + accept) is NECESSARY but not SUFFICIENT without addressing (change). The
-  acknowledge→accept→address ladder already resolves it — just make the missing "address" beat
-  legible so the two lines read as devastating-and-precise, not contradictory.
+- **The contrast is DELIBERATE (author-confirmed, 2026-08-14) — do NOT smooth it.** *(Claude first
+  flagged this as a "seam to reconcile"; the author corrected that — the contradiction IS the point.)*
+  Looking inward does NOT save him: "I looked inside and this is what I found." It exposes his own
+  hypocrisy and flaws and levels him with the masses — **"I'm not special, I just write."** Writing
+  and awareness are not redemption or superiority; the closer is not "look inward and you're cured,"
+  it's the bleaker, humbler truth that even the one who looks inward keeps feeding the Monster. The
+  hypocrisy is the meaning. (Ties straight to the author's anti-elevation ethos — the "assist, don't
+  replace the human" stance and the no-ghost-writing rule: the writer is not above his subject.)
+- **Only job left = EXECUTION/TONE:** let the confessional register signal "I know this is
+  hypocritical — that's the point," so it reads as intentional irony, not an unnoticed contradiction.
+  His "the hard truth, I too, am the Monster" framing already does most of that work.
 - **Full ending movement:** feed-the-Monster confession → the collapse ("I am the Monster") → the
   warning closer ("…create more Monsters"). Spine to last word, the ending is built.
 - Why it's load-bearing: it makes the BEAT the mechanism of the not-hearing (surface buries depth),
