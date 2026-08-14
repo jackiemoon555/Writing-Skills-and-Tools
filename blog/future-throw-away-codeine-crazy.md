@@ -26,6 +26,35 @@ ever know true love, the cost of true love is too much for him to bear."
 them (own them) → refuses to ADDRESS them (change). Not a man hiding pain — a man narrating it and
 doing nothing.*
 
+**TITLE (author, 2026-08-14): "I Hate That I Love It."** Hooky, universal, self-implicating, and the
+hook IS the subject (loving-what-hurts-you = the shape of addiction = the essay's topic). Beats the
+old descriptive title. **SEO:** keep the hooky title, load the SUBTITLE (and URL slug) with the search
+terms — Future + "Throw Away" + "Codeine Crazy" + analysis/breakdown (bonus: Ciara, Monster). Author
+writes the subtitle (no-ghostwriting); Claude gut-checks. Reddit crosspost title leads with Future +
+song names. Voice signature: "I hate that I love ___" also appears in *The Champ* (Lisa, Ch24) — own
+it deliberately.
+
+**GOING BIGGER — the essay is a 12-YEAR CAREER ARC, not just 2 songs (author, 2026-08-14):**
+- *Monster* dropped 2014; Future rose to prominence AS "the Monster." By 2026 he hasn't just ACCEPTED
+  the role — he's EMBRACED it, still making songs that acknowledge his flaws, still soaring. So
+  "acknowledge but won't address" isn't a moment — it's a sustained **12-year CHOICE the culture keeps
+  REWARDING.**
+- **Why stronger: DURATION = PROOF.** 12 years of him saying he's drowning + 12 years of us dancing
+  and paying = the "we make the Monster" complicity argument proven by how long it's run. Deepens the
+  self-implication ("I've hated-that-I-loved-it for a decade").
+- **STRUCTURAL REFRAME:** the two songs become the ORIGIN / birth of the Monster (2014, the deep read);
+  the 12-year reign is the body → complicity → the collapse ("I'm still dancing, I'm the Monster") →
+  the warning ("create more Monsters"). Seed → tree.
+- **HONEST REQUIREMENT: a 12-year claim needs 12-year EVIDENCE.** Keep the 2 songs as the deep dive,
+  but ground the arc with a few LANDMARK waypoints (2014 birth → a mid touchstone → a recent one — the
+  2024 Metro Boomin run is perfect: a decade later, still #1, same drowning-in-vices music = the thesis
+  proving itself). VERIFY the "still soaring in 2026" specifics himself (closer to real-time; accuracy
+  = the piece's credibility, both reviews flagged factual sloppiness).
+- **NOVEL TWIN (deliberate):** Future embracing the Monster = VLAD embracing the drowning (embrace the
+  dark → decade of dominance). Future = the real-world Vlad; unlike Chuck, he NEVER walks away from the
+  price. Essay = the man who kept paying the price of greatness 12 years; novel = the man who saw the
+  price and said no. One body of work, two answers.
+
 **Framing device (author, 2026-08-14): the Andre 3000 conundrum.** "He's the problem, he always
 has been" — accountability stays on Future. BUT the music reads as a cry for help hidden behind
 amazing beat selection — and **whether or not it's heard is lost upon the listener** (surface reads
