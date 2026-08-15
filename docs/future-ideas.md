@@ -217,3 +217,19 @@ opinion pieces** and other shorter non-fiction. A separate lane from the fiction
 obsessions already point at sports-corruption / cost of winning / toxic masculinity — analysis
 in the same vein as the nonfiction he reads), what platform, cadence, and whether it runs under the
 **Jack Moon** name or a separate byline.
+
+**Blog pieces in the pipeline:**
+1. **Future / "I Hate That I Love It"** — the flagship first piece (music analysis → 12-year cultural
+   argument). Full dev notes: `blog/future-throw-away-codeine-crazy.md`.
+2. **BASQUIAT (candidate, author 2026-08-15).** Jean-Michel Basquiat = a bullseye for Jack's lane —
+   the visual-art version of his whole obsession. Same wound, new medium.
+   - **The mask:** SAMO© — built a persona, then literally killed it ("SAMO IS DEAD"). Direct cousin
+     of "The Chosen" / Rob "Banks" / Future "the Monster."
+   - **The machine / complicity:** the art world, Warhol, the dealers profiting off a self-destructing
+     young Black genius = the "we feed the machine / we make the monster" thesis (same as the Future
+     essay).
+   - **Cost of fame paid in FULL:** dead at 27 — the price of greatness with NO walking away (the
+     anti-Chuck; the man who never got, or took, the chance to set it down).
+   - **When developed:** find the distinctly-HIS angle (NOT the thousandth tragic-genius / art-world-
+     exploitation take — his edge is the mask + the complicity); verify art-history facts (accuracy
+     traps, same as Future's catalog). STATUS: candidate, parked.
