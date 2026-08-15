@@ -233,3 +233,31 @@ in the same vein as the nonfiction he reads), what platform, cadence, and whethe
    - **When developed:** find the distinctly-HIS angle (NOT the thousandth tragic-genius / art-world-
      exploitation take — his edge is the mask + the complicity); verify art-history facts (accuracy
      traps, same as Future's catalog). STATUS: candidate, parked.
+   - **THE DISTINCTLY-HIS ANGLE / SPINE (author, told across sessions 2026-08-14/15 — consolidated
+     here so it doesn't live only in another session):** his own conversion narrative.
+     - Drawn in by the **MYTH of Basquiat + his ties to OCCULTISM** — the door he came through (not the
+       usual tragedy/money entry).
+     - **Didn't like the art at first — found it mostly REPULSIVE.** Preferred technical/representational
+       work (Hopper's *Nighthawks* — "pulls me in, makes me want to look and find more"). Basquiat was
+       the opposite: repelled him on contact.
+     - But when he actually **LOOKED**, he came to appreciate it → **"people just misunderstood him. He
+       always told you who he was and what he stood for."**
+     - **Why it's THE angle:**
+       - **Same thesis as the Future essay** — the artist was HONEST/legible all along; we misread him.
+         Basquiat "told you who he was"; Future narrates his drowning; both misunderstood. Basquiat = the
+         Future argument in paint.
+       - **Self-implicating (his signature):** he was one of the misunderstanders (found it repulsive)
+         and CHANGED — like "I was dancing" in the Future piece. Opening on his own repulsion disarms the
+         skeptical reader (most feel "my kid could do that" at first) — start where they start, then walk
+         them through the seeing.
+       - **MYTH vs. MAN = the mask/machine theme:** the art-world myth (legend/persona/occult aura) is
+         itself the misunderstanding — people consumed the myth instead of reading the man who was
+         telling the truth plainly. Came for the myth, stayed for the man.
+       - ***Nighthawks* contrast = polish vs. raw truth.** Possible self-reflective layer: mirrors his own
+         writing (raw-truth/gut-punch strength, growing into prose polish) — learning to see Basquiat =
+         learning to trust what he already does best. Offer only if it resonates; don't force.
+     - **Requirements when developed:** SHOW what Basquiat was "telling you" — decode the recurring symbols
+       (crown, words, anatomy, Black icons, the SAMO texts) and how people misread them (the piece needs
+       the actual paintings the way the Future essay needs the lyrics). VERIFY the occult/biographical
+       facts (documented vs. myth — and interrogating myth-vs-fact is itself on-theme). Accuracy trap,
+       same as Future.
