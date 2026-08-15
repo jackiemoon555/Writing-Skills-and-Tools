@@ -1099,3 +1099,126 @@ hunt & kill every first-person pronoun in non-Chuck sections.)
   (recurring); the "she screamed at me / I deflected" first-person POV slip (F-POV). None to be
   surfaced mid-draft. **NOTE: the "his new wife left him" ambiguity is NOT on this list — it's an
   INTENTIONAL device (Rob's emptiness/denial), see the Interlude 3 review above; do not "fix" it.**
+
+---
+
+## Pass 8 — Ch27–29 (the RELAPSE), dual review, 2026-08-15
+
+New pages (~985 prose words, shared in-chat; verbatim backup:
+`manuscripts/the-champ_ch27-29_snapshot_2026-08-15.txt`). Ch27 = Carl run/brother texture;
+Ch28 = Vegas arrival, the bubble pops, Rob reappears; Ch29 = the Rob dinner, Vlad crashes it,
+**Chuck relapses** ("I jumped off the wagon"). Checker run for the revision window:
+`reports/the-champ_ch27-29_checker_2026-08-15.md` (76 flags, parked — not surfaced per process).
+
+Process note: session-Fable read first in-chat; then formal dual review — blind Opus agent, then
+blind Fable agent (each scoped to ONLY the new pages, story+devices only, no ledger access).
+
+### WHERE ALL THREE READS CONVERGE (the real signal)
+
+1. **#1 BOTH BLIND REVIEWS: the relapse moment is underweighted at the point of decision.**
+   Offer → "I took it." in ~three lines; no interior fight, no flicker of Dad's promise (Ch19) or
+   Lisa's condition ("if you fall again, leave") at the exact moment their terms detonate. Opus:
+   reads "scheduled rather than tragic — a slope with no friction; tragedy needs a door he could
+   have walked through." Fable: "the biggest event since the comeback reads as fast as a scene
+   transition"; the Thump count is asked to carry the whole interior struggle and can't carry all
+   of it. Session read agreed but softer (the compression has visceral power; ONE flash-image of
+   what he's spending would arm it without slowing it). All three ask the same question: is the
+   absence of Dad/Lisa in his head **tunnel vision rendered** (the addict can't look = on-theme
+   avoidance to the last) or **omission**? Currently reads as omission — needs to be legible as
+   choice if it stays.
+   → **PARTIALLY ANSWERED by the author's plan (mid-session, 2026-08-15):** next session = Chuck
+   hurting those he loves, the repentance question, how much he slips, whether Lisa can forgive
+   again + heavy Lisa/Chuck development. The AFTERMATH is coming by design; the open craft item is
+   only whether the fall-moment itself marks their absence as the character's not-looking.
+2. **The support system is dismissed offstage.** Dad IDs the wolf, then exits unmarked ("I'll
+   catch up with you son") and never reappears; Carl — introduced as cornerman one chapter
+   earlier, "of course I was gonna come back" — vanishes for all of Vegas; Lisa unmentioned.
+   Fable: the structure the book built to prevent this exact moment "has to be evaded, argued
+   with, or lied to — not skipped — or the fall looks authorially arranged." Opus adds: Chuck's
+   yes to "just dinner" has no motive on the page (loyalty? ego at "champ"? boredom of the safe
+   world? — the qualifier shows he knows the danger; the scene never picks why he walks in anyway).
+3. **Vlad's truth-telling inversion = best thematic beat.** "Do the right thing Rob. Don't ruin
+   the man again, like you're ruining the law man" — the manufactured villain is the only person
+   at the table telling the truth; the fraud accusation keeps migrating (Vlad→Chuck earlier, now
+   Vlad→Rob, where it's TRUE); seeds the John arc through Rob (mask-maker confirmed on-page).
+   All three reads flagged the same two risks: **convenience** (Vlad materializes exactly during
+   Rob's bathroom run; nothing establishes fight week / why they'd share a room) and **mouthpiece
+   drift** ("the real price of glory" = the thesis spoken aloud; defensible in his worldview,
+   but he's one line from becoming the theme's spokesman — watch at the presser).
+4. **Rob characterization: the greeting is the gem, cartoon is the risk.** Rob greets people by
+   their highest-value past — "Chucky 'The Chosen' Miles" (resurrecting the name Chuck buried at
+   the rematch) and "former Olympic hopeful, Charles Miles" (introducing Dad by his abandoned
+   greatness). The mask-maker names everyone by their lost self — characterization purely through
+   address. But suit/watch/nose-rub/vial = devil-on-the-shoulder; in a no-villains book Rob is
+   running close to its only actual villain. The hedges both reviews want grown: the maybe-tear
+   at "you've always been one of my best friends" + "I loved Rob, but fuck" (affection surviving
+   clarity = the theme at full strength). Both independently ask: is the tear genuine or
+   chemical/performance? Which it is changes Rob entirely.
+5. **Ch27 is texture, not pressure.** Warm, distinct brother voices, but it ends on "I know what
+   you mean buddy" without turning; its thematic payload is delivered as statement, and Chuck is
+   never made to FEEL Carl's counter-life. Both praise the same line as the payload worth keeping:
+   **"Americas next biggest crashout" — Carl saw the price of greatness at 11 and declined it from
+   the start.** Session read: Carl = the control group; Chuck's planned endpoint (keep the
+   fighting, refuse the machine, walk away) is where Carl STARTED — when Chuck retires he becomes
+   his little brother. Load-bearing if pointed at.
+
+### DIVERGENCES (author's call)
+
+- **"I jumped off the wagon" — 2 vs 1.** Session-Fable + agent-Fable: the verb is the thesis
+  (agency in the fall; his first fully self-chosen act of the comeback is the relapse — answers
+  the passenger problem in the darkest way). Opus dissents: the line LABELS the meaning of an
+  action just watched, and "jumped" asserts a decision the scene never dramatized — the drift the
+  scene built contradicts the verb. Both can't be right on the page at once: if the verb stays
+  (it should), the scene owes a beat of the choosing.
+- **Thump count-grammar at the vial.** All read the same numbers (1→2→3→4 across Ch28; 4 again at
+  the vial; 5 after he takes it). Fable: proximity-meter crossing its max at the fall — works.
+  Opus: the 4-plateau reads as a stall UNLESS deliberate ("dinner WAS the fall; the vial a
+  formality" — sharp if intended). Opus adds: motif silent through the whole Vlad confrontation →
+  the rule is now legible as substance-danger, not threat-generally — decide it; it never fires in
+  silence (where dread lives); ending on ×5 writes a check for a 6.
+- **Wolf doubling (Fable catch):** Rob is Dad's "wolf in a nice suit," Vlad "smiled like a wolf"
+  in the same chapter pair — if both predators are wolves the image stops distinguishing them;
+  decide whether the equivalence (every predator here is the same animal) is the point. Session
+  read had taken the two-wolves-one-real-predator irony as the feature; genuinely ambiguous.
+
+### SINGLE-REVIEWER CATCHES WORTH KEEPING
+
+- **Opus: "don't ruin the law man" is thrown away** — Chuck just learned his best friend is being
+  destroyed by the same hand that destroyed him, and doesn't react at all. Strongest plot seed in
+  the pages, buried in a subordinate clause.
+- **Opus: the weight cut is raised and dropped.** "Looked hollow. Felt hollow" = free ammunition
+  (depletion wrecks judgment, the body pre-weakened before the vial) — never returns.
+- **Fable: public-restaurant plausibility strain** — the vial changes hands at a table minutes
+  after a public confrontation drew a crowd; compounds the speed problem.
+- **Fable: Ch27 speech attribution is genuinely ambiguous (story-relevant, not mechanics).** The
+  "I don't love what comes with fighting. I love fighting itself" philosophy is assignable to
+  either brother as punctuated ("Its not worth it. Besides you Carl…" reads as Chuck addressing
+  Carl, but the Asia follow-up makes the speaker Carl). WHOSE philosophy it is matters — it's the
+  book's counter-thesis.
+- **Open question both flagged (author is answering live): one-night slip vs. full slide before
+  the Vlad fight** — the correction the next chapters need differs enormously. Author (mid-session):
+  "How much does he slip?" is exactly what next session decides.
+
+### NEW CANON + AUTHOR NOTES (2026-08-15, mid-session)
+
+- **Dad's name = "Charles Miles," former Olympic hopeful** (Rob's greeting, Ch28). **AUTHOR:
+  unsure about a Chuck Sr. — "I like Chucky being his own man. His dad made his choice willingly,
+  Chucky did not."** The willing/unwilling distinction is thematic load: Dad CHOSE to walk away
+  from greatness (Olympics → raising Chuck); Chuck's fall was not chosen — and the planned ending
+  (Chuck walking away WILLINGLY) would be him finally making his father's choice. Reader-clarity
+  watch only: "Chuck/Chucky" is the natural diminutive of Charles, so readers WILL default to
+  Jr. — if Chucky is his own man, the page eventually needs to break that assumption (or the
+  names-as-inheritance system claims it deliberately). Author's call; do not push.
+- **Forward plan (author, verbatim intent):** next session = Chuck again hurting those he loves;
+  how can he repent AGAIN; how much does he slip; will Lisa be able to forgive him again; heavy
+  Lisa/Chuck development; **and finally detailing what happened between them BEFORE Chuck moved
+  to Florida** (the pre-Miami backstory — the oldest unpaid plant in the book).
+- Thump evolution note (session read): the motif now fires as CRAVING (slot machines, Rob's voice,
+  "champ," the vial) — its arc is fear → peace-by-absence → appetite. Protect the arc.
+- "Just like old times" appears twice — Carl at the run (the healthy past), Rob with the vial (the
+  poison past). Same phrase, two inheritances, Chuck takes both hands. If accidental, claim it.
+
+**Progress:** read Ch27–29 (in-chat text). Draft stands at Rodriguez WIN → warm stretch → Vegas →
+**relapse on the page.** Next to write (author): the fallout/repentance + pre-Florida Lisa
+backstory. The Vlad fight now happens with a lie inside it ("I'll know, Chuck" = the fight is a
+lie detector).
