@@ -1029,6 +1029,59 @@ Unifies Vlad + the retirement + the thesis into ONE decision. The thing the whol
   purest show-don't-tell + literally the voice of the future the broken cycle made possible. Big swing;
   or keep the son in-frame and let Carl (or another outsider) watch.
 
+## Fable INDEPENDENT review of the full back-half ARCHITECTURE (2026-08-15) — THE CRITICAL ONE
+Blind review of the whole day's plan. Verdict: architecture COHERES, but one contradiction it hadn't faced.
+- **#1 — CHUCK PAYS NOTHING (the ROOT; supersedes the scattered "guard the edge" notes).** The book
+  stands on "the price of greatness" — but only Vlad + Future pay. Chuck avenges his defining loss,
+  takes a belt, keeps sobriety, gets Nicole-closure, gets the son, walks away clean = a CLEAN WIN in a
+  no-clean-wins costume. The epilogue-tidiness worry is a SYMPTOM; the tidiness starts at the VLAD WIN.
+  **THE SINGLE MOST IMPORTANT FIX: make walking away COST Chuck something visible** — a loss/draw to
+  Vlad, a permanent absence, or the interim ASTERISK he can never remove. Then the epilogue can afford
+  its warmth, the twins claim becomes true, hope-with-a-wound becomes the real shape.
+- **#2 — TWO CLIMAXES, wrong one wins.** Vlad = the fight the book promised (the man who broke him) =
+  the EMOTIONAL climax; beating him = story's emotionally over, and a SECOND full fight (John) after =
+  a sequel in the falling action (bloat/anticlimax). **BRAVER OPTION: Chuck does NOT beat Vlad (loses
+  close / draws) and walks away anyway** — walking away only costs something if greatness was still
+  live; walking away AFTER avenging + taking the belt is retirement, not renunciation. One change =
+  Chuck's cost + kills the two-climax problem. If he keeps the win, the cost must land elsewhere,
+  visibly.
+- **John-fight stress points:** (a) in-world WHY — an interim champ's next fight is unification;
+  fighting his protégé needs airtight matchmaking logic + John credible as BOTH a top contender and a
+  man in a bottle; (b) HOW MUCH John is in Ch1–22 — the draw only lands if the reader LIVED his
+  betrayal / watching-Chuck-rot / inheritance (THE question to answer before drafting on); (c)
+  draw+collapse = melodrama trap → stage the draw at the SCORECARD read ("and STILL… a majority draw")
+  and THAT's when John breaks (the bureaucratic anticlimax is your friend); the arms-collapse must be
+  earned by inches or it's soap.
+- **INTERIM BELT = the built-in WOUND (fix + protect):** Vlad was "the champ Chuck lost to" but they
+  fight for an INTERIM belt (= the real champ is absent). If Vlad moved up (Makhachev parallel),
+  there's an UNDISPUTED champ Chuck never faces — thematically PERFECT (walks away holding the
+  asterisked belt, never undisputed = the asterisk is the wound) but only if STATED cleanly. Make
+  "interim" load-bearing; Chuck must NEVER be undisputed. Currently reads like an oversight, not a
+  choice.
+- **EPILOGUE — CUT Carl/Nicole (challenges the earlier plan).** Nicole marrying CARL = authorial
+  matchmaking + a your-brother-married-your-ex bomb + demotes Carl from the maskless witness to a plot
+  device. STRONGER: Nicole marries a STRANGER — her real life happened off-page, unseen by Chuck, which
+  IS the point of her interlude. Chuck watching her marry a man he doesn't know = the theme; marrying
+  his brother = a bow. Epilogue has 4–5 bows (wedding, reconciliation, son, becomes-father mirror,
+  child POV) → pick the LOAD-BEARING image (the SON = the answer to Vlad's unlived life), let the rest
+  be glimpsed/incomplete. (Also: resolving Nicole's "no one saw me" via marriage-to-the-right-man is
+  itself a thin fix — handle with care.)
+- **PROTECT (genuinely strong):** the Vlad BACKSTAGE scene (relates-not-consoles, cold mask-drop) =
+  best idea of the day + where the "twins"/Future link lives IN the fiction (Vlad IS the Future figure)
+  — NEVER warm it up. Sobriety-as-avoidance = sharp engine; fame-gauntlet as its arena = right.
+  Retirement logic (saw the receipt, declined) = a real ending — just needs to cost him.
+- **TWINS claim: real, but a COMPASS not a blueprint.** Danger: "Monster vs. redeemed man" licenses the
+  tidiness (Chuck's rewarded exit = the "answer" to Future → morality diagram). Honest only if BOTH pay
+  (Future = unlived interior; Chuck = must pay too). Let the twinship push toward a WOUNDED epilogue;
+  never justify a beat the story doesn't independently need.
+- **SCOPE — sound, but ARITHMETIC problem.** NOT cathedral-building (prose drafted same day; essay is
+  executable; one obsession → two forms is how essay-novelists work). BUT the back half as planned (2
+  fight builds, 2 fights, the backstage aria, John's collapse arc, retirement, wedding epilogue) =
+  15–20k min on top of 26 chapters in a 30–38k book → count grows OR beats STARVE (starved beats =
+  melodrama). **PRESCRIPTION: draft the VLAD ARC NEXT; let it tell you whether the John fight survives,
+  shrinks, or BECOMES the finale. Decide NOTHING else about the epilogue until Vlad's backstage scene
+  exists on the page.**
+
 ## Mechanics priority (author ruling, 2026-08-14, REFINED) — story only mid-draft
 Author: grammar isn't the focus at this stage — cohesive, fluid, readable story is; "grammar is
 easy" (a later cleanup pass). **POV slips included — author: "stupid easy fixes, they don't bother me
