@@ -105,3 +105,13 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
 - Sprint math: ~16.2k left to ~30k with ~2 days to Sunday. Aggressive vs. the 4,659 best day.
   **Guardrail stands: ending > deadline** — if forced to choose, give the draw finale the writing
   it needs and miss Sunday.
+
+## 2026-08-15 — Ch27–29 shared in-chat (~985 prose words; count pending export)
+- **Ch27–29 pasted in-chat** (~985 words prose-only from the pasted text — an in-chat measure, NOT
+  the export ruler; finalize the day's clean number at the next MD5-verified `.docx` export).
+- Content: Carl run (Ch27) → Vegas arrival, Rob returns (Ch28) → the Rob dinner, Vlad crashes it,
+  **THE RELAPSE — "I jumped off the wagon"** (Ch29). The bubble-pop beat, on the page.
+- Dual review (Opus + Fable, blind) logged as **Pass 8** in `reports/the-fighter.room.md`; checker
+  report parked at `reports/the-champ_ch27-29_checker_2026-08-15.md` (76 flags, revision-window).
+- Author's next-session plan: the fallout — repentance, how deep the slip goes, Lisa's forgiveness
+  tested, + the pre-Florida Lisa/Chuck backstory finally detailed.
