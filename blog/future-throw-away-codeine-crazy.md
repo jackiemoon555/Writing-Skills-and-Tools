@@ -69,6 +69,12 @@ reads + ~3–4 waypoints SPREAD across the timeline is plenty; each waypoint = a
   evidence, ONLY if he chooses to go there) · + more TBD (author to dig).
 - Still need: a MID-timeline beat or two (between 2015 and 2024) to complete the arc. Claude offered to
   verify album+year for the whole list against sources on request.
+- **SHELVED IDEA (author 2026-08-14, "kinda got over it" — revisit if desired):** use his OWN Apple
+  Music play counts to surface his most-played Future songs = the truest "I hate that I love it"
+  evidence (the songs he can't quit, straight from his behavior). How, when he wants it: Apple Music
+  **Replay** (replay.music.apple.com → Top Songs, ranked by plays, month selector) for the phone view;
+  a desktop **Smart Playlist** (Artist = Future, sort by Plays) for the exact ranked list (syncs to
+  phone once made). Not a priority — parked.
 
 **Framing device (author, 2026-08-14): the Andre 3000 conundrum.** "He's the problem, he always
 has been" — accountability stays on Future. BUT the music reads as a cry for help hidden behind
