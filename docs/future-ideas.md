@@ -261,3 +261,36 @@ in the same vein as the nonfiction he reads), what platform, cadence, and whethe
        the actual paintings the way the Future essay needs the lyrics). VERIFY the occult/biographical
        facts (documented vs. myth — and interrogating myth-vs-fact is itself on-theme). Accuracy trap,
        same as Future.
+
+## PROJECT FAMILIES — the "5 Families" shared criminal-underworld WORLD (added 2026-08-16)
+
+**STATUS: STARTED (not just vaulted) — lives in Google Docs as a SIDE project.** The author's
+two-lane system (his call, 2026-08-16): **Reedsy = MAIN projects only** (The Champ now) so the
+work-accessible tool stays focused on the one live priority; **Google Docs = side projects**
+(this). Logged here so the vault knows the world exists; do NOT develop it until he brings pages.
+
+- **The world: "Project Families"** (working label) — a five-families criminal underworld.
+  Goal: establish the underworld through a **SERIALIZED series** rather than one novel.
+- **First series in the world: the LONGSHOREMAN SERIES.** Serialized; underworld-establishing.
+- **⭐ SHARED-UNIVERSE CONNECTION TO *THE CHAMP*:** "There's a mob connection to Charles and his
+  drug thing." The Families world supplies/touches the drug pipeline in *The Champ* — which would
+  make The Champ part of a connected universe.
+  - **Strategic weight (from his own playbook):** connected books = one of the three named
+    mitigations for the genre-agnostic read-through problem (`docs/self-pub-playbook.md`). A
+    shared underworld that threads through otherwise-standalone books is the backlist engine
+    answering its own biggest weakness. This is the first concrete act of catalog architecture.
+  - **OPEN CANON QUESTION — which Charles?** Dad is "Charles Miles" on the page (Ch28); the
+    addict with the "drug thing" is Chuck; and the Chuck-Sr. question is explicitly OPEN (author:
+    "I like Chucky being his own man"). Clarify who "Charles" is before this thread hardens. If
+    it's Chuck: the mob sits behind Rob's vial/supply — a revision-pass consideration for The
+    Champ, not a now-thing.
+- **Fit check (honest):** a mob/underworld serial is squarely the connective tissue — masks,
+  power's moral cost, men performing loyalty. Serialization also matches the habit thesis
+  (below) and the DCC/serial influence lane.
+- **Habit context (author, 2026-08-16, near-verbatim):** he must write daily to make it habit —
+  "if I sit too long I won't get around to it and I won't finish. Which is why I have so many
+  unfinished projects. Now I need to get in the habit of finishing." The side lane exists in
+  service of the daily habit, NOT as a second priority. **Guardrail (standing rule, his own):
+  The Champ first draft remains THE one live priority; the Longshoreman Series gets drafting
+  minutes only as overflow, and planning/worldbuilding for it stays parked until The Champ's
+  draft is done.**
