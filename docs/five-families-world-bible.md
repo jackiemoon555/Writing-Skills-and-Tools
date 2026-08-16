@@ -171,6 +171,25 @@ too useful to destroy.
   delivery kid) spends a day with a pleasant forgettable old man; POV never learns who he
   is; the reader keeping count knows. Nothing happens. Fallout format aimed at the man
   who caused the fallout. NOT LOCKED — author to decide.
+- **ENDING DIRECTION CHOSEN (author, 2026-08-16): he's a PAWN whose reveal exposes the
+  TRUE EVIL** — via an INVERTED STILLWELL SCENE: the world-evil/BBG gets its use from him
+  and lets him go, "deeming his death worth nothing." Why this preserves the archetype's
+  ego (author's own concern — his inspirations were never pawns): **he never stops
+  believing he's the king and is never outplayed** — every scheme worked; the reveal
+  reframes the BOARD, not his competence. His Paperclip (sheltering the dark magi as
+  "his" assets) WAS the true evil's entry vector — his masterstroke was the door. The
+  ultimate user, revealed as used. The scene's mechanism: his priced-in-death defense
+  presumes the adversary WANTS something from killing him; the true evil wants NOTHING —
+  his files don't reach its altitude, his death purchases nothing — appraisal: NOT WORTH
+  THE EFFORT. Left ALIVE as the cut. Fuses with the Dulles fate: the alone/obsolete
+  ending now lands AFTER he knows. Punishment = devaluation, with decades to sit in it.
+  ⚠ STAGING FLAG (trilogy-level, decide deliberately): the trilogy's open Charles
+  decision already has "pawn of the larger order" as keystone option — two pawn-reveals
+  must COMPOUND, not repeat: one systematic revelation at two scales ("the board was
+  never anyone's" — family level via Charles, state level via the spymaster), bound by
+  the irony that Charles's creed ("everybody is a tool") IS the true evil's signature at
+  world scale. Decide reveal ORDER + whether the reader connects them before the
+  characters do.
 - **Research (when ready):** Talbot, *The Devil's Chessboard* (author partway through —
   FINISH); Jacobsen, *Operation Paperclip*; Weiner, *Legacy of Ashes* — squarely in the
   corruption-nonfiction lane.
