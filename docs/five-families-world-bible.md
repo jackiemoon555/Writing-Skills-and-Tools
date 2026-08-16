@@ -66,6 +66,39 @@ ledger ARE the prepared world. Created 2026-08-16.
 - Small-canon room: districts as family territory, black markets, the undercity —
   side projects may build these freely (log here).
 
+## Moral architecture (author, 2026-08-16)
+
+**The "no villains" philosophy does NOT exist in this world** (it's Champ-only — matches
+the scoping decision in the trilogy ledger). Project Family aims at the BIGGER PICTURE:
+corporate greed, institutional rot, people absolutely selling each other out and using
+whoever's at their disposal to further an agenda. Real villains, by design — complexity
+comes from interiority, not from absolving anyone.
+
+## The Dulles figure (canon-candidate, 2026-08-16 — author heavily interested)
+
+An **Allen Dulles-type inside the families' government**: a spymaster/intelligence chief
+whose institution is indistinguishable from his personal agenda — public servant mask over
+a private empire. Historical model: Dulles-era CIA (coups for corporate clients = the
+world's corporate-greed frame), Operation Paperclip / the Gehlen Org / the ratlines — the
+state SECRETLY HARBORING the monsters it publicly defeated because their capabilities were
+too useful to destroy.
+
+- **World translation (proposed):** the purge of the dark magi was incomplete ON PURPOSE —
+  he sheltered/recruited dark magic users as assets while public history says extermination.
+- **Three gifts:** (1) BLOWBACK engine — the sheltered monster slips the leash. Possible
+  masked-man origin: he was an asset, which would explain his impossible knowledge of
+  everyone's secrets. ⚠ BIG CANON — the masked man's identity is a trilogy decision; no
+  side project commits this. (2) THE PORT — the historical ratlines were shipping routes;
+  sheltered assets would move through Vinny's docks as cargo nobody logs. Direct
+  Longshoreman Series hookup. (3) THIRD VILLAIN POLE — Charles rots the families from
+  inside; the dark order presses from outside; this man rots the STATE that's supposed to
+  check both.
+- **Craft rule: play him BANAL.** The horror is paperwork — memos, euphemisms,
+  administrative calm. The most pleasant man in every scene. (Counterpoint to the clap
+  villain's theater.)
+- **Research (when ready):** Talbot, *The Devil's Chessboard*; Jacobsen, *Operation
+  Paperclip*; Weiner, *Legacy of Ashes* — squarely in the corruption-nonfiction lane.
+
 ## The underworld layer (new — being built by the side projects)
 
 **One underworld, three windows:**
