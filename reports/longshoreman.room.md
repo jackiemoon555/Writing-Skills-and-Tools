@@ -92,3 +92,13 @@ only while *The Champ* is live; no worldbuilding development sessions until that
   (2–4 eps) before publishing Ep1 — serials die from broken cadence, and a buffer also lets
   early episodes be revised against later canon while they're still private.
 - **Platform: UNDECIDED** — band fits all candidates; venue choice can retune later.
+
+## DECIDED — publication architecture + week plan (author, 2026-08-16)
+- **Home: ONE Substack (Jack Moon), two sections** — essays/analysis + fiction (this serial).
+  Subscribers opt in per section; one brand, one mailing list. **Later bolt-ons (logged, not
+  now):** Royal Road as a discovery MIRROR once a buffer + cadence exist (Substack stays
+  canonical home/list); collect a season into a KDP ebook ("Season One" omnibus → backlist title).
+- **This week's plan (author):** finish Ep1 (grammar fixes + the pre-pub decisions above), draft
+  **Ep2 + Ep3, capped ~1k words each** — **ONLY AFTER 1–2k words/day on The Champ first.**
+  The ordering rule IS the guardrail: Champ floor first, serial as overflow/reward. Eps 2–3
+  = the buffer bank before anything publishes.
