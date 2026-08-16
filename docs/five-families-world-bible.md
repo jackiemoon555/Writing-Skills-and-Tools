@@ -230,6 +230,25 @@ Sobotka figure himself may not fully see. The port is an asset the state built a
 burn to protect. Deepens the kidnap: taking the boss's son = tampering with the
 spymaster's arrangement, not just leverage on a union boss.
 
+## The Wraiths (CANON — named by author 2026-08-16)
+
+**The world's elite kill teams.** The name for the apparatus canon has been gesturing at
+all along:
+- **Lloyd "the War Hound"** (trilogy, Interlude 2): history-wiped super-mercenary who
+  "killed two of the last three dark magic users" — Wraith work. Candidate: Lloyd was an
+  ex-Wraith (unconfirmed).
+- **The spymaster's convenient deaths need hands** — Wraiths are the hands (his cleaning
+  service's field teams).
+- **Heist game hookup:** the max-vendetta enforcer tier now has its proper noun — "they've
+  sent a Wraith."
+- **⚡ CANDIDATE CONNECTION (not locked): Episode One may already show a Wraith operation.**
+  Vinny's abduction — air moving unnaturally, taken silently, a professional's clean
+  snatch — reads like an elite magical team executing a RETRIEVAL. If so, the Longshoreman
+  spine mystery and the Wraiths fuse. Decide deliberately (touches the kidnap reveal).
+- Open: who do Wraiths answer to — the crown, the spymaster's office, per-family teams,
+  or all three (competing kill teams = free conflict)? Small-canon room in texture,
+  big-canon in command structure.
+
 ## The underworld layer (new — being built by the side projects)
 
 **One underworld, three windows:**
