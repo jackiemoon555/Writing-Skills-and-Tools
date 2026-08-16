@@ -1222,3 +1222,12 @@ blind Fable agent (each scoped to ONLY the new pages, story+devices only, no led
 **relapse on the page.** Next to write (author): the fallout/repentance + pre-Florida Lisa
 backstory. The Vlad fight now happens with a lie inside it ("I'll know, Chuck" = the fight is a
 lie detector).
+
+### REVISION ITEM (author-filed, 2026-08-16) — Ch28–29: weight, not bite
+Author asked "do the last two chapters need more bite?" → ruling filed for the revision pass:
+**NO more menace/edge** (bite is already at max — Vegas, Rob, Vlad, the vial; louder = Rob tips
+into cartoon). The fix is **WEIGHT AT THE TURN:** slow the relapse by ONE beat between "He reached
+a hand" and "I took it" — make the reader watch him CHOOSE (earns "jumped"); give his yes to the
+dinner a motive on the page; and either flash what he's spending (Dad's promise / Lisa's terms) or
+render the NOT-looking as his act (avoidance to the last), not the page's omission. Ch27's related
+touch: let Carl's counter-life land ON Chuck (pressure), not end warm.
