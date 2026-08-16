@@ -1231,3 +1231,14 @@ a hand" and "I took it" — make the reader watch him CHOOSE (earns "jumped"); g
 dinner a motive on the page; and either flash what he's spending (Dad's promise / Lisa's terms) or
 render the NOT-looking as his act (avoidance to the last), not the page's omission. Ch27's related
 touch: let Carl's counter-life land ON Chuck (pressure), not end warm.
+
+### RULING + REVISION DECISION FILED (author, 2026-08-16) — Charles/Chucky names
+Author: as of now there are **NO intended connections between the names** — Dad = "Charles Miles"
+(Ch28) and "Chucky" were named independently; the author **did not know Chuck/Chucky is the
+standard diminutive of Charles** (accidental collision, not a plant). Decision SAVED FOR REVISIONS.
+The either/or for that pass: **LEAN IN** (Chuck = Charles Jr.; joins the names-as-selves system;
+the willing/unwilling distinction still holds — the book becomes him choosing WHICH Charles Miles
+to be) or **BREAK IT** (one on-page beat establishing Chuck's distinct legal name — announcer /
+DUI paperwork / Lisa — or rename Dad). Default-reader assumption is Jr.; silence = lean-in by
+accident. Related: the Project Families "mob connection to Charles and his drug thing" thread
+(see future-ideas vault) inherits this same open name question — resolve both together.
