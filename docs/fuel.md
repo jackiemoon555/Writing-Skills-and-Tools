@@ -20,3 +20,14 @@ here."** The athletes don't move you because they won. They move you because the
 after what should've ended them. That's the writer you're becoming — same defiance, quieter arena.
 
 ---
+
+### THE GRIND CREDO — his own words (2026-08-16)
+*"I'm gonna push myself and try to keep a high tempo pace. I believe that a grind is the best way
+forward. The more active my mind is, the more I come up with and the better I start to write."*
+
+Activity begets ideas — motion is his muse, not rest. The evidence so far backs him: his biggest
+word day (4,659) was also a big structural-idea day, and the Ch27–29 relapse pages + the
+Longshoreman world both came out of the highest-tempo week yet. Full load, week of Aug 17:
+The Champ (1–2k/day first) + Ep1 fixes + Eps 2–3 (~1k each) + the week-1 comp entry.
+The tracker keeps the honest score: the Champ daily number is the one metric that tells us
+whether the grind is feeding the main book or quietly displacing it.
