@@ -135,6 +135,19 @@ too useful to destroy.
   ("winning lets you be the worst version of yourself") in its final form: not being
   corrupted — FINISHED corrupting, comfortable, done pretending. Chuck = what the fall
   looks like; this man = what never falling looks like.
+- **His signature: the convenient death (2026-08-16).** Modeled on the author's JFK lens
+  (held carefully: orchestration NOT proven fact and never claimed — but the pattern of
+  everyone-charged-dying-conveniently is too loud to unsee; parts are congressional
+  record — Oswald killed in custody pre-trial, the CIA's own admitted "benign cover-up"
+  of what it withheld from the Warren Commission, HSCA's 1979 "probable conspiracy").
+  CRAFT RULE: never show an order, never confirm a kill. The world just accumulates
+  coincidences — every witness/accused/testifier dying PLAUSIBLY (aneurysm, mugging,
+  natural causes at the wrong moment). Each death defensible alone; the pattern
+  undeniable in aggregate — but only to a reader keeping count. The reader becomes the
+  conspiracy theorist who happens to be right (mirrors how the author built his own JFK
+  lens). Mechanism available: sheltered dark-magi assets = deaths that read as natural.
+  Runway already in trilogy canon: a century of royal-mage killings + Jonathan Sinclair's
+  1914 assassination — he may be the CURRENT CUSTODIAN of a very old cleaning service.
 - **Research (when ready):** Talbot, *The Devil's Chessboard* (author partway through —
   FINISH); Jacobsen, *Operation Paperclip*; Weiner, *Legacy of Ashes* — squarely in the
   corruption-nonfiction lane.
