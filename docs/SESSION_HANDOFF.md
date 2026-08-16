@@ -30,13 +30,14 @@ yet**; finishing is the skill to build. Everything else is parked and captured. 
 unless he asks.
 
 ## *The Champ* — current state
-- Prose-only count: **~13,836 words** (in progress 2026-08-14, **+2,218 on the day**; prev baseline
-  11,618; finalize at the next MD5-verified export). Purely additive — the dissociative restructure of
-  the middle is a PLANNED revision, not executed.
-- **Drafted through Ch26** (+ a Rob interlude, Interlude 3): Rodriguez rematch WIN (Ch21–22) → post-win
+- Prose-only count: **~15,000 words (~50%)** (author-reported 2026-08-16, covers through 08-15; prev
+  measured baseline 13,836; finalize at the next MD5-verified export). Purely additive — the
+  dissociative restructure of the middle is a PLANNED revision, not executed.
+- **Drafted through Ch29** (+ a Rob interlude, Interlude 3): Rodriguez rematch WIN (Ch21–22) → post-win
   aftermath (plane home, family, the **Lisa reconciliation** that fixes the old Ch17 problem, brother
-  **Carl** introduced as cornerman, the **Vlad interim-title fight announced**). Rob interlude WIP is
-  backed up in `manuscripts/`.
+  **Carl** introduced as cornerman, the **Vlad interim-title fight announced**) → Carl run (Ch27) →
+  Vegas, Rob returns (Ch28) → the Rob dinner, Vlad crashes it, **THE RELAPSE — "I jumped off the
+  wagon" (Ch29)**. Rob interlude WIP + Ch27–29 are backed up verbatim in `manuscripts/`.
 - **⭐ THE ENTIRE BACK HALF IS NOW ARCHITECTED (2026-08-15) — see the recent dated sections of
   `reports/the-fighter.room.md`.** Ending mapped spine-to-epilogue: **Vlad arc** (the fame/temptation
   test; Chuck's sobriety = avoidance, the fight drags him back out) → **John fight** (a DRAW; John
