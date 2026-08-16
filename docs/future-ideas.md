@@ -301,3 +301,77 @@ Chucky from *The Champ*. The names are unconnected as of now (author ruling); th
 shared-universe/read-through framing was Claude's over-read — a Champ crossover remains only a
 revision-time possibility, not canon. Series engine (Ep1): an unknown force is TARGETING the five
 families; Vinny's kidnapping (dark magic) = leverage against his dad.
+---
+
+## THE LONGSHOREMAN SERIES (2026-08-16) — episodic prose, Five Families world
+
+**What exists:** Episode One — "Vinny" drafted 2026-08-15 (Google Doc, untitled; verbatim
+snapshot: `manuscripts/the-longshoreman_snapshot_2026-08-16.txt`). Vinny, reluctant son of the
+union/underworld boss, works the night-shift underbelly of the port with veteran Tony; a pickup
+at an unmarked container goes wrong — Tony beaten, Vinny attacked by something in the dark.
+Confirmed in-world: "even in this fucked up world of magic" — this is the FIVE FAMILIES universe
+(port-level view).
+
+**Inspiration:** *The Wire* season 2 (the Sobotka arc) — author-stated, heavy. The reluctant
+next-generation son forced into the family's dock rackets is straight from that DNA (and also
+Will Sinclair's exact wound: the heir who never wanted it — the port-class echo of the trilogy).
+**Plus (author-identified 2026-08-16): Sanderson + GRRM.** Sanderson's Stormlight interludes =
+reaction-shots proving scale through fallout on ordinary people; GRRM = smallfolk POV as where
+the great game's COST is measured, and his prologue format (minor POV meets something vast,
+doesn't walk away) is literally Episode One's shape. The series' twist on both: reaction-shot
+as the WHOLE format, not seasoning — fallout-as-series. CRAFT BAR (every episode): the POV
+needs their own WANT that the fallout crashes into — a witness-only POV is a camera, not a
+character. (Ep One passes: Vinny wants IN on the family business; the night answers horribly.)
+
+**Strategic role (author, 2026-08-16):** the longshoreman series is the FILL-IN / land-side for
+the PIRACY that will exist in this world. The problem it solves: modern piracy can't support
+Blackbeard-scale figures (satellites, navies, container logistics killed the frontier). The
+world's answer: magic re-opens the frontier — warded ships defeat modern surveillance, and the
+families' BLACK cargo can't be reported stolen (the legality fork at sea), so pirate legends can
+grow unopposed in that silence. Blackbeard was always THEATER (terror-as-persona = mask/fame
+DNA) — the world's thematic machinery produces him naturally.
+
+**One underworld, three windows:** longshoremen = the intelligence network (who knows which
+container holds what) → pirates = the strike arm at sea → the heist game (NYC ports district) =
+the playable layer. Keep ONE canon across all three; trilogy ledger remains source of truth.
+
+**Structure (author, 2026-08-16) — weekly-comic model:** episodic anthology. Each episode =
+a different POV character on the port/underworld, with some recurring (Vinny). Each episode
+needs its own hook → small arc → exit hook while feeding a long mystery spine. FIRST SPINE
+PROMISE: **Vinny was KIDNAPPED (taken, not killed) — the why is a planned long-game reveal.**
+Fair-clues rule applies (reveal must be "there all along" on reread). Keep a thread ledger
+(what's planted, who's appeared, what's owed). Cadence model = weekly comic-book pubs.
+
+**Strategic stance (author, 2026-08-16) — "opposite GRRM":** the trilogy is the main point;
+ALL side material in this world is disposable scaffolding. Worst case it gets retconned/remade
+after the trilogy is complete — it will have served its purpose (worldbuilding + reps) by then.
+Side projects serve the main thing, never eat it. (Retcon-insurance = freedom while drafting,
+not a plan to burn good material.)
+
+**Flag for later (not a now-decision):** a weekly serial in the trilogy's world doubles as a
+free audience on-ramp for the world before the trilogy ships (Royal Road-style serial platforms;
+DCC's lane). Revisit when pipeline allows.
+
+**Vinny's family (author's initial direction, 2026-08-16):** longshoreman is the FAMILY
+BUSINESS — generational line, Vinny next in it; **dad = the boss, the Frank Sobotka of the
+port.** Already seeded in Ep One: "long line of longshoremen," "daddy's boy," an oldest
+brother (unnamed), the locked door ("I just wish he'd let me in").
+- **The Sobotka engine (what to keep):** Frank's crime serves a DOOMED CAUSE (saving the
+  union from containerization), and his family pays. World-native translation: **magic is
+  this port's containerization** — one mover-mage replaces fifty men; the union survives on
+  the families' sufferance; dad moves "extra weight" as the devil's bargain that keeps his
+  men employed. Useful to the very powers strangling his people = Frank-grade tragedy,
+  not borrowed.
+- **Father mirror (trilogy symmetry):** Charles forces his son IN (bred as a weapon);
+  Vinny's dad keeps his son OUT (protection as love). And the protection FAILED — which
+  suggests the spine answer: Vinny was taken BECAUSE of who his father is (leverage). The
+  "why Vinny" reveal and the "what has dad been moving, for whom" reveal = one mystery.
+- **Family as episode engine:** each member is an issue — the oldest brother who DID get
+  let in and what it cost; the mother who knows more than anyone says; a Ziggy-slot
+  sibling (desperate for standing — differentiate: chases illicit MAGIC, not money; ties
+  to the world's everyone's-juiced-on-power theme).
+- **Craft flag:** homage stays structural, never surface — no near-Sobotka names or
+  beat-for-beat retreads.
+
+**STATUS: VAULT / EPISODIC SIDE-PROJECT.** Doesn't block the pipeline (The Champ → monthly
+novellas → Forgotten).

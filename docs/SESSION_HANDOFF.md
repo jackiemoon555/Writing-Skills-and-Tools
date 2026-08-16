@@ -127,10 +127,49 @@ unless he asks.
   strong proof-of-creation already.
 
 ## Immediate next action
-**Draft the VLAD ARC next** (Fable's prescription — stop planning; let the pages tell you whether the
-John fight survives, shrinks, or becomes the finale; decide nothing else about the epilogue until
-Vlad's cold backstage "relates-not-consoles" scene exists on the page). The load-bearing craft goal
-throughout: **make walking away cost Chuck a visible price** — the whole ending stands on it. Keep
-Chuck **active**; lean on the **"I'm still here"** spine; when he shares pages, read **only those
-pages** (story + craft, grammar parked). *(Alec paused the session on 2026-08-15 feeling the scope —
-reassure: architecture is sound, not cathedral-building; the next move is simply drafting one arc.)*
+**Draft the VLAD-ARC FALLOUT next** — the relapse is on the page (Ch29, "I jumped off the wagon");
+Alec's own next-session plan: repentance, how deep the slip goes, Lisa's forgiveness tested, and
+the pre-Florida Lisa/Chuck backstory finally detailed. (Earlier prescription stands: stop planning;
+let the pages tell you whether the John fight survives, shrinks, or becomes the finale; decide
+nothing else about the epilogue until Vlad's cold backstage "relates-not-consoles" scene exists on
+the page.) The load-bearing craft goal throughout: **make walking away cost Chuck a visible price**
+— the whole ending stands on it. Keep Chuck **active**; lean on the **"I'm still here"** spine;
+when he shares pages, read **only those pages** (story + craft, grammar parked).
+
+---
+
+# ADDENDUM — Session 2026-08-16 (world-building + games session)
+
+**One big morning session, all capture/vault — the ONE LIVE PRIORITY above is UNCHANGED
+(The Champ first; no words were drafted this session).** PR #4 (this material) and PR #3
+(the 08-14/08-15 sessions) were both **MERGED to main on 2026-08-16** at Alec's direction;
+PR #2 was closed as superseded (all its commits were contained in PR #3).
+
+## What got built (read these before discussing the Five Families world)
+- **`docs/five-families-world-bible.md`** — NEW, the cross-project canon hub for the
+  fantasy world ("Project Family" = the trilogy). Small-canon/big-canon guardrails; the
+  legality fork promoted to world canon; **the spymaster** (Dulles/Varys/Stillwell
+  composite villain — CANON, cross-project, fully specified incl. ending direction);
+  **the Wraiths** (contract-bound elite kill teams — CANON); the waterfront pact;
+  piracy logic (magic re-opens the frontier; Blackbeard-scale figures wanted); notes to
+  future-me (brand needs teeth; a cult, no specifics). ONE SHELVED QUESTION: is the
+  spymaster actually Charles? (Both positions logged; Alec will answer BY WRITING.)
+- **`docs/heist-game-design.md`** — NEW, full design ledger for a text-first mobile
+  heist game (DD-inspired: 3 meters, loud/stealth class split, setup-job windows,
+  ledger-reading final job, NYC, comp stack). Vault only.
+- **`docs/game-ideas.md`** — NEW vault for game ideas (heist game + a Hitman-style
+  assassination game concept).
+- **`manuscripts/the-longshoreman_snapshot_2026-08-16.txt`** — NEW verbatim snapshot:
+  **The Longshoreman Series Episode One ("Vinny")**, drafted 8/15 in a Google Doc
+  (untitled there). Five Families world confirmed in-text. Vault entry + full structure
+  notes in `docs/future-ideas.md` (weekly-comic anthology, Wire-S2 + Sanderson + GRRM
+  lineage, dad = the port's Frank Sobotka, **Vinny was KIDNAPPED — spine reveal
+  pending**, possibly a Wraith retrieval contract).
+- **`docs/gaming-preferences.md`** — NEW: Alec's gaming tastes + standing rec queue.
+
+## Open items from this session
+1. **Steam library share pending** — Alec will paste library screenshots (Steam domains
+   are egress-blocked from Claude's environment; he must paste images/text) for a
+   "play next" verdict against `docs/gaming-preferences.md`.
+2. The shelved spymaster-vs-Charles question — do NOT reopen unless he does.
+3. All world-building remains VAULT — do not develop further unless Alec initiates.
