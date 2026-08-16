@@ -103,8 +103,9 @@ unless he asks.
   Football**, + the **BLOG / non-book pipeline** (Future essay #1; **Basquiat** candidate #2). Blog =
   Substack home base (decided); parked post-draft.
 - `docs/self-pub-playbook.md` — editors, costs, marketing, comps
-- **Substack: `@jackmoonwrites`** (https://substack.com/@jackmoonwrites — account created
-  2026-08-16). Architecture DECIDED: ONE publication, two sections (essays + fiction/serial);
+- **Substack: LIVE at `jackmoonwrites.substack.com`** (profile `@jackmoonwrites`; publication
+  created 2026-08-16, empty by design). Remaining setup: two sections (essays + fiction) via
+  desktop Settings before first post; verify author name = Jack Moon only. Architecture DECIDED: ONE publication, two sections (essays + fiction/serial);
   everything free (no paid tier — the list is the asset); RR mirror + season omnibus = later.
   Launch is parked until The Champ draft + an episode buffer exist. Blog lane = priority 3.
 - `docs/PROJECT_CONTEXT.md` — older canonical catch-up doc (holds the standing no-ghost-writing +
