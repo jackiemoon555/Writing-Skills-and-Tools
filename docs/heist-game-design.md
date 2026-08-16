@@ -106,6 +106,17 @@ CHOICES, not your stats.
   (2) author's ending signature = no clean wins — consider endings that vary by ledger
   even in VICTORY: what did it cost, who walks out. The draw-not-a-win, playable.
 
+**Low-prep viability (DECIDED 2026-08-16):** the final job must be beatable with
+minimal prep by min-maxers / tactical players. Rule: **prep buys certainty; skill pays
+the markup.** NO hard gates — every prep item has an in-mission alternative that costs
+live resources at a steep markup (no ward-key → the Cracker forces it at huge heat +
+Nerve cost; security not burned down → a virtuoso distraction can still move them).
+Prep = converting hidden information to known; a cold run is an information problem
+only system-mastery can solve. Balance note: the markup must be STEEP — a cold clear
+should feel like a draw won on heart (barely, bleeding, down a crew member), or prep
+retroactively feels pointless. Free prestige artifact: "the cold run" as the
+community's badge-of-honor challenge (DD torchless equivalent).
+
 ## Setting (DECIDED: NYC) + home base
 
 - **NYC — already canon:** the trilogy puts the legacies through NYU and hides the
