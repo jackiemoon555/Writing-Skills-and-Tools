@@ -102,3 +102,20 @@ only while *The Champ* is live; no worldbuilding development sessions until that
   **Ep2 + Ep3, capped ~1k words each** — **ONLY AFTER 1–2k words/day on The Champ first.**
   The ordering rule IS the guardrail: Champ floor first, serial as overflow/reward. Eps 2–3
   = the buffer bank before anything publishes.
+
+## DECIDED — Ep2 = the family approach, brother POV (author, 2026-08-16)
+- **Author commits to the FAMILY-AS-EPISODE-ENGINE approach** (vaulted 2026-08-16 in
+  future-ideas.md, now canon for the series): each family member is an episode.
+- **Episode Two = one of Vinny's brothers.** Which brother (the let-in oldest vs. a
+  standing-hungry younger sibling) determines the episode's WANT — the craft bar stands:
+  the POV needs their own want that the fallout (Vinny taken, Tony beaten) crashes into.
+- **Name: author wants one that matches the area** (Italian-American port dynasty,
+  NYC-flavored waterfront). Candidates offered (collision-checked against Vinny/Tony/
+  Charles S. + the Champ catalog; no near-Sobotka names per the craft flag). AUTHOR PICKS.
+  - Oldest-brother lane (heavy, first-born gravity): **Dom (Domenico)** · **Sal (Salvatore)**
+    · **Rocco**.
+  - Younger / standing-hungry lane (boyish, diminutive-forever): **Joey (Giuseppe)** ·
+    **Paulie (Paolo)**.
+  - Free worldbuilding device: the Italian first-born convention — oldest son carries the
+    PATERNAL GRANDFATHER'S name. Naming the oldest names the grandfather too, and makes
+    "a long line of longshoremen" audible every time someone says his name.
