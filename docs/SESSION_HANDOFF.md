@@ -19,7 +19,12 @@ caught up without re-doing today's work.*
 > verbatim for depth.
 
 ## ⭐ THE ONE LIVE PRIORITY
-**Finish the first draft of *The Champ*.** NO new planning on any other project until it's done —
+**Finish the first draft of *The Champ*.**
+
+> **PRIORITY STACK (author, 2026-08-16):** 1) **The Champ** — always first, 1–2k/day before
+> anything else counts. 2) **Weekly challenges** (comp tracker — Reedsy Prompts etc.).
+> 3) **Blog pieces** — the Substack lane, INCLUDING the Longshoreman serial (see
+> `reports/longshoreman.room.md`) and the essays. Side work never outranks the tier above it. NO new planning on any other project until it's done —
 this is Alec's firm call. His real roadblock (self-diagnosed) is that he **hasn't finished anything
 yet**; finishing is the skill to build. Everything else is parked and captured. Don't reopen it
 unless he asks.
