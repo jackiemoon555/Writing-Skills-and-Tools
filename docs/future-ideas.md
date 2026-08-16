@@ -219,6 +219,13 @@ Confirmed in-world: "even in this fucked up world of magic" — this is the FIVE
 **Inspiration:** *The Wire* season 2 (the Sobotka arc) — author-stated, heavy. The reluctant
 next-generation son forced into the family's dock rackets is straight from that DNA (and also
 Will Sinclair's exact wound: the heir who never wanted it — the port-class echo of the trilogy).
+**Plus (author-identified 2026-08-16): Sanderson + GRRM.** Sanderson's Stormlight interludes =
+reaction-shots proving scale through fallout on ordinary people; GRRM = smallfolk POV as where
+the great game's COST is measured, and his prologue format (minor POV meets something vast,
+doesn't walk away) is literally Episode One's shape. The series' twist on both: reaction-shot
+as the WHOLE format, not seasoning — fallout-as-series. CRAFT BAR (every episode): the POV
+needs their own WANT that the fallout crashes into — a witness-only POV is a camera, not a
+character. (Ep One passes: Vinny wants IN on the family business; the night answers horribly.)
 
 **Strategic role (author, 2026-08-16):** the longshoreman series is the FILL-IN / land-side for
 the PIRACY that will exist in this world. The problem it solves: modern piracy can't support
