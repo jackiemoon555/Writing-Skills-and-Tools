@@ -108,6 +108,21 @@ too useful to destroy.
   **secrets outrank mana.** He is the apex predator of the secrets economy the whole
   underworld trades in. Bonus contrast: every villain pole now fights differently —
   Charles with a bred weapon, the masked man with dark magic, the spymaster with files.
+- **Third inspiration (author, 2026-08-16): Stan Edgar (The Boys show) / James Stillwell
+  (the comics — the original; show renamed him).** Author's read: liked the show version,
+  disliked his show ending; the COMIC version is the model — a man without powers who
+  NEVER folded in front of Homelander, and whose calm "took the fun of killing him away."
+  The mechanism to steal: **you cannot threaten a man who has priced in his own death** —
+  no fear available = no leverage = the god loses the intimidation contest by getting
+  nothing. His calm is not courage, it's ARITHMETIC (he knows what they need, what he
+  holds, what his death costs them). THE TEMPLATE SCENE for this character: overwhelming
+  magical power enters his office — archmage, masked man, family head, conceivably the
+  king — and leaves with nothing. Every mage flinches at the light-throne; this man
+  flinches at nothing. (Also on-frame: The Boys/Vought = THE corporate-greed superpower
+  satire — the exact register Project Family aims at.)
+- **Composite locked:** Dulles (institutional machinery: shelter the monsters, run the
+  inquiry) + Varys/Littlefinger (weaponized trust, information warfare) + Stillwell/Edgar
+  (the unbreakable calm before superhuman power).
 - **Research (when ready):** Talbot, *The Devil's Chessboard* (author partway through —
   FINISH); Jacobsen, *Operation Paperclip*; Weiner, *Legacy of Ashes* — squarely in the
   corruption-nonfiction lane.
