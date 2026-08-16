@@ -294,3 +294,10 @@ work-accessible tool stays focused on the one live priority; **Google Docs = sid
   The Champ first draft remains THE one live priority; the Longshoreman Series gets drafting
   minutes only as overflow, and planning/worldbuilding for it stays parked until The Champ's
   draft is done.**
+
+**CORRECTION (2026-08-16):** the "Charles" in the mob-connection note above = **CHARLES SINCLAIR**,
+a new Families-world character (drug operation; connected to Vinny's dad) — NOT Charles Miles or
+Chucky from *The Champ*. The names are unconnected as of now (author ruling); the earlier
+shared-universe/read-through framing was Claude's over-read — a Champ crossover remains only a
+revision-time possibility, not canon. Series engine (Ep1): an unknown force is TARGETING the five
+families; Vinny's kidnapping (dark magic) = leverage against his dad.

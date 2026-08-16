@@ -54,3 +54,21 @@ only while *The Champ* is live; no worldbuilding development sessions until that
   he started, kid." Vinny = inverse Chuck: Chuck fled the father's world and had to come home;
   Vinny is trapped inside it and wants deeper in.
 - Mechanics: parked per standing rule (logged nothing; fast-draft density expected).
+
+## Ep1 — author intent confirmed + NEW CANON (2026-08-16)
+- **The force that took Vinny = a deliberate allusion to DARK MAGIC.** The trapdoor reading was
+  intended; the darkness is literal dark magic, not ambiguity.
+- **Vinny is being KIDNAPPED to get to his dad** — leverage, not random. Arms the episode's best
+  irony (available, worth pointing at): Vinny was kept OUT of the inner room his whole life and is
+  taken BECAUSE of it anyway — he inherits the danger without ever being given the knowledge. The
+  son pays for the father's business he was never told about (the inheritance signature, weaponized).
+- **NEW CHARACTER: Charles Sinclair** — runs a drug operation; Vinny's dad has connections to it.
+  **This is the "Charles" from the original vault note** ("mob connection to Charles and his drug
+  thing") — a Families-world character, NOT Charles Miles and NOT Chucky (author confirmed names
+  are unconnected; any Champ crossover = revision-time decision only).
+- **SERIES ENGINE: someone is TARGETING THE FAMILIES.** Unknown antagonist; Ep1's ambush/kidnap =
+  the fallout reaching the docks. The serialized establishing question: who, and why.
+- **Name-collision watch (revision-time, one line):** the catalog now holds Charles Miles (Champ
+  Dad), possibly-Charles Chucky, and Charles Sinclair (Families). Inside each book it's fine; IF
+  the worlds ever connect on the page, two unrelated Charleses in linked books will read as a
+  plant — rename one or make it one. Parked with the 2026-08-16 name ruling in the-fighter.room.md.
