@@ -123,6 +123,18 @@ too useful to destroy.
 - **Composite locked:** Dulles (institutional machinery: shelter the monsters, run the
   inquiry) + Varys/Littlefinger (weaponized trust, information warfare) + Stillwell/Edgar
   (the unbreakable calm before superhuman power).
+- **SOUL LOCKED (author, 2026-08-16): he's the villain and he KNOWS it.** No Varys
+  I-serve-the-realm self-story. Model = the author's read of Dulles re: the Kennedy
+  murder (author explicitly notes: the connection is a thesis, NOT established fact —
+  fiction takes the thesis): COCKY about it, never hid what he was doing, "just existed
+  in the shadows." Key distinction from Littlefinger: Littlefinger CONCEALS; this man
+  doesn't bother — **impunity worn openly. The shadows aren't a disguise, they're a
+  jurisdiction** (a place accountability can't reach). Thematic payoff: in a
+  mask-obsessed catalog, he's the inversion that completes the set — the man who doesn't
+  need one; his mask is other people's helplessness. He is the cross-project thesis
+  ("winning lets you be the worst version of yourself") in its final form: not being
+  corrupted — FINISHED corrupting, comfortable, done pretending. Chuck = what the fall
+  looks like; this man = what never falling looks like.
 - **Research (when ready):** Talbot, *The Devil's Chessboard* (author partway through —
   FINISH); Jacobsen, *Operation Paperclip*; Weiner, *Legacy of Ashes* — squarely in the
   corruption-nonfiction lane.
