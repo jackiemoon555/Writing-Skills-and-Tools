@@ -76,6 +76,13 @@ comes from interiority, not from absolving anyone.
 
 ## The Dulles figure (CANON — author confirmed 2026-08-16: "this character had to exist")
 
+**ROLE ELEVATION (author, 2026-08-16): shaping up as a REAL VILLAIN for BOTH the
+Longshoreman Series and the trilogy** — a cross-project antagonist. Consequence: he is
+now BIG CANON in his entirety (the trilogy governs him; episodes may not commit facts
+about him casually). Proposed division of labor, which fits the fallout format: **the
+series shows his EFFECTS (convenient deaths, the sanctioned port, taken sons — the
+weather); the trilogy shows the MAN.** In the series he should be felt, rarely seen.
+
 An **Allen Dulles-type inside the families' government**: a spymaster/intelligence chief
 whose institution is indistinguishable from his personal agenda — public servant mask over
 a private empire. Historical model: Dulles-era CIA (coups for corporate clients = the
@@ -148,6 +155,22 @@ too useful to destroy.
   lens). Mechanism available: sheltered dark-magi assets = deaths that read as natural.
   Runway already in trilogy canon: a century of royal-mage killings + Jonathan Sinclair's
   1914 assassination — he may be the CURRENT CUSTODIAN of a very old cleaning service.
+- **ENDING (OPEN — author weighing, 2026-08-16; Opus recommendation logged):** options
+  were (a) wins, (b) dies spectacularly, (c) the Dulles fate — alone. ANALYSIS:
+  (b) is eliminated by the character's own rules — a spectacular death is theater and
+  hands the world the satisfaction he exists to withhold. (a) and (c) are the SAME
+  ending: in a corporate-greed world, these men never face justice — the impunity holds —
+  but a man who fights with information dies when the information stops mattering. He
+  priced in his DEATH; he never priced in his OBSOLESCENCE. RECOMMENDED: **he wins, and
+  the winning is the punishment** — never caught, never charged; ends alone, obsolete,
+  defending his legacy to people who stopped listening; dies of something utterly banal
+  (the most banal death in a world of magic). The reader keeping count gets a flu instead
+  of a burning — his signature (denying satisfaction) executed on the AUDIENCE. Matches
+  the author's ending signature (no clean wins; the draw at the scale of a life).
+  DELIVERY IDEA: his ending as a late LONGSHOREMAN EPISODE — ordinary POV (aide, nurse,
+  delivery kid) spends a day with a pleasant forgettable old man; POV never learns who he
+  is; the reader keeping count knows. Nothing happens. Fallout format aimed at the man
+  who caused the fallout. NOT LOCKED — author to decide.
 - **Research (when ready):** Talbot, *The Devil's Chessboard* (author partway through —
   FINISH); Jacobsen, *Operation Paperclip*; Weiner, *Legacy of Ashes* — squarely in the
   corruption-nonfiction lane.
