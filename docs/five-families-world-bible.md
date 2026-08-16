@@ -245,9 +245,26 @@ all along:
   Vinny's abduction — air moving unnaturally, taken silently, a professional's clean
   snatch — reads like an elite magical team executing a RETRIEVAL. If so, the Longshoreman
   spine mystery and the Wraiths fuse. Decide deliberately (touches the kidnap reveal).
-- Open: who do Wraiths answer to — the crown, the spymaster's office, per-family teams,
-  or all three (competing kill teams = free conflict)? Small-canon room in texture,
-  big-canon in command structure.
+- **ANSWERED (author direction, 2026-08-16): Wraiths answer to NO ONE — they answer to
+  THE CONTRACT.** ICA model (Hitman's agency): amoral, no side, no cause, jobs done
+  regardless; a neutral instrument any faction can hire if it meets the terms. The
+  spymaster doesn't command them — he's their best customer. Comps: the Faceless Men
+  (GRRM — amoral contract death-cult with a price list), the ICA, the High Table.
+- **Character register (author): Szeth (Stormlight's Assassin in White) WITHOUT the inner
+  turmoil.** Not tortured instruments — just instruments.
+- **Candidate mechanic (world-native, strong fit): contracts are MAGICALLY BINDING.**
+  The world already runs on binding magic (demon contracts, the Hall of Heirs brand) —
+  Wraith contracts sealed at signing, enforced by the binding itself: break it and it
+  kills you. "Live and die by the contract" made literal. Consequence: their amorality is
+  ARCHITECTURE, not psychology — conscience is irrelevant because the contract executes
+  itself. (This is why no-turmoil works.)
+- **Craft rule for no-turmoil assassins:** drama relocates from the soul to the CODE —
+  contract-stress stories: opposing contracts on the same night, buying a contract out,
+  ambiguous clauses fulfilled to the letter, unmeetable completion conditions. The person
+  stays unknowable; THE CONTRACT is the character.
+- **Spine sharpener (if the Vinny retrieval is Wraith work):** the mystery reframes from
+  "who kidnapped him" to **"who holds the contract on Vinny, and what are its terms?"**
+  A retrieval clause, not a kill clause — someone paid for him ALIVE.
 
 ## The underworld layer (new — being built by the side projects)
 
