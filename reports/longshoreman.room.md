@@ -72,3 +72,23 @@ only while *The Champ* is live; no worldbuilding development sessions until that
   Dad), possibly-Charles Chucky, and Charles Sinclair (Families). Inside each book it's fine; IF
   the worlds ever connect on the page, two unrelated Charleses in linked books will read as a
   plant — rename one or make it one. Parked with the 2026-08-16 name ruling in the-fighter.room.md.
+
+## Publication prep — Ep1 (2026-08-16)
+- **Author intent: publish Ep1 after grammar fixes.** This piece is therefore IN its revision
+  phase — mechanics are now in-scope for it (the mid-draft parking rule applies to The Champ, not
+  to a piece being prepped for the public).
+- **EPISODE LENGTH BAND (logged): target ~1,200 · floor ~800 · ceiling ~2,000.** Consistency
+  inside the band matters more than the number (episodes = a runtime promise). Fits Royal
+  Road / Substack / general web-serial norms; sized so one episode = one overflow session
+  (protects The Champ lane). Ep1 = ~813 (in band, at the floor).
+- **Checker:** `reports/longshoreman-ep1_checker_2026-08-16.md` (49 items after dictionary);
+  project dictionary started at `dictionaries/longshoreman.txt`. Real typo: "Contrograts."
+  **Canon spelling decision needed: Tony vs. Toney** (both appear; dictionary holds both until
+  the author picks one).
+- **PRE-PUBLICATION DECISIONS (before it goes public, because Ep1 canon is unrevisable once
+  read):** (1) the magic reveal — trapdoor vs. early signal ("the underbelly" double-plant);
+  (2) mark the hates-the-job / wants-the-inner-room split or leave as-is; (3) title the doc
+  (currently "Untitled document"). Recommended (not required): bank a small episode BUFFER
+  (2–4 eps) before publishing Ep1 — serials die from broken cadence, and a buffer also lets
+  early episodes be revised against later canon while they're still private.
+- **Platform: UNDECIDED** — band fits all candidates; venue choice can retune later.
