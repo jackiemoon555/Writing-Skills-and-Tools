@@ -104,7 +104,8 @@ every level.
 3. Does family black cargo connect to Charles's drug pipeline? (The port is the obvious
    artery — linking them ties the Longshoreman Series into the trilogy's engine. Flag:
    that's BIG canon; decide deliberately.)
-4. What attacked Vinny? (Air/shadow — dark magic? A pirate crew's mage? The masked man's
-   world? Decide before Episode Two commits anything.)
+4. Who KIDNAPPED Vinny, and why? (Canon 2026-08-16: he was taken, not killed — the why is
+   the Longshoreman Series' long-game spine reveal. Air/shadow magic — dark magic? A pirate
+   crew's mage? Decide deliberately; plant fair clues from Episode Two on.)
 5. Naming: the five families' world needs a series/world name for the catalog eventually
    ("Project Family" is the working label).

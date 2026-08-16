@@ -232,5 +232,22 @@ DNA) — the world's thematic machinery produces him naturally.
 container holds what) → pirates = the strike arm at sea → the heist game (NYC ports district) =
 the playable layer. Keep ONE canon across all three; trilogy ledger remains source of truth.
 
+**Structure (author, 2026-08-16) — weekly-comic model:** episodic anthology. Each episode =
+a different POV character on the port/underworld, with some recurring (Vinny). Each episode
+needs its own hook → small arc → exit hook while feeding a long mystery spine. FIRST SPINE
+PROMISE: **Vinny was KIDNAPPED (taken, not killed) — the why is a planned long-game reveal.**
+Fair-clues rule applies (reveal must be "there all along" on reread). Keep a thread ledger
+(what's planted, who's appeared, what's owed). Cadence model = weekly comic-book pubs.
+
+**Strategic stance (author, 2026-08-16) — "opposite GRRM":** the trilogy is the main point;
+ALL side material in this world is disposable scaffolding. Worst case it gets retconned/remade
+after the trilogy is complete — it will have served its purpose (worldbuilding + reps) by then.
+Side projects serve the main thing, never eat it. (Retcon-insurance = freedom while drafting,
+not a plan to burn good material.)
+
+**Flag for later (not a now-decision):** a weekly serial in the trilogy's world doubles as a
+free audience on-ramp for the world before the trilogy ships (Royal Road-style serial platforms;
+DCC's lane). Revisit when pipeline allows.
+
 **STATUS: VAULT / EPISODIC SIDE-PROJECT.** Doesn't block the pipeline (The Champ → monthly
 novellas → Forgotten).
