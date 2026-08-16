@@ -190,6 +190,18 @@ too useful to destroy.
   the irony that Charles's creed ("everybody is a tool") IS the true evil's signature at
   world scale. Decide reveal ORDER + whether the reader connects them before the
   characters do.
+- **SHELVED OPEN QUESTION (2026-08-16 — author will answer by WRITING, not planning):**
+  is this character actually just Charles? Author floated the merge; Opus pushed back
+  (merge breaks: the non-combatant hard rule — Charles casts on the page; the three-pole
+  architecture — the state pole vanishes; opposite temperaments — rage/dynasty vs.
+  calm/no-dynasty, the Stillwell scene and the alone-ending each only fit one of them;
+  and the dark-magi timeline — Charles's fall is his ARC, not his backstory). COUNTER-
+  PROPOSAL ON THE TABLE: keep both as deliberate FOILS, same sin at two addresses, and
+  WIRE them — candidate hook (big canon, unconfirmed): the spymaster is WHY Charles was
+  passed over for king in 2000 ("unsuitable; useful angry") and has been letting the
+  breeding program run because a desperate Sinclair was useful — the man farming
+  Charles's rage was himself being farmed. Solves the two-scale pawn-reveal staging as
+  one architecture. DECIDE WHEN DRAFTING BEGINS.
 - **Research (when ready):** Talbot, *The Devil's Chessboard* (author partway through —
   FINISH); Jacobsen, *Operation Paperclip*; Weiner, *Legacy of Ashes* — squarely in the
   corruption-nonfiction lane.
