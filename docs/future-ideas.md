@@ -256,5 +256,26 @@ not a plan to burn good material.)
 free audience on-ramp for the world before the trilogy ships (Royal Road-style serial platforms;
 DCC's lane). Revisit when pipeline allows.
 
+**Vinny's family (author's initial direction, 2026-08-16):** longshoreman is the FAMILY
+BUSINESS — generational line, Vinny next in it; **dad = the boss, the Frank Sobotka of the
+port.** Already seeded in Ep One: "long line of longshoremen," "daddy's boy," an oldest
+brother (unnamed), the locked door ("I just wish he'd let me in").
+- **The Sobotka engine (what to keep):** Frank's crime serves a DOOMED CAUSE (saving the
+  union from containerization), and his family pays. World-native translation: **magic is
+  this port's containerization** — one mover-mage replaces fifty men; the union survives on
+  the families' sufferance; dad moves "extra weight" as the devil's bargain that keeps his
+  men employed. Useful to the very powers strangling his people = Frank-grade tragedy,
+  not borrowed.
+- **Father mirror (trilogy symmetry):** Charles forces his son IN (bred as a weapon);
+  Vinny's dad keeps his son OUT (protection as love). And the protection FAILED — which
+  suggests the spine answer: Vinny was taken BECAUSE of who his father is (leverage). The
+  "why Vinny" reveal and the "what has dad been moving, for whom" reveal = one mystery.
+- **Family as episode engine:** each member is an issue — the oldest brother who DID get
+  let in and what it cost; the mother who knows more than anyone says; a Ziggy-slot
+  sibling (desperate for standing — differentiate: chases illicit MAGIC, not money; ties
+  to the world's everyone's-juiced-on-power theme).
+- **Craft flag:** homage stays structural, never surface — no near-Sobotka names or
+  beat-for-beat retreads.
+
 **STATUS: VAULT / EPISODIC SIDE-PROJECT.** Doesn't block the pipeline (The Champ → monthly
 novellas → Forgotten).
