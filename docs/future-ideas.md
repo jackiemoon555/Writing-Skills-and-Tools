@@ -207,6 +207,102 @@ planning item — planning is closed until then.
 
 ---
 
+## BLOG / NON-BOOK WRITING (vault; post-draft — added 2026-08-14)
+
+**The idea:** a home (blog / outlet) for the writing that ISN'T a book or novella — **analysis and
+opinion pieces** and other shorter non-fiction. A separate lane from the fiction catalog.
+
+**STATUS: PARKED — start AFTER the first draft of *The Champ* is done.** Author's explicit call
+(2026-08-14): capture now, develop later. To flesh out when unparked: what topics/lanes (his
+obsessions already point at sports-corruption / cost of winning / toxic masculinity — analysis
+in the same vein as the nonfiction he reads), what platform, cadence, and whether it runs under the
+**Jack Moon** name or a separate byline.
+
+**Blog pieces in the pipeline:**
+1. **Future / "I Hate That I Love It"** — the flagship first piece (music analysis → 12-year cultural
+   argument). Full dev notes: `blog/future-throw-away-codeine-crazy.md`.
+2. **BASQUIAT (candidate, author 2026-08-15).** Jean-Michel Basquiat = a bullseye for Jack's lane —
+   the visual-art version of his whole obsession. Same wound, new medium.
+   - **The mask:** SAMO© — built a persona, then literally killed it ("SAMO IS DEAD"). Direct cousin
+     of "The Chosen" / Rob "Banks" / Future "the Monster."
+   - **The machine / complicity:** the art world, Warhol, the dealers profiting off a self-destructing
+     young Black genius = the "we feed the machine / we make the monster" thesis (same as the Future
+     essay).
+   - **Cost of fame paid in FULL:** dead at 27 — the price of greatness with NO walking away (the
+     anti-Chuck; the man who never got, or took, the chance to set it down).
+   - **When developed:** find the distinctly-HIS angle (NOT the thousandth tragic-genius / art-world-
+     exploitation take — his edge is the mask + the complicity); verify art-history facts (accuracy
+     traps, same as Future's catalog). STATUS: candidate, parked.
+   - **THE DISTINCTLY-HIS ANGLE / SPINE (author, told across sessions 2026-08-14/15 — consolidated
+     here so it doesn't live only in another session):** his own conversion narrative.
+     - Drawn in by the **MYTH of Basquiat + his ties to OCCULTISM** — the door he came through (not the
+       usual tragedy/money entry).
+     - **Didn't like the art at first — found it mostly REPULSIVE.** Preferred technical/representational
+       work (Hopper's *Nighthawks* — "pulls me in, makes me want to look and find more"). Basquiat was
+       the opposite: repelled him on contact.
+     - But when he actually **LOOKED**, he came to appreciate it → **"people just misunderstood him. He
+       always told you who he was and what he stood for."**
+     - **Why it's THE angle:**
+       - **Same thesis as the Future essay** — the artist was HONEST/legible all along; we misread him.
+         Basquiat "told you who he was"; Future narrates his drowning; both misunderstood. Basquiat = the
+         Future argument in paint.
+       - **Self-implicating (his signature):** he was one of the misunderstanders (found it repulsive)
+         and CHANGED — like "I was dancing" in the Future piece. Opening on his own repulsion disarms the
+         skeptical reader (most feel "my kid could do that" at first) — start where they start, then walk
+         them through the seeing.
+       - **MYTH vs. MAN = the mask/machine theme:** the art-world myth (legend/persona/occult aura) is
+         itself the misunderstanding — people consumed the myth instead of reading the man who was
+         telling the truth plainly. Came for the myth, stayed for the man.
+       - ***Nighthawks* contrast = polish vs. raw truth.** Possible self-reflective layer: mirrors his own
+         writing (raw-truth/gut-punch strength, growing into prose polish) — learning to see Basquiat =
+         learning to trust what he already does best. Offer only if it resonates; don't force.
+     - **Requirements when developed:** SHOW what Basquiat was "telling you" — decode the recurring symbols
+       (crown, words, anatomy, Black icons, the SAMO texts) and how people misread them (the piece needs
+       the actual paintings the way the Future essay needs the lyrics). VERIFY the occult/biographical
+       facts (documented vs. myth — and interrogating myth-vs-fact is itself on-theme). Accuracy trap,
+       same as Future.
+
+## PROJECT FAMILIES — the "5 Families" shared criminal-underworld WORLD (added 2026-08-16)
+
+**STATUS: STARTED (not just vaulted) — lives in Google Docs as a SIDE project.** The author's
+two-lane system (his call, 2026-08-16): **Reedsy = MAIN projects only** (The Champ now) so the
+work-accessible tool stays focused on the one live priority; **Google Docs = side projects**
+(this). Logged here so the vault knows the world exists; do NOT develop it until he brings pages.
+
+- **The world: "Project Families"** (working label) — a five-families criminal underworld.
+  Goal: establish the underworld through a **SERIALIZED series** rather than one novel.
+- **First series in the world: the LONGSHOREMAN SERIES.** Serialized; underworld-establishing.
+- **⭐ SHARED-UNIVERSE CONNECTION TO *THE CHAMP*:** "There's a mob connection to Charles and his
+  drug thing." The Families world supplies/touches the drug pipeline in *The Champ* — which would
+  make The Champ part of a connected universe.
+  - **Strategic weight (from his own playbook):** connected books = one of the three named
+    mitigations for the genre-agnostic read-through problem (`docs/self-pub-playbook.md`). A
+    shared underworld that threads through otherwise-standalone books is the backlist engine
+    answering its own biggest weakness. This is the first concrete act of catalog architecture.
+  - **OPEN CANON QUESTION — which Charles?** Dad is "Charles Miles" on the page (Ch28); the
+    addict with the "drug thing" is Chuck; and the Chuck-Sr. question is explicitly OPEN (author:
+    "I like Chucky being his own man"). Clarify who "Charles" is before this thread hardens. If
+    it's Chuck: the mob sits behind Rob's vial/supply — a revision-pass consideration for The
+    Champ, not a now-thing.
+- **Fit check (honest):** a mob/underworld serial is squarely the connective tissue — masks,
+  power's moral cost, men performing loyalty. Serialization also matches the habit thesis
+  (below) and the DCC/serial influence lane.
+- **Habit context (author, 2026-08-16, near-verbatim):** he must write daily to make it habit —
+  "if I sit too long I won't get around to it and I won't finish. Which is why I have so many
+  unfinished projects. Now I need to get in the habit of finishing." The side lane exists in
+  service of the daily habit, NOT as a second priority. **Guardrail (standing rule, his own):
+  The Champ first draft remains THE one live priority; the Longshoreman Series gets drafting
+  minutes only as overflow, and planning/worldbuilding for it stays parked until The Champ's
+  draft is done.**
+
+**CORRECTION (2026-08-16):** the "Charles" in the mob-connection note above = **CHARLES SINCLAIR**,
+a new Families-world character (drug operation; connected to Vinny's dad) — NOT Charles Miles or
+Chucky from *The Champ*. The names are unconnected as of now (author ruling); the earlier
+shared-universe/read-through framing was Claude's over-read — a Champ crossover remains only a
+revision-time possibility, not canon. Series engine (Ep1): an unknown force is TARGETING the five
+families; Vinny's kidnapping (dark magic) = leverage against his dad.
+---
+
 ## THE LONGSHOREMAN SERIES (2026-08-16) — episodic prose, Five Families world
 
 **What exists:** Episode One — "Vinny" drafted 2026-08-15 (Google Doc, untitled; verbatim

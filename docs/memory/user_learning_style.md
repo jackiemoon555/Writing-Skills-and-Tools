@@ -35,3 +35,11 @@ prose-depth is his growth gap (matches both manuscript reviews). Differentiator 
 atonement/"cheap grace" moral conscience. Values FLOW STATE highly ("even a few words — finding it
 is one of the most important parts of my development"). He dislikes flattery — wants honest,
 evidence-based assessments. Related: [[project_fantasy_trilogy]], [[project_short_story_practice]].
+
+**CODE-LEARNING MODE (added 2026-08-16):** Alec wants to learn to code by APPRENTICESHIP — watching
+Claude build/work on real things (the writing-tools checker, the eventual Jack Moon author site)
+with narration, asking questions as they arise. NO classroom/on-rails tutorials or curricula (same
+autodidact rule as everything else). Standing practice: when touching code in this repo, explain
+what/why in plain language as you go; offer (never assign) small safe edits he can make himself for
+reps. Boundary confirmed: Claude may write ALL code — the no-ghost-writing rule covers his PIECES
+(fiction, essays, correspondence), not software.
