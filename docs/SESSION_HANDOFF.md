@@ -105,7 +105,9 @@ unless he asks.
 - `docs/self-pub-playbook.md` — editors, costs, marketing, comps
 - **Substack: LIVE at `jackmoonwrites.substack.com`** (profile `@jackmoonwrites`; publication
   created 2026-08-16, empty by design). Remaining setup: two sections (essays + fiction) via
-  desktop Settings before first post; verify author name = Jack Moon only. Architecture DECIDED: ONE publication, two sections (essays + fiction/serial);
+  desktop Settings before first post; verify author name = Jack Moon only.
+  **Author ruling (2026-08-16): NO website / NO custom-domain purchase until it's actually worth
+  it (~book launch). Do NOT re-raise either — he'll bring it up when it's time.** Architecture DECIDED: ONE publication, two sections (essays + fiction/serial);
   everything free (no paid tier — the list is the asset); RR mirror + season omnibus = later.
   Launch is parked until The Champ draft + an episode buffer exist. Blog lane = priority 3.
 - `docs/PROJECT_CONTEXT.md` — older canonical catch-up doc (holds the standing no-ghost-writing +
