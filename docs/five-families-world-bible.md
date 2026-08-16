@@ -74,7 +74,7 @@ corporate greed, institutional rot, people absolutely selling each other out and
 whoever's at their disposal to further an agenda. Real villains, by design — complexity
 comes from interiority, not from absolving anyone.
 
-## The Dulles figure (canon-candidate, 2026-08-16 — author heavily interested)
+## The Dulles figure (CANON — author confirmed 2026-08-16: "this character had to exist")
 
 An **Allen Dulles-type inside the families' government**: a spymaster/intelligence chief
 whose institution is indistinguishable from his personal agenda — public servant mask over
@@ -96,8 +96,45 @@ too useful to destroy.
 - **Craft rule: play him BANAL.** The horror is paperwork — memos, euphemisms,
   administrative calm. The most pleasant man in every scene. (Counterpoint to the clap
   villain's theater.)
-- **Research (when ready):** Talbot, *The Devil's Chessboard*; Jacobsen, *Operation
-  Paperclip*; Weiner, *Legacy of Ashes* — squarely in the corruption-nonfiction lane.
+- **Littlefinger / Varys axis (author, 2026-08-16):** shared core = weaponized
+  institutional trust — everyone believes he's serving THEM. The GoT poles: Littlefinger =
+  the CLIMBER (creates chaos to ascend, serves only himself); Varys = the SPIDER (claims
+  to serve the realm — a self-narrative of noble purpose, which is the most Dulles trait
+  of all; Dulles died believing he was a patriot). Pick a pole or fuse them.
+- **HARD RULE (author, 2026-08-16): NOT a combatant.** He doesn't fight with swords — or
+  spells. Too sophisticated. **He fights with information.** In a world where power =
+  magic, the most dangerous man in the room can't cast — which makes him the living proof
+  of the world's real power law (already canonized via the heist game's loot design):
+  **secrets outrank mana.** He is the apex predator of the secrets economy the whole
+  underworld trades in. Bonus contrast: every villain pole now fights differently —
+  Charles with a bred weapon, the masked man with dark magic, the spymaster with files.
+- **Research (when ready):** Talbot, *The Devil's Chessboard* (author partway through —
+  FINISH); Jacobsen, *Operation Paperclip*; Weiner, *Legacy of Ashes* — squarely in the
+  corruption-nonfiction lane.
+
+**The Kennedy thread (2026-08-16 — author wants to fit this in):** the historical shape is
+Dulles vs. JFK — fired after the Bay of Pigs ("splinter the CIA into a thousand pieces"),
+then seated on the WARREN COMMISSION investigating the murder of the man who fired him.
+The investigation-as-coverup is the definitive Dulles beat. World translation available:
+**the king is ALREADY John Kennedy** (locked trilogy canon) — the name resonance the room
+ledger flagged as "unowned" becomes OWNED by this thread. Canon already includes a century
+of royal-mage assassinations; a spymaster with grievance, sheltered dark-magi assets, and
+authority to RUN THE OFFICIAL INQUIRY into crown deaths = the machinery, pre-built.
+⚠ BIG CANON: anything touching the king or the royal-mage killings is trilogy-level.
+No side project commits it.
+
+**The waterfront pact (2026-08-16 — the port's foundation):** historical composite —
+**Operation Underworld** (WWII: Naval Intelligence deals with the imprisoned Lucky
+Luciano; the mob controls the longshoremen's locals, so the state licenses the mob to run
+the waterfront against Axis sabotage; Luciano walks) + **Dulles-era CIA–mafia contracting**
+(Castro plots: Giancana, Roselli, Trafficante). World translation: generations ago the
+crown's spymaster licensed the port to the underworld in exchange for securing it against
+foreign sabotage (the named foreign threat: China). CONSEQUENCE FOR THE LONGSHOREMAN
+SERIES: **Vinny's family's whole position is downstream of that pact** — the union's
+impunity, the unlogged containers, the "extra weight" all SANCTIONED at a level the
+Sobotka figure himself may not fully see. The port is an asset the state built and would
+burn to protect. Deepens the kidnap: taking the boss's son = tampering with the
+spymaster's arrangement, not just leverage on a union boss.
 
 ## The underworld layer (new — being built by the side projects)
 
