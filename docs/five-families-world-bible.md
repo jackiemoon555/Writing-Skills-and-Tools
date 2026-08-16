@@ -1,0 +1,110 @@
+# Five Families — World Bible (cross-project canon hub)
+
+**Purpose:** the shared backdrop for every project set in this world, so worldbuilding
+accrues in ONE place while the trilogy is deferred. When the author sits down to give
+the trilogy (a.k.a. "Project Family") the time it deserves, this file + the trilogy
+ledger ARE the prepared world. Created 2026-08-16.
+
+**Projects in this world:**
+1. **The trilogy** (main event, deferred) — canon ledger: `reports/untitled-fantasy-series.room.md`
+   + `docs/memory/project_fantasy_trilogy.md`. Verbatim prose: `manuscripts/untitled-fantasy_snapshot_2026-08-13.txt`.
+2. **The Longshoreman Series** (episodic prose, active-ish) — vault entry in
+   `docs/future-ideas.md`; Episode One: `manuscripts/the-longshoreman_snapshot_2026-08-16.txt`.
+3. **The piracy strand** (planned; longshoreman series = its land-side fill-in).
+4. **The heist game** (design-on-paper) — `docs/heist-game-design.md`.
+
+## Canon rules (the guardrails)
+
+- **The trilogy's ledger is the source of truth.** Conflicts resolve in the trilogy's favor.
+- **Small canon vs. big canon.** Side projects may freely commit SMALL canon: places,
+  street-level institutions, minor characters, texture, slang, prices, rituals. They may
+  NOT commit BIG canon — the conspiracy, family heads' secrets, magic-system hard limits,
+  the throne's mechanics — unless deliberately decided here/in the ledger first. (Vinny
+  can find a haunted container; he can't reveal what the archmages are doing.)
+- Log every new canon fact a side project creates in this file (append to the relevant
+  section, dated).
+
+## Governance & institutions (locked in trilogy canon)
+
+- Modern-day alternate USA, ruled **since colonial times** by the **five mage-families** —
+  **Sinclair, Duke, Roth, Kennedy, Usher** — under an **elected king** (current: John
+  Kennedy). Selection mechanism = OPEN QUESTION (who elects, from whom — big canon, pin
+  in trilogy).
+- **Light magic is the throne:** only the sitting king wields it; it suppresses/neutralizes
+  all other magic. This is HOW one elected king holds five monster-families in check.
+- **The Agency:** state service that exists partly to check the families (Stephen's line:
+  "free this country from the families... that's why I joined the Agency"). Structure/
+  remit = open (small-canon room here for side projects: field offices, dock details).
+- **Archmages:** near-mythic (~5 worldwide), transnational order above national loyalty,
+  guard the secret of astral. THE PILLAR: archmages are the universal pinnacle.
+- **World frame:** US-map alt-world; **China** = rival power (state/collective magic
+  doctrine); national "schools" of magic differ below the archmage tier.
+- **Society:** deliberately patriarchal at the family level (women barred from headship);
+  magic hoarded by bloodline; "hell wrapped in gold" for heirs, plain hell further down.
+
+## Magic (condensed — full taxonomy in the trilogy ledger)
+
+| Path | Cost / source | Notes for side projects |
+|---|---|---|
+| Four elements | born with it; most people = 1 | words-of-power casting; street-level mages exist |
+| Archmage / astral | born with 2 = the sign; master all 4; astral is BESTOWED | big canon — hands off |
+| Light | the throne only | big canon — hands off |
+| Dark (= black) | demon contract; lose your elements | rare, hunted, nearly exterminated; "the power of the dispossessed" |
+| Blood magic | cost = blood; taboo/outlawed | heir cohort dabbles; underworld-plausible |
+| The illegal drug | manufactured (Charles); 10x mana, monster transformation | ALREADY IN THE PORT'S ORBIT — "extra weight" moving through docks is a natural vector |
+
+## Geography — New York (the world's capital)
+
+- The families' seat of power. Legacies pass through **NYU**; the **Hall of Heirs** is
+  hidden there behind a magic-sealed door. Sinclair family building = NYC high-rise.
+- **The port** (Longshoreman Series' ground): union-run docks with a deep underbelly —
+  night work, unmarked containers, "extra weight" nobody explains. Established Ep. One:
+  Vinny (reluctant son of the union/underworld boss), veteran Tony; something with
+  air/shadow magic hunting on the docks at night.
+- **The dark district** (heist game's home base concept): a neighborhood outside the
+  families' light — old wards, erased records, officially nonexistent. Not yet named.
+- Small-canon room: districts as family territory, black markets, the undercity —
+  side projects may build these freely (log here).
+
+## The underworld layer (new — being built by the side projects)
+
+**One underworld, three windows:**
+- **Longshoremen** = the intelligence network. They know which container holds what,
+  which manifests are forged, which cargo officially doesn't exist. (*The Wire* S2 is
+  the ceiling to study.)
+- **Pirates** = the strike arm at sea. WORLD LOGIC (2026-08-16): modern piracy can't
+  support Blackbeard-scale legends (satellites, navies, logistics) — but magic re-opens
+  the frontier: warded ships defeat modern surveillance, and the families' BLACK cargo
+  can't be reported stolen (the legality fork at sea). Pirate legends grow unopposed in
+  that silence. A Blackbeard is theater — terror-as-persona, the mask as weapon — which
+  this world's thematic machinery produces naturally. Blackbeard-like characters are the
+  goal (author, 2026-08-16).
+- **The heist crews** = the land-side strike arm (the game's playable layer).
+
+**The legality fork (shared world-rule, originated in the game design):** every powerful
+target has a public face and a secret face. Crimes against the SECRET face can't be
+reported — no police, no news — only private enforcers and vendetta. This one rule powers
+the heist game's threat model, the pirates' impunity, AND the docks' silence. It is now
+WORLD canon, not just game design.
+
+## Why bottom-up worldbuilding serves the trilogy
+
+The trilogy is top-down (heirs, heads, archmages, king). The side projects are bottom-up
+(docks, pirates, crews). Power reads truest from below — the Wire method: build the
+institution from the corner up. Every episode teaches what the five families look like to
+the people underneath them — texture Will's golden-cage POV cannot generate. Vinny and
+Will are the same wound at opposite ends of the class ladder: sons forced into the family
+business. That symmetry is the world's thesis: the machine conscripts its children at
+every level.
+
+## Open world questions (backdrop-level, answer when ready — none block side projects)
+
+1. How is the king elected? (big canon)
+2. The Agency: structure, powers, relationship to police / the families' private forces.
+3. Does family black cargo connect to Charles's drug pipeline? (The port is the obvious
+   artery — linking them ties the Longshoreman Series into the trilogy's engine. Flag:
+   that's BIG canon; decide deliberately.)
+4. What attacked Vinny? (Air/shadow — dark magic? A pirate crew's mage? The masked man's
+   world? Decide before Episode Two commits anything.)
+5. Naming: the five families' world needs a series/world name for the catalog eventually
+   ("Project Family" is the working label).
