@@ -204,3 +204,33 @@ CHILDREN, which raises the tragedy above *The Champ*'s adult stakes.
 
 **STATUS: VAULT ONLY.** No development until *The Champ* first draft is done. This is the LAST
 planning item — planning is closed until then.
+
+---
+
+## THE LONGSHOREMAN SERIES (2026-08-16) — episodic prose, Five Families world
+
+**What exists:** Episode One — "Vinny" drafted 2026-08-15 (Google Doc, untitled; verbatim
+snapshot: `manuscripts/the-longshoreman_snapshot_2026-08-16.txt`). Vinny, reluctant son of the
+union/underworld boss, works the night-shift underbelly of the port with veteran Tony; a pickup
+at an unmarked container goes wrong — Tony beaten, Vinny attacked by something in the dark.
+Confirmed in-world: "even in this fucked up world of magic" — this is the FIVE FAMILIES universe
+(port-level view).
+
+**Inspiration:** *The Wire* season 2 (the Sobotka arc) — author-stated, heavy. The reluctant
+next-generation son forced into the family's dock rackets is straight from that DNA (and also
+Will Sinclair's exact wound: the heir who never wanted it — the port-class echo of the trilogy).
+
+**Strategic role (author, 2026-08-16):** the longshoreman series is the FILL-IN / land-side for
+the PIRACY that will exist in this world. The problem it solves: modern piracy can't support
+Blackbeard-scale figures (satellites, navies, container logistics killed the frontier). The
+world's answer: magic re-opens the frontier — warded ships defeat modern surveillance, and the
+families' BLACK cargo can't be reported stolen (the legality fork at sea), so pirate legends can
+grow unopposed in that silence. Blackbeard was always THEATER (terror-as-persona = mask/fame
+DNA) — the world's thematic machinery produces him naturally.
+
+**One underworld, three windows:** longshoremen = the intelligence network (who knows which
+container holds what) → pirates = the strike arm at sea → the heist game (NYC ports district) =
+the playable layer. Keep ONE canon across all three; trilogy ledger remains source of truth.
+
+**STATUS: VAULT / EPISODIC SIDE-PROJECT.** Doesn't block the pipeline (The Champ → monthly
+novellas → Forgotten).
