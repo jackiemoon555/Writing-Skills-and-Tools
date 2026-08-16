@@ -297,6 +297,18 @@ Will are the same wound at opposite ends of the class ladder: sons forced into t
 business. That symmetry is the world's thesis: the machine conscripts its children at
 every level.
 
+## Notes to future-me (author, 2026-08-16 — parked deliberately, no development yet)
+
+1. **THE BRAND NEEDS TOOLS OR TEETH.** The Hall of Heirs brand currently DOES NOTHING on
+   the page — it's a ritual and a "certain something attached to my mana," then inert.
+   Give it mechanics: what does it grant, cost, or enforce? (Existing seeds when ready:
+   "the brand would take some time to take effect," dad's unexplained "I'll explain the
+   rest later," every heir and head has one. Adjacent canon that could connect: the
+   world's binding-magic axis — demon contracts, Wraith contracts. Big canon — trilogy
+   decides.)
+2. **A CULT.** Author wants a cult in this world. NO SPECIFICS YET — deliberately
+   unspecified. Park it until it finds its shape.
+
 ## Open world questions (backdrop-level, answer when ready — none block side projects)
 
 1. How is the king elected? (big canon)
