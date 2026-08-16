@@ -6,7 +6,7 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 ## Current project: *The Champ* (novella) — working title (formerly *The Fighter*)
 
 - **Word-count goal:** ~30,000 words (soft target)
-- **Current total:** **13,836 words** (prose-only, from the 90% doc; +Rob interlude since) → **~46%** of goal (in progress 2026-08-14; prev baseline 11,618)
+- **Current total:** **~15,000 words** (author-reported 2026-08-16; covers through 08-15) → **~50%** of goal (prev measured baseline 13,836; finalize at next MD5-verified export)
 - **Daily minimum goal:** **1,000 words/day (floor — raised from 750 on 2026-08-12)** —
   chosen to be sustainable *regardless of motivation*, ideally split into two sessions
   (work downtime + home). Stretch stays 2,000→5,000 on good days.
@@ -22,7 +22,7 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
     shipping on time and giving the final fight the writing it needs, **MISS THE DEADLINE.** The
     deadline is a discipline tool; the ending IS the book.
 
-Progress: `████░░░░░░` ~46%
+Progress: `█████░░░░░` ~50%
 
 ## Rules
 
@@ -40,8 +40,12 @@ Progress: `████░░░░░░` ~46%
 | 2026-08-12 | 4,659 | 10,500 | ✅ |
 | 2026-08-13 | 1,118 | 11,618 | ✅ |
 | 2026-08-14 (in progress) | 2,218+ | 13,836 | ✅ |
+| 2026-08-15 | ~1,164 | ~15,000 | ✅ ⏳ |
+| 2026-08-16 | 0 (so far) | ~15,000 | ⚠️ (day not over) |
 
-**Cumulative total: 13,836 words** (in progress 2026-08-14; prose-only ruler)
+**Cumulative total: ~15,000 words** (author-reported 2026-08-16; covers through the 08-15 session,
+incl. Ch27–29 + the Rob-interlude tail the 13,836 doc missed; finalize the exact number at the
+next MD5-verified export)
 **Day total 2026-08-11: 1,867 words** (750 floor at the time).
 **Day total 2026-08-12: 4,659 words** — work 3,323 + home ~1,336; **first full day on the new
 1,000 floor, met ~4.7× and just shy of the 5,000 stretch.** New content: Interlude 2 (Nicole),
@@ -115,3 +119,13 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
   report parked at `reports/the-champ_ch27-29_checker_2026-08-15.md` (76 flags, revision-window).
 - Author's next-session plan: the fallout — repentance, how deep the slip goes, Lisa's forgiveness
   tested, + the pre-Florida Lisa/Chuck backstory finally detailed.
+
+## 2026-08-16 — total corrected to ~15,000 (author-reported); no words yet today
+- **Author reports the manuscript is at ~15,000 words** — the 13,836 figure was stale (that doc was
+  ~90% of 08-14 and predated the Rob-interlude tail + Ch27–29). The ~1,164 delta is credited to
+  2026-08-15 in the log table. ⏳ Finalize the exact number at the next MD5-verified `.docx` export.
+- **No words written yet today (2026-08-16)** — day not over; 1,000 floor still open.
+- Schedule reality-check: today WAS the original Sunday draft-done target (~15k of ~30k → about
+  halfway). The standing guardrail already covers this: **ending > deadline** — the deadline was a
+  discipline tool, not the book. Next milestone: draft the Vlad-arc fallout (repentance / depth of
+  the slip / Lisa tested / pre-Florida backstory).
