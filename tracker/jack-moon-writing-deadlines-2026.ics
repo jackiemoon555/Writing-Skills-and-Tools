@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jack Moon Writing//Deadlines 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jack Moon — Writing Deadlines
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:jm-nycm-scary-early-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:💸 NYC Midnight Scary Story — EARLY-BIRD registration ends TODAY ($42 vs $49)
+DESCRIPTION:Register: https://www.nycmidnight.com/scary-register — $42 through Aug 27\, $49 after until Oct 16.
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:Scary Story early-bird ends in 2 days
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT9H
+ACTION:DISPLAY
+DESCRIPTION:Scary Story early-bird ends today
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jm-nycm-scary-final-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;TZID=America/Chicago:20261016T210000
+DTEND;TZID=America/Chicago:20261016T211500
+SUMMARY:⛔ NYC Midnight Scary Story — FINAL registration closes 10 PM ET (9 PM CT)
+DESCRIPTION:Last chance: https://www.nycmidnight.com/scary-register ($49). Round 1 prompts drop 11:59 PM ET tonight.
+BEGIN:VALARM
+TRIGGER:-P14D
+ACTION:DISPLAY
+DESCRIPTION:Scary Story registration closes in 2 weeks
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:Scary Story registration closes in 2 days
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jm-nycm-scary-r1-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;TZID=America/Chicago:20261016T225900
+DTEND;TZID=America/Chicago:20261018T225900
+SUMMARY:✍️ NYC Midnight Scary Story — ROUND 1 (48 hrs\, ≤400 words)
+DESCRIPTION:Prompts (scare + character + action) at 11:59 PM ET Fri. Submit by 11:59 PM ET Sun. Round 2 Dec 11–13\; Final Feb 12–14 2027.
+END:VEVENT
+BEGIN:VEVENT
+UID:jm-nycm-250-early-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:💸 NYC Midnight 250-word Microfiction — EARLY-BIRD registration ends TODAY ($35 vs $42)
+DESCRIPTION:Register: https://www.nycmidnight.com/250 — $35 through Oct 29\, $42 after until Dec 4.
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:250-word early-bird ends in 2 days
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jm-nycm-250-final-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;TZID=America/Chicago:20261204T210000
+DTEND;TZID=America/Chicago:20261204T211500
+SUMMARY:⛔ NYC Midnight 250-word — FINAL registration closes 10 PM ET (9 PM CT)
+DESCRIPTION:Last chance: https://www.nycmidnight.com/250 ($42). Round 1 opens 11:59 PM ET tonight.
+BEGIN:VALARM
+TRIGGER:-P14D
+ACTION:DISPLAY
+DESCRIPTION:250-word registration closes in 2 weeks
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P2D
+ACTION:DISPLAY
+DESCRIPTION:250-word registration closes in 2 days
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jm-nycm-250-r1-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;TZID=America/Chicago:20261204T225900
+DTEND;TZID=America/Chicago:20261206T225900
+SUMMARY:✍️ NYC Midnight 250-word — ROUND 1 (48 hrs\, ≤250 words)
+DESCRIPTION:Genre + action + word assignments at 11:59 PM ET Fri\; submit by 11:59 PM ET Sun.
+END:VEVENT
+BEGIN:VEVENT
+UID:jm-reedsy-weekly-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;TZID=America/Chicago:20260821T090000
+DTEND;TZID=America/Chicago:20260821T093000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261226T235959Z
+SUMMARY:📝 Reedsy Prompts — new prompts drop today (pick one\, draft this week)
+DESCRIPTION:https://reedsy.com/creative-writing-prompts/contests/ — $5 entry\, 1–3k words\, due next Friday. Weekly reps Aug 17 → year-end. Log in tracker/short-story-competitions.md.
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:New Reedsy prompts are up
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jm-furious-fiction-2026@jackmoon
+DTSTAMP:20260816T170000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+RRULE:FREQ=MONTHLY;BYDAY=1FR;UNTIL=20261231
+SUMMARY:🔥 Furious Fiction — 1st Friday (free\, ≤500 words\, 55-hr window)
+DESCRIPTION:https://www.writerscentre.com.au/furious-fiction/ — prompt drops Fri (AEST)\, closes Sun. Free entry\, forces range.
+END:VEVENT
+END:VCALENDAR

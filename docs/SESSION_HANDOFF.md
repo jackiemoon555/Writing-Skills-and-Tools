@@ -1,8 +1,29 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-15** after a major architecture + review session.
+*Prepared 2026-08-13; **last updated 2026-08-17** — full-manuscript read (Pass 9), Longshoreman Ep1/Ep2 roomed + in revision, timeline slid.
 Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
 caught up without re-doing today's work.*
+
+> ## ▶ NEXT SESSION — START HERE (state as of 2026-08-17 night)
+> 1. Read `docs/WORKING_RULES.md` (13 rules — how to work with Alec; canonical). Then this file's
+>    top blocks. Then the **"ARCHITECTURE — CURRENT STATE (consolidated 2026-08-17)"** block at the
+>    END of `reports/the-fighter.room.md` (+ its AMENDMENTS/CORRECTION right after it).
+> 2. **The Champ = DRAFTING.** 17,040 words through Ch34 (MD5 30498e11…, `manuscripts/the-champ_snapshot_2026-08-17.txt`).
+>    Ch31–34 are BEATS to expand (author ruling). **He is now writing THE JOHN ARC** — his planned
+>    ending (John superfight → draw → retire → epilogue/son) STANDS; keep-or-cut by the pages
+>    against his own kill criterion. Only the 30k word target was retired.
+> 3. Daily upload cadence: he sends the day's pages (docx) → snapshot, MD5+count, checker (silent),
+>    read ONLY the new pages on the DRAFTING menu (corny / not working / needs more / pacing /
+>    dialogue / show-tell / repetition; hardest structural first; NO grammar), first check = did he
+>    explain after showing. He states intent first; ask if he didn't.
+> 4. Longshoreman Ep1–2 are in REVISION (`revision-pass` skill); their reports exist; ask which notes
+>    landed → `reports/longshoreman_revision-log.md`.
+> 5. **BLOCKED ON HIM: git identity.** ~32 files staged since 2026-08-16, none committed. Once, in
+>    `D:\Claude\Writing`: `git config user.name "Alec" && git config user.email "alecborrego5@gmail.com"`
+>    — then commit + push (`gh auth setup-git` first). Never run git config yourself.
+> 6. Timely: Scary Story early-bird closes **Aug 27** ($42→$49); Reedsy Fridays; calendar `.ics` in
+>    `tracker/`. Google Calendar connector was 503 on 08-16 — retry, else he imports the .ics.
+> 7. Format for him: verdict first line, action last, bold anchors, one ask (ADHD — rule 12).
 
 > **THIS REPO IS THE STANDALONE HOME OF THE WRITING PROJECT.** Writing is now Alec's main focus and
 > is kept SEPARATE from any other work (e.g. sports-betting). **Run writing sessions from this
@@ -21,7 +42,7 @@ caught up without re-doing today's work.*
 ## ⭐ THE ONE LIVE PRIORITY
 **Finish the first draft of *The Champ*.**
 
-> **PRIORITY STACK (author, 2026-08-16):** 1) **The Champ** — always first, 1–2k/day before
+> **PRIORITY STACK (author, 2026-08-16):** 1) **The Champ** — always first; the 1,000/day FLOOR (aim 1–2k) before
 > anything else counts. 2) **Weekly challenges** (comp tracker — Reedsy Prompts etc.).
 > 3) **Blog pieces** — the Substack lane, INCLUDING the Longshoreman serial (see
 > `reports/longshoreman.room.md`) and the essays. Side work never outranks the tier above it. NO new planning on any other project until it's done —
@@ -30,16 +51,14 @@ yet**; finishing is the skill to build. Everything else is parked and captured. 
 unless he asks.
 
 ## *The Champ* — current state
-- Prose-only count: **~15,000 words (~50%)** (author-reported 2026-08-16, covers through 08-15; prev
-  measured baseline 13,836; finalize at the next MD5-verified export). Purely additive — the
+- Prose-only count: **15,835 words — MD5-verified export 2026-08-16 night** (NO length target — author ruling 2026-08-17: done is done; the 1,000/day floor is the only number) (`manuscripts/the-champ_snapshot_2026-08-16.txt`; docx archived beside it). Purely additive — the
   dissociative restructure of the middle is a PLANNED revision, not executed.
-- **Drafted through Ch29** (+ a Rob interlude, Interlude 3): Rodriguez rematch WIN (Ch21–22) → post-win
+- **Drafted through Ch31** (Ch30 = Lisa lands in Vegas, 431w; Ch31 = ~120w opener, Chuck wakes, "Where's Rob?"). Earlier: (+ a Rob interlude, Interlude 3): Rodriguez rematch WIN (Ch21–22) → post-win
   aftermath (plane home, family, the **Lisa reconciliation** that fixes the old Ch17 problem, brother
   **Carl** introduced as cornerman, the **Vlad interim-title fight announced**) → Carl run (Ch27) →
   Vegas, Rob returns (Ch28) → the Rob dinner, Vlad crashes it, **THE RELAPSE — "I jumped off the
   wagon" (Ch29)**. Rob interlude WIP + Ch27–29 are backed up verbatim in `manuscripts/`.
-- **⭐ THE ENTIRE BACK HALF IS NOW ARCHITECTED (2026-08-15) — see the recent dated sections of
-  `reports/the-fighter.room.md`.** Ending mapped spine-to-epilogue: **Vlad arc** (the fame/temptation
+- **⭐ THE BACK HALF IS ARCHITECTED — READ THE "ARCHITECTURE — CURRENT STATE (consolidated 2026-08-17)" BLOCK at the END of `reports/the-fighter.room.md`; it supersedes the summary below.** (That block records the 2026-08-17 CHANGES — Vlad = a no-mask Khabib, champ from Ch1; tune-up → Chuck's own callout → Vlad accepts; blown cut → CATCHWEIGHT → he beats the champ and it doesn't count; the machine; the lucidity anchor. **THE PLANNED ENDING BELOW STANDS** — Vlad → John superfight (draw; John falls apart in Chuck's arms) → Chuck retires → epilogue, the son — the author is drafting the John arc now; only the 30k word target was retired.) The plan: Ending mapped spine-to-epilogue: **Vlad arc** (the fame/temptation
   test; Chuck's sobriety = avoidance, the fight drags him back out) → **John fight** (a DRAW; John
   falls apart in Chuck's arms = Chuck breaks the cycle) → **Chuck retires** (becomes the mentor;
   refuses the price of greatness) → **epilogue** (Nicole's wedding; Chuck has a **son** = the answer to
@@ -64,30 +83,13 @@ unless he asks.
   (everyone who isn't Chuck = 3rd person), mechanics/typos (a Grammarly-AI corruption pipeline),
   timeline clarity (two Rodriguez fights + the Vlad loss). All logged in `reports/the-fighter.room.md`.
 
-## How to work with Alec (PROCESS — important)
-- **Scoped reading:** close-read ONLY the pages he points to, WHEN he says. Never re-review the
-  whole manuscript or re-surface already-game-planned issues. Engage new pages on their own terms;
-  if something genuinely new matters, flag it in ONE line and let him choose to go deeper.
-- **Feedback = STORY + LITERARY DEVICES only, mid-draft (2026-08-14).** Structure, character, motif,
-  theme, pacing, what lands and what doesn't. **Grammar/typos/POV slips → PARKED for the revision
-  pass; do NOT surface them while drafting.** Grammar DOES matter to him — it's scheduled work, not
-  ignored: his **2-week revision window (Aug 17–31)** exists for exactly this. So neither dismiss it
-  NOR inflate it — don't blow slips into red flags, don't reiterate typos mid-draft; just log them
-  quietly for revision. Flag-now bar = does the story/scene/arc work — NOT words or pronouns. The
-  ONLY mechanical exception (near-never) is an error that **explicitly and totally destroys** the
-  story. High typo density is EXPECTED — he drafts fast on purpose — so never remark on it.
-- **No ghost-writing — of ANYTHING (2026-08-14).** He writes all his own words — fiction AND
-  correspondence/blog/posts he'd send or publish. Never draft text for him to send as his own;
-  sharpen, critique, and teach so HIS words get better. Assist and elevate, never replace. (Full
-  rationale in `docs/PROJECT_CONTEXT.md`.)
-- **Honesty over flattery.** He wants blunt, evidence-based takes and will ask "are you just
-  blowing my head up?" Don't.
-- **Dual review is standing but on-request:** after an Opus read, spawn a **Fable-model** agent for
-  an independent take (told to land "between flattery and cruelty," blind to Opus's conclusions).
-  Reconcile; where both agree = the real signal.
-- **Get it out, then perfect it** — no line-editing mid-draft.
-- **Autodidact:** offer reading recs / free-form exploration, not classes or on-rails curricula.
-- **Log durably + commit/push:** writing work lives in this repo (`jackiemoon555/Writing-Skills-and-Tools`).
+## How to work with Alec — READ `docs/WORKING_RULES.md` (the single canonical list)
+Twelve rules, consolidated 2026-08-17; every later "RULING" addendum in this file is now history —
+if this file and WORKING_RULES.md ever disagree, WORKING_RULES.md wins. The five that matter most:
+scoped reading · drafting menu (corny/not-working/needs-more/pacing/dialogue/show-tell/
+repetition — NO grammar) vs. revision menu (`revision-pass` skill) · no ghost-writing · blunt,
+cruel-constructive, no cushions · the standing craft focus (no sentence after the show that says
+what it meant). He is not a coder — hide the plumbing.
 
 ## Where everything lives (this repo)
 - `reports/the-fighter.room.md` — *The Champ* review ledger + revision list
@@ -113,8 +115,7 @@ unless he asks.
   Launch is parked until The Champ draft + an episode buffer exist. Blog lane = priority 3.
 - `docs/PROJECT_CONTEXT.md` — older canonical catch-up doc (holds the standing no-ghost-writing +
   story-first-drafting rules)
-- `manuscripts/the-champ_snapshot_2026-08-13.txt` — **verbatim prose** of *The Champ* (point-in-time
-  snapshot; Alec's Google Docs/Reedsy is the LIVE source — ask for the latest export before
+- `manuscripts/the-champ_snapshot_2026-08-16.txt` (+ `the-champ_export_2026-08-16.docx`) — **verbatim prose** of *The Champ*, 15,835w through Ch31 (supersedes the 08-13 snapshot; Alec's Google Docs/Reedsy is the LIVE source — ask for the latest export before
   close-reading pages)
 - `manuscripts/the-champ_interlude3-rob_wip_2026-08-14.txt` — Rob interlude WIP backup (base + an
   in-moment revision; verbatim)
@@ -128,7 +129,9 @@ unless he asks.
   strong proof-of-creation already.
 
 ## Immediate next action
-**Draft the VLAD-ARC FALLOUT next** — the relapse is on the page (Ch29, "I jumped off the wagon");
+**THE REVISION WINDOW HAS SLID (author, 2026-08-16): Champ stays in DRAFTING until the draft is done; grammar teaching runs on Longshoreman (in revision) meanwhile. Mid-draft feedback menu = corny / not working / scenes-need-more / pacing / dialogue / show-tell / repetition — NO grammar. Full-read map = Pass 9 in `reports/the-fighter.room.md`.**
+
+**Draft the VLAD-ARC FALLOUT next — Ch31 onward: live the fall FROM INSIDE this time (Ch3–11 summarized it; this is the second chance), and make Chuck DECIDE things on the page.** Earlier note stands: — the relapse is on the page (Ch29, "I jumped off the wagon");
 Alec's own next-session plan: repentance, how deep the slip goes, Lisa's forgiveness tested, and
 the pre-Florida Lisa/Chuck backstory finally detailed. (Earlier prescription stands: stop planning;
 let the pages tell you whether the John fight survives, shrinks, or becomes the finale; decide
@@ -160,7 +163,7 @@ PR #2 was closed as superseded (all its commits were contained in PR #3).
   ledger-reading final job, NYC, comp stack). Vault only.
 - **`docs/game-ideas.md`** — NEW vault for game ideas (heist game + a Hitman-style
   assassination game concept).
-- **`manuscripts/the-longshoreman_snapshot_2026-08-16.txt`** — NEW verbatim snapshot:
+- **`manuscripts/longshoreman-ep1-vinny_snapshot_2026-08-16.txt`** — NEW verbatim snapshot:
   **The Longshoreman Series Episode One ("Vinny")**, drafted 8/15 in a Google Doc
   (untitled there). Five Families world confirmed in-text. Vault entry + full structure
   notes in `docs/future-ideas.md` (weekly-comic anthology, Wire-S2 + Sanderson + GRRM
@@ -174,3 +177,106 @@ PR #2 was closed as superseded (all its commits were contained in PR #3).
    "play next" verdict against `docs/gaming-preferences.md`.
 2. The shelved spymaster-vs-Charles question — do NOT reopen unless he does.
 3. All world-building remains VAULT — do not develop further unless Alec initiates.
+
+---
+
+# ADDENDUM — Session 2026-08-16 (afternoon, setup + games; no words drafted)
+
+**Priority unchanged. Alec went to write Champ words at the end of this session.**
+
+## What changed
+- **Local home established:** `D:\Claude\Writing` is now a clone of this repo; sessions run
+  from there get their own memory namespace (seeded with a pointer to this file). Loose older
+  files remain in `D:\Claude\` root on purpose ("not everything can live in the repo").
+- **Steam library item RESOLVED** — read directly from local Steam files (no screenshots
+  needed). Snapshot: `docs/steam-library_2026-08-16.md`. Findings + a much sharper profile in
+  `docs/gaming-preferences.md` (revealed preference = run-based roguelike deckbuilders; turn-
+  based tactical party combat = DOS2 benchmark; "pushed not abused" = full-information stakes;
+  detective + management lanes; VN slog; single-character real-time worlds OK). Play-next
+  verdict + research-play order for the heist design are in that doc.
+- **NEW: `.claude/skills/revision-pass/SKILL.md`** — the teaching-mode revision protocol for
+  the Aug 17–31 window: one lens per pass (structure → POV → line/grammar → mechanics), quote
+  his sentence + name the rule, he fixes it, never rewrite; feed a `reports/<book>_revision-
+  log.md` calibration loop (which notes landed / were noise). Alec's stated goal: hone the
+  **technical side** (grammar + literary structure) — he is not a coder; keep all plumbing
+  invisible to him.
+- **Google Drive connector works** from Claude sessions: *Forgotten* ("Forgetten" doc) and the
+  Aug 15 untitled doc (Longshoreman Ep1) are readable live. **The Champ is NOT in Drive** —
+  still needs an export from Alec (Reedsy has no connector).
+- Reddit for Jack Moon: recommended yes (age the account now; r/nosleep / r/shortstories /
+  r/RedditSerials as outlets; comp-first-then-post rights rule; priority-3 lane). Not created
+  yet — his call. `surendranb/writing-skills` evaluated and rejected (ghost-writing styles).
+- Fixed the Longshoreman snapshot filename reference above.
+
+## Open items
+1. Reddit account (his call). 2. Champ export for the first revision pass on Aug 17.
+3. Cross-vendor (GPT/Gemini) blind read at a milestone — agreed in principle, not scheduled.
+
+## Evening addendum (2026-08-16) — pages read; serial pushed to revision
+- **Ch30 drafted (431w, under floor)** — Lisa lands in Vegas; "The Chosen is back" via Dad's
+  phone call; ends on the mantra-as-curse. Standard checker only (27 hits). Story notes given
+  in-session (the accusation at Mr. Miles needs the room the hallway got; "on his shield" — check
+  intent; Ch31 must put Chuck ON the page). Champ stays on drafting cadence — NOT roomed, NOT
+  revised (author's instruction).
+- **Longshoreman Ep2 "Joey" drafted (859w)** — youngest brother, Harvard, dark-magic shadows;
+  Vinny = bait for Dad; ends on the punch. Snapshot in manuscripts/.
+- **Both episodes ROOMED (full adversarial pass, sequential) → `reports/longshoreman.room.md`**
+  (Ep1: 11 findings; Ep2: 12 + 1 watch; one continuity break: Tone's wound Ep1 vs Ep2).
+- **Both episodes PUSHED TO REVISION — teaching-mode passes written, one at a time:**
+  `reports/longshoreman-ep1_revision_2026-08-16.md`, `reports/longshoreman-ep2_revision_2026-08-16.md`
+  (rules named on his sentences; ~6 rules cover ~80% of marks: vocative comma, quotes/punctuation,
+  tense wobble, filter words, tag-vs-beat, Dad/dad). Calibration log started:
+  `reports/longshoreman_revision-log.md` — ASK which notes he used.
+- **Standing rule reaffirmed (memory saved): no cushions, ever — blunt + objective on everything.**
+- Open for Alec: Tony/Toney canon spelling; Tone's status; scene-2 location; the missing words
+  (E1-5/8/9, E2-2/4/10); git identity one-liner so all of today can be committed + pushed.
+
+## DECIDED (author, 2026-08-16 night) — the Aug 17–31 Champ revision window SLIDES
+- The window presumed a finished draft; the draft is ~15k of ~30k. **Champ stays in DRAFTING;
+  revision opens when the draft is done.** Author: "we can push back the timeline... a little too
+  optimistic... now I know I need to increase if I want to make a run."
+- Pace math logged: remaining ~15k; recent avg ~1,230/day but only 1 of 4 days >1,200; at a
+  1,000 floor with no zero days → ~Sept 1; at actual pace → ~Sept 10–15. **The lever is the
+  floor, not the ceiling** (431-word and zero days are what slide the date). Target date: AUTHOR
+  TO SET — then it goes back on the calendar file (the Aug 17–31 event was removed).
+- Meanwhile the technical-craft teaching runs on LONGSHOREMAN (already in revision) — Champ =
+  draft, Longshoreman = the grammar lab. Tomorrow's Champ work = Ch31, Chuck ON the page.
+- Author interest tilted to Longshoreman today; he named it and is returning to the Champ
+  tomorrow. Standing check: Champ words first, serial as overflow.
+
+## RULING (author, 2026-08-16 night) — the MID-DRAFT feedback menu, final
+YES while drafting: **corny (quote it) · not working · scenes that need more · pacing · dialogue ·
+show-more-tell-less · repetition/overuse.** NO while drafting: grammar, typos, tense, POV slips —
+"saving grammar for revisions so it can get its own love" — unless an error actually kills the
+scene. **Lead with the hardest structural problem first** (a solid, concrete beginning / middle /
+end is THE goal). Pass 9's technical-patterns section stands as reference for the revision pass
+only; do not repeat it while drafting.
+
+## STANDING CRAFT FOCUS (set 2026-08-16 night, from two blind reads that converged)
+**"Learn to shut up at the end of a scene."** After every emotional beat, the sentence that
+tells the reader what the previous one meant goes — and the scene is rebuilt to survive the cut.
+Both the full-manuscript read (Pass 9) and the blind potential-assessment
+(`reports/writer-assessment_blind_2026-08-16.md`) named this as THE one thing, independently.
+It fixes explain-after-show AND abstract-at-the-peak. Every drafting read from now on checks the
+new pages against it first. Also carried from that assessment: three POVs / one nervous system;
+women as functions; Forgotten = The Champ (one theme — stress-test it deliberately); the
+essayist may currently be ahead of the novelist; "excellent at beginnings" = the risk profile.
+**Verdict on trajectory: keep going. This is the beginning. Everything is gated on finishing +
+one real rewrite.**
+
+## PLAN OF RECORD (author, 2026-08-16 last words): "keep the push"
+Order: (1) FINISH The Champ draft (~15k to go; at the 1,000 floor with no zero days ≈ 3 weeks —
+tomorrow = Ch31 + the floor); (2) a couple more Longshoreman episodes as overflow (buffer bank);
+(3) POLISH — Champ revision pass + Longshoreman revision (both teaching-mode), THEN start moving
+again (publish Ep1, Substack, comps). Standing craft focus applies to every new page.
+- **Cadence (author, 2026-08-16): DAILY UPLOADS of the day's new pages (~1–2k words).** Each is a
+  scoped read: new pages only, mid-draft menu (corny / not working / needs more / pacing /
+  dialogue / show-tell / repetition), standing craft focus checked first, NO grammar — "I'll fix
+  the errors later." Snapshot each upload to manuscripts/, MD5 + count into the word-count log.
+- **RULING (2026-08-17): no total word-count target; no "% complete."** Floor stays; running
+  total is a measurement, not a goal.
+- **Reading-notes doc (Google Drive, 2026-08-17):** "Reading Notes — Self-Editing for Fiction Writers
+  (Browne & King)" — https://docs.google.com/document/d/1B5VHe1Lzz3BYWqaXFVTnMdFsTcxgHhZTwaouftm6Bvg/edit
+  — v1 structure (DUMP box → rule in my words / line that hit / where I do this / disagree / try
+  tonight; running lists incl. "Questions for Claude"). He'll critique and rebuild as he uses it.
+  Readable live via the Drive connector: when he says "check my notes," read it and answer the list.

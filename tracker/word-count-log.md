@@ -5,8 +5,8 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 
 ## Current project: *The Champ* (novella) — working title (formerly *The Fighter*)
 
-- **Word-count goal:** ~30,000 words (soft target)
-- **Current total:** **~15,000 words** (author-reported 2026-08-16; covers through 08-15) → **~50%** of goal (prev measured baseline 13,836; finalize at next MD5-verified export)
+- **Word-count goal:** NONE (retired 2026-08-17 — done is done; floor 1,000/day)
+- **Current total:** **17,040 words** through Ch34 (MD5-verified 2026-08-17); no % — there is no goal.
 - **Daily minimum goal:** **1,000 words/day (floor — raised from 750 on 2026-08-12)** —
   chosen to be sustainable *regardless of motivation*, ideally split into two sessions
   (work downtime + home). Stretch stays 2,000→5,000 on good days.
@@ -41,7 +41,8 @@ Progress: `█████░░░░░` ~50%
 | 2026-08-13 | 1,118 | 11,618 | ✅ |
 | 2026-08-14 (in progress) | 2,218+ | 13,836 | ✅ |
 | 2026-08-15 | ~1,164 | ~15,000 | ✅ ⏳ |
-| 2026-08-16 | 0 (so far) | ~15,000 | ⚠️ (day not over) |
+| 2026-08-16 | 431 (Ch30) | 15,835 (MD5) | ❌ under 1,000 floor |
+| 2026-08-17 | 1,205 (Ch31–34) | 17,040 (MD5 30498e11) | ✅ over floor |
 
 **Cumulative total: ~15,000 words** (author-reported 2026-08-16; covers through the 08-15 session,
 incl. Ch27–29 + the Rob-interlude tail the 13,836 doc missed; finalize the exact number at the
@@ -129,3 +130,38 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
   halfway). The standing guardrail already covers this: **ending > deadline** — the deadline was a
   discipline tool, not the book. Next milestone: draft the Vlad-arc fallout (repentance / depth of
   the slip / Lisa tested / pre-Florida backstory).
+
+## 2026-08-16 (evening) — Ch30 drafted, 431 words; UNDER the floor
+- **Ch30 (Lisa lands in Vegas) = 431 words** (measured from the pasted text; snapshot in
+  `manuscripts/the-champ_ch30_snapshot_2026-08-16.txt`). Champ total ~15,431. That is under the
+  1,000/day floor — author's own words: "slow day, never caught my stride."
+- Also drafted today: **Longshoreman Ep2 "Joey," 859 words** — does NOT count toward the Champ
+  total; logged in `reports/longshoreman.room.md`. Serial words are overflow, not floor.
+- Straight read: a 431-word Champ chapter plus an 859-word side episode is ~1,300 words of
+  fiction — the day's energy went to the serial, not the book. The priority stack says the
+  reverse. One day; not a trend yet. Watch the next three.
+- Ch30 got the standard checker only (`reports/the-champ_ch30_checker_2026-08-16.md`, 27 hits) —
+  no room, no revision, by author's instruction (Champ stays on drafting cadence).
+- **Timeline decision (2026-08-16 night):** revision window slides until the draft is done; Champ
+  stays drafting. Pace lever = the floor (no days under 1,000), not the ceiling. Target date TBD
+  by author.
+- **MD5-VERIFIED EXPORT (2026-08-16 night):** author's .docx (MD5 ebf2c08f1374111bca97c7773d936afe)
+  → measured **15,835 words** through Ch31 (Ch31 = ~120w opener). Supersedes the ~15,431 estimate.
+  Full read logged as Pass 9 in reports/the-fighter.room.md.
+
+## RULING (author, 2026-08-17): NO TOTAL WORD-COUNT TARGET
+"Whatever it is when it's done is what it is." The ~30k / "~50%" framing is retired. The daily
+FLOOR (1,000) stays — it's a discipline, not a length. The running total stays as a measurement
+only. Do not report % complete or a finish-length again.
+
+## 2026-08-17 — Ch31–34 drafted, +1,205 (over floor)
+- Purely additive after the Ch31 opener: wake/Rob → airport (family gone; Lisa's call: pregnant) →
+  the Vlad fight (five rounds, KO) → backstage Vlad + presser "I'm retiring." Snapshot
+  `manuscripts/the-champ_snapshot_2026-08-17.txt` + docx archived. Checker run silently
+  (`reports/the-champ_full_checker_2026-08-17.md`), not surfaced (drafting).
+- Read given (drafting menu): the ending's two load-bearing scenes (weigh-in; the fight from
+  inside) are absent/summarized; thesis TOLD twice at the climax (Chuck's interior + Vlad's
+  monologue) and the page's Vlad is the retired lonely one, not the morning's Khabib; Lisa =
+  phone call (lever); retirement delivered as a presser answer. Best line: Vlad's "Look who's
+  finally here" (= the spine). Open question to author: beats-to-expand or drafted ending?
+- Author: "might be more later."

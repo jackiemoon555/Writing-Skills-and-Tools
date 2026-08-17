@@ -26,8 +26,8 @@ weekly grind (below) is the *additive practice between* NYC Midnight challenges,
 | Challenge | Format | Competition begins | Register by | Fee |
 | --- | --- | --- | --- | --- |
 | ~~Rhyming Story 2026~~ | rhyming story | Sep 15, 2026 | **SKIP** — not his format (dislikes rhyming/poetry, decided 2026-08-13) | — |
-| **Scary Story 2026** ⭐**FIRST TARGET** | ≤400-word scary story, 48 hrs | Oct 16, 2026 (R2 Dec 11–13; Final Feb 12–14, 2027) | **before Oct 16** | see calendar |
-| **250-word Challenge 2026** | ≤250 words, 48 hrs | Dec 4, 2026 | before Dec 4 | see calendar |
+| **Scary Story 2026** ⭐**FIRST TARGET** | ≤400-word scary story, 48 hrs | Oct 16, 2026 (R2 Dec 11–13; Final Feb 12–14, 2027) | **EARLY Aug 27 ($42) · FINAL Oct 16 10 PM ET ($49)** — verified 2026-08-16 | see calendar |
+| **250-word Challenge 2026** | ≤250 words, 48 hrs | Dec 4, 2026 (R1 opens 11:59 PM ET) | **EARLY Oct 29 ($35) · FINAL Dec 4 10 PM ET ($42)** — verified 2026-08-16 | see calendar |
 | **Short Story Challenge 2027** | short story, multi-round | Jan 22, 2027 | before Jan 22 | see calendar |
 | **Flash Fiction Challenge 2027** | ≤1,000 words, 48 hrs | ~May 2027 (annual) | TBA | see calendar |
 

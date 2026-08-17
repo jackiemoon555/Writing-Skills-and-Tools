@@ -375,3 +375,36 @@ brother (unnamed), the locked door ("I just wish he'd let me in").
 
 **STATUS: VAULT / EPISODIC SIDE-PROJECT.** Doesn't block the pipeline (The Champ → monthly
 novellas → Forgotten).
+
+## VAULT — "No-Ghost-Writing Editor" product idea (2026-08-16, PARKED behind The Champ)
+Alec's question: can the editing toolset/method being built + calibrated here become an app?
+**Objective read:** analysis-only AI editors exist (Marlowe/Authors A.I., AutoCrit, ProWritingAid);
+what's uncommon is the COMBINATION — never writes + teaches the rule on the author's own
+sentence + one lens per pass + adversarial multi-reader room + calibrates to the author over
+time via a "what landed / was noise" log. Trust position: "the AI editor that refuses to write
+for you." Technical moat thin (prompts/protocols); real moat = method + brand + calibration data.
+Prior art to check: the "Adversarial Read" (novel-writing-room) skill — same cut-never-invent shape.
+**Staged path (fits non-coder):** (1) PACK not app — bundle the protocol as an installable Claude
+plugin (revision-pass, room read, rules, calibration log); Claude does the packaging, Alec writes
+the rules; tests demand at ~zero cost. (2) Substack = distribution ("how I edit with an AI that
+won't write for me" thread + funnel). (3) App (paste → pass → teaching notes → log) ONLY if 1+2
+pull; needs a builder/host/billing + per-user API cost = a business.
+**Ruling:** the finished book is the case study and the credibility. Do NOT develop before The
+Champ is done. Capture only.
+
+## TOOL NOTE — Superlearn (raiyanyahya/Superlearn), evaluated 2026-08-16
+Claude Code plugin: `/superlearn <topic>` → live-web + arXiv/YouTube research → local interactive
+learning board (notes/diagrams/mindmap/sources), iterative "go deeper." MIT, stdlib-only, runs on
+existing subscription. NOT an editing tool; NOT a substitute for reading Browne & King. USEFUL
+as a RESEARCH accelerator when a lane reopens: waterfront/longshoremen (Longshoreman serial),
+Prohibition piracy/smuggling (Five Families), boxing/MMA + recovery texture (Champ), heist/stealth
+mechanics (game design). Install when a real research question arises, not before. Claude does
+the install; Alec reads the sources it surfaces, not just its synthesis.
+
+## VAULT — "Vlad novella" (author, 2026-08-17; PARKED behind The Champ + Forgotten)
+Companion novella, theme flipped to Vlad: earlier in his career he realizes the cost of greatness
+— and pays it anyway. Mirror of The Champ (a man who CAN afford the price vs. one who can't).
+Guardrail if ever written: he must count the cost clear-eyed and choose it — never regret; the
+moment Vlad regrets, he stops being Vlad (see the-fighter.room.md, "VLAD, FINAL FRAME"). Capture only.
+- Author's one-line contrast (2026-08-17): **"instead of crumpling, Vlad runs into it."** Same
+  test as Chuck's, opposite verb — that's the pitch.

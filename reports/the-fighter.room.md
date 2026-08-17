@@ -1242,3 +1242,327 @@ to be) or **BREAK IT** (one on-page beat establishing Chuck's distinct legal nam
 DUI paperwork / Lisa — or rename Dad). Default-reader assumption is Jr.; silence = lean-in by
 accident. Related: the Project Families "mob connection to Charles and his drug thing" thread
 (see future-ideas vault) inherits this same open name question — resolve both together.
+
+## Pass 9 — FULL-MANUSCRIPT READ (2026-08-16 night; author-requested; 15,835w through Ch31)
+Source: author's .docx export (MD5 ebf2c08f1374111bca97c7773d936afe) → `manuscripts/the-champ_snapshot_2026-08-16.txt`.
+Author asked: what's working / not / corny / overdone / biggest structural + technical weaknesses.
+Register: cruel-constructive (author's standing instruction). Mid-draft rule: this is a
+STORY + CRAFT read; mechanics reported only as PATTERNS with counts (checker:
+`reports/the-champ_full_checker_2026-08-16.md`, 1,291 flags), not surfaced line-by-line. Known
+rulings honored (Thump/Rap/Flash/Crack motifs, Vlad cartoon-then-mask, F-POV parked, timeline
+parked) — where a ruled item is ALSO the honest answer to his question, it is named as such, not
+re-litigated.
+
+**Verdict:** ~8 real scenes and ~23 chapters of connective summary. The book has a spine
+(mirrored walkouts Ch1/Ch21, the arrest intercut Ch13, the relapse Ch29) and a best character
+(Dad), and it is currently a TREATMENT with finished set-pieces — 31 "chapters" averaging 510
+words, several under 200. Not a talent problem; a stage problem. The fall (Ch3–11) is reported
+and confronted, never lived; the love story goes abstract at every close; the prose tells what
+it just showed at ~200 filter-word density.
+
+**Working (keep, build on):** Ch13 arrest/title-win intercut ("My hands jingled") = best chapter;
+Ch12→13 fusion of parents' knock + Rodriguez fight; the two walkouts + the nickname drop (Ch21);
+Dad throughout (film room, "earn that right," "I didn't fake my handicap status for nothing,"
+"I'm still here as [you] crumble"); Ch16 HEB (place, voice, "DUI probably fucked that up, huh?");
+Ch18 "would you have remembered me if you never lost?" (best line of dialogue in the book);
+Ch22 KO-from-John's-seat with the drink ("Another one somehow ended up in his hand"); Ch29 relapse
+economy (the vial, "I fell off the wagon"); Interlude 3 ("empty baggies, empty pill bottles, and
+empty memories"); Ch27 brothers' run; Ch30's close.
+
+**Structural weaknesses (ranked):**
+1. SUMMARY vs SCENE. Ch3, 5, 7(½), 9(½), 19, 20(½), 25(½), 28 are told. "The days turned to weeks.
+   The weeks to months." is a chapter opening. Where the book goes to scene it lives; where it
+   summarizes it's a synopsis. (Overlaps the planned dissociative restructure — but the problem
+   is Ch3–11 wide, not Ch8–13.)
+2. THE SAME SCENE SIX TIMES: Johnny (Ch7), Coach (Ch7), Rob (Ch9), Coach (Ch10), Rob/airport
+   (Ch11), Dad (Ch12) each tell Chuck he's lost it. The fall is narrated to him by six people; it is
+   never shown from inside once, hard. Keep two; make one of them the scene.
+3. TIMELINE unreadable (parked item — but it's structural): the two-year gap can't be placed
+   against Ch9–13; "months"/"years"/"a week"/"six months"/"three months"/"a decade" vs Carl's "four
+   years" (Ch25 "at least a decade" vs Ch26 "four years in Thailand" — contradiction).
+4. THE LOVE STORY GOES GENERIC AT EVERY CLOSE: Ch17 "We embraced. We kissed. We loved each other.";
+   Ch24 "we put our hearts together. We shared our sorrows, our triumphs, our souls" + "I love you"
+   ×5 as interior refrain. The men are specific; the love is greeting-card. AND Ch17's ending
+   oversells what Ch18 then takes back — the whiplash reads as author reversal, not Lisa's.
+5. INTERLUDE QUALITY GAP: 1 (John) asserts its point in 300w; 2 (Nicole) is the most important
+   and the corniest (locker-room influencer scene); 3 (Rob) is the best. Multi-POV is decided;
+   the gap is the note.
+6. PLAUSIBILITY for MMA-literate readers (= his readers): "still in the top five" after 2 years
+   out (Ch6); interim TITLE shot off one comeback win + a DUI (Ch25). Also "*Potential Chapter*"
+   placeholder after Ch20 still in the file.
+7. Description-as-inventory ×5 (Coach/Rob/Johnny/Dad/Chuck-via-Nicole all get height + hair +
+   one feature); Rob's suit/slick/watch triplet ×5 verbatim; "just like old times" ×4, "where it
+   all began" ×3; emotion-as-punch device (ribs/body shot/duck-and-weave) ×6; crying written the
+   same way ~14 times ("tears stung" ×4).
+
+**Corny (author's word — the lines to kill or earn):** "He looked very Russian." (Ch29 — worst
+line in the book); "I take my first step towards a new destiny"/"change history" (Ch1); "Warmth
+flooded my veins looking for my heart" (Ch23); "the predator called anxiety stalked me" (Ch8) +
+"Like a lion stalking its prey" (Ch3); "making me her prisoner"/"shivers down my spine" (Ch16/24);
+the book comparing itself to movies ×3 ("like I was watching a fucking Rocky movie," "like
+something straight out a fucking movie"); the locker-room "know your worth… make them chase you"
+scene (Int. 2); the Ch24 love-refrain close.
+
+**Overdone:** Thump ×106 (motif RULED CHOICE — the note is DENSITY: structural at the walkouts,
+wallpaper as punctuation between dialogue lines in Ch17/18/28; test = does the Thump change the
+line after it?); Knock ×40 (Rap rename pending); Rob's watch (23 "watch"); the punches-as-feelings
+device; the crying; "I could feel/see/felt" ×28 + 200 filter words.
+
+**Technical weaknesses (patterns; the revision pass owns the lines):**
+1. TENSE CONTROL — #1. Ch1–2 present, Ch3+ past, with present intrusions in most chapters
+   ("My mind is racing," "This is where I would rebuild myself. I will be a champion one day").
+   Free-indirect present is fine; accidental present isn't; the reader can't tell which is which.
+2. POV DISCIPLINE — every non-Chuck section slips to "I" at least once (Int. 1, Ch22, Int. 3,
+   Ch30). Parked as fixes; named here as a HABIT: he defaults to first person under pressure.
+3. SHOW/TELL ENGINE — filter words (200) + emotion-naming + personified emotions (house style, but
+   it IS the tell mechanism).
+4. WORD ERRORS at density — 69 spelling flags + homophones the checker can't catch (lose/loss,
+   quite/quiet ×3, isles/aisles, manger/manager, suite/suit ×2, whose/who's, on que, breathe/
+   breath, waiver/waver, proceeded/preceded, balling/bawling, winched/winced, extenuating).
+   Parked — but the density is high enough that a beta reader would stop.
+5. DIALOGUE MECHANICS — tag vs beat ("You look beautiful." I spat out.), vocative commas, two
+   speakers in one paragraph.
+6. NUMBERS — "10"/"ten," "155"/"one-sixty": pick a rule.
+7. Paragraphing — merged paragraphs in Ch14–19, 23–26 (may be export artifact; check the Doc).
+
+**Reconciled TOP FIVE for the revision pass (when the draft is done):**
+1. Convert the fall (Ch3–11) from summary + six confrontations into two or three SCENES lived
+   from inside — this is the dissociative restructure, widened. 2. Fix time: one visible clock
+   the reader can hold. 3. Rewrite the closes of Ch17 and Ch24 in the register the men get —
+   concrete, specific, no refrain. 4. Tense + POV discipline pass (mechanical, whole book).
+5. Kill-list: "very Russian," the movie comparisons, the personified predators, the inventory
+   descriptions, and every Thump that doesn't change the next line.
+Progress: full read complete @15,835w. Ch31 exists (~120w, Chuck wakes; "Where's Rob?"). Champ
+remains in DRAFTING; nothing here is to be executed until the draft is done — this is the map.
+
+## AUTHOR INTENT — Ch31 + ENDING DECISIONS (2026-08-17 morning, stated before pages)
+- **Ch31 = the fallout, alone.** Chuck wakes from the bender; fight 1–2 days out; the people who
+  said they won't save him again (Dad Ch19, Lisa Ch30) DON'T. → read Ch31 for: does he ACT
+  (get up / weight / the call) on the page, or narrate that he did?
+- **CATCHWEIGHT fight — "works here and only here."** Reviewer's reading (to confirm): blown cut
+  after the bender → catchweight → interim belt off the table before the bell → he can beat Vlad
+  and it DOESN'T COUNT = the asterisk the 2026-08-15 architecture review demanded (the price).
+  If author only meant "the interim shot's plausibility is fine because it's fiction" → RULING,
+  log as CHOICE — but the asterisk is the stronger read. AWAITING AUTHOR.
+- **ENDING (author): Chuck BEATS Vlad, then WALKS AWAY.** Learns Lisa is PREGNANT before the
+  fight; UFC offers a can't-refuse deal (McGregor "red panty night"); he walks. Mirrors Ch1's
+  "one more fight" (opposite meaning) — keep the echo, don't state it.
+- Risks flagged: (1) win+walk reads as having-it-both-ways unless the win doesn't count — protect
+  the asterisk; (2) pregnancy = lever unless it's LISA's scene with her own decision (does she
+  want him to fight? tell him to stop him, or despite it?) — "women as functions" watch;
+  (3) the John fight: shrink/backstory/gone? — author to say; (4) "red panty night" = Rob's line,
+  not narration (movie-comparison tic).
+- **UPDATE (author, same morning): THE DEAL = THE JOHN FIGHT.** "It's too good. He'll be set after."
+  → John is the TEMPTATION, not the finale: the superfight vs. the man who took coach/girl/belt =
+  the revenge-redemption story the reader wants; Chuck refuses it. Resolves risk #3 (John shrinks
+  from a fought draw to a refused payday) — stronger anti-redemption than the draw; also answers
+  Interlude 1's "was it worth it?" (Chuck won't take the money to finish John) and answers Vlad.
+  Two requirements: (1) the reader must WANT the John fight — number on the page, Rob selling it,
+  John's face in the scene; (2) the refusal is a SCENE (to Rob, out loud), not a reported decision.
+  Then the son.
+- **AUTHOR THINKING (2026-08-17 morning, NOT yet ruled):** (a) Lisa tells him out of hurt — "look at
+  what we could have built" — and does NOT make it easy: her scene, her stakes. (b) **Passenger →
+  driver = the arc** (the missing half of "the price of greatness"); test for every remaining
+  scene: WHO'S DRIVING? Chuck from Ch31 on. (c) John: after Vlad he has no reason to fight — ego +
+  money he should have made peace with → a second temptation act repeats Ch29. Reviewer: JOHN
+  BECOMES A LINE (Rob has a number; Chuck says no; one sentence of visible cost), not an act.
+  (d) **CUT THE RODRIGUEZ ARCS; make the Vlad build personal.** Reviewer: right instinct — two
+  losses/two comebacks/two rematches = the "same scene six times" problem at plot level. One
+  antagonist: Vlad took the title (Ch1) → fall → the comeback IS the Vlad rematch → nickname
+  drop moves to the Vlad walkout → catchweight asterisk → walk. Plausibility self-heals (Vlad
+  fell too — two comebacks = the poster). Costs: Ch22 (John's-seat KO) must be re-aimed at the
+  Vlad fight, not lost; the middle loses its one action beat; "personal" ≠ speeches (scenes,
+  not backstory). TIMING: draft-two restructure — write forward AS IF Rodriguez is gone; cut in
+  revision.
+- **REFINED (author, same morning):** Rodriguez → a NOBODY Chuck barely remembers (the loss while
+  falling; keep the Ch12–13 intercut verbatim, drop the name — "They say it was an overhand right"
+  already reads as a fight the loser wasn't present for). **Vlad = champ from Ch1, never moves up**
+  → the ending fight is the literal rematch of the fight that broke him. Cost: John no longer
+  "avenges your loss" (presser line goes); John's belt is unrelated; his arc unchanged.
+  BONUS: undisputed champ + catchweight (blown cut) = Chuck beats the best man in the world and
+  it ISN'T a title fight — the price of greatness in one box score; purer than the interim.
+  "Impactful" (not personal) = fewer collisions, more weight each: Ch1 / presser / dinner /
+  walkout — four, escalating, no backstory. Consequence: ONE fight in the book, at the end,
+  written in full from inside; the middle holds on rebuild + Lisa + Carl + build. Draft-two work.
+- **AUTHOR GOAL: the Vlad arc must gut-punch the READER, not just Chuck.** Reviewer's craft
+  note (own material only): (1) the reader already wants the belt (Ch1) → the punch = the
+  WEIGH-IN scene — belt off the table before a punch, and Chuck CHOOSES to fight anyway (driver);
+  (2) build long / land short / don't explain — his own hardest hits are 4–5 words after a build
+  ("They say it was an overhand right." "I fell off the wagon.") → the fight can be long, the
+  box score is one sentence; (3) dramatic irony: the reader carries "what we could have built"
+  through every round — don't have Chuck think it; (4) Vlad's mask drops AFTER, cold, brief;
+  (5) the nickname walkout in front of Vlad. Avoid "more" — Ch13 punches with almost no words.
+- **LANDED (author, 2026-08-17): tune-up → title.** Rodriguez (or the nobody) = a TUNE-UP to
+  readjust Chuck and put him in line; Vlad = champ throughout who has CLEANED OUT the division
+  (Islam/Volk pipeline), contemplating moving up but never does. Plausibility closed: a cleaned-
+  out champ needs a NAME → comeback star off a tune-up sells (Rob: "he's got nobody left").
+  Free wins: (1) **VLAD PICKS CHUCK** — "the only man to ever catch me" (Ch29 line) → the champ
+  demands the fraud for his own reasons; seeds the mask-drop (out of worlds to conquer);
+  (2) tune-up stays small + offstage (Ch21–22 device, John's seat) — do NOT reuse the device;
+  the Vlad fight is the one shown from inside. Risk if Rodriguez (not the nobody) stays: two-loss/
+  two-rematch shape — mitigated by scale (tune-up = 1 chapter; Vlad = the book).
+- **THE MACHINE (author, 2026-08-17):** the tune-up KO relights the UFC's interest; the botched
+  cut becomes promo fodder for a Chuck-vs-old-camp (John) feud; the promotion KNOWS he's relapsing
+  and MILKS it after Vlad → the John offer is the machine's move, not John's. Pays Ch1's "fuck
+  Dana, fuck the shareholders" as indifference-not-villainy; the walk = refusing the machine that
+  profits from his self-destruction; Rob = its hand. Guardrails: (1) show it ONCE, cold, in a
+  boardroom voice; never editorialize; (2) REAL NAMES — Dana as public persona is fine; Dana as a
+  character knowingly exploiting addiction is a taste/credibility flag → fictionalize the exec or
+  keep the machine faceless ("the promotion," a Rob relay). Faceless is more on-theme.
+- **THE CALLOUT (author, 2026-08-17 — strongest change of the morning):** after the tune-up win,
+  "The Chosen" pops out on the MIC and calls out the champ; Vlad, amused, accepts. → The persona's
+  return is SHOWN in public in the win (thesis dramatized: winning brings the worst self back the
+  same night it was buried at the walkout), not reported (Ch30 phone call becomes escalation).
+  Reader sees the mask before Chuck admits it → Ch23–24 warm stretch plays under a shadow the
+  reader holds; Lisa's Ch24 "fame won't knock you off the wagon" = a woman who watched it. The
+  persona calls the fight = PASSENGER in purest form (the mask at the wheel) → Ch31 = Chuck takes
+  the wheel back. Vlad answering the callout = Vlad choosing him. Machine gets its promo hook.
+  Slot: end of Ch22 from John's seat (John + Nicole watching the old Chucky come back). Short —
+  the mic, three sentences of the old voice, cut; no reflection; Ch23 opens on "I don't feel it."
+  MUST READ AS A SLIP, NOT A DECISION.
+- **CORRECTION (author, same minute): the callout is CHUCK'S DECISION** — "HE decides to fight
+  Vlad, not knowing the risks." Driver ≠ good decisions; driver = owning them. The callout = the
+  first thing he CHOOSES in the book, reckless, blind to cost; consequences land on a man who
+  asked for them. Ch31 = the first decision made SOBER and ALONE (the harder turn). Keep the
+  honest ambiguity — his choice, in the persona's voice; he owns it without knowing who was
+  talking — but nobody else put the mic in his hand. (Supersedes "must read as a slip.")
+- **PASSENGER = THE WHOLE FIRST HALF (author + reviewer agree, 2026-08-17).** It's the arc's act
+  one — a man who outsources his life (Rob/Coach/persona) and calls it destiny. Fix for it reading
+  as authorial accident: **ONE MOMENT OF LUCIDITY** in the first half — Chuck sees clearly that he's
+  choosing not to choose, and lets it happen anyway (accountability; the mask was his; Jon Jones
+  grounding). Rules: ONCE, not a motif; IN SCENE, not narration (the existing "The reality was that
+  it was a cry for help" line is the tell-version of exactly this — replace, don't keep); slots
+  already on the page: Ch9 Rob's balcony ("I know who you really are" turned inward one beat, then
+  he walks out as now) or Ch11 before boarding. HINGE: first half = knows, doesn't act; Ch31 =
+  knows, ACTS — same lucidity, opposite verb; the ending is "he finally does," not "he finally
+  understands." Draft-two placement.
+- **REFINEMENT: "he fades back and forth but he's still complicit."** = the planned dissociative
+  restructure of Ch8–13 (intercut/fade). Rule: ANCHOR ONCE (one unmistakable lucid beat, Ch9 or
+  Ch11), THEN fade — flickers read as complicity only if the reader holds the anchor; without it
+  they read as authorial vagueness. Fade = the Ch12–13 intercut technique (already his best form).
+- **VLAD INTERLUDE (author asked, 2026-08-17): YES, with conditions.** Use: the reader sees Vlad's
+  LIFE (the price of greatness as a daily schedule — 4 a.m., empty room, cleaned-out division,
+  nothing left to want; the callout is the first thing that's amused him in a year), NOT his heart.
+  Mask STAYS ON — no backstory, no stated loneliness, no spoken respect; the backstage scene after
+  the fight is where the mask drops, once, in front of Chuck. Interlude shows; backstage reveals.
+  Placement: after the callout/acceptance (post-Ch22), not the blank post-Ch20 slot. Voice: NO
+  Thump, no personified emotions, no similes — short, exact; the test of a second interior music
+  (blind read's "one nervous system" flag). Length: shortest interlude in the book (~400w). Write
+  now only if it comes fast without costing the floor; else placeholder line, do it in the pass.
+- **VLAD RE-RULED (author, 2026-08-17): VLAD HAS NO MASK.** SUPERSEDES cartoon-then-mask-drop
+  (2026-08-12) and the "mask-drop backstage" framing. He is the OPPOSITE OF CARL: Carl won't pay
+  the price (loves fighting, walked, no mask); Vlad knew what it takes and paid it — no regret, no
+  mask. Not a villain (novella's law: no villains) — the man who paid. POV question answered: a
+  Vlad POV can't "humanize by reveal" (nothing hidden); the only risk is SOFTENING (lonely/wistful
+  = a lie). Write him at complete PEACE with a price the reader would never pay — no self-pity,
+  no "was it worth it" (that's John's question); the reader is horrified, Vlad isn't = "embraced
+  the drowning" on the page. Cast spectrum: Carl (won't pay) — Chuck (paid partway, refuses the
+  rest) — Vlad (paid in full); Rob = the mask won; John = the mask trapped him. Backstage scene
+  after the fight = Vlad STATES (the presser line as fact, not insult), not reveals.
+- **VLAD, FINAL FRAME (author, 2026-08-17): a KHABIB.** National hero in Russia, loves every
+  second, would never trade it. The ice = real AND a fight-week intimidation tool (no
+  contradiction — unapologetically himself). He laughs/cries/smiles — passing moments between
+  fights; the fights are what he IS. → RETIRE the reviewer's "empty room at 4 a.m." framing (wrong
+  Vlad) and the ledger's "his cost = a life unlived" (true only by Chuck's/the reader's values,
+  not his). THE THESIS THIS UNLOCKS: the price is only a price if you value what it costs — same
+  bill; Vlad pays it and doesn't notice; Chuck can't afford it and knows it. Reader can't pity or
+  hate him. INTERLUDE = show him LOVED (home, his people, murals) → fight week, the switch → the
+  callout as one amused minute inside a full life; reader ends it thinking "he's happy" and the
+  floor drops. BACKSTAGE = no wound; he tells Chuck the truth, near-friendly: you could have had
+  this and you don't want it — the line Chuck walks away on.
+
+## ARCHITECTURE — CURRENT STATE (consolidated 2026-08-17; supersedes the morning's entries above where they conflict)
+Read THIS block, not the running notes, for what's decided. Draft-two items marked (D2).
+1. **Arc = passenger → driver.** First half: Chuck outsources his life (Rob/Coach/persona) —
+   deliberate, ANCHORED by ONE lucid beat (D2; Ch9 balcony or Ch11 airport: he sees it, gets in
+   the car anyway), then Ch8–13 fade/intercut (D2 restructure). Ch31 = first decision made SOBER
+   and ALONE. Ending = "he finally DOES," not "he finally understands."
+2. **One antagonist, one loss, one rematch.** Vlad = champ from Ch1, never moves up, cleaned out
+   the division (Islam/Volk pipeline). The second loss = a tune-up-level fight he barely
+   remembers (Rodriguez as a NOBODY, or keep the name at tune-up scale — author's call; D2). The
+   comeback fight = a TUNE-UP, kept small + offstage (Ch21–22 device from John's seat).
+3. **The callout (end of Ch22, John's seat):** after the tune-up KO, "The Chosen" comes out on the
+   mic and calls out the champ — CHUCK'S DECISION, reckless, in the persona's voice (he owns it
+   without knowing who was talking; nobody else put the mic in his hand). Vlad, amused, accepts
+   → the champ chooses "the only man to ever catch me." Persona return is SHOWN in the win; Ch30's
+   phone call becomes escalation. Ch23–24 warm stretch plays under a shadow the reader holds.
+4. **The machine:** the KO relights the UFC; the blown cut becomes promo fodder for a Chuck-vs-
+   old-camp (John) feud; the promotion knows he's relapsing and milks it → the John offer is the
+   MACHINE's move. Show ONCE, cold, faceless ("the promotion"/a Rob relay) — no editorializing;
+   don't make Dana White a knowing exploiter (fictionalize the exec).
+5. **Vlad, final:** a KHABIB — national hero, loves it, would never trade it; ice = real + fight-
+   week tool; laughs/cries/smiles as passing moments; the fights are what he is. NO MASK.
+   Opposite of Carl (won't pay). Not a villain. Thesis unlocked: the price is only a price if you
+   value what it costs. INTERLUDE (D2, post-callout, ~400w, no Thump/no similes): show him LOVED
+   → fight week, the switch → the callout as one amused minute; reader thinks "he's happy," floor
+   drops. BACKSTAGE after the fight: he STATES the presser line as fact, near-friendly — "you could
+   have had this and you don't want it."
+6. **The price:** blown cut → CATCHWEIGHT → belt off the table before the bell → Chuck CHOOSES to
+   fight anyway (driver) → beats the champ and the record says nothing changed. WEIGH-IN is the
+   reader's gut-punch scene. Nickname walkout in front of Vlad. The fight = the ONE fight shown
+   from inside; box score in one sentence; build long / land short / don't explain.
+7. **Lisa:** tells him out of hurt — "look at what we could have built" — her scene, her stakes;
+   she does not make it easy and never softens to ease his choice. Reader carries it through the
+   rounds (dramatic irony); Chuck doesn't think it.
+8. **[AMENDED 2026-08-17 evening — author: "I didn't axe my ending this morning."] THE JOHN ARC IS
+   THE AUTHOR'S PLANNED ENDING AND IT STANDS:** after Vlad, the John superfight — the 2026-08-14
+   architecture (a DRAW; John falls apart in Chuck's arms = Chuck breaks the cycle) → Chuck RETIRES
+   (the mentor, not the warrior) → EPILOGUE (Nicole's wedding; Chuck has a SON — the load-bearing
+   image). Author is DRAFTING the full John arc now; keep-or-cut by the pages against his own kill
+   criterion. The morning's alternate (Chuck refuses the John payday instead of fighting) is an
+   OPTION he floated, not a ruling — logged as reviewer-recommended, author-undecided.
+9. **Ending, current plan:** beats Vlad (asterisk) → John arc (as above; draw + retire, unless the
+   pages say otherwise) → the son. Cast spectrum: Carl (won't pay) — Chuck (paid partway, refuses
+   the rest) — Vlad (paid in full); Rob = the mask won; John = the mask trapped him. Nobody is a
+   villain.
+10. **Standing craft rule for every remaining page:** who's driving? (Chuck, from Ch31.) And: no
+    sentence after the show that says what it meant.
+SUPERSEDED by this block: cartoon-Vlad-then-mask-drop (2026-08-12/14); "callout must read as a
+slip"; "empty room at 4 a.m." Vlad; "his cost = a life unlived"; the interim title framing
+(catchweight vs. undisputed champ is cleaner). NOT superseded: the John DRAW ending (see item 8 —
+amended; it stands). Also NOT changed by anything today: the 30k word target was the ONLY thing the
+author retired this morning. Timeline/interlude-count decisions
+from 2026-08-13 stand where not contradicted here.
+ADDENDA to CURRENT STATE (audit 2026-08-17): (a) lucidity anchor — the existing Ch5 line "The
+reality was that it was a cry for help" is the TELL-version of the anchor: REPLACE it with the
+in-scene beat, don't keep both (D2). (b) Callout execution: short — the mic, three sentences of
+the old voice, cut; no reflection; Ch23 opens on "I don't feel it." (c) Vlad companion novella
+("instead of crumpling, Vlad runs into it") is VAULTED in docs/future-ideas.md — parked, capture only.
+
+## Pass 10 — Ch31–34 (2026-08-17 evening; +1,205w; snapshot the-champ_snapshot_2026-08-17.txt)
+Read against the morning's card + rule 3 (drafting menu). Hardest first: (1) WEIGH-IN scene absent
+(the blown cut is one Vlad line after the fact) and the FIGHT is round summaries ("another
+snoozer") — the two scenes the ending stands on; plus a logic hole: 3–4 days out cold, fight in
+"six, seven hours" → he missed the weigh-in — either the wrecked weigh-in IS the scene or the fight
+can't happen. (2) THESIS TOLD TWICE at the climax — Chuck's "I felt the price he paid... The
+loneliness, the empty people..." and Vlad's "Greatness is never free" monologue — the standing
+one-thing, at max stakes; AND the page's Vlad = the retired lonely Vlad, not the Khabib — page vs
+card, author must pick. (3) Who's driving: Ch32 airport = first driver act (runs TO his people;
+gone) ✔; catchweight decision not shown; retirement arrives as a presser answer next to "I could
+probably make another run" — driver decision, passenger delivery. (4) Lisa = a phone call ("I'll
+raise this baby on my own"), the lever version; Chuck's response = four words + a chapter break.
+Corny (quoted in-session): "In that moment, we understood each other" (worst), "Sending a chill
+through the arena," "the man that took my life was prepared to end it," "the sadness released in a
+violent release," "all these emotions became my shield," "Finally my failure," Vlad's "I'm honored"
+(warm, off-card), the TSA sprint (movie beat carrying a good idea). WORKS: Vlad "Look who's finally
+here" (= the "I'm still here" spine from the antagonist — protect); Rob's two lines; Vlad sitting
+in trunks (keep image, cut speech to one line); "A shame you couldn't be the champ" (asterisk,
+cold); "He smiled as my fist collided with his face" (the Khabib); "My savior" irony. Needs-more:
+weigh-in (new scene), fight ×5 from inside, Lisa in a room, the walk-away DECIDED with Rob + a
+number before the presser. OPEN: are Ch33–34 beats to expand or the drafted ending?
+- **AUTHOR RULING (2026-08-17 evening): Ch31–34 are BEATS to expand**, not the drafted ending — Pass 10
+  read stands as "expand these." **NEXT: author writes a full JOHN ARC as an experiment**; keep-or-cut
+  after. Kill criterion agreed to be set BEFORE writing (suggested: keep only if refusing the payday
+  costs Chuck visibly more with John in the room than without). Guardrail: write it as the OFFER
+  (John's face, Rob's number, the machine, Chuck's no) — not a fight (a John fight = two climaxes /
+  reopens the retired draw). Fallback if cut: John = side character (falls apart at a separate time/
+  place = interlude material); Vlad's front-half role grows; the beginning gets the anchor beat in D2.
+
+## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
+The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
+draw ending SUPERSEDED) were the REVIEWER'S recommendation logged as if the author had ruled. He
+had not — he was thinking aloud. Author, verbatim: "I didn't axe my ending this morning. Only the
+30k word count." STANDING: the John arc is OPEN and being DRAFTED now as a full arc; the John
+DRAW ending (2026-08-14 architecture) remains a live option; keep-or-cut is decided by the pages
+against the author's own kill criterion. Everything else in CURRENT STATE stands (Vlad frame,
+callout, tune-up→title, catchweight, the machine, lucidity anchor, passenger→driver).

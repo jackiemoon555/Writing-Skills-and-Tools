@@ -143,7 +143,7 @@ writing-tools chapter.md --list-unknown     # find candidate custom-dictionary w
 book — the `.docx` files are still named `the-fighter`.*
 
 - **Genre/voice:** first-person, present-tense, boxing/MMA. Punchy, short sentences.
-- **Goal:** ~30,000 words (soft target).
+- **Goal:** ~~30,000 words (soft target)~~ — RETIRED 2026-08-17 (author: no total target; done is done; the 1,000/day floor is the only number — docs/WORKING_RULES.md rule 1).
 - **Status as of 2026-08-12: 5,841 words (~19.5%).**
 - **Heartbeat motif:** "Thump. Thump." repeats intentionally (~47×) — that's on
   purpose, not an echo to fix.

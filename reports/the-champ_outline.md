@@ -1,7 +1,7 @@
 # THE CHAMP — Working Outline
 
 *Working title (formerly "The Fighter"). First-person literary MMA drama.*
-*Status: first draft in progress — ~7,940 words (~26% of ~30k). Updated 2026-08-12.*
+*Status: first draft in progress — 15,835 words through Ch31 (2026-08-16); no length target (author ruling 2026-08-17). Architecture: CURRENT STATE block at the end of the-fighter.room.md.*
 *This outline organizes what's written + the author's stated plan. Unwritten beats are marked [TO WRITE]. No plot was invented here — placeholders are the author's to fill.*
 
 ---

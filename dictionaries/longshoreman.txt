@@ -1,14 +1,19 @@
-# Longshoreman Series / Project Families — custom dictionary
 # Intentional names + dock dialect. NOTE: both "Tony" and "Toney" spellings appear
+# Longshoreman Series / Project Families — custom dictionary
 # in Ep1 — only one belongs here once the author picks the canon spelling.
-Vinny
-Vin
-Tony
-Toney
 Ayo
+Harvard
+Joey
+Toney
+Tony
+Vin
+Vinny
+doofus
 fuckin
 gettin
+hoodie
 makin
+tagalong
+twenty-four-seven
 whatcha
 whatda
-twenty-four-seven
