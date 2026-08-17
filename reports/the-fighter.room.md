@@ -1571,6 +1571,20 @@ we understood each other" + explain paragraph at the peak; = "excellent at begin
 openings/closes, skipped middles). REGRESSION: Lisa Ch30 (room, POV, speech) → Ch32 (one phone line
 carrying the plot's biggest fact). Pass 10 defects NOT re-raised (author ruled: beats to expand).
 
+## AUTHOR RULING (2026-08-17 night) — VLAD ARC EXPANSION → REVISION; DRAFT PUSHES FORWARD
+"Save the entire Vlad arc for revisions. Let me finish the draft first. We're in the final push."
+Ch31–34 stay as beats. The Vlad-fight architecture agreed tonight is PARKED for the revision pass
+(do NOT re-raise while drafting): fight = Khabib–Conor shape (earned hate: Rob's cousin line +
+the persona's callout; Vlad hates the persona/Rob, reaches them through Chuck's body) · R1 lived from
+underneath = the PLAN breaks (one takedown + the empty stool, staff not his people) · R2–4 = one
+compression line (the body breaks) · R5 = he GETS UP (driver act) → "Look who's finally here" → the
+right hand; KO mid-round, not buzzer · no "felt/understood/emotion" sentences; Vlad's insides visible
+only via face/mouth; Chuck doesn't think underneath, he notices · weigh-in scene still owed (Romero–
+Whittaker 2 as the real-world catchweight model). Reading parked: Gottschall *Professor in the Cage*,
+Toole *Rope Burns*, Thom Jones "Pugilist at Rest," Mailer *The Fight*.
+NEXT PAGES = the John arc (offer scene: the room, the number, his face, stop on Chuck's no) →
+retire → epilogue/son. Floor met 08-17 (1,205).
+
 ## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
 The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
 draw ending SUPERSEDED) were the REVIEWER'S recommendation logged as if the author had ruled. He

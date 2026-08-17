@@ -12,6 +12,9 @@ caught up without re-doing today's work.*
 >    Ch31–34 are BEATS to expand (author ruling). **He is now writing THE JOHN ARC** — his planned
 >    ending (John superfight → draw → retire → epilogue/son) STANDS; keep-or-cut by the pages
 >    against his own kill criterion. Only the 30k word target was retired.
+>    **RULING 08-17 night: the whole VLAD-ARC EXPANSION (weigh-in, R1 underneath + empty stool, R2–4
+>    compression, R5 gets-up, backstage cut to one line) is PARKED FOR REVISION — full plan at the end
+>    of the room ledger. Do NOT re-raise while he drafts. "Final push": John arc → retire → epilogue.**
 > 3. Daily upload cadence: he sends the day's pages (docx) → snapshot, MD5+count, checker (silent),
 >    read ONLY the new pages on the DRAFTING menu (corny / not working / needs more / pacing /
 >    dialogue / show-tell / repetition; hardest structural first; NO grammar), first check = did he
