@@ -18,9 +18,8 @@ caught up without re-doing today's work.*
 >    explain after showing. He states intent first; ask if he didn't.
 > 4. Longshoreman Ep1–2 are in REVISION (`revision-pass` skill); their reports exist; ask which notes
 >    landed → `reports/longshoreman_revision-log.md`.
-> 5. **BLOCKED ON HIM: git identity.** ~32 files staged since 2026-08-16, none committed. Once, in
->    `D:\Claude\Writing`: `git config user.name "Alec" && git config user.email "alecborrego5@gmail.com"`
->    — then commit + push (`gh auth setup-git` first). Never run git config yourself.
+> 5. Git identity RESOLVED (commit ab2e8a5, 2026-08-17, author = Alec). Commit + push each session
+>    (`gh auth setup-git` if push fails). Never run git config yourself.
 > 6. Timely: Scary Story early-bird closes **Aug 27** ($42→$49); Reedsy Fridays; calendar `.ics` in
 >    `tracker/`. Google Calendar connector was 503 on 08-16 — retry, else he imports the .ics.
 > 7. Format for him: verdict first line, action last, bold anchors, one ask (ADHD — rule 12).

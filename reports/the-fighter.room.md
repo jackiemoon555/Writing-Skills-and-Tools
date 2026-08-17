@@ -1558,6 +1558,19 @@ number before the presser. OPEN: are Ch33–34 beats to expand or the drafted en
   reopens the retired draw). Fallback if cut: John = side character (falls apart at a separate time/
   place = interlude material); Vlad's front-half role grows; the beginning gets the anchor beat in D2.
 
+## Pass 10b — Ch31–34 re-read for IMPROVEMENT (author's question, 2026-08-17 night; same snapshot, no new pages)
+Verdict: the sentence-level habit improved; scene-level nerve did not. IMPROVED: (1) shut-up-at-the-end
+executed on both chapter closes — Ch31 "Where's my phone?", Ch32 "Baby?" (vs Ch30's "that's the price you
+pay to love the Chosen" gloss); (2) Chuck drives — Ch31 lunge/"How long?", Ch32 sprint, Ch34 pushes staff
+away (Ch27–30 = things happen to him); (3) dialogue — Rob "people under the city"/"Eh, champ?" and Vlad
+"Look who's finally here"/"A shame you couldn't be the champ" = first non-cartoon Vlad lines (Ch29 "send you
+back to bottom where you belong"); (4) detail selection — Vlad "in the same position… still in his trunks
+too" (one image = the mirror), bare feet on marble. NOT IMPROVED / PATTERN: the focus holds on 100-word
+beats and breaks on the 1,000-word one — Ch33 center = round list, "another snoozer", then "In that moment,
+we understood each other" + explain paragraph at the peak; = "excellent at beginnings" in miniature (clean
+openings/closes, skipped middles). REGRESSION: Lisa Ch30 (room, POV, speech) → Ch32 (one phone line
+carrying the plot's biggest fact). Pass 10 defects NOT re-raised (author ruled: beats to expand).
+
 ## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
 The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
 draw ending SUPERSEDED) were the REVIEWER'S recommendation logged as if the author had ruled. He
