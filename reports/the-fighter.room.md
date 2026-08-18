@@ -1655,6 +1655,9 @@ corner / John falls apart / Chuck holds him → Ch40 epilogue: the son. Draw end
   the STOOL between rounds (Chuck outside the cage, hands on John's face — the man who sat on an empty stool
   now sits someone else down); the real scene is AFTER (John falls apart backstage, Chuck holds him, Rob in
   the building, nobody explains); division logic = one line (catchweight rhyme only if it lands naturally).
+  AMENDED (author): VLAD GOES UP (Islam model), John = WW champ. D2 choice pending: first move up (cut the
+  Ch12/Ch29 "Johnny beat me" lines) OR a REMATCH (Vlad avenging his one loss; Chuck corners the man who gave
+  it to him — colder, and already written). Card item 2 "never moves up" now = front half only.
 
 ## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
 The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
