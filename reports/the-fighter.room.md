@@ -1584,6 +1584,15 @@ Whittaker 2 as the real-world catchweight model). Reading parked: Gottschall *Pr
 Toole *Rope Burns*, Thom Jones "Pugilist at Rest," Mailer *The Fight*.
 NEXT PAGES = the John arc (offer scene: the room, the number, his face, stop on Chuck's no) →
 retire → epilogue/son. Floor met 08-17 (1,205).
+- **EXERCISE + D2 SEED (2026-08-18): Ch5 told paragraph ("cry for help") rewritten by author as a locker-room
+  scene** — first day back; assistant coach (Justin, misnamed "Chad") almost brings it up → wallet joke;
+  vial; JOHNNY does a line with him; COACH stands in the doorway, silent; Chuck snorts it all in front of
+  him. Passed the one question (nothing explained; reader arrives at "cry for help" unaided). Notes: cut
+  "you only live once"; one word of place for the first pull; Coach-in-doorway = the lucidity-anchor beat
+  → BANK for D2 (replaces the Ch5 tell). **AUTHOR INTENT: Chuck + Rob pushed Johnny into who he became**
+  — Chuck put the first line up John's nose. Seed only, never stated; John shouldn't know it, Chuck should.
+  Reviewer: this is a candidate JOHN-ARC KILL CRITERION — keep the arc iff the pages make Chuck responsible
+  for John (John's collapse must be one only Chuck could catch). Author has not yet set the criterion.
 - **D2 note (author idea, 2026-08-18): Ch32 pregnancy reveal — Lisa MEETS him at the gate instead of the
   phone call.** Reviewer: yes — she crosses the security line he can't, says it to his face, walks back
   through the gate he can't pass; the reveal need not be a spoken line; she stays the driver, he reacts
