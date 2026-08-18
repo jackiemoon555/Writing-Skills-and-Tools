@@ -1584,6 +1584,10 @@ Whittaker 2 as the real-world catchweight model). Reading parked: Gottschall *Pr
 Toole *Rope Burns*, Thom Jones "Pugilist at Rest," Mailer *The Fight*.
 NEXT PAGES = the John arc (offer scene: the room, the number, his face, stop on Chuck's no) →
 retire → epilogue/son. Floor met 08-17 (1,205).
+- **D2 note (author idea, 2026-08-18): Ch32 pregnancy reveal — Lisa MEETS him at the gate instead of the
+  phone call.** Reviewer: yes — she crosses the security line he can't, says it to his face, walks back
+  through the gate he can't pass; the reveal need not be a spoken line; she stays the driver, he reacts
+  in the body; guard: she talks, he doesn't get to plead. Parked with the Vlad-arc expansion.
 
 ## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
 The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
