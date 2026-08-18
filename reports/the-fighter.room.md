@@ -1658,6 +1658,10 @@ corner / John falls apart / Chuck holds him → Ch40 epilogue: the son. Draw end
   AMENDED (author): VLAD GOES UP (Islam model), John = WW champ. D2 choice pending: first move up (cut the
   Ch12/Ch29 "Johnny beat me" lines) OR a REMATCH (Vlad avenging his one loss; Chuck corners the man who gave
   it to him — colder, and already written). Card item 2 "never moves up" now = front half only.
+  RESOLVED (author, same night): D2 CUTS the John-beat-Vlad history entirely (Ch10 "avenging your loss,"
+  Ch12, Ch29 "the Johnny beat me"). John won his OWN belt (WW) and shouted Chuck out doing it — "for his
+  friend" — the shout-out stays. Ch39 = John and Vlad's FIRST meeting; Vlad's record stays one loss (Chuck's
+  catch, if kept) / clean. Should have gone with the Vlad-champ-from-Ch1 ruling on 08-17 — closed now.
 
 ## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
 The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
