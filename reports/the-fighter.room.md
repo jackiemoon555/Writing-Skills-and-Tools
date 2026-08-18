@@ -1624,6 +1624,32 @@ retire → epilogue/son. Floor met 08-17 (1,205).
   through the gate he can't pass; the reveal need not be a spoken line; she stays the driver, he reacts
   in the body; guard: she talks, he doesn't get to plead. Parked with the Vlad-arc expansion.
 
+## Pass 11 — Ch35–37 (2026-08-18 night; 542w chat paste, UNDER floor; snapshot the-champ_ch35-37_snapshot_2026-08-18.txt)
+Ch35 = Rob's $10M offer refused ("How much do you get Rob?"/"Just a small cut."/"Then fuck you, Rob."; Chuck
+turns Interlude 3 on him — Linda, the kids; Rob blows smoke; "I said no."). Ch36 = Kingsville airport, Carl at
+the curb, admits leaving was a choice; Chuck says "help." Ch37 = living room, all four; retiring + rehab; Dad
+"I don't believe you… Look at your mother"; parents break. HARDEST FIRST: (1) the offer has a NUMBER and NO
+FACE — opponent never named (author: it's John, "intentionally ambiguous" → ruled: NAME HIM); (2) Ch37 is a
+150-word beat for the book's real climax — needs the room, Dad's hands, Carl present; (3) dialogue says the
+theme ×3 ("last of my humanity"; Carl's "You can't be around it… it's like that for some people"; Carl
+explaining his own arc); (4) "I need help" vs "by myself" — author intent = help so he can stand alone →
+fix = ACT not sentence: cut "by myself"/"weak" from Ch37, Ch38 = he checks in alone. Corny: "stunned silence
+cascading," "shocked me from my dream state," "Silence consuming us." WORKS: the cut/no exchange; smoke in the
+face; "I said no."; "baggage claim quick, too quick"; "making my shirt wet"; "I'm retiring. If you didn't see.";
+Carl "I wanted to believe they made me do it." Driver: ✔ Ch35 (first refusal of the thing he always took).
+
+## AUTHOR RULING (2026-08-18 night) — THE ENDING, FINAL SHAPE: THE JOHN FIGHT IS DEAD; THE JOHN ARC LIVES AS THE CORNER
+Kill criterion answered by the pages: Ch35 (offer refused, John's face in the room once named) does the arc's
+job. Author floated post-rehab "one more fight to prove I can handle it" → reviewer: that refunds "I said no"
+and is the addict's sentence (Dad Ch19) + a second climax; author AGREED and chose instead: **post-rehab (6-mo
+skip) Chuck is IN JOHN'S CORNER — not fighting; fight week, the machine, Rob in the building; John falls apart
+backstage; Chuck catches him** = the 08-14 ending ("John falls apart in Chuck's arms; Chuck breaks the cycle")
+minus the fight. Author, verbatim: "He's walked away for good. He had to. That's Chuck's price — he can't be a
+fighter and be a healthy person. Not wanting to leave the fight game he now becomes the one to break the cycles
+so they don't have to suffer like he did." GUARDRAIL: nobody says that sentence on the page. Ending map now:
+Ch35 offer (NAME JOHN) → Ch36 Carl → Ch37 living room (expand) → Ch38 check-in ALONE → [6 months] → Ch39 John's
+corner / John falls apart / Chuck holds him → Ch40 epilogue: the son. Draw ending SUPERSEDED (author, 08-18).
+
 ## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
 The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
 draw ending SUPERSEDED) were the REVIEWER'S recommendation logged as if the author had ruled. He

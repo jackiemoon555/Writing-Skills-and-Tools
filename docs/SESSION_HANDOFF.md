@@ -8,10 +8,12 @@ caught up without re-doing today's work.*
 > 1. Read `docs/WORKING_RULES.md` (13 rules — how to work with Alec; canonical). Then this file's
 >    top blocks. Then the **"ARCHITECTURE — CURRENT STATE (consolidated 2026-08-17)"** block at the
 >    END of `reports/the-fighter.room.md` (+ its AMENDMENTS/CORRECTION right after it).
-> 2. **The Champ = DRAFTING.** 17,040 words through Ch34 (MD5 30498e11…, `manuscripts/the-champ_snapshot_2026-08-17.txt`).
->    Ch31–34 are BEATS to expand (author ruling). **He is now writing THE JOHN ARC** — his planned
->    ending (John superfight → draw → retire → epilogue/son) STANDS; keep-or-cut by the pages
->    against his own kill criterion. Only the 30k word target was retired.
+> 2. **The Champ = DRAFTING.** ~17,582 words through Ch37 (Ch35–37 = 542w chat paste 2026-08-18,
+>    `manuscripts/the-champ_ch35-37_snapshot_2026-08-18.txt`; docx export pending). Ch31–34 are BEATS.
+>    **ENDING RULED 2026-08-18 (see Pass 11 + ruling at end of the room ledger): the JOHN FIGHT IS DEAD;
+>    the John arc = Chuck in JOHN'S CORNER post-rehab, John falls apart, Chuck catches him.** Map: Ch35 offer
+>    (name John) → Ch36 Carl → Ch37 living room (expand) → Ch38 check-in alone → 6-mo skip → Ch39 John's
+>    corner → Ch40 epilogue, the son. Target: last sentence by **Sun Aug 23** (author, 08-17).
 >    **RULING 08-17 night: the whole VLAD-ARC EXPANSION (weigh-in, R1 underneath + empty stool, R2–4
 >    compression, R5 gets-up, backstage cut to one line) is PARKED FOR REVISION — full plan at the end
 >    of the room ledger. Do NOT re-raise while he drafts. "Final push": John arc → retire → epilogue.**
