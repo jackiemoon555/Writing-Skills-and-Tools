@@ -1608,6 +1608,11 @@ retire → epilogue/son. Floor met 08-17 (1,205).
   is not what makes him fall (the first loss/Vlad is); the Vlad build-up is what brings him back down.
   Wording adjustments only in D2, no restructure. Reviewer: keep it SHORT (Ch12's six lines) — a
   meaningless fight fails by being long, not flat.
+- **AUTHOR REQUIREMENT (2026-08-18): VLAD MUST RESPECT CHUCK** — "like I already did it but more Vlad;
+  they're still fighters, very few can relate to him like Vlad." Reviewer: already on the page in the
+  right form = he SITS DOWN next to him, in trunks (the act is the respect). D2 backstage: keep the floor,
+  cut the speech; respect for the man + contempt for the choice a sentence apart; relates-not-consoles
+  (statements, not a monologue); the respect changes NOTHING (asterisk stands); cut "I'm honored."
 - **D2 note (author idea, 2026-08-18): Ch32 pregnancy reveal — Lisa MEETS him at the gate instead of the
   phone call.** Reviewer: yes — she crosses the security line he can't, says it to his face, walks back
   through the gate he can't pass; the reveal need not be a spoken line; she stays the driver, he reacts
