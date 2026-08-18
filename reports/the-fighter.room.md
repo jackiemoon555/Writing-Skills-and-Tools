@@ -1604,6 +1604,10 @@ retire → epilogue/son. Floor met 08-17 (1,205).
   overhand right" is already the register; Ch10/Ch13 intercut machinery carries it. Consequences (D2):
   Ch6/8/9/12/14/20–22 references flatten; Ch8 shaved-head walkout goes; comeback tune-up = same nobody
   (beats a man he can't remember losing to — nothing avenged) or a different one — author's call.
+  REFINED (author, same day): second fight STAYS in place structurally, nameless, and has NO MEANING — it
+  is not what makes him fall (the first loss/Vlad is); the Vlad build-up is what brings him back down.
+  Wording adjustments only in D2, no restructure. Reviewer: keep it SHORT (Ch12's six lines) — a
+  meaningless fight fails by being long, not flat.
 - **D2 note (author idea, 2026-08-18): Ch32 pregnancy reveal — Lisa MEETS him at the gate instead of the
   phone call.** Reviewer: yes — she crosses the security line he can't, says it to his face, walks back
   through the gate he can't pass; the reveal need not be a spoken line; she stays the driver, he reacts
