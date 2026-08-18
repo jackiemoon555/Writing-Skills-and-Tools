@@ -119,8 +119,15 @@ what it meant). He is not a coder — hide the plumbing.
   Launch is parked until The Champ draft + an episode buffer exist. Blog lane = priority 3.
 - `docs/PROJECT_CONTEXT.md` — older canonical catch-up doc (holds the standing no-ghost-writing +
   story-first-drafting rules)
-- `manuscripts/the-champ_snapshot_2026-08-17.txt` (+ `the-champ_export_2026-08-17.docx`) — **verbatim prose** of *The Champ*, 17,040w through Ch34. **REEDSY is the LIVE master** (author, 2026-08-18: he drafts in Reedsy for consistency at work; phone drafting in Notes → paste). Ask for the latest export before close-reading pages.
-- **Google Doc backup (created 2026-08-18 via Drive connector):** "The Champ — draft backup (Reedsy export 2026-08-17, through Ch34)" — https://docs.google.com/document/d/1GJXagFpiiLhOweM9RO5ei3wciN4V06I4C1NDDs3KaO4/edit — plain-text copy; REFRESH it from each new export (title = date + chapter reached). Not the source of truth.
+- **⭐ SOURCE OF TRUTH CHANGED (author, 2026-08-18 night): GOOGLE DOCS is the live master for The Champ and ALL
+  future manuscripts** (Reedsy retired as master). Doc: **"The Champ — MASTER (live draft…)"** —
+  https://docs.google.com/document/d/1GJXagFpiiLhOweM9RO5ei3wciN4V06I4C1NDDs3KaO4/edit — seeded with the
+  08-17 export (through Ch34, plain text); **author pastes Ch35+ himself**. His workflow: writes in Apple Notes
+  on the phone → pastes to Claude in chat → pastes into the Doc → double-checks at night.
+  **Intake now = READ THE DOC LIVE via the Drive connector** (no docx export needed): snapshot to
+  `manuscripts/`, count + MD5 the snapshot, checker silent, read new pages only. If the Doc and the chat
+  paste differ, the Doc wins once he's confirmed it.
+- `manuscripts/the-champ_snapshot_2026-08-17.txt` (+ docx) = verbatim through Ch34; `the-champ_ch35-37_snapshot_2026-08-18.txt` = Ch35–37 as pasted (542w).
 - `manuscripts/the-champ_interlude3-rob_wip_2026-08-14.txt` — Rob interlude WIP backup (base + an
   in-moment revision; verbatim)
 - `manuscripts/untitled-fantasy_snapshot_2026-08-13.txt` — verbatim prose of the fantasy opener (DEFERRED)

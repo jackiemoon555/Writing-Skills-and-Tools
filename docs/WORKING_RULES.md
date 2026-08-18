@@ -57,10 +57,12 @@ paste-ready brief + steering examples in `docs/third-party-review-brief.md` (bli
 optional refute-mode → done; no iteration, no relationship).
 
 ## 9. Intake + logging (every upload)
-Snapshot to `manuscripts/` (verbatim), MD5 + word count into `tracker/word-count-log.md`, run the
-checker (report only — never surfaced mid-draft), read per rule 3, log findings in the piece's
-room ledger (append-only; rulings never re-flagged while the quote still matches). Commit + push
-when he's given the repo an identity (never run `git config` myself — flag it).
+**Google Docs is the live master for every manuscript (author, 2026-08-18)** — he drafts in Apple Notes on
+the phone, pastes to chat, pastes into the Doc, verifies at night; read the Doc live via the Drive
+connector (no docx exports). Snapshot to `manuscripts/` (verbatim), MD5 + word count into
+`tracker/word-count-log.md`, run the checker (report only — never surfaced mid-draft), read per rule 3,
+log findings in the piece's room ledger (append-only; rulings never re-flagged while the quote still
+matches). Commit + push each session (never run `git config` myself — flag it).
 
 ## 10. Autodidact
 Reading recs and free-form exploration, not classes or curricula. Agreed reading: Browne & King
