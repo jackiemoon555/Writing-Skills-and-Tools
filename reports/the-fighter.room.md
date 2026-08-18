@@ -1597,6 +1597,12 @@ retire → epilogue/son. Floor met 08-17 (1,205).
   cut. Johnny now arrives "what are you doing WITHOUT me?" = PATTERN not ORIGIN (author: leave as-is for
   now). PLACEMENT (author): D2, after the first loss — i.e., replaces the Ch5 told paragraph, between Ch4's
   drive-off and Rob's UFC call. Open: one untagged line ("Uh, Chuck that's alot").
+  AUTHOR (same day): Johnny is "just starting to indulge" here; ORIGIN = a NEW D2 scene — a party
+  post-loss with Chuck + Rob where Johnny takes his first line (Ch3–5 territory, currently told/skimmed).
+  Locker room = pattern forming. Reviewer guardrail: the first line reaches Johnny by gesture, not pitch —
+  Chuck's debt is that he didn't stop it, not that he sold it. Dialogue notes on the exercise: wallet joke
+  doesn't land as a sentence; Johnny's voice = Chuck's (needs one ex-cop tic); "that's alot" = the
+  hesitation beat, untagged.
 - **AUTHOR RULING (2026-08-18) — RODRIGUEZ CUT (D2).** Card item 2 resolved: the second loss = a NOBODY,
   faceless; "Chuck can't even take fighting seriously; knocked out by a faceless object." Author floats:
   the faceless fighter = Chuck's other side taking over. Reviewer: keep it as PERCEPTION only (he never
