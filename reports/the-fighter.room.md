@@ -1593,6 +1593,10 @@ retire → epilogue/son. Floor met 08-17 (1,205).
   — Chuck put the first line up John's nose. Seed only, never stated; John shouldn't know it, Chuck should.
   Reviewer: this is a candidate JOHN-ARC KILL CRITERION — keep the arc iff the pages make Chuck responsible
   for John (John's collapse must be one only Chuck could catch). Author has not yet set the criterion.
+  REVISED SAME DAY: car for the bottle, back-row middle locker, Johnny from the restroom, "only live once"
+  cut. Johnny now arrives "what are you doing WITHOUT me?" = PATTERN not ORIGIN (author: leave as-is for
+  now). PLACEMENT (author): D2, after the first loss — i.e., replaces the Ch5 told paragraph, between Ch4's
+  drive-off and Rob's UFC call. Open: one untagged line ("Uh, Chuck that's alot").
 - **D2 note (author idea, 2026-08-18): Ch32 pregnancy reveal — Lisa MEETS him at the gate instead of the
   phone call.** Reviewer: yes — she crosses the security line he can't, says it to his face, walks back
   through the gate he can't pass; the reveal need not be a spoken line; she stays the driver, he reacts
