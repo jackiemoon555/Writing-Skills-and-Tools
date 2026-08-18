@@ -1649,6 +1649,12 @@ fighter and be a healthy person. Not wanting to leave the fight game he now beco
 so they don't have to suffer like he did." GUARDRAIL: nobody says that sentence on the page. Ending map now:
 Ch35 offer (NAME JOHN) → Ch36 Carl → Ch37 living room (expand) → Ch38 check-in ALONE → [6 months] → Ch39 John's
 corner / John falls apart / Chuck holds him → Ch40 epilogue: the son. Draw ending SUPERSEDED (author, 08-18).
+- **Ch39 SPECIFIED (author, same night): the fight = JOHN vs VLAD, champ vs champ; JOHN LOSES.** Reviewer
+  conditions (agreed shape): Vlad SILENT — one look through the fence at Chuck in the corner (pays off "Look
+  who's finally here" wordlessly), no backstage, no second sit-down; the fight is a BOX SCORE — the scene is
+  the STOOL between rounds (Chuck outside the cage, hands on John's face — the man who sat on an empty stool
+  now sits someone else down); the real scene is AFTER (John falls apart backstage, Chuck holds him, Rob in
+  the building, nobody explains); division logic = one line (catchweight rhyme only if it lands naturally).
 
 ## CORRECTION (reviewer error, 2026-08-17 evening) — the JOHN ENDING WAS NEVER AXED
 The CURRENT STATE block above overstated a ruling: items 8–9 ("John = a line, not an act"; the
