@@ -120,6 +120,15 @@ book influence (you can't copy a game's prose — only re-express its world/mood
 so it comes through as theme/structure, not derivative sentences — a healthier kind of influence
 re: his "influences come off strong" worry.
 
+## Craft books IN PROGRESS (added 2026-08-18)
+- **Browne & King, *Self-Editing for Fiction Writers*** — reading Ch1 (Show & Tell) → Ch2 (Characterization
+  & Exposition), 2026-08-17/18. Notes doc in Google Drive ("Reading Notes — Self-Editing…"). Two-pass
+  method agreed: understand the rule first, then per chapter add "where I do this" lines from his own pages.
+  Ch1 already produced the Ch5 locker-room exercise scene (banked, D2). Revision-lane book.
+- **Anne Lamott, *Bird by Bird*** (audiobook, Libby; started 2026-08-18) — DRAFTING-lane book, not
+  revision. Priority chapters this week: "Shitty First Drafts" + "Short Assignments" (= the 1,000 floor
+  and "one takedown + one stool"). Rest is commute listening.
+
 ## Craft-research METHOD (added 2026-08-13) — "see the ceilings first"
 The extreme-horror and dark-romance clusters were **deliberate craft study**, not just taste:
 Jack specifically sought out how writers handle **violence** (extreme horror: Athan, Triana,
