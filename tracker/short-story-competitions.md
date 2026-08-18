@@ -60,7 +60,7 @@ community sites; be wary of $20+ entry fees or "buy the anthology you're in" sch
 
 | Wk | Week of | Competition | Prompt / theme | Title | Words | Status | Result |
 | ---: | --- | --- | --- | --- | ---: | :---: | --- |
-| 1 | Aug 17 | Reedsy Prompts **#368 "Everyday Enchantment"** (judge Lynn D. Jung) — **closes Fri Aug 21, 23:59 EST** | Theme: magic found in ordinary places, cozy→dark. Prompts: (1) POV of a magical being/creature · (2) a shop that weaves magic into its wares · (3) granted one wish · (4) regular job, uses magic to help · (5) realizes a loved one has an impossible secret. 1,000–3,000w, $250 + judge feedback. | _(author to pick)_ | | ⏳ author committed 08-17 (overflow after the Champ floor) | |
+| 1 | Aug 17 | Reedsy Prompts **#368 "Everyday Enchantment"** (judge Lynn D. Jung) — **closes Fri Aug 21, 23:59 EST** | Theme: magic found in ordinary places, cozy→dark. Prompts: (1) POV of a magical being/creature · (2) a shop that weaves magic into its wares · (3) granted one wish · (4) regular job, uses magic to help · (5) realizes a loved one has an impossible secret. 1,000–3,000w, $250 + judge feedback. | **PICKED: #4** (regular job + magic) — ONE-OFF character, one-shot arc, standalone (NOT a Longshoreman episode; author, 08-17) | | ⏳ due Fri Aug 21; overflow AFTER the Champ floor each day | |
 | 2 | Aug 24 | Reedsy Prompts | | | | ⬜ | |
 | 3 | Aug 31 | Reedsy Prompts | | | | ⬜ | |
 | 4 | Sep 7 | Reedsy + Furious Fiction (1st Fri) | | | | ⬜ | |
