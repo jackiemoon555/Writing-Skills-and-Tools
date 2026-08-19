@@ -426,3 +426,7 @@ Rule: not one line of planning until the Champ's last sentence (author ruling, r
    deckbuilders); "retired guy who can't leave the game" plays funny too. Models: Baldree *Legends & Lattes*,
    Eames *Kings of the Wyld*, Pratchett *Guards! Guards!* (ceiling). Caution: comedy is timing and his is
    untested past 3k — Friday's janitor story is the audition. Leading candidate for novella #2. Still parked.
+   HORROR TASTE (author, same lunch): religious horror, eldritch, cults, some slasher, vampires, werewolves.
+   Reviewer: coherent — all "something bigger than you wants in" = the Thump = "the faceless fighter is his
+   other side"; he already reached for it in Ch6 (Vlad = "some eldritch horror of brutality"). Natural lane:
+   small-town Texas religious/cult horror, quiet ceiling. Capture only.
