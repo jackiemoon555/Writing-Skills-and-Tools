@@ -420,3 +420,9 @@ Author wants the next novella in a genre he hasn't written. Two recommendations 
    genre's whole subject; novella-friendly. Portis *True Grit*, Schaefer *Shane*, McCarthy for the ceiling.
    Nobody in his reading log — the bigger stretch, same nervous system.
 Rule: not one line of planning until the Champ's last sentence (author ruling, rule 1). Capture only.
+3. **AUTHOR'S PREFERENCE (same lunch): something LESS SERIOUS — fantasy, fun characters.** Reviewer: the
+   ex-cultist janitor (Reedsy #368, this week) IS the voice test for this lane — comic/cozy fantasy with an
+   ensemble. Fit: his dialogue is best as banter (Lizzie, Carl, Rob); gaming taste = party-based (DOS2,
+   deckbuilders); "retired guy who can't leave the game" plays funny too. Models: Baldree *Legends & Lattes*,
+   Eames *Kings of the Wyld*, Pratchett *Guards! Guards!* (ceiling). Caution: comedy is timing and his is
+   untested past 3k — Friday's janitor story is the audition. Leading candidate for novella #2. Still parked.
