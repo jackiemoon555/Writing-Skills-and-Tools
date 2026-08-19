@@ -43,7 +43,8 @@ Progress: `█████░░░░░` ~50%
 | 2026-08-15 | ~1,164 | ~15,000 | ✅ ⏳ |
 | 2026-08-16 | 431 (Ch30) | 15,835 (MD5) | ❌ under 1,000 floor |
 | 2026-08-17 | 1,205 (Ch31–34) | 17,040 (MD5 30498e11) | ✅ over floor |
-| 2026-08-18 | **1,403** (Ch35–37 = 542 + Ch38/Interlude 4/Ch39 = 861; chat pastes, author labels off by one) | ~18,443 | ✅ over floor |
+| 2026-08-18 | 542 (Ch35–37, chat paste; author reports ~400) | ~17,582 | ❌ under floor |
+| 2026-08-19 | 861 so far (Ch38 / Interlude 4 / Ch39, pasted after midnight; author labels off by one) | ~18,443 | ⏳ 139 to floor |
 
 **Cumulative total: ~15,000 words** (author-reported 2026-08-16; covers through the 08-15 session,
 incl. Ch27–29 + the Rob-interlude tail the 13,836 doc missed; finalize the exact number at the
