@@ -408,3 +408,15 @@ Guardrail if ever written: he must count the cost clear-eyed and choose it — n
 moment Vlad regrets, he stops being Vlad (see the-fighter.room.md, "VLAD, FINAL FRAME"). Capture only.
 - Author's one-line contrast (2026-08-17): **"instead of crumpling, Vlad runs into it."** Same
   test as Chuck's, opposite verb — that's the pitch.
+
+## VAULT — NEXT NOVELLA, NEW GENRE (author asked 2026-08-19 lunch; PARKED until The Champ draft is done)
+Author wants the next novella in a genre he hasn't written. Two recommendations given, no planning:
+1. **Quiet horror novella** — he's read the ceiling (Triana/Athan/splatter), hasn't written toward the floor
+   under it (dread, restraint, the silent thing in the doorway). His instincts already run that way (Thump =
+   horror device; "faceless fighter = his other side"; Coach silent in the doorway). Also = his Oct comp lane
+   (NYC Midnight Scary Story). Models at length: King *Different Seasons* ("The Body" = his theme: boys,
+   who stays/leaves), Shirley Jackson *Hill House*. CLOSER FIT to how he writes.
+2. **A Western** — price of greatness, the man who can't come home, fathers/sons, "I'm still here" = the
+   genre's whole subject; novella-friendly. Portis *True Grit*, Schaefer *Shane*, McCarthy for the ceiling.
+   Nobody in his reading log — the bigger stretch, same nervous system.
+Rule: not one line of planning until the Champ's last sentence (author ruling, rule 1). Capture only.
