@@ -1,33 +1,48 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-17** — full-manuscript read (Pass 9), Longshoreman Ep1/Ep2 roomed + in revision, timeline slid.
+*Prepared 2026-08-13; **last updated 2026-08-19 night** — draft nearly done (through Ch41, ~19.1k), ending fully specified, Google Docs = master.
 Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
 caught up without re-doing today's work.*
 
-> ## ▶ NEXT SESSION — START HERE (state as of 2026-08-17 night)
-> 1. Read `docs/WORKING_RULES.md` (13 rules — how to work with Alec; canonical). Then this file's
->    top blocks. Then the **"ARCHITECTURE — CURRENT STATE (consolidated 2026-08-17)"** block at the
->    END of `reports/the-fighter.room.md` (+ its AMENDMENTS/CORRECTION right after it).
-> 2. **The Champ = DRAFTING.** ~17,582 words through Ch37 (Ch35–37 = 542w chat paste 2026-08-18,
->    `manuscripts/the-champ_ch35-37_snapshot_2026-08-18.txt`; docx export pending). Ch31–34 are BEATS.
->    **ENDING RULED 2026-08-18 (see Pass 11 + ruling at end of the room ledger): the JOHN FIGHT IS DEAD;
->    the John arc = Chuck in JOHN'S CORNER post-rehab, John falls apart, Chuck catches him.** Map: Ch35 offer
->    (name John) → Ch36 Carl → Ch37 living room (expand) → Ch38 check-in alone → 6-mo skip → Ch39 John's
->    corner → Ch40 epilogue, the son. Target: last sentence by **Sun Aug 23** (author, 08-17).
->    **RULING 08-17 night: the whole VLAD-ARC EXPANSION (weigh-in, R1 underneath + empty stool, R2–4
->    compression, R5 gets-up, backstage cut to one line) is PARKED FOR REVISION — full plan at the end
->    of the room ledger. Do NOT re-raise while he drafts. "Final push": John arc → retire → epilogue.**
-> 3. Daily upload cadence: he sends the day's pages (docx) → snapshot, MD5+count, checker (silent),
->    read ONLY the new pages on the DRAFTING menu (corny / not working / needs more / pacing /
->    dialogue / show-tell / repetition; hardest structural first; NO grammar), first check = did he
->    explain after showing. He states intent first; ask if he didn't.
-> 4. Longshoreman Ep1–2 are in REVISION (`revision-pass` skill); their reports exist; ask which notes
->    landed → `reports/longshoreman_revision-log.md`.
-> 5. Git identity RESOLVED (commit ab2e8a5, 2026-08-17, author = Alec). Commit + push each session
->    (`gh auth setup-git` if push fails). Never run git config yourself.
-> 6. Timely: Scary Story early-bird closes **Aug 27** ($42→$49); Reedsy Fridays; calendar `.ics` in
->    `tracker/`. Google Calendar connector was 503 on 08-16 — retry, else he imports the .ics.
-> 7. Format for him: verdict first line, action last, bold anchors, one ask (ADHD — rule 12).
+> ## ▶ NEXT SESSION — START HERE (state as of 2026-08-19 night)
+> 1. Read `docs/WORKING_RULES.md` (13 rules; canonical — rule 9 now says Google Docs is the manuscript
+>    master). Then this file's top blocks. Then the END of `reports/the-fighter.room.md`: the
+>    **CURRENT STATE block + Pass 10b/11 + every ruling after it** (Vlad arc parked → John fight dead →
+>    Rodriguez faceless → Ch39-corner spec → John-beat-Vlad history cut).
+> 2. **The Champ = DRAFTING, ~1 sitting from done.** ~19,110 words through **Ch41** (his chapter labels
+>    run one behind — two "37"s; reconcile in the Doc). Snapshots: `the-champ_ch35-37_snapshot_2026-08-18.txt`
+>    (offer refused/Carl/living room), `the-champ_ch38-interlude4-ch39_snapshot_2026-08-18.txt` (rehab curb
+>    + Lisa pregnant, Coach/Dan Walters interlude "I'll take you," release), `the-champ_ch40-41_snapshot_2026-08-19.txt`
+>    (Miami, John's penthouse wake-up, "call me Dan"). **REMAINING: fight week → the STOOL (John vs Vlad,
+>    John loses, Vlad silent — one look) → John falls apart backstage, Chuck holds him → epilogue: the SON.**
+>    ~800–1,200 words. Target: last sentence **Sun Aug 23**. Draft-1 lands ~19.5–20k = NOVELLA (intended);
+>    D2 expands to ~30–40k; realistic publish = Nov–Dec (told him; he accepted "keep writing while waiting").
+> 3. **MANUSCRIPT MASTER = GOOGLE DOCS** ("The Champ — MASTER", Drive id 1GJXagFpiiLhOweM9RO5ei3wciN4V06I4C1NDDs3KaO4).
+>    His loop: Apple Notes on phone → pastes pages INTO CHAT → pastes into Doc → verifies at night. Intake:
+>    read the Doc live via Drive connector; snapshot each batch to `manuscripts/`; count into the word log
+>    (COUNTER RESETS AT MIDNIGHT — his ruling; count pastes to the calendar day they arrive). Doc still needs
+>    him to paste Ch35+ and delete the stale 3-line header. Reedsy retired.
+> 4. Read new pages on the DRAFTING menu (corny quoted / not working / needs more / pacing / dialogue /
+>    show-tell / repetition; hardest first; NO grammar/POV unless it kills a scene — he reaffirmed this when
+>    a POV note leaked through). First check = explained-after-showing. He states intent first; ask if not.
+>    After a read he usually asks "did I improve?" — answer with evidence from HIS pages, split
+>    skill-vs-passage when true, never cushions (rule 5).
+> 5. **Reedsy #368 story due Fri Aug 21 23:59 EST** (comp tracker has full bones): ex-cultist janitor,
+>    mundane chosen name, protects office on his LUNCH BREAK, fired by someone he saved, ends at the
+>    employment office (been there before). Standalone one-shot; it's also the VOICE AUDITION for novella #2
+>    (comic/cozy fantasy — vaulted in future-ideas with horror + Western recs). Champ words come first daily.
+> 6. Longshoreman Ep1–2 still in REVISION; still ASK which notes landed → `reports/longshoreman_revision-log.md`.
+>    Scary Story early-bird closes **Aug 27**. Ch5 locker-room exercise scene is BANKED
+>    (`manuscripts/the-champ_exercise_ch5-locker-room_2026-08-18.txt`) + Rob-lounge exercise notes in ledger.
+> 7. He's reading Browne & King (Ch1–2 done; notes doc in Drive — two-pass method: rules first, then
+>    "where I do this" per chapter) + Bird by Bird audiobook. Craft wins this week ON RECORD: motif rule
+>    ("after a Thump, action not feeling"), scene-from-told-paragraph, character-through-room, subtext
+>    dialogue. Standing weaknesses unchanged: biggest scenes get fewest words; occasional telling close.
+> 8. Git identity fine; commit+push each session. Gmail connector CANNOT draft/send (no compose scope) —
+>    deliver files in chat. His work email/employer = PRIVATE, never in repo (memory note).
+> 9. Format: verdict first line, action last, bold anchors, ONE ask (ADHD — rule 12). No cushions, but
+>    when he doubts himself ("am I decent?"), give the honest split: real strengths, teachable gaps,
+>    everything gated on finishing.
 
 > **THIS REPO IS THE STANDALONE HOME OF THE WRITING PROJECT.** Writing is now Alec's main focus and
 > is kept SEPARATE from any other work (e.g. sports-betting). **Run writing sessions from this
