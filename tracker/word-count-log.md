@@ -163,6 +163,11 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
   **Epilogue** Nicole's beach wedding — Chuck's SON Charles/"champ," Uncle Johnny, groom Ken Baller.
 - **NOT yet declared COMPLETE:** author flagged "maybe some more to add on the epilogue." Hold the
   formal draft-COMPLETE stamp until he confirms nothing further is coming.
+- **FIRST DRAFT FROZEN (author, 2026-08-20):** the `..._2026-08-20.txt` snapshot stays AS-IS for
+  before/after comparison. The break scene ("John falls apart, Chuck holds him") + any epilogue add
+  are written as NEW objects beside it — never overwrite the original. Author's own realization this
+  session: finishing is hard because the tank empties right at the ending, so the payoff got drafted
+  on fumes — protect endings with a fresh session (see memory `endings-on-fumes`).
 - Read given on the drafting menu (not logged here; in-chat). One flag against a settled ruling:
   the "Vlad SILENT in the final — one look, no monologue" ruling is reversed on the page (Vlad
   talks at Chuck mid-fight, "Stones in a glass house") — surfaced in one line for author's call.
