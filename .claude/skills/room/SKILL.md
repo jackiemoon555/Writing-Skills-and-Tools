@@ -1,6 +1,6 @@
 ---
 name: room
-description: The adversarial drafting-stage craft read for Alec's (Jack Moon's) manuscripts — an editor who wants the work to be great tears into the designated pages: hardest structural problem first, ranked findings on the DRAFTING menu (corny / not working / needs more / pacing / dialogue / show-tell / repetition), spine payoff pressure-tested, a protect-list, and the biggest-scene-fewest-words audit, then appends a numbered Pass to the piece's room ledger. Use when he says "room it," "run it through the room," "give it a room pass," "adversarial read of draft pages," "run it through a Fable review agent" — OR when he hands over new pages of a piece in DRAFTING for feedback (his daily upload IS a room read). NOT for grammar/POV/mechanics, and NOT for pieces DECLARED in revision — those go to the revision-pass skill.
+description: The adversarial drafting-stage craft read for Alec's (Jack Moon's) manuscripts — an editor who wants the work to be great tears into the designated pages: hardest structural problem first, ranked findings on the DRAFTING menu (corny / not working / needs more / pacing / dialogue / show-tell / repetition), spine payoff pressure-tested, a protect-list, and the biggest-scene-fewest-words audit, then appends a numbered Pass to the piece's room ledger. The Room is EXPLICITLY invoked — run it when he says "room it," "run it through the room," "give it a room pass," "adversarial read of draft pages," or "run it through a Fable review agent." Do NOT infer a Room run from the mere arrival of new pages or a generic "is this good?" — those get an ordinary read unless he asks for the room. NOT for grammar/POV/mechanics, and NOT for pieces DECLARED in revision — those go to the revision-pass skill.
 ---
 
 # The Room — adversarial drafting read
@@ -10,10 +10,15 @@ kind about what isn't working yet. It is **story and craft only** — the drafti
 to `revision-pass` (which is revision-stage grammar/POV/mechanics teaching).
 
 **Which piece goes where** (source of truth = `docs/WORKING_RULES.md` rule 3, and the piece's
-current state noted there / in the handoff): if the piece is in **DRAFTING**, it comes to the room.
-If he has **DECLARED it in revision**, grammar/POV/mechanics go to `revision-pass`. If he asks for a
-craft/adversarial read on a piece already in revision, that's his call to make — say the room is a
-drafting tool and ask before running it, so room findings don't double-log against the revision log.
+current state noted there / in the handoff). Piece state controls routing: if the piece is in
+**DRAFTING**, it comes to the room; if he has **DECLARED it in revision**, grammar/POV/mechanics go
+to `revision-pass`. An explicit "room it" can override the state — but only run a drafting-stage
+craft read on revision material after confirming that's what he wants, so room findings don't
+double-log against the revision log.
+
+**Mixed request** — if one message asks for both craft and mechanics ("fix the POV here, but also
+tell me if the scene works"), split the work: the room handles story/craft, `revision-pass` handles
+grammar/POV/mechanics. Never let one skill silently absorb the other's scope.
 
 Output is logged, append-only, to the piece's room ledger as the next numbered **Pass**.
 
@@ -29,18 +34,23 @@ Output is logged, append-only, to the piece's room ledger as the next numbered *
   remark on grammar or typos at all unless an error genuinely kills a scene's meaning.
 - **He is not a coder** (rule 7). Never ask him to run scripts or touch repo files. Do the plumbing
   yourself; report in plain language.
-- **Load the ledger HEAD blocks + all rulings FIRST.** Before reading any pages, read the piece's
-  room ledger — the ledger says "Reload before each pass." Read the **head** blocks (calibration /
-  voice baseline, continuity ledger, PROTECTED motifs marked "keep") AND every ruling appended after
-  the current-state block. You cannot skip the top: the protect-list and continuity anchors live
-  there. **Do NOT re-litigate settled or parked rulings** — BUT a ruling is only suppressed *while
-  the quoted line still matches* (rule 9). If he has revised a ruled line, it is live again. If new
-  pages actively contradict a settled ruling, flag it in ONE line for his call and move on.
-- **Pin the ledger, never fork it.** A book can have a working title that differs from its ledger
-  filename. Locate the EXISTING ledger and append to it; never create a second ledger for a book
-  that has one. Known map: ***The Champ*** (formerly *The Fighter*) → `reports/the-fighter.room.md`;
-  Longshoreman → `reports/longshoreman.room.md`. For a new piece with no ledger, create
-  `reports/<piece>.room.md` and seed the head blocks.
+- **Load the ledger HEAD blocks first, plus the rulings that bear on these pages.** Before reading
+  any pages, read the piece's room ledger (it says "Reload before each pass"). The **head** blocks
+  are mandatory every time — calibration / voice baseline, continuity ledger, PROTECTED motifs
+  marked "keep" — you cannot skip the top; the protect-list and continuity anchors live there. Then
+  read the rulings that touch the submitted pages, characters, and threads. As the ledger grows you
+  need not re-digest every historical ruling verbatim, but never skip one that bears on what he just
+  handed you. **Do NOT re-litigate settled or parked rulings** — with one unlock: a ruling is
+  suppressed while the underlying decision still holds. If he has **materially** reworked the ruled
+  line (changed what it does, not just polished a word or punctuation), it is live again; a cosmetic
+  edit to a still-settled line does NOT reopen it. If new pages actively contradict a settled ruling,
+  flag it in ONE line for his call and move on.
+- **Pin the ledger, never fork it; positively identify the piece before creating one.** A book can
+  have a working title that differs from its ledger filename. Locate the EXISTING ledger and append
+  to it; never create a second ledger for a book that has one. Known map: ***The Champ*** (formerly
+  *The Fighter*) → `reports/the-fighter.room.md`; Longshoreman → `reports/longshoreman.room.md`. Only
+  create `reports/<piece>.room.md` for a piece you can positively confirm has no ledger yet — if the
+  identity is ambiguous (possible working-title/rename collision), ASK before creating anything.
 
 ## The DRAFTING menu (the only lenses the room uses — rule 3, seven lenses)
 corny (quote it) · not working · scenes that need more (this is where an underwritten emotional
@@ -56,26 +66,41 @@ where the tension is, transit gets one sentence; one right detail beats an inven
 
 ## His known weakness — always run the audit
 **The biggest scenes get the fewest words.** The climax gets sprinted on an empty tank; the hangout
-gets full length. Every pass ends with a word-count audit: name the book's biggest moments in these
-pages and whether any is the thinnest on the page. Call the ratio out explicitly (e.g. "the title
-fight is 220 words; the press conference is 200").
+gets full length. Every pass ends with a word-count audit: name the **most narratively consequential
+beats** in the submitted pages — the highest-stakes turns, not the longest or loudest — and whether
+any is the thinnest on the page. Call the ratio out explicitly (e.g. "the title fight is 220 words;
+the press conference is 200").
 
 ## Run order
-1. **Load state.** Locate and read the piece's room ledger (head blocks + all rulings, per above).
-   Note what is settled/parked and which quoted lines lock it.
-2. **Intake the pages (rule 9), then read only the designated pages.** If the pages are a fresh
-   batch not yet snapshotted: read the live Google Doc via the Drive connector → snapshot verbatim
-   to `manuscripts/` → MD5 + word count into `tracker/word-count-log.md` → run the checker
-   (report-only, never surfaced mid-draft). If he handed a chat paste or the batch is already
-   snapshotted, use that. Either way you now have the snapshot filename + count the pass header needs.
-   Read the designated pages verbatim. **Intent (rule 11): he states the scene's intent before
-   handing pages.** If he did, grade the page against it. If he didn't, asking for it is the pass's
-   ONE ask — do NOT infer an intent and grade against your guess.
+The craft read is the deliverable. **Bookkeeping (intake, logging, commit) is best-effort and must
+never block the read** — if the Drive connector is down or a script fails, still deliver the pass on
+the pages you have, and note what bookkeeping is owed.
+
+Before running, resolve any **blocking clarification** — a question the pass can't safely proceed
+without: which piece/ledger this is (if ambiguous), steered vs blind subagent (if he asked for a
+subagent and it's unclear which), or the piece's state (if unclear). These are separate from, and
+come before, the pass's single **editorial ask** at the end.
+
+1. **Load state.** Locate and read the piece's room ledger (head blocks + relevant rulings, per
+   above). Note what is settled/parked and which decisions are locked.
+2. **Intake the pages (rule 9, best-effort), then read only the designated pages.** If the pages are
+   a fresh batch not yet snapshotted and the tools are available: read the live Google Doc via the
+   Drive connector → snapshot verbatim to `manuscripts/` → MD5 + word count into
+   `tracker/word-count-log.md` → run the checker (report-only, never surfaced mid-draft). If he
+   handed a chat paste, the batch is already snapshotted, or the connector is unavailable, use what
+   you have and log the count if you can. Read the designated pages verbatim. **Intent (rule 11): he
+   states the scene's intent before handing pages.** If he did, grade the page against it. If he
+   didn't, asking for it is the pass's editorial ONE ask — do NOT infer an intent and grade against
+   your guess.
 3. **Write the pass** in the format below.
-4. **Append** it to the ledger as `## Pass <N> — <pages> (<date>)`. Never overwrite an earlier pass;
-   the ledger is append-only. (Manuscript snapshots are also immutable — a frozen first draft stays
+4. **Append** it to the ledger. Determine the next Pass number by reading the ledger's highest
+   existing `## Pass N` **immediately before appending** (never trust a number observed earlier) and
+   append as `## Pass <N+1> — <pages> (<date>)`. Never overwrite or duplicate an earlier pass; the
+   ledger is append-only. (Manuscript snapshots are also immutable — a frozen first draft stays
    frozen and new/revised pages are snapshotted as NEW files beside it, never over it.)
-5. **Commit + push** (his branch), then give him the pass in chat — verdict first, ONE ask last.
+5. **Commit + push** if the project workflow authorizes it (rule 9: commit + push each session), then
+   give him the pass in chat — verdict first, editorial ONE ask last. A commit/push failure does not
+   invalidate the pass already delivered.
 
 ## Two subagent modes — keep them distinct
 - **(a) Steered second read** — a subagent room pass, e.g. when he says "run it through a Fable
@@ -85,12 +110,15 @@ fight is 220 words; the press conference is 200").
   instruction in its brief (blunt, no cushions), and ask it for exactly the pass format below. This
   is NOT blind — do not call it blind. Relay its report (his rules apply to the relay), then log it
   as the pass.
-- **(b) Rule-8 blind independent review** — a genuine outside check. Different model, FRESH context,
-  **forbidden from reading `reports/` and `docs/`**, given only the pages + the rule-5 register
-  instruction. Do not hand it the ledger or the rulings. Then **reconcile**: where its read and the
-  main-room read AGREE = the signal; splits go to the author. It does not replace the main pass — it
-  is checked against it.
-- If which mode he wants is ambiguous, that is the ONE ask before running either.
+- **(b) Rule-8 blind independent review** — a genuine outside check, **author-initiated** (run it
+  when he asks for a blind/independent read, not automatically). The operative property of "blind" is
+  not "fresh context" (which isn't a real guarantee) but this, which is testable: **the reviewer must
+  not see the main-room pass, the ledger rulings, the protect-list, the continuity notes, or any
+  `reports/`/`docs/` content before it produces its own read.** Give it a different model, only the
+  pages + the rule-5 register instruction, and nothing that leaks the room's conclusions or the
+  project's prior rulings. Then **reconcile**: where its read and the main-room read AGREE = the
+  signal; splits go to the author. It does not replace the main pass — it is checked against it.
+- If which mode he wants is ambiguous, resolve it as a blocking clarification before running either.
 
 ## Pass format (what gets logged and relayed)
 ```
@@ -104,9 +132,12 @@ SPINE / THEME PRESSURE-TEST: do these pages pay off the book's spine? Name the s
 BIGGEST-SCENE / FEWEST-WORDS AUDIT: the ratios, called out.
 WORKS — PROTECT: the real strengths, specific lines worth keeping, honest not generous. One line
    each. If nothing earns it, say so.
-PRIORITY-<k> (if only k fixes): the k highest-leverage moves, ordered.
+PRIORITY-<k> (OPTIONAL — include when the pass has many findings and he'd benefit from a shortlist):
+   the k highest-leverage moves, ordered.
 ```
-Keep it ranked and specific. Quote his actual sentences. No essay, no cushions.
+Mandatory sections: HARDEST FIRST, the ranked findings, SPINE/THEME PRESSURE-TEST, the audit, and
+WORKS-PROTECT. PRIORITY-k is optional. Keep it ranked and specific. Quote his actual sentences. No
+essay, no cushions.
 
 ## After the pass
 The room does not open a revision. When the draft is DONE and he moves a book into revision, the
