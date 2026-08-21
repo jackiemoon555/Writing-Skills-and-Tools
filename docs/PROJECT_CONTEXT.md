@@ -107,8 +107,11 @@ of the KDP formatting stage.
 ## The repo (everything lives here)
 
 - **GitHub:** https://github.com/jackiemoon555/Writing-Skills-and-Tools (private)
-- **Working branch:** `claude/new-project-repository-ceesk0`
-- **Open draft PR:** #1 — https://github.com/jackiemoon555/Writing-Skills-and-Tools/pull/1
+- **Working branch:** each session works on its own `claude/*` branch, which is **squash-merged into
+  `main` at the session handoff** (author-authorized 2026-08-21; see WORKING_RULES.md rule 9). So the
+  day's work always lands in the master, and the branch restarts from `main` next session.
+- **Pull requests:** a draft PR is opened per session and merged at handoff — there is no single
+  long-lived open PR to track (merged/closed PRs are history, not live work).
 
 ### What's built: a self-editing toolkit (Python)
 

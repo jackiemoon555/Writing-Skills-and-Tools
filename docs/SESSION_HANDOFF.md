@@ -74,8 +74,12 @@ caught up without re-doing today's work.*
 >    "where I do this" per chapter) + Bird by Bird audiobook. Craft wins this week ON RECORD: motif rule
 >    ("after a Thump, action not feeling"), scene-from-told-paragraph, character-through-room, subtext
 >    dialogue. Standing weaknesses unchanged: biggest scenes get fewest words; occasional telling close.
-> 8. Git identity fine; commit+push each session. Gmail connector CANNOT draft/send (no compose scope) —
->    deliver files in chat. His work email/employer = PRIVATE, never in repo (memory note).
+> 8. Git identity fine; commit+push each session, open the draft PR, then **AT HANDOFF mark it ready and
+>    squash-merge into `main`** (author-authorized 2026-08-21; canonical in WORKING_RULES.md rule 9) so the
+>    day's work lands in the master and next session's fresh clone can find it. Branch restarts from `main`
+>    next session. **Hold on problems:** don't merge on a conflict / clearly unfinished work / red required
+>    check — flag it in ONE line instead. Gmail connector CANNOT draft/send (no compose scope) — deliver
+>    files in chat. His work email/employer = PRIVATE, never in repo (memory note).
 > 9. Format: verdict first line, action last, bold anchors, ONE ask (ADHD — rule 12). No cushions, but
 >    when he doubts himself ("am I decent?"), give the honest split: real strengths, teachable gaps,
 >    everything gated on finishing.
