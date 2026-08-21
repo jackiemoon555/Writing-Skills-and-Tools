@@ -168,3 +168,42 @@ For game recommendations AND as target-player reference for his own game designs
   short-loop / single-decision games → PHONE (Slice & Dice, Dawncaster, Hoplite, Grindstone);
   PC = the long sits (Chrono Ark, Invisible Inc, DOS2). Don't recommend PC versions of phone-shaped
   games. First mobile rec that landed; log future ones against this split.
+- **2026-08-21: Slice & Dice = still enjoying.** Continued confirmation of the phone-loop pattern.
+
+## Thief / burglary / heist genre assessment (2026-08-21)
+
+Author asked about **Thief Simulator** (2018, Noble Muffins) — first-person real-time sandbox
+burglary. Assessment: single-character real-time = his okay lane, but Thief Sim is the shallowest
+systems in the stealth-thief space. Low stakes-per-decision, no magic, generic houses (not a
+reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate bounce risk.
+
+**Full genre survey conducted.** Best fits for Alec, ranked:
+1. **Gloomwood** (2022 Early Access, New Blood) — first-person Victorian horror immersive sim,
+   direct Thief II DNA. Light/shadow, sound propagation by surface, grid inventory. 94% Steam.
+   Closest thing to Dishonored's depth in the thief genre. Catch: Early Access (~6-8h content).
+   Buy when he wants a Dishonored evening; not competing with turn-based queue.
+2. **Card Thief** (2017, Tinytouchtales) — mobile, turn-based solitaire stealth card game. Already
+   on the iOS to-buy list. Phone-shaped, zero text. Fits the Slice & Dice lane.
+3. **Teardown** (2022, Tuxedo Labs) — first-person voxel physics sandbox. Two-phase: free planning
+   then timed execution (closest a real-time game gets to turn-based thinking). Heist as engineering
+   puzzle. Unique and systemic.
+4. **Antihero** (2017, Tim Conkling) — turn-based Victorian thief empire strategy. Digital board
+   game, 20-40min sessions, zero text. Distilled 4X. Good shape (turn-based, short runs, stakes per
+   turn) but ~15-20h ceiling, not a daily driver. Multiplayer-first; AI is serviceable.
+- Other games surveyed but filtered out: Filcher (94% Steam, Thief love letter — good but niche),
+  Gunpoint (rewiring puzzle, short), Mark of the Ninja (real-time 2D, acclaimed), Styx 1/2
+  (third-person fantasy stealth, AA), SteamWorld Heist II (previously flagged lighter/skippable),
+  Burgle Bros (digital board game, co-op heist). RTwP entries (Crookz, Shadow Tactics, Desperados
+  III, Monaco) filtered by the hard rule.
+- Invisible, Inc. already in queue and already assessed — remains the best turn-based stealth game
+  in the space.
+
+## Watchlist: upcoming (2026-08-21)
+
+- **When Wolf Fades** (Coming Soon, Hoolignomes / Watt Studio) — play as the Big Bad Wolf in
+  Grandma's disguise running her crime empire in Black City (noir fairy-tale city). Deckbuilding +
+  management + crime strategy + multiple endings. 30-day survival timer. Tags: Strategy, Management,
+  Deckbuilding, Card Battler, Crime, Noir, Story Rich, Dark Fantasy, Text-Based. Announced June 2026.
+  **Fit:** deckbuilding + management = his two biggest genres; noir crime tone = on-brand; card-based
+  decisions = turn-shaped. **Risk:** "Story Rich, Lore-Rich, Text-Based" tags = potential wall-of-text
+  problem. Wishlist and check first reviews when it drops.
