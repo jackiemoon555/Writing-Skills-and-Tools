@@ -1,8 +1,44 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-19 night** — draft nearly done (through Ch41, ~19.1k), ending fully specified, Google Docs = master.
+*Prepared 2026-08-13; **last updated 2026-08-20** — draft nearly done (through Ch41, ~19.1k), ending fully specified, Google Docs = master.
 Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
 caught up without re-doing today's work.*
+
+> ## ⚡ INTERIM-MODEL BRIEF (2026-08-20 → weekly usage reset) — READ BEFORE THE NUMBERED LIST
+> Usage capacity is near the weekly cap, so sessions until the reset run on **Opus** (author's call,
+> 2026-08-20). Fable resumes after the reset with the **full-draft read**. For the Opus sessions:
+> 1. **Your job is the FINISH, nothing else:** intake the final Champ pages (fight week → the STOOL:
+>    John vs Vlad, John loses, Vlad silent — one look through the fence at Chuck in the corner →
+>    John falls apart backstage, Chuck holds him, Rob in the building, nobody explains → epilogue:
+>    the SON). ~800–1,200 words remain. Target: last sentence **Sun Aug 23**.
+> 2. **Intake per rule 9** (WORKING_RULES.md): read the Doc live via Drive connector (or take the
+>    chat paste), snapshot verbatim to `manuscripts/`, MD5 + count into `tracker/word-count-log.md`
+>    (counter resets at midnight — count pastes to the calendar day they arrive), checker silent,
+>    commit + push.
+> 3. **Reads = DRAFTING MENU ONLY** (rule 3): corny (quote it) / not working / needs more / pacing /
+>    dialogue / show-tell / repetition. Hardest structural problem first. First check = a sentence
+>    after the show that explains it (rule 6) — these closing scenes are where that habit breaks.
+>    **NO grammar/typos/tense/POV** unless an error kills a scene. He states intent first; ask if not.
+> 4. **Do NOT re-litigate settled rulings.** Read the last three ruling blocks at the END of
+>    `reports/the-fighter.room.md` before reading any pages. Settled and closed: John fight DEAD,
+>    John arc = the corner; Vlad SILENT in Ch-final (one look, no backstage, no second sit-down);
+>    the fight = a box score, the scene = the stool between rounds; Vlad moved up (Islam model);
+>    D2 cuts all John-beat-Vlad history (Ch39 = their first meeting); Vlad-arc expansion, weigh-in
+>    scene, Ch31–34 beats, the dissociative middle = ALL PARKED FOR D2. Flag genuinely new
+>    contradictions in ONE line; otherwise log and move on.
+> 5. **When the last sentence lands:** snapshot, count, declare the draft COMPLETE in the word log
+>    and this file (date + final count), commit + push. State it plainly — no cushions, no gush
+>    (rule 5). Then STOP: no full-draft read, no revision planning, no D2 map — that whole pass is
+>    reserved for the post-reset Fable session. If he asks for it early, tell him it's parked by
+>    his own plan and ask if he wants to override.
+> 6. **Also live this week:** Reedsy #368 story due **Fri Aug 21 23:59 EST** (bones in the comp
+>    tracker: ex-cultist janitor, lunch-break rescue, fired by someone he saved, ends at the
+>    employment office; voice audition for novella #2). Champ words come first daily. Scary Story
+>    early-bird closes Aug 27. Doc housekeeping he still owes: paste Ch35+ into the master Doc,
+>    delete the stale 3-line header, reconcile the off-by-one chapter labels (two "37"s).
+> 7. **Register + format:** rules 5 and 12 — blunt, no cushions; verdict first line, action last,
+>    bold anchors, ONE ask. He has ADHD; if a message can't be understood from its first and last
+>    lines, it's wrong. No ghost-writing of anything (rule 4) — never supply a sentence.
 
 > ## ▶ NEXT SESSION — START HERE (state as of 2026-08-19 night)
 > 1. Read `docs/WORKING_RULES.md` (13 rules; canonical — rule 9 now says Google Docs is the manuscript
