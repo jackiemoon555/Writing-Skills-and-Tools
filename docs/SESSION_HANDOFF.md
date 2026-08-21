@@ -1,8 +1,32 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-20** — draft nearly done (through Ch41, ~19.1k), ending fully specified, Google Docs = master.
+*Prepared 2026-08-13; **last updated 2026-08-21** — ⭐ **THE CHAMP FIRST DRAFT IS COMPLETE (2026-08-21).**
 Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
 caught up without re-doing today's work.*
+
+> ## ⭐ THE CHAMP — FIRST DRAFT COMPLETE (2026-08-21) — READ THIS FIRST
+> The full arc is drafted start to finish; the last line is the son's name ("C-c-charles."). Running
+> total ~20,000 words (approx; precise count pending the next full MD5 export). This session revised
+> the ending on a fresh-brain morning (the "endings on fumes" fix): the **towel** is now Chuck's call
+> alone (John no longer pre-authorizes it); a **new Ch43 backstage break** (Chuck catches John first,
+> then Nicole's private goodbye — "Nicole bolted. I didn't ask."); the **epilogue reordered** to close
+> on the son. Snapshots: `manuscripts/the-champ_ch41-43-epilogue_snapshot_2026-08-20.txt` (FROZEN, the
+> original finish batch) + `the-champ_ending-REVISED_snapshot_2026-08-21.txt` (the revised ending).
+> - **THE CHAMP IS NOW FROZEN until the author reopens it for revision** (target ~Sun 08-23; HE gives
+>   the go — no internal clock, no auto-schedule). Do NOT start a revision/D2 pass, a full-draft read,
+>   or any planning on it until he says. If he asks early, it's parked by his own plan — confirm.
+> - **Revision (D2) is the bigger phase and it's mapped:** the room ledger `reports/the-fighter.room.md`
+>   holds the target list — Pass 12 (the ending fixes: opponent-in-front-of-the-towel is RESOLVED on
+>   the page now; the fall on-page = DONE via Ch43; still open = the break scene's center pace,
+>   epilogue arrival-order tangle, epilogue warmth trim, Chuck's reactions elsewhere) + Pass 13 (this
+>   session's revised-ending read) + the parked structural D2 (dissociative middle, Rodriguez cut,
+>   Vlad-arc expansion, motif rename, POV/mechanics cleanup).
+> - **Doc housekeeping the author still owes:** paste the revised ending into the master Doc; reconcile
+>   the off-by-one chapter labels; then a full MD5 export nails the final count.
+> - **Now live this session:** Reedsy #368 story (see the interim brief below) — the next thing after
+>   the draft was stamped. New this session: the `/room` skill (adversarial drafting read, vetted by
+>   Fable + GPT + Gemini) and `docs/third-party-review-brief-code.md` (cross-vendor review now standing
+>   for coding/tooling work, per WORKING_RULES rule 8).
 
 > ## ⚡ INTERIM-MODEL BRIEF (2026-08-20 → weekly usage reset) — READ BEFORE THE NUMBERED LIST
 > Usage capacity is near the weekly cap, so sessions until the reset run on **Opus** (author's call,

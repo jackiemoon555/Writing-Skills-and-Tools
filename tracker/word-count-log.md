@@ -6,7 +6,13 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 ## Current project: *The Champ* (novella) — working title (formerly *The Fighter*)
 
 - **Word-count goal:** NONE (retired 2026-08-17 — done is done; floor 1,000/day)
-- **Current total:** **17,040 words** through Ch34 (MD5-verified 2026-08-17); no % — there is no goal.
+- **✅ FIRST DRAFT COMPLETE — 2026-08-21.** Full arc drafted start to finish; last line = the
+  son's name ("C-c-charles."). Running total **~20,000 words** (approx — the ending was revised, not
+  just added to; precise count pending the next full MD5 export from the Doc). No % — there is no
+  goal; done is done. FROZEN post-draft until the author reopens for revision (targeting ~Sun 08-23;
+  he cues the exact restart — no auto-schedule).
+- **Current total (last full MD5-verified export):** 17,040 words through Ch34 (2026-08-17); the
+  finish batch + revised ending carry it to ~20,000 (see COMPLETE note above).
 - **Daily minimum goal:** **1,000 words/day (floor — raised from 750 on 2026-08-12)** —
   chosen to be sustainable *regardless of motivation*, ideally split into two sessions
   (work downtime + home). Stretch stays 2,000→5,000 on good days.
@@ -171,6 +177,31 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
 - Read given on the drafting menu (not logged here; in-chat). One flag against a settled ruling:
   the "Vlad SILENT in the final — one look, no monologue" ruling is reversed on the page (Vlad
   talks at Chuck mid-fight, "Stones in a glass house") — surfaced in one line for author's call.
+
+## 2026-08-21 — ⭐ FIRST DRAFT COMPLETE (ending revised + declared done)
+- **Snapshot `manuscripts/the-champ_ending-REVISED_snapshot_2026-08-21.txt`** (MD5
+  `430c64f9dc3ef7e140800d61ce5f2d8d`), the revised ending from the Ch42 towel through the Epilogue,
+  prose ~628 words for that excerpt. The Aug-20 finish-batch snapshot stays FROZEN beside it for
+  before/after; this is a NEW object, not an overwrite.
+- **What changed vs the 08-20 draft (author revised this session, on the fresh-brain morning — his
+  own "endings on fumes" fix in action):**
+  1. **Towel fix** — John no longer pre-authorizes the stoppage. Old: "No." Now: "He was still
+     staring at the canvas." / "Ok, buddy, that's enough." → **Chuck makes the call alone.** Resolves
+     the Pass-12 hardest-first note. (Author ruled the act stands on its own — the corner breaking the
+     die-on-your-shield code IS the weight; no external "opponent" needed. Settled.)
+  2. **NEW Chapter 43 — the backstage break** — Chuck catches/holds John FIRST ("I got you John. I
+     got you."), THEN Nicole arrives; their private goodbye ("Nicole bolted. I didn't ask."). Pays
+     off the John–Nicole plant AND the Chuck-as-corner spine in one scene; guardrail honored (Chuck's
+     catch stays the climax, Nicole is the bonus).
+  3. **Epilogue reordered** to CLOSE on the son ("Go, champ, tell her." / "C-c-charles.") instead of
+     the stranger groom; most found-family banter trimmed (leaner; some warmth traded — a D2 call).
+- Read given (drafting menu, in-chat): fixes landed; draft-complete ending. D2 notes logged to the
+  room ledger (Pass 13): the break scene still sprints its center ("I had to hold him up" = one flat
+  line for the payoff image); epilogue arrival order tangled by the reorder; possible over-trim of
+  epilogue warmth. Fable steered read appended as the same pass.
+- **STATUS: FIRST DRAFT COMPLETE. The Champ is FROZEN until the author reopens it for revision**
+  (target ~Sun 08-23; he gives the go — no internal clock, no auto-schedule). Revision = D2, the
+  bigger phase; room findings are the D2 target list. Reedsy #368 comp is next this session.
 
 ## RULING (author, 2026-08-17): NO TOTAL WORD-COUNT TARGET
 "Whatever it is when it's done is what it is." The ~30k / "~50%" framing is retired. The daily
