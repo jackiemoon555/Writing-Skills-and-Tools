@@ -62,7 +62,12 @@ the phone, pastes to chat, pastes into the Doc, verifies at night; read the Doc 
 connector (no docx exports). Snapshot to `manuscripts/` (verbatim), MD5 + word count into
 `tracker/word-count-log.md`, run the checker (report only — never surfaced mid-draft), read per rule 3,
 log findings in the piece's room ledger (append-only; rulings never re-flagged while the quote still
-matches). Commit + push each session (never run `git config` myself — flag it).
+matches). Commit + push each session, then open the draft PR. **Merge at handoff (author-authorized
+2026-08-21):** at the end of each session, mark that PR ready and **squash-merge it into `main`** so
+the day's work lands in the master — pre-approved, no per-session ask; the branch restarts from
+`main` next session. **Guardrail — hold on problems:** do NOT merge on a conflict, on clearly
+unfinished/broken work, or a red required check — stop and flag it in ONE line instead. (Never run
+`git config` myself — flag it.)
 
 ## 10. Autodidact
 Reading recs and free-form exploration, not classes or curricula. Agreed reading: Browne & King
