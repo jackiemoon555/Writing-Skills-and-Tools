@@ -45,6 +45,7 @@ Progress: `█████░░░░░` ~50%
 | 2026-08-17 | 1,205 (Ch31–34) | 17,040 (MD5 30498e11) | ✅ over floor |
 | 2026-08-18 | 542 (Ch35–37, chat paste; author reports ~400) | ~17,582 | ❌ under floor |
 | 2026-08-19 | **1,528** so far (Ch38/Int4/Ch39 = 861 + Ch40–41 = 667; author labels off by one) | ~19,110 | ✅ over floor (push continuing) |
+| 2026-08-20 | **779** (Ch41 presser / Ch42 the stool / Ch43 car ride / Epilogue — the FINISH batch) | **~19,889** | ✅ over floor |
 
 **Cumulative total: ~15,000 words** (author-reported 2026-08-16; covers through the 08-15 session,
 incl. Ch27–29 + the Rob-interlude tail the 13,836 doc missed; finalize the exact number at the
@@ -150,6 +151,21 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
 - **MD5-VERIFIED EXPORT (2026-08-16 night):** author's .docx (MD5 ebf2c08f1374111bca97c7773d936afe)
   → measured **15,835 words** through Ch31 (Ch31 = ~120w opener). Supersedes the ~15,431 estimate.
   Full read logged as Pass 9 in reports/the-fighter.room.md.
+
+## 2026-08-20 — THE FINISH BATCH: Ch41–43 + Epilogue, +779 (over floor)
+- **Snapshot `manuscripts/the-champ_ch41-43-epilogue_snapshot_2026-08-20.txt`** (MD5
+  `f8f8472e1828248e0887cc74135f181d`), prose-only **779 words** (4 heading lines stripped).
+  Cumulative **~19,889** (~19,110 + 779).
+- Content = the drafted ending: **Ch41** Vegas presser (fight week / "Someone has to put this old
+  bastard down"), **Ch42** the STOOL — the fight shown from Chuck's corner POV, John dropped
+  repeatedly, Chuck throws the towel round 4, **Ch43** the drive to the center (John sobbing "I'm
+  sorry"; the "you owe Nicole one" beat; Chuck's baby due; "You did. That's why I'm here"),
+  **Epilogue** Nicole's beach wedding — Chuck's SON Charles/"champ," Uncle Johnny, groom Ken Baller.
+- **NOT yet declared COMPLETE:** author flagged "maybe some more to add on the epilogue." Hold the
+  formal draft-COMPLETE stamp until he confirms nothing further is coming.
+- Read given on the drafting menu (not logged here; in-chat). One flag against a settled ruling:
+  the "Vlad SILENT in the final — one look, no monologue" ruling is reversed on the page (Vlad
+  talks at Chuck mid-fight, "Stones in a glass house") — surfaced in one line for author's call.
 
 ## RULING (author, 2026-08-17): NO TOTAL WORD-COUNT TARGET
 "Whatever it is when it's done is what it is." The ~30k / "~50%" framing is retired. The daily
