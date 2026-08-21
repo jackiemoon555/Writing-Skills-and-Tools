@@ -69,9 +69,11 @@ caught up without re-doing today's work.*
 > - **Website (post-book-launch):** outsource the literal CODE BUILD to DeepSeek; Claude plans + reviews
 >   + launches; its OWN repo + session; MD/git as the handoff bridge; NO-CODE-FIRST check (an author site
 >   may just be a landing page + MailerLite — no build). Parked behind The Champ.
-> - **Resume-editor** (separate project he's building): behavior spec = the "critique contract" (the
->   no-ghostwriting core of the room, generalized) — delivered to him as a file this session; that
->   session tailors it to resumes.
+> - **Resume-editor — NOT part of this repo/project.** He's building it entirely elsewhere; he took only
+>   the BONES from here (the no-ghostwriting critique principle: critique / suggest / push back / never
+>   write). Claude handed him a generalized "critique contract" as a SCRATCH file (NOT committed to this
+>   repo) for that other project's session to tailor. Nothing about the resume editor is developed,
+>   stored, or tracked here — do not treat it as a thread in this repo.
 > - **Usage:** the skill-eval loop is the one heavy Claude-token spender (run sparingly); local scripts +
 >   cross-vendor reviews cost ~nothing on the Claude side. He's on Max; strategy = preserve Claude for
 >   writing, offload cheap/context-free building + reviews to other vendors.
