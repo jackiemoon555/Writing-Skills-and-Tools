@@ -1671,3 +1671,152 @@ had not — he was thinking aloud. Author, verbatim: "I didn't axe my ending thi
 DRAW ending (2026-08-14 architecture) remains a live option; keep-or-cut is decided by the pages
 against the author's own kill criterion. Everything else in CURRENT STATE stands (Vlad frame,
 callout, tune-up→title, catchweight, the machine, lucidity anchor, passenger→driver).
+
+## Pass 12 — Fable adversarial read, the CLOSING FOUR (2026-08-21; Ch41 presser / Ch42 the stool / Ch43 the drive / Epilogue; snapshot the-champ_ch41-43-epilogue_snapshot_2026-08-20.txt, ~779w). REVISION TARGETS — for D2 / the ending polish; draft stays frozen.
+
+**HARDEST FIRST — (1) THE TOWEL COSTS NOTHING.** The stoppage is the whole book ("I became the corner")
+and it's 4 lines where John PRE-AUTHORIZES it: "John, are you alright?" / "No." / "Ok, buddy, that's
+enough." / threw it at the ref. Once John says "No," the throw is paperwork; the persona ("I can do this
+in my sleep") would rather die than quit, so the hardest choice is made easy, by John, in one syllable.
+LEVER: give the throw an OPPONENT — John's will / the crowd / the machine / Chuck's own ghost. The ghost
+already exists one chapter later ("I get it John. I did the same thing"): did anyone throw a towel for
+Chuck? Do NOT just add words — add resistance. (If John's "No" is meant to BE the payoff — John finally
+honest — that's a different book where Ch42 is John's climax, not Chuck's; spine says it's Chuck's.)
+
+**(2) THE FALL IS OFF-PAGE — "the center" arrives unearned.** Ch42 ends on the towel; Ch43 opens driving
+to rehab; nothing establishes what the center treats. Only symptom is TOLD from the passenger seat ("So
+many women, every night… It's not fair"). The best reveal in the batch — "You did. That's why I'm here."
+— pays off a scene we never saw (John at bottom asking for help). Gold line cashing an empty account.
+LEVER: one beat of the bottom / the ask between the towel and the car. Doesn't need much; needs to exist.
+Build the missing scene BEHIND "You did. That's why I'm here.", never in front of it — that line is perfect.
+
+**(3) CHUCK MISSING FROM HIS OWN WOUNDS.** Three owed reactions that never appear:
+  - "You already got dropped by my lesser." — John calls his best friend/savior "my lesser" on a world
+    stage; Chuck's narration = nothing. VLAD reacts to the insult for him ("You call the man in your corner
+    a lesser"). Put Chuck's hurt on the page and the towel becomes enormous — protecting the friend who
+    demeaned you. Also: Ch41 has NO Chuck at all — the finale opens on a chapter the protagonist isn't in.
+  - "she's due in like, shit. A day, or two?" — Chuck is cornering a fight + driving John to rehab while
+    his wife is in labor. That IS the price of the corner made flesh; currently played as a gag ("Chuck are
+    joking" / "No."). Biggest free upgrade in the ending — the beat is placed, just wired for a laugh
+    instead of the theme.
+  - "I get it John. I did the same thing." — dropped and swerved in 3 lines; 5 exchanges later "We both
+    laughed" / "It's just like old times" TELLS a mood the scene hasn't earned. Comedy is right for these
+    two, it just wins too fast.
+
+**(4) VLAD — talking/silent call + he evaporates.** RULING DIRECTION (reviewer + Claude agree, author's
+open call): KEEP talking-Vlad but ONLY "Stones in a glass house" aimed past John at Chuck — the one moment
+foil and protagonist connect (Vlad defends Chuck's worth while destroying John; a silent stare can't carry
+that irony). CUT "You see, Johnny." / "DO YOU SEE?" = action-villain monologue that dilutes the one line
+that counts. The broken idiom needs a TELL (Chuck's narration noticing it) or in a draft with this many
+surface errors readers file it as a typo, not Vlad's dismissiveness. BIGGER PROBLEM: Vlad vanishes after
+rd 4; his cost = "a life unlived," the son is supposed to answer it, but the ending stops asking Vlad's
+question two chapters before answering it. LEVER: give Vlad a post-fight EXIT IMAGE — the belt and nobody
+/ the look through the fence (the originally-planned silent look belongs HERE, post-fight, not mid-fight).
+Then Charles lands as the rebuttal. PROTECT: "Vlad's low droning voice almost drowned out" — drowning word
+on Vlad; if accidental, keep it.
+
+**(5) EPILOGUE ENDS ON THE WRONG BEAT — reorder, don't gut.** Last words of the novel = "I'm Ken Baller"
+(a stranger's punchline). The REAL ending — "Go, champ, tell her." / "C-c-charles." (the title landing on
+Chuck's SON, the answer to Vlad, the cycle broken) — is buried in the first third, then slides downhill
+through christianmingle / tongue-out / parents-on-vacation into the groom gag. Crime is SEQUENCE: jokes
+escalate toward the end instead of parting to let the image through. LEVER: reorder so "Go, champ" /
+Charles CLOSES the book; the load-bearing image goes last. Found-family banter is the right texture
+("Uh, shit. It didn't work" = exactly the right unfinished for John) — keep it, just not on the last line.
+
+  - **AUTHOR RULING (2026-08-21) — KEN BALLER STAYS A WALK-ON.** Author intended to give Nicole's husband
+    more depth; decided against it. A stranger is the DESIGN (08-15 architecture: "Nicole marries a
+    stranger"; the son is the load-bearing image, let other bows go). Depth would fight the design + pull
+    focus from Charles at the close. He felt thin only because he's the LAST LINE — fix is position, not
+    word count. Two-line walk-on, unchanged, once he's off the finish line.
+  - **UNPAID PROMISE — JOHN & NICOLE.** Ch43 plants "You owe Nicole one" / "You'll have to make your peace
+    eventually." Epilogue proves peace happened (John's at her wedding) but gives John+Nicole ZERO seconds
+    together — no look, no line. If any depth enters this epilogue it goes HERE, not to the groom: one
+    John–Nicole beat pays off the plant.
+  - Mechanical note (clears the parked-grammar bar — genuinely confuses the scene): epilogue drifts to 3rd
+    person on its own I-narrator ("Another man grabbed Chuck on the shoulder," "Chuck hugged John") inside
+    Chuck's first person ("MY parents, John"). "Another man grabbed Chuck" reads as a stranger grabbing
+    someone who isn't the narrator. Pick who's telling the epilogue.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT (his known weakness, worst target):** Ch42 — the TITLE FIGHT, the
+climax — is ~220 words; the press conference is ~200. The fight is 4 sentences longer than the promo. It
+opens mid-round-4 with John already broken: rds 1–3, the moment hope died, any beat where John was still
+champ = absent, so the loss has no shape, only a result. Runners-up at ~0 words: John's rock bottom (#2),
+John–Nicole peace (#5), the towel itself (#1). Pattern: hangout at full length, crisis in shorthand.
+Invert the ratios.
+
+**WORKS — PROTECT:** "You did. That's why I'm here." (best line in the batch — reveal + thesis in 7 words);
+the fight shown from the CORNER ONLY (reader denied the fight the way Chuck denied himself — keep the
+constraint even while expanding); "This way, buddy. Wrong corner." (best fight-writing here — a concussion
+in 5 words of cornerman patter); "Disrespected? No. Disappointed? Yes." (Vlad's whole register in 4 words —
+why one-line Vlad beats monologue Vlad); "Go, champ, tell her." (the title resolving onto the kid = the
+last line, hiding in the middle); "Uh, shit. It didn't work" (John sober-adjacent, uncle, still alone).
+
+**PRIORITY-3 (if only three fixes):** (1) put an opponent in front of the towel; (2) reorder the epilogue
+so "Go, champ" closes the book instead of "Ken Baller"; (3) give the fight a shape — one round of John
+alive before the drowning.
+
+## Pass 13 — Fable re-review of the REVISED ENDING (2026-08-21; towel throw → epilogue; 633w, snapshot the-champ_ending-REVISED_snapshot_2026-08-21.txt). Grades the three Pass-12 fixes; settled rulings honored (towel stands on the act alone — judged only on whether the page makes the violation FELT; grammar/POV parked).
+
+**FIX SCORECARD (vs Pass 12):**
+1. Towel de-authorized — **YES.** "He was still staring at the canvas." replaces John's "No."; the call is
+   Chuck's alone now. The change did its job.
+2. Backstage break scene (new Ch43) — **YES; the biggest win of the revision.** The bottom now exists
+   BEHIND "You did. That's why I'm here." (catch first — "I got you John. I got you." — then Nicole; the
+   goodbye withheld: "Nicole bolted. / I didn't ask."). Exactly the Pass-12 lever, executed.
+3. Epilogue reorder — **PARTLY.** "Go, champ, tell her." / "C-c-charles." now closes the book (right), but
+   the lever was REORDER-DON'T-GUT and he gutted: 181w → 105w. The cuts took two PROTECTED lines ("Uh,
+   shit. It didn't work"; the found-family banter) plus the ONLY on-page evidence of the corner-life
+   ("Ever since I took over the gym, never"), and left "Another man grabbed Chuck on the shoulder."
+   orphaned — John now has ZERO lines at the wedding.
+
+**HARDEST FIRST — (1) THE TOWEL NEVER LANDS ON ANYONE.** From the throw to the last line, nobody in the
+book registers that Chuck threw it. Chuck narrates it as procedure ("I grabbed my towel and threw it at
+the ref." — chapter over); backstage, John's "I'm, soorryy." is about himself, not the stoppage; the car
+confrontation is about the drive ("why are you taking me?"), never the towel. The ruling stands — the act
+alone is the weight — but weight has to land somewhere ON THE PAGE, and after the throw the book behaves
+as if it didn't happen. The man whose die-on-your-shield will was overridden never has one lucid reaction
+to being saved against the code. LEVER: REGISTRATION, not resistance — let the act leave a mark on the
+people already in these scenes (Chuck's body in the seconds around the throw, and/or John's first lucid
+acknowledgment of what Chuck did — the car scene is built to receive it). Do NOT add a crowd/opponent.
+
+**(2) EPILOGUE AMPUTATED, NOT REORDERED** (fix 3 above, expanded). The final page now carries the entire
+spine payoff in 105 words and lost the corner-half doing it. LEVER: restore the body — banter, Jen line,
+gym line — between Ken's two-line walk-on (front, per ruling) and the Charles close. Position was the fix;
+the words were innocent.
+
+**(3) THE BABY BEAT IS STILL A GAG** (unchanged Pass-12 item — still the biggest free upgrade). "Ya, she's
+due in like, shit. A day, or two?" / "Chuck are joking" / "No." Chuck is cornering a fight and driving a
+man to rehab while Lisa is due in a day or two — the price of the corner made flesh, still wired for a
+laugh. LEVER: claim the beat as cost; the placement is already perfect.
+
+**(4) THE MOOD STILL WINS TOO FAST.** "He sobbed, 'I'm sorry.'" → "We both laughed." in ~8 exchanges, via
+"Ya, you were a little demon there for a little bit." I chuckled — Chuck chuckling at the persona-trap he
+is currently driving John to rehab for. Comedy is these two's register (settled); it just arrives before
+the weight is paid. LEVER: hold the silence longer / make the first laugh cost something. (John's "Eh,
+only a little." pushback on "old times" is right — keep.)
+
+**SPINE PRESSURE-TEST:** the SON half pays — Charles in closing position is the answer to Vlad's life
+unlived, and the revision built a real rhyme: "C-c-c-chuck." (John, broken, backstage) → "C-c-charles."
+(the boy, shy, last line) — the stutter reborn. If accidental, CLAIM IT. The CORNER half is asserted, not
+paid: the towel passes unregistered (#1) and the gym line is cut (#2), so "the one who breaks the cycle"
+survives on one line — "You did. That's why I'm here." — carrying half the spine alone. Status only (open
+call, not re-litigated): Vlad still has no post-fight exit image, so the son rebuts a foil the ending
+stopped showing two scenes earlier (Pass-12 #4 lever unexecuted).
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** inverted in the right direction for the first time in the book —
+the crisis (backstage, 243w) now out-words the hangout (car, 226w); the towel beat is 54w in the
+land-short register (fine IF #1's registration exists); the whisper is withheld by design, not sprinted.
+The new thinnest-most-consequential page is the EPILOGUE: the whole spine payoff in 105w, down from 181.
+The audit's target moved to the last page.
+
+**WORKS — PROTECT:** "You did. That's why I'm here." (still the best line — and now the account behind it
+is funded); "He was still staring at the canvas." (the silence that makes the call Chuck's alone); "It's
+ok. I got you John. I got you." (the catch with no sentence after it explaining it — the standing craft
+rule executed at the climax); "Nicole bolted. / I didn't ask." (grief as POV discipline; the goodbye stays
+theirs); "C-c-c-chuck." → "C-c-charles." (the stutter rhyme — claim it); "A jumbled fluster of platinum
+blonde hair tore through the door." (Nicole known by hair before name — right move; diction cleanup
+parked); "Go, champ, tell her." (finally where it belongs).
+
+**PRIORITY-3:** (1) give the towel its registration — John's first lucid word about it in the car is the
+free slot; (2) un-gut the epilogue (restore banter/Jen/gym between Ken's walk-on and the Charles close);
+(3) claim the labor beat as price, not gag.

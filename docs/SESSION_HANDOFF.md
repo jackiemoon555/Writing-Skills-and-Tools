@@ -1,8 +1,83 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-20** — draft nearly done (through Ch41, ~19.1k), ending fully specified, Google Docs = master.
+*Prepared 2026-08-13; **last updated 2026-08-21** — ⭐ **THE CHAMP FIRST DRAFT IS COMPLETE (2026-08-21).**
 Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
 caught up without re-doing today's work.*
+
+> ## ⭐ THE CHAMP — FIRST DRAFT COMPLETE (2026-08-21) — READ THIS FIRST
+> The full arc is drafted start to finish; the last line is the son's name ("C-c-charles."). Running
+> total ~20,000 words (approx; precise count pending the next full MD5 export). This session revised
+> the ending on a fresh-brain morning (the "endings on fumes" fix): the **towel** is now Chuck's call
+> alone (John no longer pre-authorizes it); a **new Ch43 backstage break** (Chuck catches John first,
+> then Nicole's private goodbye — "Nicole bolted. I didn't ask."); the **epilogue reordered** to close
+> on the son. Snapshots: `manuscripts/the-champ_ch41-43-epilogue_snapshot_2026-08-20.txt` (FROZEN, the
+> original finish batch) + `the-champ_ending-REVISED_snapshot_2026-08-21.txt` (the revised ending).
+> - **THE CHAMP IS NOW FROZEN until the author reopens it for revision** (target ~Sun 08-23; HE gives
+>   the go — no internal clock, no auto-schedule). Do NOT start a revision/D2 pass, a full-draft read,
+>   or any planning on it until he says. If he asks early, it's parked by his own plan — confirm.
+> - **Revision (D2) is the bigger phase and it's mapped:** the room ledger `reports/the-fighter.room.md`
+>   holds the target list — Pass 12 (the ending fixes: opponent-in-front-of-the-towel is RESOLVED on
+>   the page now; the fall on-page = DONE via Ch43; still open = the break scene's center pace,
+>   epilogue arrival-order tangle, epilogue warmth trim, Chuck's reactions elsewhere) + Pass 13 (this
+>   session's revised-ending read) + the parked structural D2 (dissociative middle, Rodriguez cut,
+>   Vlad-arc expansion, motif rename, POV/mechanics cleanup).
+> - **Doc housekeeping the author still owes:** paste the revised ending into the master Doc; reconcile
+>   the off-by-one chapter labels; then a full MD5 export nails the final count.
+> - **Now live this session:** Reedsy #368 story (see the interim brief below) — the next thing after
+>   the draft was stamped. New this session: the `/room` skill (adversarial drafting read, vetted by
+>   Fable + GPT + Gemini) and `docs/third-party-review-brief-code.md` (cross-vendor review now standing
+>   for coding/tooling work, per WORKING_RULES rule 8).
+
+> ## ▶ SESSION 2026-08-21 — END STATE & LIVE THREADS (supersedes the older interim brief where they conflict)
+> **The FINISH is done.** The Champ first draft is COMPLETE + frozen (see banner above). The room ledger
+> `reports/the-fighter.room.md` holds Pass 12 (ending fixes) + Pass 13 (Fable re-read of the REVISED
+> ending — 2 of 3 fixes landed clean; top D2 items: the towel never *registers* on anyone [lever =
+> registration not resistance — Chuck's body at the throw OR John's first lucid word in the car]; the
+> epilogue got *gutted* not reordered [181w→105w, John left silent at the wedding — restore the body];
+> the "C-c-c-chuck" → "C-c-charles" stutter-rhyme — claim it if it was accidental). The interim-model
+> brief below (finish-only scope) is now SATISFIED. Champ stays frozen until he cues revision (~Sun
+> 08-23, HIS go — no auto-schedule).
+>
+> **⏳ LIVE TASK — Reedsy #368 story (DUE Fri 08-21 23:59 EST), in active drafting:**
+> - Prompt #4 (regular job + magic). Ex-cultist/ex-demon now a day janitor; protects the office on his
+>   LUNCH BREAK; fired by someone he saved; ends at the employment office (been here before). Comic,
+>   cozy-with-teeth. Also the VOICE AUDITION for novella #2.
+> - The story's ENGINE = the GAP between his grandiose true name and a beige chosen name. Chosen name
+>   leaning **"Bob," BLURTED not chosen** (he didn't plan ahead — panics under the clipboard). Live
+>   device (recommended, his call): he blurts the name by **reading it off something in the room**
+>   (improvised-alias / Usual Suspects move) → shows the panic instead of telling it, AND sets up the
+>   ending rhyme (asked again at the employment office, he blurts again off whatever's there = he's done
+>   this a hundred times = the ache). His logged rule: "the ending rhymes with the opening name gag."
+> - OPEN (his call, mid-draft): (a) pure blank blurt ("Bob") vs read-off-the-room; (b) the SUPER-EVIL
+>   TRUE NAME still unpicked — veins offered: real Ars Goetia names / ecclesiastical Latin from a concept
+>   / a Louis-Cyphre homophone (infernal name hidden in a human-sounding one) / a grandiose self-title.
+>   **NO GHOST-WRITING** — he picks the name; Claude critiques his candidates only.
+> - Craft holds (his own): never explain why he quit the cult; one mop detail only a monster would know;
+>   no sentence about how unfair it is; the ending rhymes the name gag.
+>
+> **🛠 TOOLING BUILT THIS SESSION (all on PR #7, branch `claude/hand-off-c44bal`):**
+> - **`/room` skill** — the adversarial DRAFTING-stage craft read, systematized. Vetted: Claude wrote →
+>   Fable review → GPT + Gemini independent reviews → reconciled/refined (the outside models overruled
+>   Claude's own call to keep an auto-fire clause — removed it). Explicit-invocation ("room it" etc.),
+>   NOT auto-fire (measured: perfect precision, ~0 false-fire — correct for a command). Distinct from
+>   `revision-pass` (revision-stage grammar/POV/mechanics).
+> - **`docs/third-party-review-brief-code.md`** + WORKING_RULES rule 8 extended: cross-vendor
+>   (GPT/Gemini/DeepSeek) review is now STANDING for substantive coding/tooling work — prepared-and-
+>   offered, not a hard gate; trivial edits skip it.
+>
+> **📋 PLANS CAPTURED (parked; do NOT develop unless he initiates):**
+> - **Website (post-book-launch):** outsource the literal CODE BUILD to DeepSeek; Claude plans + reviews
+>   + launches; its OWN repo + session; MD/git as the handoff bridge; NO-CODE-FIRST check (an author site
+>   may just be a landing page + MailerLite — no build). Parked behind The Champ.
+> - **Resume-editor** (separate project he's building): behavior spec = the "critique contract" (the
+>   no-ghostwriting core of the room, generalized) — delivered to him as a file this session; that
+>   session tailors it to resumes.
+> - **Usage:** the skill-eval loop is the one heavy Claude-token spender (run sparingly); local scripts +
+>   cross-vendor reviews cost ~nothing on the Claude side. He's on Max; strategy = preserve Claude for
+>   writing, offload cheap/context-free building + reviews to other vendors.
+>
+> **REPO/PR:** all committed + pushed to `claude/hand-off-c44bal`; PR #7 open (draft), subscribed. Git is
+> the sync bridge to his local PC clone; manuscripts live in Google Docs (master).
 
 > ## ⚡ INTERIM-MODEL BRIEF (2026-08-20 → weekly usage reset) — READ BEFORE THE NUMBERED LIST
 > Usage capacity is near the weekly cap, so sessions until the reset run on **Opus** (author's call,
