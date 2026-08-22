@@ -4,6 +4,18 @@
 Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
 caught up without re-doing today's work.*
 
+> ## 📌 TOMORROW'S PLAN (author, 2026-08-21 night → for 2026-08-22) — a REVISION-PREP day
+> Not a drafting day. Champ draft is DONE (COMPLETE 2026-08-20, ~19,889w). Order:
+> 1. **He reads the next chapter of Browne & King, *Self-Editing for Fiction Writers*** (his line-level
+>    bible; two-pass notes doc in Drive). **I take structured notes on that chapter** (into the Drive
+>    notes doc and/or a repo note).
+> 2. **I build + run writing exercises around that same chapter** — drills on the exact technique it
+>    teaches, on his own material where possible. He is not a coder — all plumbing invisible.
+> 3. **Then open the LONGSHOREMAN revision** (Ep1–2, already declared in revision → `revision-pass`
+>    skill + `reports/longshoreman_revision-log.md`). Runs **active recall** (rule 3, new 2026-08-21):
+>    name a defect class ONCE, he finds the next instances himself; confirm/correct, don't pre-flag.
+> Champ full revision pass stays PARKED for the post-reset session — do not open it early.
+
 > ## ⚡ INTERIM-MODEL BRIEF (2026-08-20 → weekly usage reset) — READ BEFORE THE NUMBERED LIST
 > Usage capacity is near the weekly cap, so sessions until the reset run on **Opus** (author's call,
 > 2026-08-20). Fable resumes after the reset with the **full-draft read**. For the Opus sessions:
