@@ -158,7 +158,8 @@ unless he asks.
   timeline clarity (two Rodriguez fights + the Vlad loss). All logged in `reports/the-fighter.room.md`.
 
 ## How to work with Alec — READ `docs/WORKING_RULES.md` (the single canonical list)
-Twelve rules, consolidated 2026-08-17; every later "RULING" addendum in this file is now history —
+The canonical rules (consolidated 2026-08-17; see WORKING_RULES.md for the current list + count);
+every later "RULING" addendum in this file is now history —
 if this file and WORKING_RULES.md ever disagree, WORKING_RULES.md wins. The five that matter most:
 scoped reading · drafting menu (corny/not-working/needs-more/pacing/dialogue/show-tell/
 repetition — NO grammar) vs. revision menu (`revision-pass` skill) · no ghost-writing · blunt,
@@ -166,6 +167,8 @@ cruel-constructive, no cushions · the standing craft focus (no sentence after t
 what it meant). He is not a coder — hide the plumbing.
 
 ## Where everything lives (this repo)
+- **`docs/MEMORY_SYSTEM.md` — how this project's memory is organized + the improvement backlog
+  (architecture, health check, what's done / what's next). Start here for anything about the memory system.**
 - `reports/the-fighter.room.md` — *The Champ* review ledger + revision list
 - `reports/untitled-fantasy-series.room.md` — fantasy TRILOGY canon + reconciled flaws map (DEFERRED)
 - `tracker/word-count-log.md` — daily counts (baseline **11,618**)
