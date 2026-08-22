@@ -7,7 +7,7 @@ ledger ARE the prepared world. Created 2026-08-16.
 
 **Projects in this world:**
 1. **The trilogy** (main event, deferred) — canon ledger: `reports/untitled-fantasy-series.room.md`
-   + `docs/memory/project_fantasy_trilogy.md`. Verbatim prose: `manuscripts/untitled-fantasy_snapshot_2026-08-13.txt`.
+   + `docs/archive-notes/project_fantasy_trilogy.md`. Verbatim prose: `manuscripts/untitled-fantasy_snapshot_2026-08-13.txt`.
 2. **The Longshoreman Series** (episodic prose, active-ish) — vault entry in
    `docs/future-ideas.md`; Episode One: `manuscripts/the-longshoreman_snapshot_2026-08-16.txt`.
 3. **The piracy strand** (planned; longshoreman series = its land-side fill-in).

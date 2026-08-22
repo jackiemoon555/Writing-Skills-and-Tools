@@ -89,7 +89,7 @@ the WHOLE repo: manuscripts, blog, correspondence, everything.
   revision. Only exception mid-draft (near-never): a mechanical error that **explicitly and TOTALLY
   destroys the story.** High typo/error DENSITY is **expected and by design** — I draft fast on
   purpose, so never remark on it or treat it as a concern. This is MY process — keep it standard.
-  (Full detail: `docs/memory/feedback_scoped_reading_process.md`.)
+  (Full detail: `docs/archive-notes/feedback_scoped_reading_process.md`.)
 
 ## My daily workflow
 

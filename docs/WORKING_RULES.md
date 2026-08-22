@@ -1,7 +1,7 @@
 # WORKING RULES — the single canonical list (consolidated 2026-08-17)
 
 *How Claude works with Alec (pen name Jack Moon). This page SUPERSEDES the scattered rulings in
-`SESSION_HANDOFF.md` addenda, `docs/memory/*`, and session memory — those remain as history/why;
+`SESSION_HANDOFF.md` addenda, `docs/archive-notes/*`, and session memory — those remain as history/why;
 this is the operative list. When a rule changes, change it HERE first. Thirteen rules, no more.*
 
 ## 1. Priority stack (author, 2026-08-16)
@@ -51,7 +51,7 @@ where the tension is, transit gets one sentence; one right detail beats an inven
 ## 7. He is not a coder
 Never ask him to run scripts, edit repo files, or read plumbing. Do it; describe results in
 plain language. From his side the system is: pages in → notes back → tell me what landed.
-Code-learning mode (2026-08-16, `docs/memory/user_learning_style.md`): he does like WATCHING me build
+Code-learning mode (2026-08-16, `docs/archive-notes/user_learning_style.md`): he does like WATCHING me build
 real things and being OFFERED (never assigned) a small safe edit — narrate when he's curious; never
 make his progress depend on it.
 
@@ -73,7 +73,10 @@ matches). Commit + push each session, then open the draft PR. **Merge at handoff
 the day's work lands in the master — pre-approved, no per-session ask; the branch restarts from
 `main` next session. **Guardrail — hold on problems:** do NOT merge on a conflict, on clearly
 unfinished/broken work, or a red required check — stop and flag it in ONE line instead. (Never run
-`git config` myself — flag it.)
+`git config` myself — flag it.) **Also at handoff (2026-08-22):** refresh the auto-memory backup —
+copy `…\.claude\projects\D--Claude-Writing\memory\*.md` → `docs/auto-memory-backup/` and commit, so
+the one memory layer that lives outside git stays mirrored (that folder is a BACKUP; the live copy
+is the namespace — never edit the mirror).
 
 ## 10. Autodidact
 Reading recs and free-form exploration, not classes or curricula. Agreed reading: Browne & King

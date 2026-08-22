@@ -1,7 +1,7 @@
 # Heist Game — Design Ledger (working)
 
 **Project:** untitled text-first mobile heist game, set in the Five Families world
-(the untitled fantasy trilogy's setting — see `docs/memory/project_fantasy_trilogy.md`).
+(the untitled fantasy trilogy's setting — see `docs/archive-notes/project_fantasy_trilogy.md`).
 Vault entry: `docs/game-ideas.md`. Design session logged 2026-08-16.
 
 **STATUS: VAULT / DESIGN-ON-PAPER ONLY.** No development until the book pipeline allows.

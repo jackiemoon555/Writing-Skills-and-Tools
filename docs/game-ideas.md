@@ -17,7 +17,7 @@ narrative/prose carries the experience rather than graphics.
   (Sinclair, Duke, Roth, Kennedy, Usher). Canon lives in:
   - `manuscripts/untitled-fantasy_snapshot_2026-08-13.txt` (verbatim prose)
   - `reports/untitled-fantasy-series.room.md` (room ledger)
-  - `docs/memory/project_fantasy_trilogy.md` (project memory)
+  - `docs/archive-notes/project_fantasy_trilogy.md` (project memory)
 - **Why the world fits a heist:** old-money mage dynasties = natural targets (estates,
   vaults, relics, the Hall of Heirs); family sigils/brands + magic system = mechanics with
   built-in rules; inter-family rivalry, the Agency, and the archmage conspiracy = employers,

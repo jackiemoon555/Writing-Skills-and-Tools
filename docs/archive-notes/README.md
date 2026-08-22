@@ -1,4 +1,8 @@
-# Writing project — mirrored context notes
+# Writing project — ARCHIVED context notes (deprecated)
+
+*Renamed from `docs/memory/` → `docs/archive-notes/` on 2026-08-22 to end the naming collision with
+the live auto-memory namespace. This folder is HISTORY, not live state — do not update it; superseded
+content lives in `../WORKING_RULES.md`.*
 
 Original "notes to self" (2026-08-13) mirrored here so the repo is self-contained. **Process rules
 are canonical in `../WORKING_RULES.md`** (consolidated 2026-08-17). These four files remain as the
