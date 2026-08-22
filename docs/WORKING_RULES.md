@@ -22,8 +22,14 @@ unless he hands over the whole manuscript. Never re-raise items already ruled or
   — unless an error kills the scene. He expects them; grammar gets "its own love" in revision.
 - **REVISION (per piece, when he declares it):** the `revision-pass` skill — one lens per pass
   (structure → POV → line/grammar → mechanics), quote HIS sentence, name the rule, he fixes it,
-  never rewrite; feed `reports/<piece>_revision-log.md` (used / noise). Longshoreman Ep1–2 are in
-  revision now; The Champ is in DRAFTING until the draft is done.
+  never rewrite; feed `reports/<piece>_revision-log.md` (used / noise). **Active recall (author,
+  2026-08-21):** name a defect class ONCE, then have him find the NEXT instances himself — confirm
+  or correct, don't pre-flag every hit. The goal is his own editorial eye, not a clean file; he
+  said tailoring the system to himself is what made him faster than school, and pre-flagging every
+  hit trains dependency instead. Applies to EVERY piece in revision, The Champ included (exception:
+  the pure mechanics/typo pass — no pedagogy there). Longshoreman Ep1–2 are in revision now; The
+  Champ draft is COMPLETE (2026-08-20) and eligible for revision — its full pass is reserved for a
+  post-reset session per the handoff.
 
 ## 4. No ghost-writing — of anything
 Fiction, blog, correspondence, posts: he writes every word. Critique, teach, name the move —

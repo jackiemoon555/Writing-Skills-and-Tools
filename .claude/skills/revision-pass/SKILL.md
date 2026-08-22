@@ -1,6 +1,6 @@
 ---
 name: revision-pass
-description: Teaching-mode revision protocol for Alec's (Jack Moon's) manuscripts — one lens per pass (structure → POV → line/grammar → mechanics), name the rule on HIS sentence, he fixes it, never rewrite. Use whenever he asks for a revision read, line edit, grammar pass, POV audit, structure pass, or "make it clean" on designated pages of a piece he has DECLARED in revision (currently Longshoreman Ep1–2; The Champ only after its draft is done — it is in DRAFTING).
+description: Teaching-mode revision protocol for Alec's (Jack Moon's) manuscripts — one lens per pass (structure → POV → line/grammar → mechanics), name the rule on HIS sentence, he fixes it, never rewrite; name a defect class ONCE then have him find its next instances himself (active recall). Use whenever he asks for a revision read, line edit, grammar pass, POV audit, structure pass, or "make it clean" on designated pages of a piece he has DECLARED in revision (currently Longshoreman Ep1–2; The Champ draft is COMPLETE 2026-08-20 and eligible for revision — full pass reserved for a post-reset session per the handoff).
 ---
 
 # Revision Pass — teaching mode
@@ -19,6 +19,12 @@ side — not to hand him fixed prose. Ceiling = "no error he didn't know about."
   line for the structure pass and keep going.
 - **He is not a coder.** Never ask him to run scripts or touch repo files. Run the toolkit
   yourself; report results in plain language.
+- **Active recall over pre-flagging (author, 2026-08-21).** Name a defect class ONCE, then have
+  him find its next instances himself — confirm or correct rather than listing every hit. Applies
+  to all four passes below. He said tailoring the system to himself is what made him faster than
+  school; pre-flagging every instance trains dependency, making him spot #2 and #3 trains the eye.
+  The goal is his editorial eye, not a clean file. Exception: the mechanics pass (pure typo list) —
+  no pedagogy there.
 - **Blunt, calibrated.** No flattery padding, no catastrophizing typos. High typo density is
   expected from fast drafting; never remark on the density itself.
 
@@ -38,7 +44,9 @@ sounding like Chuck). Output: location + the sentence + which rule.
 
 ### 3. Line / grammar pass (teaching core)
 For each flag: **quote his sentence → name the rule in plain words → say why it costs the reader
-→ stop.** He fixes it. Track repeat offenders; after the third instance of the same rule, say so
+→ stop.** He fixes it. **Then, for that same rule, DON'T list its later instances — hand him the
+next page and ask him to find them himself; confirm or correct what he catches** (active recall,
+author 2026-08-21). Track repeat offenders; after the third instance of the same rule, say so
 ("this is the third dangling modifier — pattern") so it becomes a habit-fix, not a line-fix.
 Priority order (Browne & King / Strunk & White vocabulary — he's reading both):
 1. Filter words / narrative distance (`saw, felt, noticed, realized, watched`)
