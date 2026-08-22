@@ -6,9 +6,12 @@ caught up without re-doing today's work.*
 
 > ## 📌 TOMORROW'S PLAN (author, 2026-08-21 night → for 2026-08-22) — a REVISION-PREP day
 > Not a drafting day. Champ draft is DONE (COMPLETE 2026-08-20, ~19,889w). Order:
-> 1. **He reads the next chapter of Browne & King, *Self-Editing for Fiction Writers*** (his line-level
->    bible; two-pass notes doc in Drive). **I take structured notes on that chapter** (into the Drive
->    notes doc and/or a repo note).
+> 1. **He reads the next chapter of Browne & King, *Self-Editing for Fiction Writers*** AND **takes the
+>    notes himself** (his two-pass notes doc in Drive). **My job = CRITIQUE HIS NOTE-TAKING** — not take
+>    notes for him (rule 4, no ghost-writing; the skill is his). Read his notes on that chapter, then
+>    under rule 5 (blunt, no cushions) assess: did he capture the load-bearing rule vs. transcribe
+>    trivia? actionable in his own words vs. copied? a "where I do this" self-diagnosis present? gaps /
+>    misreadings of the chapter? Name the fix, he redoes it.
 > 2. **I build + run writing exercises around that same chapter** — drills on the exact technique it
 >    teaches, on his own material where possible. He is not a coder — all plumbing invisible.
 > 3. **Then open the LONGSHOREMAN revision** (Ep1–2, already declared in revision → `revision-pass`
