@@ -1,11 +1,130 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-23** — **The Champ FIRST DRAFT IS COMPLETE** (2026-08-20,
-~19,889w); now entering the REVISION phase. Google Docs = master.
-Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
-caught up without re-doing today's work.*
+*Prepared 2026-08-13; **last updated 2026-08-23 (evening)** — **The Champ FIRST DRAFT COMPLETE
+2026-08-21** (revised ending; the 08-20 finish batch stays frozen beside it for before/after).
+**REVISION PHASE OPEN as of 2026-08-23.** Google Docs = master. Writing partnership with Alec (pen
+name **Jack Moon**). Point a new session at this file to get fully caught up.*
 
-> ## ▶ NEXT SESSION — START HERE (updated 2026-08-23) — REVISIONS BEGIN
+> ## RECOVERY NOTE (2026-08-23) — the 08-21 session was STRANDED; merged today
+> The 2026-08-21 session (revised ending + COMPLETE stamp + room Passes 12/13 + `/room` skill +
+> WORKING_RULES rule-8 code extension) pushed branch `claude/hand-off-c44bal` / PR #7 but never
+> merged at handoff. The 08-22/23 sessions ran off `main` unaware — which is why this file said
+> "COMPLETE 2026-08-20, ~19,889w" until today. Recovered + merged 2026-08-23. Canon now:
+> **draft COMPLETE 2026-08-21**; the canonical ending =
+> `manuscripts/the-champ_ending-REVISED_snapshot_2026-08-21.txt` (towel = Chuck's call alone; new
+> backstage break chapter; epilogue closes on "C-c-charles."). Precise total pending the Doc
+> getting the full text + an MD5 export. **PR #7 is superseded by this merge — close it at handoff.**
+
+> ## NEXT SESSION — START HERE (updated 2026-08-23 evening) — REVISIONS ARE OPEN
+> **END-OF-DAY STATE (2026-08-23 night):** Draft 2 has its first finished pages — **PROLOGUE v2
+> (signed off; ear-cup kept, mic drop cut, watch claimed) and CH1 v2 (closed; corner planted,
+> ladder closed by "My heart stopped", glove beat assigned, plants released)**. **CH2 v2 written,
+> parked HIGH-PRIORITY** (4 items in the pass file: commit construction misreading, door word,
+> claim-or-vary construction, Interlude-2 same-moment call). **NEXT PAGE = CH3** (week of
+> nothingness as scenes; ROB INTRO at the first break — diptych with Coach's Ch2 call; don't
+> spend Ch5's signing beat). OPEN DECISIONS: tense SEAM (check-in vs release), motif-audit six,
+> left-hook replay count. Johnny-origin party scene lives inside Ch1–5 rewrites.
+> **LIVE DOC (2026-08-23 night): "The Champ Draft 2 Revision 1"** — id
+> `1TtfHTlhhzyBB7Cak_-K2xBPyBuQa8S8wewak82IltKI` — ALL revision work happens here; intake reads
+> THIS doc. **"The Champ Final First Draft"** (id `1gEd5a6caI-CjChEoHMCajZyszsaokDdknMpfK8fAg1M`,
+> 20,028w, complete) is the FROZEN draft-1 — never edited again. The 08-18 doc is retitled OLD
+> MASTER (dead). New this session: author reopening the BEGINNING (3rd-person FAN prologue —
+> myth-only, one want, end at the tunnel, shortest chapter); motif streamline decisions pending
+> (`reports/the-champ_motif-audit_2026-08-23.md`); Opus Pass-12 towel-resistance idea REJECTED,
+> Pass-13 registration lever CONFIRMED.
+> *(superseded pointer below:)* prior master-change note: "The Champ Final First Draft" — id
+> `1gEd5a6caI-CjChEoHMCajZyszsaokDdknMpfK8fAg1M` (author-created from his export; the old Doc is
+> retitled OLD MASTER, stale, do not read it). At intake-check time it still lacked the Ch35–37
+> block (542w; paste file delivered). Full reference text: `manuscripts/the-champ_MASTER-v2_2026-08-23.txt`.
+> **The Champ is IN REVISION** (author opened it 2026-08-23; post-reset Fable session).
+> - **Pass 1 (STRUCTURE) done** -> `reports/the-champ_revision-pass1-structure_2026-08-23.md`
+>   (amended post-recovery: two findings resolved by the revised ending; Pass 13's live items folded
+>   in). Calibration log: `reports/the-champ_revision-log.md` — ASK which notes landed.
+> - **His live assignment (ONE ask):** paste the full text into the master Doc (it ends at Ch34; a
+>   corrected paste file incl. the REVISED ending was delivered in chat 08-23) + delete the stale
+>   header; then mark Ch38->epilogue scenes ROOM or LEAN (active recall; confirm/correct only).
+> - Pass order after that: POV -> line/grammar (run the toolkit first) -> mechanics (numbering:
+>   two 37s, two 41s).
+> - B&K notes loop + Longshoreman revision continue per the blocks below.
+
+> ## ⭐ THE CHAMP — FIRST DRAFT COMPLETE (2026-08-21) — READ THIS FIRST
+> The full arc is drafted start to finish; the last line is the son's name ("C-c-charles."). Running
+> total ~20,000 words (approx; precise count pending the next full MD5 export). This session revised
+> the ending on a fresh-brain morning (the "endings on fumes" fix): the **towel** is now Chuck's call
+> alone (John no longer pre-authorizes it); a **new Ch43 backstage break** (Chuck catches John first,
+> then Nicole's private goodbye — "Nicole bolted. I didn't ask."); the **epilogue reordered** to close
+> on the son. Snapshots: `manuscripts/the-champ_ch41-43-epilogue_snapshot_2026-08-20.txt` (FROZEN, the
+> original finish batch) + `the-champ_ending-REVISED_snapshot_2026-08-21.txt` (the revised ending).
+> - **[SUPERSEDED 2026-08-23: he gave the go — revision is OPEN.]** ~~FROZEN until the author reopens~~ (was: target ~Sun 08-23; HE gives
+>   the go — no internal clock, no auto-schedule). Do NOT start a revision/D2 pass, a full-draft read,
+>   or any planning on it until he says. If he asks early, it's parked by his own plan — confirm.
+> - **Revision (D2) is the bigger phase and it's mapped:** the room ledger `reports/the-fighter.room.md`
+>   holds the target list — Pass 12 (the ending fixes: opponent-in-front-of-the-towel is RESOLVED on
+>   the page now; the fall on-page = DONE via Ch43; still open = the break scene's center pace,
+>   epilogue arrival-order tangle, epilogue warmth trim, Chuck's reactions elsewhere) + Pass 13 (this
+>   session's revised-ending read) + the parked structural D2 (dissociative middle, Rodriguez cut,
+>   Vlad-arc expansion, motif rename, POV/mechanics cleanup).
+> - **Doc housekeeping the author still owes:** paste the revised ending into the master Doc; reconcile
+>   the off-by-one chapter labels; then a full MD5 export nails the final count.
+> - **Now live this session:** Reedsy #368 story (see the interim brief below) — the next thing after
+>   the draft was stamped. New this session: the `/room` skill (adversarial drafting read, vetted by
+>   Fable + GPT + Gemini) and `docs/third-party-review-brief-code.md` (cross-vendor review now standing
+>   for coding/tooling work, per WORKING_RULES rule 8).
+
+> ## ▶ SESSION 2026-08-21 — END STATE & LIVE THREADS (supersedes the older interim brief where they conflict)
+> **The FINISH is done.** The Champ first draft is COMPLETE + frozen (see banner above). The room ledger
+> `reports/the-fighter.room.md` holds Pass 12 (ending fixes) + Pass 13 (Fable re-read of the REVISED
+> ending — 2 of 3 fixes landed clean; top D2 items: the towel never *registers* on anyone [lever =
+> registration not resistance — Chuck's body at the throw OR John's first lucid word in the car]; the
+> epilogue got *gutted* not reordered [181w→105w, John left silent at the wedding — restore the body];
+> the "C-c-c-chuck" → "C-c-charles" stutter-rhyme — claim it if it was accidental). The interim-model
+> brief below (finish-only scope) is now SATISFIED. Champ stays frozen until he cues revision (~Sun
+> 08-23, HIS go — no auto-schedule).
+>
+> **⏳ LIVE TASK — Reedsy #368 story (DUE Fri 08-21 23:59 EST), in active drafting:**
+> - Prompt #4 (regular job + magic). Ex-cultist/ex-demon now a day janitor; protects the office on his
+>   LUNCH BREAK; fired by someone he saved; ends at the employment office (been here before). Comic,
+>   cozy-with-teeth. Also the VOICE AUDITION for novella #2.
+> - The story's ENGINE = the GAP between his grandiose true name and a beige chosen name. Chosen name
+>   leaning **"Bob," BLURTED not chosen** (he didn't plan ahead — panics under the clipboard). Live
+>   device (recommended, his call): he blurts the name by **reading it off something in the room**
+>   (improvised-alias / Usual Suspects move) → shows the panic instead of telling it, AND sets up the
+>   ending rhyme (asked again at the employment office, he blurts again off whatever's there = he's done
+>   this a hundred times = the ache). His logged rule: "the ending rhymes with the opening name gag."
+> - OPEN (his call, mid-draft): (a) pure blank blurt ("Bob") vs read-off-the-room; (b) the SUPER-EVIL
+>   TRUE NAME still unpicked — veins offered: real Ars Goetia names / ecclesiastical Latin from a concept
+>   / a Louis-Cyphre homophone (infernal name hidden in a human-sounding one) / a grandiose self-title.
+>   **NO GHOST-WRITING** — he picks the name; Claude critiques his candidates only.
+> - Craft holds (his own): never explain why he quit the cult; one mop detail only a monster would know;
+>   no sentence about how unfair it is; the ending rhymes the name gag.
+>
+> **🛠 TOOLING BUILT THIS SESSION (all on PR #7, branch `claude/hand-off-c44bal`):**
+> - **`/room` skill** — the adversarial DRAFTING-stage craft read, systematized. Vetted: Claude wrote →
+>   Fable review → GPT + Gemini independent reviews → reconciled/refined (the outside models overruled
+>   Claude's own call to keep an auto-fire clause — removed it). Explicit-invocation ("room it" etc.),
+>   NOT auto-fire (measured: perfect precision, ~0 false-fire — correct for a command). Distinct from
+>   `revision-pass` (revision-stage grammar/POV/mechanics).
+> - **`docs/third-party-review-brief-code.md`** + WORKING_RULES rule 8 extended: cross-vendor
+>   (GPT/Gemini/DeepSeek) review is now STANDING for substantive coding/tooling work — prepared-and-
+>   offered, not a hard gate; trivial edits skip it.
+>
+> **📋 PLANS CAPTURED (parked; do NOT develop unless he initiates):**
+> - **Website (post-book-launch):** outsource the literal CODE BUILD to DeepSeek; Claude plans + reviews
+>   + launches; its OWN repo + session; MD/git as the handoff bridge; NO-CODE-FIRST check (an author site
+>   may just be a landing page + MailerLite — no build). Parked behind The Champ.
+> - **Resume-editor — NOT part of this repo/project.** He's building it entirely elsewhere; he took only
+>   the BONES from here (the no-ghostwriting critique principle: critique / suggest / push back / never
+>   write). Claude handed him a generalized "critique contract" as a SCRATCH file (NOT committed to this
+>   repo) for that other project's session to tailor. Nothing about the resume editor is developed,
+>   stored, or tracked here — do not treat it as a thread in this repo.
+> - **Usage:** the skill-eval loop is the one heavy Claude-token spender (run sparingly); local scripts +
+>   cross-vendor reviews cost ~nothing on the Claude side. He's on Max; strategy = preserve Claude for
+>   writing, offload cheap/context-free building + reviews to other vendors.
+>
+> **REPO/PR:** all committed + pushed to `claude/hand-off-c44bal`; PR #7 open (draft), subscribed. Git is
+> the sync bridge to his local PC clone; manuscripts live in Google Docs (master).
+
+> ## ▶ NEXT SESSION — START HERE (updated 2026-08-23) — REVISIONS BEGIN *(morning block; superseded where it conflicts with the RECOVERY NOTE above — the Champ pass is now OPEN, complete date = 08-21)*
 > Champ **FIRST DRAFT COMPLETE** (2026-08-20, ~19,889w). This is a **REVISION** phase now, not drafting.
 >
 > **What happened 2026-08-21 → 23 (housekeeping + decisions; no new pages):**

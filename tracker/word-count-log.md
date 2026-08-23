@@ -6,7 +6,13 @@ in the repo, so it survives transfers between Reedsy, Google Docs, and here.
 ## Current project: *The Champ* (novella) — working title (formerly *The Fighter*)
 
 - **Word-count goal:** NONE (retired 2026-08-17 — done is done; floor 1,000/day)
-- **Current total:** **17,040 words** through Ch34 (MD5-verified 2026-08-17); no % — there is no goal.
+- **✅ FIRST DRAFT COMPLETE — 2026-08-21.** Full arc drafted start to finish; last line = the
+  son's name ("C-c-charles."). Running total **~20,000 words** (approx — the ending was revised, not
+  just added to; precise count pending the next full MD5 export from the Doc). No % — there is no
+  goal; done is done. FROZEN post-draft until the author reopens for revision (targeting ~Sun 08-23;
+  he cues the exact restart — no auto-schedule).
+- **Current total (last full MD5-verified export):** 17,040 words through Ch34 (2026-08-17); the
+  finish batch + revised ending carry it to ~20,000 (see COMPLETE note above).
 - **Daily minimum goal:** **1,000 words/day (floor — raised from 750 on 2026-08-12)** —
   chosen to be sustainable *regardless of motivation*, ideally split into two sessions
   (work downtime + home). Stretch stays 2,000→5,000 on good days.
@@ -172,6 +178,31 @@ Ch18, Ch20. (Fresh export verified by MD5 after two stale re-uploads earlier in 
   the "Vlad SILENT in the final — one look, no monologue" ruling is reversed on the page (Vlad
   talks at Chuck mid-fight, "Stones in a glass house") — surfaced in one line for author's call.
 
+## 2026-08-21 — ⭐ FIRST DRAFT COMPLETE (ending revised + declared done)
+- **Snapshot `manuscripts/the-champ_ending-REVISED_snapshot_2026-08-21.txt`** (MD5
+  `430c64f9dc3ef7e140800d61ce5f2d8d`), the revised ending from the Ch42 towel through the Epilogue,
+  prose ~628 words for that excerpt. The Aug-20 finish-batch snapshot stays FROZEN beside it for
+  before/after; this is a NEW object, not an overwrite.
+- **What changed vs the 08-20 draft (author revised this session, on the fresh-brain morning — his
+  own "endings on fumes" fix in action):**
+  1. **Towel fix** — John no longer pre-authorizes the stoppage. Old: "No." Now: "He was still
+     staring at the canvas." / "Ok, buddy, that's enough." → **Chuck makes the call alone.** Resolves
+     the Pass-12 hardest-first note. (Author ruled the act stands on its own — the corner breaking the
+     die-on-your-shield code IS the weight; no external "opponent" needed. Settled.)
+  2. **NEW Chapter 43 — the backstage break** — Chuck catches/holds John FIRST ("I got you John. I
+     got you."), THEN Nicole arrives; their private goodbye ("Nicole bolted. I didn't ask."). Pays
+     off the John–Nicole plant AND the Chuck-as-corner spine in one scene; guardrail honored (Chuck's
+     catch stays the climax, Nicole is the bonus).
+  3. **Epilogue reordered** to CLOSE on the son ("Go, champ, tell her." / "C-c-charles.") instead of
+     the stranger groom; most found-family banter trimmed (leaner; some warmth traded — a D2 call).
+- Read given (drafting menu, in-chat): fixes landed; draft-complete ending. D2 notes logged to the
+  room ledger (Pass 13): the break scene still sprints its center ("I had to hold him up" = one flat
+  line for the payoff image); epilogue arrival order tangled by the reorder; possible over-trim of
+  epilogue warmth. Fable steered read appended as the same pass.
+- **STATUS: FIRST DRAFT COMPLETE. The Champ is FROZEN until the author reopens it for revision**
+  (target ~Sun 08-23; he gives the go — no internal clock, no auto-schedule). Revision = D2, the
+  bigger phase; room findings are the D2 target list. Reedsy #368 comp is next this session.
+
 ## RULING (author, 2026-08-17): NO TOTAL WORD-COUNT TARGET
 "Whatever it is when it's done is what it is." The ~30k / "~50%" framing is retired. The daily
 FLOOR (1,000) stays — it's a discipline, not a length. The running total stays as a measurement
@@ -188,3 +219,72 @@ only. Do not report % complete or a finish-length again.
   phone call (lever); retirement delivered as a presser answer. Best line: Vlad's "Look who's
   finally here" (= the spine). Open question to author: beats-to-expand or drafted ending?
 - Author: "might be more later."
+
+## 2026-08-23 — REVISION OPENS (post-reset Fable session); Doc verification, no new words
+- **Master Doc read live: STALE.** Ends at the Ch34 presser ("…I'm retiring."); the old
+  "Reedsy is the LIVE master" 3-line header is still on top; Ch35→epilogue were never pasted
+  in. Doc text = 17,072w incl. header (MD5 of pull `4f919f101f4d9379d99501187c025d13`;
+  evidence copy `manuscripts/the-champ_docpull_2026-08-23_STALE-ends-ch34.txt` — do NOT
+  treat as a draft snapshot; the 08-20 snapshot chain is the complete draft).
+- **Full draft verified intact locally:** 08-17 snapshot + the four batch snapshots stitch to
+  19,968w incl. snapshot headers ≈ the logged ~19,889 prose. Nothing lost.
+- **Pass 1 (STRUCTURE) opened** on the full draft → `reports/the-champ_revision-pass1-structure_2026-08-23.md`;
+  calibration log created → `reports/the-champ_revision-log.md`.
+- Author owes (carried from handoff, now blocking Doc-based revision): paste Ch35→epilogue
+  into the Doc, delete the stale header, reconcile numbering (two 37s, two 41s).
+- **ADDENDUM (same day, post-recovery):** the entry above predates recovering the stranded 08-21
+  branch. Corrections: draft COMPLETE **2026-08-21** (not 08-20); canonical ending = the REVISED
+  snapshot (`the-champ_ending-REVISED_snapshot_2026-08-21.txt`); the complete draft = Ch1–Ch42
+  (towel per revised tail) + revised Ch43/44/epilogue — full-text paste file (2,993w from Ch35)
+  delivered to author for the Doc; precise total awaits the Doc-complete MD5 export.
+
+## 2026-08-23 (afternoon) — AUTHOR EXPORT INTAKE: the draft was nearly whole all along
+- Author provided `202608231537-the-fighter.docx` (archived as
+  `manuscripts/the-champ_export_2026-08-23.docx`; text extract `the-champ_export_2026-08-23.txt`,
+  MD5 of text `15db9d41a771fa9ce43f24cff78f29df`, **19,490 words**). Filename pattern suggests a
+  REEDSY export ("the-fighter") — NOT the Google Doc, which remains stale through Ch34.
+- Contents: Ch1–34 + rehab curb onward + the REVISED ending (backstage break, "C-c-charles."
+  close), old header gone. **ONE hole: the Ch35–37 batch (Rob offer / Carl curb / living room,
+  542w) is absent** — an empty stray "Chapter 2" heading sits where it belongs. Deficit matches:
+  19,490 + 542 ≈ 20,032 = full canon.
+- Missing-3-chapters paste file delivered to author in chat. Master-location question raised:
+  the complete working copy is evidently NOT the Google Doc — author to name the master.
+
+## 2026-08-23 (evening) — NEW MASTER DOC LIVE; revision process starts
+- **New master: Google Doc "The Champ Final First Draft"** (id
+  `1gEd5a6caI-CjChEoHMCajZyszsaokDdknMpfK8fAg1M`, owner alecborrego5@gmail.com, created by the
+  author from his docx export). Verified vs local: **19,490w — revised ending present, closes on
+  "C-c-charles."; the Ch35–37 block (542w) is still absent** — author has the paste file; goes in
+  after Ch34's "I'm retiring." Old master Doc retitled "OLD MASTER (superseded 2026-08-23…)".
+- Intake now reads the NEW Doc. Complete reference text (all 20,030w) =
+  `manuscripts/the-champ_MASTER-v2_2026-08-23.txt`.
+- Structure revision begins: run order = presser / stool / car / epilogue-restore first (author
+  waived the active-recall exercise this session — his call; rule stands otherwise).
+
+## 2026-08-23 (night) — DRAFT 2 DOC CREATED; draft-1 frozen
+- Author duplicated the master → **"The Champ Draft 2 Revision 1"** (id
+  `1TtfHTlhhzyBB7Cak_-K2xBPyBuQa8S8wewak82IltKI`) = the LIVE revision doc; intake reads it.
+- "The Champ Final First Draft" (20,028w) = FROZEN draft 1, never edited again.
+- Revision worklist live: fan prologue (new) · epilogue restore · presser · stool · car ·
+  front-half D2 · motif streamline (six decisions pending in the audit).
+
+## 2026-08-23 (night) — PROLOGUE DRAFTED in Draft 2: +283 (first new words of revision)
+- "The Champ Draft 2 Revision 1" now 20,309w total (docpull snapshot
+  `manuscripts/the-champ-d2_docpull_2026-08-23_prologue.txt`). Prologue = 283w, 3rd-person
+  presser scene (Chuck at peak persona + Vlad from page one), ends backstage on the bottle.
+- Revision floor: met (new-scene item done). Read given in chat (drafting menu — new pages).
+- **Prologue v2 (same night, chat paste):** mic drop cut, ear-cup kept, staging fixed (one
+  placed heckler), boos textured ×3 bracketing Vlad, Chuck-only exit beat added (glasses +
+  THE WATCH + grin). Snapshot `manuscripts/the-champ-d2_prologue-v2_2026-08-23.txt` (~279w).
+  Signed off structurally in chat (Pass 14 items closed; reporter-question furniture parked to
+  line pass).
+- **Ch1 v2 rewrite (same night, chat paste, ~340w):** dream-montage → concrete scene (locker
+  room, corner huddle, Johnny's "I love you Chucky" kiss, Vlad classical-music entrance, ends
+  "straight into his takedown"). Snapshot `manuscripts/the-champ-d2_ch1-v2_2026-08-23.txt`.
+  Read in chat: tense drift mid-page (new law's first test), glove-touch beat garbled, two old
+  Ch1 plants orphaned (fuck-Dana/machine anchor + Bruce "AND THE NEW" dream that Ch13 echoes).
+- **Ch2 v2 rewrite (same night, chat paste, ~200w):** told paragraphs (never-my-girl, shame)
+  replaced with shown beats; Nicole's absence now DISCOVERED at the close ("Oh, fuck,
+  'Nicole?'"); zero tense drift — first clean page under the new law. Snapshot
+  `manuscripts/the-champ-d2_ch2-v2_2026-08-23.txt`. Flags in chat: lowercase "thump" motif
+  collision, opening-sounds intent, keep-the-hook continuity note.

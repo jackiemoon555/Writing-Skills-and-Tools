@@ -6,3 +6,6 @@
 - [Endings on fumes](endings-on-fumes.md) — his finishing problem = sequencing; protect the climax/last image with a FRESH session; freeze first drafts as-is for before/after
 - [Work email private](user_work_email_private.md) — never write his employer/work address into the repo; Gmail connector can't draft/send (no compose scope) — deliver files in chat instead
 - [Active recall in revision](feedback-active-recall-revision.md) — name a defect class ONCE then make him find the next instances himself; don't pre-flag every hit (his edge over school = tailoring, not offloading)
+- [DeepSeek code offload](user_deepseek_code_offload.md) — he offloads code work to DeepSeek; first run saved externally; repo plumbing stays mine (rule 7)
+- [Jack Moon signature devices](project_jackmoon_signature_devices.md) — percussion motifs + convergent-tense architecture; his declared developing style
+- [Sonnet codes only](feedback-sonnet-codes-only.md) — all coding to Sonnet subagents, minimal reasoning, Fable writes the spec

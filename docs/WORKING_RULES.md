@@ -61,6 +61,14 @@ context, forbidden from `reports/`+`docs/`) does an independent read under rule 
 where both agree = the signal; splits go to the author. Cross-vendor (GPT/Gemini) at milestones — as a QUALITY CHECK, not a second editor:
 paste-ready brief + steering examples in `docs/third-party-review-brief.md` (blind read →
 optional refute-mode → done; no iteration, no relationship).
+**Extends to CODE/TOOLING (author, 2026-08-21):** substantive/reusable coding work — a new or
+materially changed skill, script, tool, or repo automation — gets the same cross-vendor pass.
+Claude builds → Claude/Fable self-review → Claude produces the paste-ready brief in
+`docs/third-party-review-brief-code.md` and OFFERS it → author runs GPT + Gemini → Claude reconciles
+(both agree = signal; Claude-only = suspect house bias; one-vendor-only = author's call), and flags
+where the outside read overruled a call Claude defended. Prepared-and-offered, NOT a hard gate:
+never block work waiting on the paste; trivial edits skip it. Author can widen to "everything" or
+tighten any time.
 
 ## 9. Intake + logging (every upload)
 **Google Docs is the live master for every manuscript (author, 2026-08-18)** — he drafts in Apple Notes on
