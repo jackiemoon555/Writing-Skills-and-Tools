@@ -1,25 +1,40 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-20** — draft nearly done (through Ch41, ~19.1k), ending fully specified, Google Docs = master.
+*Prepared 2026-08-13; **last updated 2026-08-23** — **The Champ FIRST DRAFT IS COMPLETE** (2026-08-20,
+~19,889w); now entering the REVISION phase. Google Docs = master.
 Writing partnership with Alec (pen name **Jack Moon**). Point a new session at this file to get fully
 caught up without re-doing today's work.*
 
-> ## 📌 TOMORROW'S PLAN (author, 2026-08-21 night → for 2026-08-22) — a REVISION-PREP day
-> Not a drafting day. Champ draft is DONE (COMPLETE 2026-08-20, ~19,889w). Order:
-> 1. **He reads the next chapter of Browne & King, *Self-Editing for Fiction Writers*** AND **takes the
->    notes himself** (his two-pass notes doc in Drive). **My job = CRITIQUE HIS NOTE-TAKING** — not take
->    notes for him (rule 4, no ghost-writing; the skill is his). Read his notes on that chapter, then
->    under rule 5 (blunt, no cushions) assess: did he capture the load-bearing rule vs. transcribe
->    trivia? actionable in his own words vs. copied? a "where I do this" self-diagnosis present? gaps /
->    misreadings of the chapter? Name the fix, he redoes it.
-> 2. **I build + run writing exercises around that same chapter** — drills on the exact technique it
->    teaches, on his own material where possible. He is not a coder — all plumbing invisible.
-> 3. **Then open the LONGSHOREMAN revision** (Ep1–2, already declared in revision → `revision-pass`
->    skill + `reports/longshoreman_revision-log.md`). Runs **active recall** (rule 3, new 2026-08-21):
->    name a defect class ONCE, he finds the next instances himself; confirm/correct, don't pre-flag.
-> Champ full revision pass stays PARKED for the post-reset session — do not open it early.
+> ## ▶ NEXT SESSION — START HERE (updated 2026-08-23) — REVISIONS BEGIN
+> Champ **FIRST DRAFT COMPLETE** (2026-08-20, ~19,889w). This is a **REVISION** phase now, not drafting.
+>
+> **What happened 2026-08-21 → 23 (housekeeping + decisions; no new pages):**
+> - **Memory system overhauled → see `docs/MEMORY_SYSTEM.md`** (architecture + health + improvement
+>   backlog; linked first in "Where everything lives"). Done this session: renamed `docs/memory/` →
+>   `docs/archive-notes/` (deprecated); added git-tracked `docs/auto-memory-backup/` (the one memory
+>   layer that lived outside git — refresh at handoff per rule 9); fixed a stale rule-count drift.
+>   Remaining backlog incl. **#4 = compact THIS handoff** (split live STATE vs frozen ARCHIVE).
+> - **New rule — WORKING_RULES rule 3: ACTIVE RECALL.** Name a defect class ONCE, then he finds the next
+>   instances himself; confirm/correct, don't pre-flag. Applies to every piece in revision, Champ incl.
+>   (exception: pure typo pass). Baked into the `revision-pass` skill too.
+> - **Reedsy #368 SKIPPED** (helped a friend) — janitor bones BANKED in the comp tracker for reuse
+>   (portable standalone + voice audition for novella #2).
+> - **"The Room" cockpit dashboard = PARKED** — he called it off (ADHD load). Plan file exists at
+>   `~/.claude/plans/synthetic-whistling-nautilus.md` if ever revived. Not pending.
+> - **Browne & King reading did NOT happen** (out with friends 08-22). The Drive notes template is
+>   confirmed present + empty (12 chapters stubbed; Ch1–2 read but slots blank — unrecorded).
+>
+> **NEXT = REVISIONS.** His plan, still valid: (1) he reads the next B&K chapter + **takes the notes
+> himself** → **I CRITIQUE his note-taking** under rule 5 (NOT take notes for him — rule 4); (2) I
+> build + run writing exercises on that chapter; (3) open the **LONGSHOREMAN revision** (Ep1–2, already
+> declared in revision → `revision-pass` skill + `reports/longshoreman_revision-log.md`) on **ACTIVE
+> RECALL**. Champ full revision pass stays PARKED for the post-reset Fable session — do not open early.
 
 > ## ⚡ INTERIM-MODEL BRIEF (2026-08-20 → weekly usage reset) — READ BEFORE THE NUMBERED LIST
+> **✅ UPDATE 2026-08-23: THE FINISH IS DONE — Champ first draft COMPLETE 2026-08-20 (~19,889w). Items
+> 1–5 below are CLOSED (history). The live next-step is the NEXT SESSION block above (revisions). Still
+> relevant here: item 6 partial (Scary Story early-bird closes Aug 27; Doc housekeeping) + item 7
+> (register/format). Post-reset Fable still owns the full-draft read.**
 > Usage capacity is near the weekly cap, so sessions until the reset run on **Opus** (author's call,
 > 2026-08-20). Fable resumes after the reset with the **full-draft read**. For the Opus sessions:
 > 1. **Your job is the FINISH, nothing else:** intake the final Champ pages (fight week → the STOOL:
