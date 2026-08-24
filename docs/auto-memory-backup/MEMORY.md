@@ -10,3 +10,4 @@
 - [Jack Moon signature devices](project_jackmoon_signature_devices.md) — percussion motifs + convergent-tense architecture; his declared developing style
 - [Sonnet codes only](feedback-sonnet-codes-only.md) — all coding to Sonnet subagents, minimal reasoning, Fable writes the spec
 - [Usage rollback Aug 31](project_usage_rollback_aug31.md) — limits shrink after 08-31; front-load heavy passes this week
+- [No guessed numbers](feedback-no-guessed-numbers.md) — durations/counts about him: compute from the record or say unknown, never estimate
