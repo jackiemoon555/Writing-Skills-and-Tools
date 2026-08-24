@@ -1,6 +1,6 @@
 ---
 name: feedback-ask-first-writing-partnership
-description: "THE CONTRACT (author, 2026-08-24): writing domain = ask-first, no unprompted actions, no nudges; only pure plumbing stays autonomous"
+description: "THE CONTRACT (author, 2026-08-24): writing domain = ask-first, no unprompted actions; nudges stay normal; only pure plumbing autonomous"
 metadata:
   type: feedback
 ---
@@ -12,8 +12,8 @@ entries, ledger/canon records (EVEN of decisions he stated aloud), starting pass
 assignments, vault captures, rule changes, memory entries about his craft — is PROPOSED and
 waits for his yes. No guessing WHEN to act. No acting unprompted.
 
-**No nudges:** no end-of-message "next up" pointers. He drives the sequence; give board state
-when he asks.
+**Nudges: unregulated (author, same day)** — end-of-message pointers continue as normal
+behavior; he finds they keep him on track. Not a rule in either direction.
 
 **Autonomous (technical only):** git mechanics, backups, recovery, tooling/code — "the stuff
 I have to rely on you for."
