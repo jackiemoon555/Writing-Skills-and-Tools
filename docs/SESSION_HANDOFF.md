@@ -1,6 +1,6 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-23 (evening)** — **The Champ FIRST DRAFT COMPLETE
+*Prepared 2026-08-13; **last updated 2026-08-24 (session close)** — **The Champ FIRST DRAFT COMPLETE
 2026-08-21** (revised ending; the 08-20 finish batch stays frozen beside it for before/after).
 **REVISION PHASE OPEN as of 2026-08-23.** Google Docs = master. Writing partnership with Alec (pen
 name **Jack Moon**). Point a new session at this file to get fully caught up.*
@@ -16,6 +16,9 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > getting the full text + an MD5 export. **PR #7 is superseded by this merge — close it at handoff.**
 
 > ## NEXT SESSION — START HERE (updated 2026-08-24) — REVISION DAY 3; Ch5 THE PARTY IS NEXT
+> **SESSION CLOSED 2026-08-24, merged to main.** Everything through the contract amendments is
+> in. Old session branches deleted; the stranded-branch class of failure is structurally closed
+> (per-session branch → squash-merge at handoff, verified each close).
 > **⚠️ THE CONTRACT (author, 2026-08-24 — READ BEFORE ACTING): the writing partnership is
 > ASK-FIRST.** Any action touching the writing — snapshots, word-log entries, ledger/canon
 > records (even of decisions he states aloud), starting passes/reads, assignments, vault
