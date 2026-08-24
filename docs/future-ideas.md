@@ -430,3 +430,19 @@ Rule: not one line of planning until the Champ's last sentence (author ruling, r
    Reviewer: coherent — all "something bigger than you wants in" = the Thump = "the faceless fighter is his
    other side"; he already reached for it in Ch6 (Vlad = "some eldritch horror of brutality"). Natural lane:
    small-town Texas religious/cult horror, quiet ceiling. Capture only.
+
+## No More Heroes — CHARACTER DESIGNS BANKED (2026-08-24; project stays VAULTED)
+Author produced four character designs "unintentionally while looking into comics" — captured
+verbatim in `docs/no-more-heroes_character-designs_2026-08-24.md` with an independent
+fact-verification report beside it (`…_designs-verification_2026-08-24.md`; note its Haley
+BLP caution: the medicated-unknowingly detail is HIS OWN public claim — say "Haley has said" —
+and the kept-sick-on-purpose framing is dramatic extension, not record). The four: Catabolic
+Speedster · Math Savant/Reality-Perceiver · Fractured Man (merge-erases-powers dilemma) ·
+Bipolar Damage-Absorber (meds = kryptonite; the heavy one) + the institutional/CTE antagonist
+logic. Design law stated in the doc: mechanism narrowed, domain fenced, cost inward and
+permanent; control is the enemy. CAPTURE ONLY — no development until author reopens NMH.
+
+- NMH frame (author, 2026-08-24, capture only): the four are "the dregs of superhero society —
+  the only reason they're still alive is because of their flaws." Inspirational-from-the-bottom
+  is intended. Ensemble ruling: one thesis, four different ANSWERS (verified distinct) — any
+  future character must answer differently or he's redundant.

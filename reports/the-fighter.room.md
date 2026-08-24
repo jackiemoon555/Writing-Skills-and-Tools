@@ -1900,3 +1900,23 @@ Chuck-only beat; (2) fix the opening staging.
   closed by "My heart stopped" — Vlad's music stops the heart, the Ch19 silence-move; glove
   beat assigned: Vlad offers, Chuck slaps away; two verbs owed to past). Seam choice
   (check-in vs release) STILL OPEN — decide before the rehab chapters.
+
+## CANON RULING (author, 2026-08-24) — NICOLE REWORKED: LESS VILLAINOUS; CHUCK FORCED HER OUT
+D2 redistributes the breakup's agency: Nicole didn't coldly leave — Chuck's behavior DROVE her
+out (Ch3 v2: she opens with concern "You've changed... You're a fucking mess"; he answers with
+venom; "golddigger" is HIS SLUR, not the book's verdict — her blank face is the verdict).
+Timeline confirmed: Ch2 = silent morning exit; Ch3 = the return-for-her-things trip ~a week
+later ("No pain... finally getting better" + "the rest of her bags" = the clocks). Author
+intent: adds weight to Interlude 2. Sweep rule (D2): any leftover D1 framing that makes
+gold-digger the TRUTH (vs. Chuck's armor) gets flagged; Interlude 2's bedside "you're just not
+good enough" goodbye must reconcile with the new two-trip departure — note both parties may
+remember the breakup as the other's doing (mirrored unreliability is available if he wants it;
+his call, not prescribed).
+- **RULING (author, 2026-08-24) — FALL-SEQUENCE ORDER LOCKED (order B):** Ch3 (Nicole's
+  return-trip exit + Rob's call, ends "a life to party away") → **Ch4 = GYM PANIC ATTACK**
+  (he tries the right thing first; sanctuary fails; ascending Thump storm; Rob's invitation
+  hanging open over the scene) → **Ch5 = THE PARTY** (own chapter, NOT folded into Ch3:
+  Johnny's origin by gesture-not-pitch, Rob in the room, numbness shown by sensory volume vs
+  flat response; Thump-silent by design if author uses the option). Party-as-last-resort =
+  the driven fall. Ch3 punch list before line pass: load the timeline clock (third carrier),
+  decide "He giggled," decide shared "champ" (Coach=you vs Rob=product — claim or split).

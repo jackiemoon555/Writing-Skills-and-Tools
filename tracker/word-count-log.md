@@ -288,3 +288,15 @@ only. Do not report % complete or a finish-length again.
   'Nicole?'"); zero tense drift — first clean page under the new law. Snapshot
   `manuscripts/the-champ-d2_ch2-v2_2026-08-23.txt`. Flags in chat: lowercase "thump" motif
   collision, opening-sounds intent, keep-the-hook continuity note.
+
+## 2026-08-24 — Ch3 v2 drafted (chat paste, ~250w): Nicole's luggage-trip exit + ROB INTRO
+- Diptych executed as designed: Coach's Ch2 care-call vs Rob's Ch3 eight-ball call. Snapshot
+  `manuscripts/the-champ-d2_ch3-v2_2026-08-24.txt`. Read in chat: departure-timeline decision
+  flagged (Ch2 silent exit vs Ch3 luggage fight vs Interlude 2 bedside goodbye — now three
+  versions to reconcile); author feeling "too short" diagnosed as one-beat chapter, texture
+  placement = his call. Tense: clean past throughout, second consecutive clean page.
+- **Ch4 v2 drafted (chat paste, ~300w): the gym visit** — ascending Thump ladder (1→5, the
+  storm, direction law executed), Coach confrontation ("three weeks"), Johnny's triple call
+  showing dissociation from outside, CHUCK ISSUES THE PARTY INVITATION ("Rob's house
+  tonight." I winked.), ends on the Vlad-overlay spar (punches = tears). Snapshot
+  `manuscripts/the-champ-d2_ch4-v2_2026-08-24.txt`. Third consecutive clean-past page.

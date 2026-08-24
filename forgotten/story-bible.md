@@ -196,3 +196,10 @@ and the toxic-masculinity theme all need room (60–90k). Confirmed as the autho
 novel, not a novella.** Rationale/sequencing: *The Champ* (hopeful, cleaner, novella) is the
 right book to build reps + craft on first; *Forgotten* is the bigger, harder, more ambitious
 swing — take it on once those reps exist. Not to be forced into a one-month novella build.
+
+## INFLUENCE NOTE (author, 2026-08-23 — capture only, project stays PARKED)
+Core inspiration on record: *Forgotten* is based on **Archer's coma arc** (the Dreamland-era
+coma seasons — the protagonist comatose, living constructed dream-realities). Author: "extremely
+inspired, not one for one but close." Archer = his favorite show (also noted in session memory).
+Do not develop until he reopens the project; this note exists so the frame's provenance isn't
+lost.

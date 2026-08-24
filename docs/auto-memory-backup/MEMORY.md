@@ -9,3 +9,4 @@
 - [DeepSeek code offload](user_deepseek_code_offload.md) — he offloads code work to DeepSeek; first run saved externally; repo plumbing stays mine (rule 7)
 - [Jack Moon signature devices](project_jackmoon_signature_devices.md) — percussion motifs + convergent-tense architecture; his declared developing style
 - [Sonnet codes only](feedback-sonnet-codes-only.md) — all coding to Sonnet subagents, minimal reasoning, Fable writes the spec
+- [Usage rollback Aug 31](project_usage_rollback_aug31.md) — limits shrink after 08-31; front-load heavy passes this week

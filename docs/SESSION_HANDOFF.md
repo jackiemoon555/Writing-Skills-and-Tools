@@ -15,7 +15,31 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > backstage break chapter; epilogue closes on "C-c-charles."). Precise total pending the Doc
 > getting the full text + an MD5 export. **PR #7 is superseded by this merge — close it at handoff.**
 
-> ## NEXT SESSION — START HERE (updated 2026-08-23 evening) — REVISIONS ARE OPEN
+> ## NEXT SESSION — START HERE (updated 2026-08-24) — REVISION DAY 3; Ch5 THE PARTY IS NEXT
+> **Draft 2 progress: Prologue + Ch1–4 all rewritten and read** (snapshots in manuscripts/,
+> reads in chat, rulings in the ledger). **NEXT PAGE = CH5, THE PARTY** — Johnny's ORIGIN
+> (gesture-not-pitch; the Ch4 wink already paid the guilt — do NOT underline at the party),
+> Rob's room, numbness shown as sensory volume vs. flat response, optional Thump-silence.
+> **It is also his FIRST SCENE-SUSTAIN TEST** (his known failure = the middle collapsing into
+> summary; his self-check = catching told-time ["the night went on"] and returning to
+> moment-to-moment). A failed first version is a successful rep — freeze and re-read.
+> - **Fall-sequence ORDER B locked:** Ch3 (Nicole return-trip + Rob call, ~day 7) → Ch4 (gym,
+>   MASKED panic attack, ladder 1→5, the invitation, ~day 21) → Ch5 party (that night). Then
+>   docking plan (in chat 08-24 + pass file): Ch6 = banked locker-room scene (fix its "first
+>   day back" line), Ch7 = UFC-comes-calling/signing, then old Ch7+ reworked (Johnny
+>   post-origin recolor: his clean-gym persona is now a performance), Rodriguez faceless, then
+>   the deep-fall restructure.
+> - **CANON NEW THIS WEEKEND:** Nicole REWORKED (Chuck forced her out; "golddigger" = his slur,
+>   her blank face = the verdict; Interlude 2 gains weight; two-trip departure timeline);
+>   convergent tense (seam choice STILL OPEN: check-in vs release); watch = mask's crest;
+>   Vlad shaved head+beard; ladder direction law.
+> - **Punch lists riding:** Ch2 (4 items, high-priority return visit), Ch3 (clock carrier /
+>   "giggled" / shared "champ"), Ch4 (Coach complicit-vs-oblivious). Motif-audit six still open.
+> - **Vaulted 08-24:** No More Heroes character designs + verification (capture only,
+>   docs/no-more-heroes_*). Core theme + register-break intent saved to memory.
+> - Rate note (calibration): he executes notes and invents past them FASTER than typical-writer
+>   priors — plan short cycles; guard = passes in order, done means checked.
+> ## NEXT SESSION — PREVIOUS (23rd evening) (updated 2026-08-23 evening) — REVISIONS ARE OPEN
 > **END-OF-DAY STATE (2026-08-23 night):** Draft 2 has its first finished pages — **PROLOGUE v2
 > (signed off; ear-cup kept, mic drop cut, watch claimed) and CH1 v2 (closed; corner planted,
 > ladder closed by "My heart stopped", glove beat assigned, plants released)**. **CH2 v2 written,
