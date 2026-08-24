@@ -16,6 +16,13 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > getting the full text + an MD5 export. **PR #7 is superseded by this merge — close it at handoff.**
 
 > ## NEXT SESSION — START HERE (updated 2026-08-24) — REVISION DAY 3; Ch5 THE PARTY IS NEXT
+> **⚠️ THE CONTRACT (author, 2026-08-24 — READ BEFORE ACTING): the writing partnership is
+> ASK-FIRST.** Any action touching the writing — snapshots, word-log entries, ledger/canon
+> records (even of decisions he states aloud), starting passes/reads, assignments, vault
+> captures, rule changes, craft memory entries — gets PROPOSED and waits for his yes. NO
+> end-of-message "next up" nudges — he drives the sequence. NO guessed facts about him or his
+> work — record-sourced or asked. Only pure plumbing (git, backups, recovery, code) stays
+> autonomous. Full text: memory `feedback-ask-first-writing-partnership.md`.
 > **Draft 2 progress: Prologue + Ch1–4 all rewritten and read** (snapshots in manuscripts/,
 > reads in chat, rulings in the ledger). **NEXT PAGE = CH5, THE PARTY** — Johnny's ORIGIN
 > (gesture-not-pitch; the Ch4 wink already paid the guilt — do NOT underline at the party),

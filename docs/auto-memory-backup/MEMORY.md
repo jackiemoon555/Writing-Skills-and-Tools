@@ -10,4 +10,5 @@
 - [Jack Moon signature devices](project_jackmoon_signature_devices.md) — percussion motifs + convergent-tense architecture; his declared developing style
 - [Sonnet codes only](feedback-sonnet-codes-only.md) — all coding to Sonnet subagents, minimal reasoning, Fable writes the spec
 - [Usage rollback Aug 31](project_usage_rollback_aug31.md) — limits shrink after 08-31; front-load heavy passes this week
-- [No guessed numbers](feedback-no-guessed-numbers.md) — durations/counts about him: compute from the record or say unknown, never estimate
+- [No guessed facts](feedback-no-guessed-numbers.md) — anything not in the record or plainly derivable: ask or say unknown, never guess
+- [THE CONTRACT: ask-first writing partnership](feedback-ask-first-writing-partnership.md) — writing domain = propose and wait (even logging his rulings); no nudges; only pure plumbing autonomous

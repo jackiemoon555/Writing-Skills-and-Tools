@@ -1,6 +1,6 @@
 ---
 name: feedback-no-guessed-numbers
-description: "Never estimate durations/counts about Alec from vibes - compute from the record or say 'unknown' (author, 2026-08-24)"
+description: "No guessed FACTS, period - anything not in the record or plainly derivable gets asked or stated unknown (broadened by author, 2026-08-24)"
 metadata:
   type: feedback
 ---
@@ -17,3 +17,8 @@ priors are systematically wrong about him anyway.
 
 **How to apply:** before writing any number about his work/history, locate its source in the
 repo or the conversation. No source = no number.
+
+**BROADENED (author, same day):** not just numbers — do not guess ANYTHING that isn't already
+obvious. Facts (what he did, when, what he meant, what's in unread files) get sources or get
+asked. Interpretation of his pages/craft remains the job — argued from evidence, never from
+assumption.
