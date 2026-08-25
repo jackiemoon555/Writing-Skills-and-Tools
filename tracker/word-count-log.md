@@ -300,3 +300,9 @@ only. Do not report % complete or a finish-length again.
   showing dissociation from outside, CHUCK ISSUES THE PARTY INVITATION ("Rob's house
   tonight." I winked.), ends on the Vlad-overlay spar (punches = tears). Snapshot
   `manuscripts/the-champ-d2_ch4-v2_2026-08-24.txt`. Third consecutive clean-past page.
+- **Ch5 v2 drafted (chat paste, 644w): THE PARTY** — club night, Rob's section, restroom
+  vial beat (Johnny origin, gesture-not-pitch), drunk phone-signing of the UFC contract,
+  ends on the dance-floor blur. First scene-sustain test. Snapshot
+  `manuscripts/the-champ-d2_ch5-v2_2026-08-24.txt` (MD5 FC76EF94EEA601B9BCC4D5B68AED10E2).
+  Checker silent: `reports/the-champ-d2_ch5_checker_2026-08-24.md` (32 findings, parked).
+  Read in chat.

@@ -1920,3 +1920,76 @@ his call, not prescribed).
   flat response; Thump-silent by design if author uses the option). Party-as-last-resort =
   the driven fall. Ch3 punch list before line pass: load the timeline clock (third carrier),
   decide "He giggled," decide shared "champ" (Coach=you vs Rob=product — claim or split).
+
+## RULINGS + READ (author, 2026-08-24 — session 2) — CH5 v2 THE PARTY; DOCKING MAP UPDATED
+- **RULING — Ch5 signing SPENT ON PURPOSE:** the club signing = **the eight-fight UFC deal**,
+  signed blackout-drunk on Rob's phone (Rob's predation on the page). Deliberate, canon.
+- **RULING — DOCKING MAP (supersedes the 08-24 morning plan):** **Ch6 = VLAD INTERLUDE**
+  (replaces the locker-room slot; old Ch6's eight-fight-deal content is redundant now) →
+  **Ch7 = fight signing, unchanged** (tune-up vs the FACELESS fighter) → **the banked
+  locker-room scene docks AFTER Ch7** as part of the lead-up to that fight (its "first day
+  back" line fix still owed when it lands).
+- **CH5 v2 READ (644w snapshot `manuscripts/the-champ-d2_ch5-v2_2026-08-24.txt`, checker
+  parked at `reports/the-champ-d2_ch5_checker_2026-08-24.md`):**
+  - **Scene-sustain test: PASSED** — middle holds moment-to-moment; no told-time collapse.
+  - **Top item: final line explains the show** — "I kept dancing, hoping to feel. Trying to
+    feel." names the theme after the montage already showed it (contract shrug = the proof).
+    Rebuild the close to survive the cut. (Standing craft focus, rule 6.)
+  - **Johnny origin: LANDED as gesture** — vial residue, door closed, "just gotta use the
+    restroom"; Chuck never registers it; Ch4 wink not underlined. Leave alone.
+  - **Repetition class named once (active recall):** "welcomed my sweaty ass, welcoming the
+    cool" — at least one more same-class double on the page = HIS find.
+  - **Corny check (his call):** "Even a broken clock's right twice a day" — stock phrase at
+    the chapter's one honest beat.
+  - Note: guard greets them "Mr. Miles, Mr. Keller" — if Keller = John's surname, that's new
+    canon (confirm when convenient).
+  - **Corny check RESOLVED (author, 2026-08-24):** broken-clock cliché replaced with a
+    broken-proverb line ("sometimes you win, sometimes he beats the fuck out you") —
+    wind-up and unanswered-punch dodge both deliberate.
+  - **RULING (author, 2026-08-24): John's persona BUILDS THROUGHOUT the novella** — no single
+    reveal scene; the post-origin recolor of old Ch7+ serves this (each beat small, the reader
+    assembles it). **CANON: John's surname = KELLER** (Ch5 guard greeting confirmed).
+  - **RULINGS (author, 2026-08-24) — MOTIF SYSTEM, verified against the page:**
+    - **Satellite law (audit decision #5 CLOSED):** interlude motifs are POV-bound one-offs BY
+      DESIGN — one instrument per interlude, never following the character out. Flash absent at
+      the Ch41 presser and Thud absent at Nicole's Ch43 arrival = CORRECT, not gaps.
+    - **Interlude 3 motif = THE NAME:** "Rob Fuckin Banks" run as a counted ladder (×1→×2→×3→×4,
+      direction-law compliant) with the wife's "Robert" as the inversion beat, closing "Rob
+      Fuckin Banks after all." Audit blind spot corrected (it only counted percussion) — no gap.
+    - **Vlad interlude = the ONLY motif-less section.** Silence = no pulse = meaning, not just
+      the standing guardrail. Singularity depends on every other interlude keeping its instrument.
+    - **Rob unified (author):** Rob replaces feeling with money — his name (money as identity),
+      his watch (deliberate mirror; Chuck claiming THE WATCH at peak persona = inheriting Rob's
+      answer). Watch = motif-audit decision #7: ONE-LAW SENTENCE OWED (his to write) unifying
+      "mask's crest" + "feeling→money."
+    - **Ch5 close reworked (author):** last line CUT; "spinning, falling" → "I fell into the
+      neon lights" ("fell" over "embraced" — driven fall, not chosen). Open checks his: noun
+      double in the new close; fell-rhyme with the restroom fall (claim or vary). Repetition
+      finds: both fixed on his word ("welcomed/welcoming" cut; music/body double fixed) —
+      verify at next Doc pull.
+  - **RULING (author, 2026-08-24): D2 CHAPTER RENAMING as he works.** The new Vlad interlude
+    (planned Ch6) is titled "INTERLUDE 3" in the D2 Doc. Collision: Draft-1 "Interlude 3" =
+    the ROB interlude — all references in this ledger dated before 2026-08-24 use OLD
+    numbering. Disambiguate interludes by CHARACTER, not number, until renumbering settles.
+  - **CANON (author, 2026-08-24 night) — NICOLE'S TRAGEDY = REPETITION.** She genuinely tried
+    with rising-star Chuck (Ch3 v3 must show the trying); he self-destructs; she takes comfort
+    in JOHN while he's still the good man (comfort, NOT champ-chasing); John falls too; she
+    catches herself playing the trophy wife her mother warned her about. **Epilogue wedding =
+    STILL A STRANGER** — now the exit from the pattern, not just a cut-scope ruling. Completes
+    the numbness economy: Rob=money, Chuck=persona/watch, Vlad=drowning, Nicole=the part.
+    Feeds: Interlude 2 (Nicole) rework, John persona-build (he inherits Chuck's life shape,
+    Nicole included), Ch3 v3 (bender-through-room + her trying). **OPEN:** mother's-words
+    content + placement; where Nicole-with-John is shown on the page; whether Nicole–John is
+    OVER before the Chuck–John superfight (live triangle at the climax would make the fight
+    read as jealousy drama — timing ruling owed when the back half is built).
+  - **CH3 V3 DIRECTION (author, 2026-08-24 night):** intent = a PEEK INSIDE THE BENDER one week
+    in + Nicole shown TRYING. Fix class = bender-through-room: the wreckage visible in the
+    apartment/body around the existing one-beat (character-through-room, his logged win) — NOT
+    a new scene, NOT length for its own sake. Punch list (clock carrier / "giggled" / shared
+    "champ") rides the same visit.
+  - **CORRECTION (Claude error, same night):** the previous entry said "Chuck–John superfight"
+    — WRONG, stale architecture. Settled canon: John fight DEAD; the climax = JOHN vs VLAD
+    with Chuck in John's corner. The OPEN timing question re-scoped: Nicole is plausibly WITH
+    John at his Vlad fight (Ch43 backstage: her private goodbye to Chuck, "Nicole bolted"),
+    which FITS the trophy-wife phase — the ruling owed is only when she leaves John (before
+    the epilogue's stranger wedding), not a triangle-at-the-climax problem.

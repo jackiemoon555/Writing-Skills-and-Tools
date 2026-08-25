@@ -15,7 +15,43 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > backstage break chapter; epilogue closes on "C-c-charles."). Precise total pending the Doc
 > getting the full text + an MD5 export. **PR #7 is superseded by this merge — close it at handoff.**
 
-> ## NEXT SESSION — START HERE (updated 2026-08-24) — REVISION DAY 3; Ch5 THE PARTY IS NEXT
+> ## ⚠️ NUMBERING NOTE (author, 2026-08-24 session 2) — D2 CHAPTER RENAMING IN PROGRESS
+> The author is RENAMING chapters as he rewrites. First: the planned Ch6 (the NEW Vlad
+> interlude) is titled **"Interlude 3"** in the D2 Doc. That COLLIDES with Draft-1 numbering,
+> where Interlude 3 = the ROB interlude — every ledger/audit reference dated before 2026-08-24
+> uses the OLD numbering. **Disambiguate interludes by CHARACTER (John / Nicole / Rob / Dan /
+> Vlad), never by number**, until the renumbering settles. More renames will follow as he works.
+>
+> ## NEXT SESSION — START HERE (updated 2026-08-24 NIGHT, session 2) — VLAD INTERLUDE FIRST; + STALE-CONTENT TOOL
+> **SESSION 2 CLOSED 2026-08-24 night, merged to main. THE CONTRACT stays in force** (ask-first;
+> full text in the block below + memory).
+> **Ch5 v2 DONE — drafted, read, and fixed same day** (644w, snapshot
+> `manuscripts/the-champ-d2_ch5-v2_2026-08-24.txt`): scene-sustain test PASSED; telling close CUT
+> and rebuilt ("I fell into the neon lights" — fell over embraced, driven fall); broken-proverb
+> line replaced the broken-clock cliché; two repetition doubles fixed on his word — **VERIFY all
+> Ch5 fixes at the next Doc pull**; his two self-checks still open (noun double in the new close;
+> fell-rhyme with the restroom fall — claim or vary).
+> **NEXT PAGE = the VLAD INTERLUDE** (titled **"Interlude 3"** in the Doc — see numbering note
+> above): **3rd person PRESENT, NO motif of any kind** — silence = no pulse; the verified system:
+> John=Flash, Nicole=Thud, Rob=the NAME-ladder ("Rob Fuckin Banks" ×1→×4), Dan=Ding, Vlad=nothing.
+> Then **Ch3 v3** (intent = peek-inside-bender one week in: bender-through-ROOM around the existing
+> one-beat + Nicole shown TRYING; punch list rides the same visit).
+> **NEW CANON tonight (all in the ledger):** Nicole's tragedy = REPETITION (tried with Chuck →
+> comfort in still-good John → trophy-wife realization, mother's words OPEN; epilogue wedding
+> STILL a stranger; when-she-leaves-John OPEN — Ch43 "bolted" may be it). John's persona BUILDS
+> throughout; surname = KELLER. Rob: watch deliberate (feeling→money), name = his motif; watch =
+> motif-audit decision #7 (one-law sentence owed). Docking: Ch5 spent the eight-fight signing ON
+> PURPOSE; Ch7 signing unchanged; banked locker-room scene docks AFTER Ch7.
+> **⚠️ CLAUDE ERROR TONIGHT (cautionary tale):** wrote a "Chuck–John superfight" into the ledger —
+> a stale-architecture ghost (John fight = DEAD, ruled long ago; climax = JOHN vs VLAD, Chuck
+> cornering). Corrected same night. **Check settled rulings before writing records.**
+> **🛠 TOMORROW'S TOOL TASK (author, 2026-08-24 night): a stale-content finder** — a tool that
+> flags STALE/SUPERSEDED material in the repo's md files (the class that caused tonight's error)
+> and helps clean them. Process: Fable writes the spec → **Sonnet subagent codes** (standing
+> memory rule) → cross-vendor review OFFERED per rule 8. Related: `docs/MEMORY_SYSTEM.md`
+> backlog #4 (compact this handoff — split live STATE vs frozen ARCHIVE).
+>
+> ## NEXT SESSION — PREVIOUS (24th morning) — REVISION DAY 3; Ch5 THE PARTY WAS NEXT
 > **SESSION CLOSED 2026-08-24, merged to main.** Everything through the contract amendments is
 > in. Old session branches deleted; the stranded-branch class of failure is structurally closed
 > (per-session branch → squash-merge at handoff, verified each close).
