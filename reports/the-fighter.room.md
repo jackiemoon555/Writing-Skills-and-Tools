@@ -2117,3 +2117,8 @@ his call, not prescribed).
     (clean, incl. "My heart stopped." now on the page); glove beat actors fixed per canon.
     **Editor STYLE SHEET built: `docs/the-champ_style-sheet.md`** (protected voice, motif
     laws, tense architecture, canon spellings) — ships with every editor contact.
+  - **CLAIMED DEVICES (author, 2026-08-27 home session) — INTERLUDE 2 partial (511w intake):**
+    (1) **"Here with us today" ×2** = the TV-intro echo, deliberate. (2) **"designer outfit" ×2**
+    (John on screen → the drunk man outside the club) = the recognition device — the reader
+    identifies John by the outfit before Nicole confirms. Both claimed; do not re-flag while the
+    quotes still match. (Interlude UNFINISHED at intake — no completeness findings recorded.)
