@@ -16,13 +16,41 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > getting the full text + an MD5 export. **PR #7 is superseded by this merge — close it at handoff.**
 
 > ## ⚠️ NUMBERING NOTE (author, 2026-08-24 session 2) — D2 CHAPTER RENAMING IN PROGRESS
-> The author is RENAMING chapters as he rewrites. First: the planned Ch6 (the NEW Vlad
-> interlude) is titled **"Interlude 3"** in the D2 Doc. That COLLIDES with Draft-1 numbering,
-> where Interlude 3 = the ROB interlude — every ledger/audit reference dated before 2026-08-24
-> uses the OLD numbering. **Disambiguate interludes by CHARACTER (John / Nicole / Rob / Dan /
-> Vlad), never by number**, until the renumbering settles. More renames will follow as he works.
+> The author is RENAMING chapters as he rewrites. **RULING UPDATED 2026-08-25: Draft 2
+> renumbers the interludes FROM SCRATCH in D2 order — the VLAD interlude = "INTERLUDE 1",
+> occupying the chapter-6 slot** (supersedes the 08-24 "Interlude 3" title note). D1 interlude
+> numbers (1=John, 2=Nicole, 3=Rob, 4=Dan) are RETIRED for D2; every ledger/audit reference
+> dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
+> (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## NEXT SESSION — START HERE (updated 2026-08-24 NIGHT, session 2) — VLAD INTERLUDE FIRST; + STALE-CONTENT TOOL
+> ## NEXT SESSION — START HERE (updated 2026-08-27) — THE 3-CHAPTER BLOCK: Ch7 LOCKER ROOM → Ch8 PRESSER → Ch9 FACELESS FIGHT
+> **SESSION 2026-08-25/26 CLOSED, merged to main. THE CONTRACT stays in force (ask-first).**
+> **D2 state: Prologue + Ch1–6 + Vlad Interlude 1 all done.** Vlad interlude CLOSED (present
+> tense, 298w, plant standing: he'll train the kids, hidden from Sophia; payoff scene designed
+> = 2-year-timeskip gym from take-1 leftovers, ends on the kids). Ch6 (Rodriguez signing, 513w)
+> READ CLEAN — one edit owed in the Doc: last line = "Drinks are on you." Author fixes at home.
+> **NEXT = the 3-chapter block (author, writing 2026-08-27):**
+> - **Ch7 = banked locker-room scene** (fit, not rewrite). Riders: wallet joke, Johnny ex-cop
+>   tic, "last night" time anchor, restroom-rhyme claim/vary, and the COACH RULING this scene
+>   decides (stoic doorway = complicit, or change the beat).
+> - **Ch8 = press conference** (new; prologue is also a presser — the echo is deliberate).
+> - **Ch9 = THE FACELESS FIGHT — Chuck LOSES** (the "faceless second loss"; detonates
+>   expulsion→eviction→DUI). Thump design RULED: ramp DOWN (false settling) → motivated turn →
+>   ramp UP (body overrides the lie); Ch1 down-into-loss echo claimed; KO end-point open.
+>   Rodriguez stays faceless through the violence. Past tense. Watch the box-score habit.
+> **WATCH ARC now canon** (seed file `manuscripts/the-champ-d2_seed_watch-arc_2026-08-26.txt`):
+> the golden Rolex = Rob's gift FOR MAKING IT TO THE UFC (pre-book; the prologue's claimed
+> watch = same object; persona Rob-funded from day one) → Rob's drop line ("Keep the watch,
+> it's the least I could do") → Chuck's refusal return ("take your fucking watch back").
+> OPEN: why it's never pawned through eviction (must be a choice on the page).
+> Also this session: rule 9 workflow corrected (fluid pads, Doc = only constant) + PRECEDENCE
+> RULE added; room cross-vendor teardown reconciled (tool session RE-SCOPED — see block below);
+> Five Families Reedsy bible captured to the world bible (flags open); "A Moment in Time"
+> archived (Reedsy byline = real name, FLAGGED, his call); signature-devices memory reframed
+> (observed, never prescribed); "Ya sure, whatever" = Chuck's claimed signing signature;
+> ribs = phantom pain (protect Ch3's "no pain" line through v3).
+>
+> ## NEXT SESSION — PREVIOUS (24th night) — VLAD INTERLUDE FIRST; + STALE-CONTENT TOOL
 > **SESSION 2 CLOSED 2026-08-24 night, merged to main. THE CONTRACT stays in force** (ask-first;
 > full text in the block below + memory).
 > **Ch5 v2 DONE — drafted, read, and fixed same day** (644w, snapshot
@@ -45,11 +73,23 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **⚠️ CLAUDE ERROR TONIGHT (cautionary tale):** wrote a "Chuck–John superfight" into the ledger —
 > a stale-architecture ghost (John fight = DEAD, ruled long ago; climax = JOHN vs VLAD, Chuck
 > cornering). Corrected same night. **Check settled rulings before writing records.**
-> **🛠 TOMORROW'S TOOL TASK (author, 2026-08-24 night): a stale-content finder** — a tool that
-> flags STALE/SUPERSEDED material in the repo's md files (the class that caused tonight's error)
-> and helps clean them. Process: Fable writes the spec → **Sonnet subagent codes** (standing
-> memory rule) → cross-vendor review OFFERED per rule 8. Related: `docs/MEMORY_SYSTEM.md`
-> backlog #4 (compact this handoff — split live STATE vs frozen ARCHIVE).
+> **🛠 TOOL SESSION — RE-SCOPED 2026-08-25 (cross-vendor teardown of the room, GPT+Gemini
+> consensus; reports + reconcile in `reports/the-room_thirdparty_2026-08-25.md`):**
+> The original "stale-content finder" is DEMOTED (both vendors: symptom, not disease — build it
+> only if drift recurs after the fixes below). The session's scope is now, in order:
+> 1. **RECORD COMPACTION** — split live STATE vs frozen ARCHIVE in this handoff and the room
+>    ledger (= MEMORY_SYSTEM backlog #4), under the new precedence rule (WORKING_RULES rule 9:
+>    manuscript > author decision > ledger > AI inference).
+> 2. **AUTO-DIFF VERIFY AT INTAKE** — each new snapshot diffs against the previous: confirms
+>    claimed fixes actually landed, flags changes that introduce new instances of known defect
+>    classes.
+> 3. **IMPLICIT CALIBRATION** — from those diffs, auto-track which flagged notes got acted on
+>    (changed = landed, untouched = noise); replaces the manual which-notes-landed log.
+> 4. OPTIONAL (split verdict, author's call at build time): scripted per-chapter motif counts.
+> Process unchanged: Fable specs → **Sonnet subagent codes** → cross-vendor review offered.
+> **REJECTED (author, 2026-08-25, do not re-raise):** AI-free self-diagnosis at milestones —
+> "the whole point is so I get outside views, not my own." Meta-work law adopted: build nothing
+> without a demonstrated recurring failure it solves.
 >
 > ## NEXT SESSION — PREVIOUS (24th morning) — REVISION DAY 3; Ch5 THE PARTY WAS NEXT
 > **SESSION CLOSED 2026-08-24, merged to main.** Everything through the contract amendments is

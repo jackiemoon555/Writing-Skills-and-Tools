@@ -71,9 +71,11 @@ never block work waiting on the paste; trivial edits skip it. Author can widen t
 tighten any time.
 
 ## 9. Intake + logging (every upload)
-**Google Docs is the live master for every manuscript (author, 2026-08-18)** — he drafts in Apple Notes on
-the phone, pastes to chat, pastes into the Doc, verifies at night; read the Doc live via the Drive
-connector (no docx exports). Snapshot to `manuscripts/` (verbatim), MD5 + word count into
+**Google Docs is the live master for every manuscript (author, 2026-08-18)** — his workflow is FLUID
+(author correction, 2026-08-25): he drafts across phone, PC, laptop, and whatever pad work allows
+(most of D1 = Reedsy's editor at work) — "the only constant is the master Google Doc, everything
+else is just a pad"; words land in the Doc and get verified nightly. Read the Doc live via the
+Drive connector (no docx exports). Snapshot to `manuscripts/` (verbatim), MD5 + word count into
 `tracker/word-count-log.md`, run the checker (report only — never surfaced mid-draft), read per rule 3,
 log findings in the piece's room ledger (append-only; rulings never re-flagged while the quote still
 matches). Commit + push each session, then open the draft PR. **Merge at handoff (author-authorized
@@ -84,7 +86,10 @@ unfinished/broken work, or a red required check — stop and flag it in ONE line
 `git config` myself — flag it.) **Also at handoff (2026-08-22):** refresh the auto-memory backup —
 copy `…\.claude\projects\D--Claude-Writing\memory\*.md` → `docs/auto-memory-backup/` and commit, so
 the one memory layer that lives outside git stays mirrored (that folder is a BACKUP; the live copy
-is the namespace — never edit the mirror).
+is the namespace — never edit the mirror). **Precedence when records disagree (adopted 2026-08-25,
+cross-vendor consensus): current manuscript > explicit author decision > canon ledger > AI
+inference.** A ledger entry never outranks the page or his stated ruling; anything Claude merely
+inferred ranks last and must be verified before it is written into a record.
 
 ## 10. Autodidact
 Reading recs and free-form exploration, not classes or curricula. Agreed reading: Browne & King

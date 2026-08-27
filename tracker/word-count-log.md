@@ -306,3 +306,15 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/the-champ-d2_ch5-v2_2026-08-24.txt` (MD5 FC76EF94EEA601B9BCC4D5B68AED10E2).
   Checker silent: `reports/the-champ-d2_ch5_checker_2026-08-24.md` (32 findings, parked).
   Read in chat.
+- **2026-08-25 — VLAD INTERLUDE take 2 (chat paste, 299w): D2 "INTERLUDE 1" (chapter-6 slot).**
+  Vlad comes home: kids, Sophia, the retirement argument, "A couple of more years and they'll
+  really get to know their father." Take 1 hit a block and was redone (take 1 not delivered).
+  Snapshot `manuscripts/the-champ-d2_interlude1-vlad_take2_2026-08-25.txt`
+  (MD5 416749CD2F0006816A7E7718BB45A3A7). Checker silent:
+  `reports/the-champ-d2_interlude1-vlad_checker_2026-08-25.md` (12 findings, parked). Read in chat.
+- **2026-08-26 — Ch6 v2 drafted (Reedsy docx upload): THE RODRIGUEZ SIGNING** — UFC offices,
+  Dave (president) + Rob dealmaking over a hungover Chuck; watch priced ("six digits");
+  Rodriguez chosen faceless off a profile sheet; Chuck signs without reading. Snapshot
+  `manuscripts/the-champ-d2_ch6-v2_2026-08-26.txt`. Checker silent:
+  `reports/the-champ-d2_ch6_checker_2026-08-26.md`. Read in chat. (Full-book Reedsy export
+  received; only the new Ch6 block intaken — D2 master remains the Google Doc.)

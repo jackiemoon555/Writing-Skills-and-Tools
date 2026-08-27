@@ -69,3 +69,16 @@ _(rows extended each week through Dec 28; ~19 total)_
 
 ## Placements / credits earned
 _(running list of any shortlists, wins, or publications — the résumé this whole project builds)_
+
+## ARCHIVE ENTRY (captured 2026-08-25): "A Moment in Time" — Reedsy comp, SUBMITTED (older work)
+Immortal-hermit intervention story (Jason, the bridge, Egypt vignettes, kindness-for-kindness).
+FINISHED AND SUBMITTED before capture — counts on the finishing record. Prompt: "Write about
+someone who has (or is given) the ability to teleport or time-travel," part of the Reedsy
+"Final Destination" contest. Tags Adventure/Fiction/Mystery; 5 likes, 0 comments as of
+2026-08-25. ⚠ Published under the REAL name (Reedsy display name ≠ Jack Moon) — flagged to
+author 2026-08-25; his call. Author's own verdict: "old and not my best work"
+— archived as the BEFORE-PHOTO yardstick: dense with the defect classes his current pages have
+shrunk (telling scatter, explain-twice ending, spent reveal, verbatim echoes). Chat read
+2026-08-25 (drafting menu; hardest first: sermon+coda double-explain, uncommitted bridge,
+front-loaded eyes). Snapshot: `manuscripts/a-moment-in-time_reedsy-SUBMITTED_archive_2026-08-25.txt`.
+Theme note: another cycle-break story — the compass holds.

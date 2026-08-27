@@ -321,3 +321,95 @@ every level.
    crew's mage? Decide deliberately; plant fair clues from Episode Two on.)
 5. Naming: the five families' world needs a series/world name for the catalog eventually
    ("Project Family" is the working label).
+
+---
+
+## REEDSY CAPTURE (2026-08-25) — verbatim transfer from the Reedsy world-bible cards
+*Transcribed from author screenshots (Reedsy has no export). Author notes as written — grammar
+untouched. CAPTURE ONLY, no development. "(copy)" duplicate cards skipped. Flags at the end.*
+
+### Setting entries
+
+**The Five Families (main note):** "The United States is run by five noble families. Together
+they run the country. Each family has a head that runs the businesses and family operations.
+Every ten years a king is selected from five candidates from each of the families."
+[COMPLETE — author confirmed 2026-08-25. The "Capella is a mineral-rich galaxy…" text below
+this note in the screenshot was a REEDSY UPGRADE AD, not author writing. Not canon.]
+
+**Five families Lineage:** "Each head of family is required to write a will upon ascending to
+head. Every five years they must update the will. The next in line to lead the family will one
+chosen by the previous head. They must be apart of the family and bear the families name for
+consideration. Marriages are generally arranged with selections staying between the five
+families. Marriages outside of the families are permitted but seen as taboo. In some instances
+marriage is kept within the family. Bastards are not considered family until the head formally
+inducts them. When inducted, they are considered full members of the family and are treated no
+differently from those born into the family. Must change their last name to be fully admitted."
+
+**King:** "The is always called the king regardless of gender. An election is held every 10 to
+select a new king, voted on by the heads. Each candidate will be from the five houses, even if
+that family already has a member on the throne. There are no term limits. When elected king,
+they can no longer contribute to or receive help from their family. They must always serve in
+the best interest of the country. The King sets the laws for the families and for the rest of
+the USA. A council has been invoked to check the King. The council consists for the five heads
+called the Elder Council. Any major changes or any changes that go against the founding
+commandments must be passed through the council. A king cannot act recklessly less the Council
+step. If the King is forced to step down by the council the punishment is execution."
+
+**Elder Council:** "Consists of the five heads of the families. The only power above the king.
+The King has no say in who is elected as head. The council serves solely to check the king. On
+certain occasion they are called in to exhibit their power."
+
+**The Agency:** "Group founded to opposed and unseat the five families"
+
+**New York City:** "Central city of Book One. The five families have their headquarters here.
+Each is based on its various businesses. The elder council also has a secret hideout located
+somewhere in the city. This location is used for their private meetings. The magical schools
+are located in the city, each school specialising in students based on their talents. Both
+mystical and non-magical. One large university encompasses all of the schools."
+
+### Characters (by family)
+
+**Kennedy:** George Kennedy — "Current head of the Kennedy family." Samuel Kennedy — "oldest
+son of George and heir to the Kennedy family." John Kennedy III — "Current King, in his fifth
+year." Hellen Kennedy — "Fourth child of George Senior at NYU." Erick Kennedy — "Fifth and
+sixth child of George Twins with Emily Junior at NYU." Emily Kennedy — "Fifth and sixth child
+of George Twins with Erick Junior at NYU."
+
+**Duke:** Rodger Duke — "Current head of the Duke family." Archibald Duke — "First son to
+Rodger Senior at NYU Heir to Duke."
+
+**Sinclair:** Charles Sinclair — "Current head of the Sinclair family." Mary Sinclair —
+"Charles wife Mother to William." William Sinclair — "Oldest Sinclair son, third child from
+Charles's wife." Johnny Sinclair — "Bastard of Charles, formally apart of the Sinclair family."
+Gertrude Sinclair — "Second daughter of Charles Junior at NYU." Elise Sinclair — "Senior at NYU
+first daughter of Charles and Mary." George Sinclair — "Brother to Charles Professor at NYU."
+
+**Roth:** John Roth Sr — "Current head of the Roth family Apart of the agency." Edward Roth —
+"Second son of John Roth Sophomore at NYU."
+
+**Usher:** Frederick Usher — "Current head of the Usher family." Sebastian Usher — "heir to the
+Usher family." Henry Usher — "Youngest child of Frederick Junior at NYU."
+
+**ArchMages:** Stephen Wright — "Dean of NYU, archmage, and opposition to the families."
+Silvia — [name-only card, no text]. Harold — [name-only card, text not captured if any].
+
+### Flags & gaps (rulings owed the author — none block; do not develop)
+1. **The Agency framing:** Reedsy = "founded to opposed and unseat the five families" vs bible
+   locked canon = state service that partly CHECKS the families (Stephen's line). Same entity
+   at two depths (public remit vs true founding purpose), or a re-decide? AUTHOR RULING OWED.
+2. **John Roth Sr is IN the Agency** — a family head inside the org founded to unseat the
+   families. Captured as written; huge if intended. Confirm.
+3. **King entry answers bible open question #1** (selection mechanism: heads vote, one
+   candidate per house, no term limits, 10-year cycle). CLOSE #1? Author confirm.
+4. **Stephen Wright** = presumably the bible's "Stephen" (Agency line). Card adds: Dean of
+   NYU + archmage. Note tension: archmages are canonically a transnational order above
+   national loyalty — an archmage leading opposition to the families is a deliberate
+   exception or a re-decide. Confirm same Stephen + intent.
+5. **Gaps in the capture:** Kennedy children #2–3 (no cards seen); Roth first son (Edward is
+   "second son"); Silvia + Harold empty cards. (Capella fragment RESOLVED — it was a Reedsy ad.)
+6. **AUTHOR CONFIRMED (2026-08-25): the capture is COMPLETE — this is as far as the Reedsy
+   bible got.** The holes above are not lost screenshots; they are UNWRITTEN (empty card =
+   he never came back to it). His resume list when he returns: place John Kennedy III +
+   create the remaining Kennedy child, create Roth's first son + name the Roth heir, fill
+   Silvia/Harold, and rule on flags 1–4. (The "Capella" line = a Reedsy upgrade ad, not his
+   writing — the Five Families main note is COMPLETE.)

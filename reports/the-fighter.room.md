@@ -1993,3 +1993,62 @@ his call, not prescribed).
     John at his Vlad fight (Ch43 backstage: her private goodbye to Chuck, "Nicole bolted"),
     which FITS the trophy-wife phase — the ruling owed is only when she leaves John (before
     the epilogue's stranger wedding), not a triangle-at-the-climax problem.
+  - **RULING (author, 2026-08-25) — D2 INTERLUDE RENUMBERING:** Draft 2 renumbers interludes
+    from scratch in D2 order. The VLAD interlude = **"INTERLUDE 1"** (chapter-6 slot);
+    supersedes the 08-24 "Interlude 3" title. D1 interlude numbers retired — refer by character.
+  - **VLAD INTERLUDE (D2 Int1) take-2 READ (299w, snapshot 2026-08-25):** scene WORKS — Vlad's
+    price (the life unlived) dramatized at home; last line = him deferring his kids in a
+    promissory note. **TOP ITEM, OPEN — TENSE:** page runs PAST; canon law says interludes =
+    3rd person PRESENT. One stranded present sentence ("The closer he is, the more he hears").
+    His call: convert the page or reopen the law — pending. **Motif silence HELD** (no
+    percussion; note the page recolors the silence: his pulse lives at home, deferred).
+    Tag-tell class named once ("She mocked her husband") — further instances = his find.
+    "Vlad could see his eyes" = muddled load-bearing beat (his eyes in his kids), his rebuild.
+    Last-line attribution floats — make it unmistakably Vlad's. Strength: "a new car or coat."
+
+## RULINGS ROLL-UP (author, 2026-08-25 evening + 2026-08-26) — VLAD INTERLUDE CLOSED; CH6 READ; DOCKING EXTENDED
+- **VLAD INTERLUDE (D2 Interlude 1) — CLOSED 2026-08-25.** Finished snapshot
+  `manuscripts/the-champ-d2_interlude1-vlad_v2-FINAL_2026-08-25.txt` (298w, present tense,
+  MD5 7EE673F18CD6E9584A0F1187DBF8C8E5); takes 1 (gym, abandoned) + 2 (past-tense draft) frozen
+  beside it. Rulings:
+  - "Eerily quiet" DELIBERATE — Vlad walks toward an anger he already knows is waiting.
+  - **Last-line INTENT: Vlad plans to TRAIN HIS KIDS into fighting (their wants assumed) — the
+    anti-Chuck answer to the cycle — and he HIDES it from Sophia.** The line stays innocent on
+    the page = a PLANT carrying a payoff debt.
+  - **PAYOFF SCENE DESIGNED: a second Vlad scene post-timeskip (TWO YEARS — the line detonates
+    on schedule)** built from take-1's frozen leftovers (circle/Anatoly/dog-pile), ENDING ON THE
+    KIDS at the gym. Placement TBD in the back-half restructure. Both Vlad scenes motif-silent.
+  - Melt-clause KEPT ("Sophia melts just like she always does") — carries the PATTERN (his charm
+    always works = love + management, double edge). OPEN, not canon: household religious depth
+    (not one-for-one with the model); what "hiding" means = Sophia's veto power, undefined.
+  - Craft: -ing trap named (participles are tenseless — watch the -ing reflex in present-tense
+    conversion); tense slips cluster in narration beats right after dialogue.
+- **CH6 v2 (the Rodriguez signing, 513w, 2026-08-26) — READ CLEAN.** Tense: past throughout,
+  zero present leaks. Close: dialogue, no explaining tell. Faceless-Rodriguez canon EXECUTED by
+  scene mechanics (chosen off a sheet, name shrugged, signed unread). Watch plant pays (Dave
+  prices Rob's wrist "well into six digits"). Rulings:
+  - Last line = **"Drinks are on you."** (typo fix owed in the Doc — his edit, at home).
+  - **"Ya sure, whatever" CLAIMED as Chuck's SIGNING SIGNATURE** — verbatim at both signings
+    (Ch5 phone, Ch6 contract); loaded if a third signing ever comes.
+  - **Ribs = PHANTOM/EMOTIONAL pain** — no physical injury; fight-talk triggers the body's
+    memory of the Vlad beating. SWEEP-PROTECT: Ch3's "No pain, it was finally getting better"
+    is now load-bearing twice (timeline clock + phantom-pain proof) — preserve through Ch3 v3.
+  - Everything else = line-pass debris, parked (checker report on file, 14 findings).
+- **DOCKING MAP EXTENDED (author, 2026-08-26):** **Ch7 = the banked locker-room scene**
+  (riders: re-anchor the "first day back" line to the moved timeline; Johnny post-origin recolor
+  applies) → **Ch8 = a press conference scene** (new; details his) → **Ch9 = the FACELESS
+  FIGHT** (D2's first fight scene — known hazard: biggest-scenes-fewest-words lived in D1's
+  fights; treatment of a meaningless fight = his call).
+  - **WATCH ARC BANKED (author, 2026-08-26)** — two seed fragments
+    (`manuscripts/the-champ-d2_seed_watch-arc_2026-08-26.txt`): Rob's DROP line ("Keep the
+    watch, it's the least I could do" — love spoken, then paid; severance in his only
+    currency) + Chuck's REFUSAL return ("take your fucking watch back... since they mean so
+    much to you" — the un-inheriting, audit decision #7 RESOLVED IN SCENE). **CANON: the
+    prologue's claimed watch = the same golden Rolex, Rob's gift PRE-BOOK — the persona was
+    Rob-funded from day one.** One object identity everywhere. OPEN: why it's never pawned
+    through eviction (must be a choice on the page). Also logged: **Ch9 Thump design** —
+    ramp DOWN (false settling, the mask in motif grammar) → motivated turn → ramp UP (the
+    body overriding the lie); Ch1 down-into-loss echo claimed; KO end-point open.
+  - **Watch canon addendum (author, 2026-08-26): the Rolex was Rob's gift to Chuck FOR MAKING
+    IT TO THE UFC** — given at the door of the machine. The crest of the mask = the prize for
+    entering; returning it (offer-refused scene) = handing back the entry fee.

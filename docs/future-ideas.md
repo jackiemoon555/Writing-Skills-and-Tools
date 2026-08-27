@@ -446,3 +446,15 @@ permanent; control is the enemy. CAPTURE ONLY — no development until author re
   the only reason they're still alive is because of their flaws." Inspirational-from-the-bottom
   is intended. Ensemble ruling: one thesis, four different ANSWERS (verified distinct) — any
   future character must answer differently or he's redundant.
+
+## Personal writing platform (vaulted 2026-08-25 — parked behind The Champ + the author site)
+Reedsy-replacement editor, solely his: chapter blocks, autosave, live word count against the
+daily floor. Motif counters = PER-PROJECT TOGGLE, off by default (not every
+story runs a motif system; the tool supports one without assuming it — author, 2026-08-25:
+signatures emerge from the writing, they don't get prescribed). Claude stays OUTSIDE the
+page: a "send to the room" button hands finished pages to a session for intake/reads — NO
+inline AI, no Notion-style text generation, no ghost-writing (contract enforced by
+architecture). The repo remains the back end (snapshots, logs, ledgers). Build lane = DeepSeek
+scaffolds from a Claude-written spec, own repo/session, same as the author-site plan.
+Cautionary precedent: "The Room cockpit dashboard" was parked for ADHD load — do not start
+this while any manuscript is live. Vault only; he initiates.
