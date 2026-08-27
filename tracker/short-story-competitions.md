@@ -82,3 +82,10 @@ shrunk (telling scatter, explain-twice ending, spent reveal, verbatim echoes). C
 2026-08-25 (drafting menu; hardest first: sermon+coda double-explain, uncommitted bridge,
 front-loaded eyes). Snapshot: `manuscripts/a-moment-in-time_reedsy-SUBMITTED_archive_2026-08-25.txt`.
 Theme note: another cycle-break story — the compass holds.
+
+## EDITOR HUNT — live clock (opened 2026-08-27)
+First batch of Reedsy briefs sent 2026-08-27 (copyedit+line, ~20-25k novella, Oct target).
+**Rule-14 window: no acceptance before 2026-09-01 or until all briefs answered.** Offer #1 in:
+Michael S., $475 flat, sports-fiction fit — ADVANCED to sample-edit round, pending his answers
+(line-editing included? proofread? dates? sample edit). All offers compare side-by-side in
+session when the window closes.

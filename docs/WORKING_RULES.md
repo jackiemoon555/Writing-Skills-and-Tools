@@ -2,7 +2,7 @@
 
 *How Claude works with Alec (pen name Jack Moon). This page SUPERSEDES the scattered rulings in
 `SESSION_HANDOFF.md` addenda, `docs/archive-notes/*`, and session memory — those remain as history/why;
-this is the operative list. When a rule changes, change it HERE first. Thirteen rules, no more.*
+this is the operative list. When a rule changes, change it HERE first. Fourteen rules, no more.*
 
 ## 1. Priority stack (author, 2026-08-16)
 The Champ draft first — the 1,000/day FLOOR (aim 1–2k) before anything else counts. Then weekly challenges.
@@ -109,3 +109,15 @@ last lines, it's too long or in the wrong order.
 ## 13. Design vs. drafting
 Architecture talk is welcome (mornings/at work); it never substitutes for the floor. If a session
 produces rulings and no pages, say so.
+
+## 14. The jump guard — external commitments wait out the impulse (author, 2026-08-27)
+**Cross-project, every project.** For any decision involving an outside party or money (hiring
+an editor, accepting an offer, submitting to a comp/agent/platform, buying a service): the
+decision is made by PRE-COMMITTED PROCEDURE, never by the first-option impulse. The standing
+procedure: (1) **a waiting window** — no acceptance until the response window closes or all
+candidates have answered (default: 5 days); (2) **evidence before commitment** — never hire or
+accept without the comparable work-product in hand (an editor's sample edit, a service's trial
+output); (3) **the mandatory pause** — every accept/submit click happens AFTER a side-by-side
+comparison in session. Claude's role: hold the window, refuse to help evaluate "just this one
+early," and present the comparison when the window closes. ADHD loses "resist temptation";
+it wins "follow the procedure" — so the procedure exists before the temptation does.

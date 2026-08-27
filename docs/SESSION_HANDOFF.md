@@ -23,7 +23,36 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## NEXT SESSION — START HERE (updated 2026-08-27) — THE 3-CHAPTER BLOCK: Ch7 LOCKER ROOM → Ch8 PRESSER → Ch9 FACELESS FIGHT
+> ## NEXT SESSION — START HERE (updated 2026-08-27 AFTERNOON, work-session close) — NICOLE'S BRIDGE INTERLUDE IS MID-DRAFT
+> **Work session 2026-08-27 CLOSED, merged to main. THE CONTRACT stays in force (ask-first).**
+> **⏳ LIVE RIGHT NOW: Nicole's interlude (THE BRIDGE) is ~500 words in, UNFINISHED, on his pad**
+> — he reports "tragic but much more human." FIRST JOB of the home session: receive + intake it
+> when he sends. Its spec (all ledgered): present tense, her Thud, set IN THE FUTURE (Johnny
+> era) — the reader crosses the two lost years inside HER life; must show her TRYING; reconcile
+> the two-trip departure; the bedside goodbye = CHUCK'S OWN BED post-beating (NOT hospital);
+> mother's words already exist in D1 ("Hurt them before they can hurt you").
+> **D2 state: Prologue–Ch9 + Vlad interlude DONE — the fall is drafted to the KO** (Ch7 locker
+> room 361w / Ch8 presser 179w / Ch9 faceless fight 276w, all read clean 08-27; panic attack =
+> canon, 2nd masked attack; lateness = claimed cockiness; KO cuts the Thump mid-rise; ends
+> "His name was Daniel Rodriguez.").
+> **THE MAP AHEAD (ledgered 08-27):** Int2 bridge → **Ch10 opens on the ESPN broadcast**
+> ("missing for two years" = the skip device) → the BOTTOM on-page (expulsion as a process →
+> eviction → DUI + dream echo; Rob-drop "keep the watch" fragment docks somewhere here) →
+> **rehab = 6-month skip** (SEAM-IN-THE-SKIP reading pending his confirm: past ends at the
+> door, PRESENT opens at release) → rebuild. **In the gap: JOHNNY BECOMES CHAMP.** John/Flash
+> interlude moves later in the book.
+> **🎯 EDITOR HUNT LIVE (rule 14 clock running):** first Reedsy briefs sent 08-27; **no
+> acceptance before Sept 1 or all briefs answered**; offer #1 (Michael S., $475 flat,
+> sports-fit) advanced to sample-edit round pending his answers (line incl.? proofread? dates?
+> sample edit). Sample = prologue+Ch1, line-cleaned + submitted; **style sheet built:
+> `docs/the-champ_style-sheet.md`**. October publish target (slides before the book rushes).
+> **NEW RULE 14 (cross-project): the jump guard** — outside-party/money decisions run on
+> pre-committed procedure (window / evidence / side-by-side pause). Hold the window.
+> **Sweep items new today:** Ch3 "shut the fuck (up) already" twin fix owed · panic
+> legible-now-vs-retro OPEN · **VERIFY the prologue+Ch1 sample fixes made it into the master
+> Doc** (they exist in the submitted snippet docx; the Doc must match — check at next pull).
+>
+> ## NEXT SESSION — PREVIOUS (27th morning) — THE 3-CHAPTER BLOCK: Ch7 LOCKER ROOM → Ch8 PRESSER → Ch9 FACELESS FIGHT
 > **SESSION 2026-08-25/26 CLOSED, merged to main. THE CONTRACT stays in force (ask-first).**
 > **D2 state: Prologue + Ch1–6 + Vlad Interlude 1 all done.** Vlad interlude CLOSED (present
 > tense, 298w, plant standing: he'll train the kids, hidden from Sophia; payoff scene designed

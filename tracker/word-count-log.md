@@ -318,3 +318,9 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/the-champ-d2_ch6-v2_2026-08-26.txt`. Checker silent:
   `reports/the-champ-d2_ch6_checker_2026-08-26.md`. Read in chat. (Full-book Reedsy export
   received; only the new Ch6 block intaken — D2 master remains the Google Doc.)
+- **2026-08-27 — THE 3-CHAPTER BLOCK (chat paste, 816w): Ch7 + Ch8 + Ch9 — the fall sequence
+  reaches the KO.** Ch7 locker room REWORKED not just fitted (361w, MD5 B666F44E58990179DAF636410862F48B);
+  Ch8 presser (179w, MD5 D8C3F1BB72BB3010F72857F316854F89); Ch9 THE FACELESS FIGHT (276w,
+  MD5 5AE1F99DF6AE2A9F6099441C3474290C) — Thump ramp-down 4→1, turn at the bell (4!), KO =
+  silence; closes "His name was Daniel Rodriguez." Checkers silent (19/15/13 findings, parked).
+  Read in chat.

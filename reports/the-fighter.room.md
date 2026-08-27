@@ -2052,3 +2052,68 @@ his call, not prescribed).
   - **Watch canon addendum (author, 2026-08-26): the Rolex was Rob's gift to Chuck FOR MAKING
     IT TO THE UFC** — given at the door of the machine. The crest of the mask = the prize for
     entering; returning it (offer-refused scene) = handing back the entry fee.
+  - **RULINGS (author, 2026-08-27) — THE 3-CHAPTER BLOCK (Ch7/8/9 read):**
+    - **Lateness = COCKINESS, CLAIMED** (McGregor presser model) — Ch7 practice + Ch8 presser;
+      any third instance stays inside the law (swagger, never sloppiness).
+    - **Announcer run-up = Chuck's showboat ritual** (Ian Garry inspiration) — Ch9 calls back
+      to Ch1's Vlad-fight instance, VERIFIED on the page ("I walked to him, taking my place
+      center stage"). Callback covered.
+    - **Ch9 KO = the SECOND MASKED PANIC ATTACK** (Ch4 = the first): crowd closes in → Thump
+      spike (4!) → blindness ("lost sight") → KO. Feeling returns unbidden as panic at the
+      worst moment — the numbness thesis inverted. **Thump = the condition's monitor.**
+      OPEN (his call): panic legible on first read vs. retroactively (e.g., named at rehab).
+    - **KO end-point ANSWERED: the count is CUT MID-RISE** — lights out, motif out.
+    - **Claimed echoes:** presser DIPTYCH (prologue outside / Ch8 inside the performance);
+      "drinks are on you" = Chuck-and-Rob's alternating ritual (Ch6 ↔ Ch8); glove-refusal
+      arc (Ch1 slap-away → Ch9 back-away); Ch1↔Ch9 walkout ladders (4→1 both, second one
+      breaks at the bell).
+    - Ch7 rework: Justin/wallet joke CUT (not fixed); ex-cop tic delivered; Johnny late in
+      club clothes + Chuck's misread wink = persona-build irony; "Wait till the number gets
+      attached to your name" = armor + prophecy, protect it. Coach doorway = staring
+      (complicit ruling held).
+    - Line-pass note from the Ch1 verify: the mid-page tense drift (staff→announcement block)
+      is LARGER than the recorded "two verbs" — the present-tense block runs ~lines 12–21;
+      sweep at the line pass. Pattern class: tense slips cluster at high-adrenaline beats.
+  - **DEEP-FALL MAP RULED (author, 2026-08-27) — TWO SKIPS:**
+    - Order: **Ch9 KO → INTERLUDE 2 (Nicole, hospital bedside goodbye — third/final departure)
+      → Ch10 OPENS ON THE TWO-YEAR SKIP** (device = the ESPN broadcast: "missing for two
+      years") → the BOTTOM on-page (the expulsion BEGINS — a process, Coach's stare becoming
+      words → eviction → DUI with the dream echo) → **REHAB = a 6-MONTH SKIP (off-page)** →
+      rebuild.
+    - **SEAM READING (pending author confirm): the tense seam fires INSIDE the rehab skip** —
+      last pre-seam page in past at the bottom/check-in door; six months of white space; next
+      page opens in PRESENT at release. Un-announced by design — the seam is the skip.
+    - **IN THE SKIPPED TWO YEARS: JOHNNY BECOMES THE CHAMP** (consistent with D1: "ole' Johnny
+      knocked him off"). Chuck wakes inside his stolen dream — arc, belt, and in time Nicole.
+      Champion Johnny still using in secret = the persona at maximum.
+    - Consequences flagged: the D1 "exactly two years today" rematch math BREAKS (total now
+      2yr + bottom + 6mo + rebuild) — comeback-era broadcast numbers need re-ruling; Vlad
+      payoff scene (kids at the gym, +2yr) docks naturally post-skip; Rob-drop fragment
+      ("Keep the watch") needs a dock — natural home = the on-page bottom, TBD.
+  - **PLANT CONFIRMED (author, 2026-08-27): Ch7 "So what's up with you and Nicole" = JOHNNY
+    ASKING FOR HIMSELF** — interest, not advice; the first flicker of Johnny-and-Nicole,
+    planted live while drafting. Chuck's answer doubles: armor + the prophecy ("wait till the
+    number gets attached to your name") delivered unknowingly to its true addressee.
+  - **CORRECTION (Claude inference error, caught by author 2026-08-27): the Interlude-2
+    goodbye is NOT a hospital bedside** — verified against D1: Chuck in HIS OWN BED, face
+    swollen post-beating, inside Nicole's memory-collage. "Hospital" was AI inference written
+    into the map — precedence-rule violation, corrected.
+  - **RULINGS (author, 2026-08-27) — INTERLUDE 2 = THE BRIDGE:** Nicole's interlude sits
+    between Ch9 (KO) and Ch10 (broadcast), PRESENT TENSE, set IN THE FUTURE (the Johnny era)
+    — the reader crosses the two lost years inside HER life (exits → Henry → Johnny's rise →
+    the mugshot on her TV); Ch10's broadcast then confirms the elapsed time. The interlude
+    system carrying the skip = its thesis (the world moving while he's gone). D2 rework of
+    Int2 still owed on the page: her TRYING, two-trip reconcile, Thud ladder, mother's words
+    (ALREADY IN D1 — "Hurt them before they can hurt you"; discovered on verify, the OPEN
+    mother's-words item is CLOSED: content exists, placement = Int2).
+  - **RULING (author, 2026-08-27): the JOHN/FLASH interlude MOVES LATER in the book** — slot
+    TBD (post-skip/champ era fits the persona-build). D2 interlude numbers stay fluid; refer
+    by CHARACTER per the standing rule.
+  - **SAMPLE-PREP PASS DONE (2026-08-27): prologue + Ch1 line-clean** (editor-sample; his
+    fixes, verified in chat, Doc-verify at next pull). Rulings: **Putin taunt CUT deliberately**
+    (forced-heel/Colby register ≠ Chuck's homegrown arrogance); "shut the fuck already" = TYPO
+    class (prologue fixed with "up"; **Ch3 twin owed the same fix**); "gone stop me" = voice,
+    protected; "finally" trimmed ×2, kept in reporter's mouth. Tense block converted to past
+    (clean, incl. "My heart stopped." now on the page); glove beat actors fixed per canon.
+    **Editor STYLE SHEET built: `docs/the-champ_style-sheet.md`** (protected voice, motif
+    laws, tense architecture, canon spellings) — ships with every editor contact.
