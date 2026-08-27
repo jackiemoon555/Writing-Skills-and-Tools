@@ -324,3 +324,13 @@ only. Do not report % complete or a finish-length again.
   MD5 5AE1F99DF6AE2A9F6099441C3474290C) — Thump ramp-down 4→1, turn at the bell (4!), KO =
   silence; closes "His name was Daniel Rodriguez." Checkers silent (19/15/13 findings, parked).
   Read in chat.
+- **2026-08-27 (home session) — INTERLUDE 2 (Nicole, the bridge) ⚠️ PARTIAL (chat paste, 511w
+  prose):** author hit his day cap mid-scene — **the ending does not exist yet; do not read or
+  log this as a finished interlude.** Mirror open → ESPN (champion Johnny Law) → Kim call →
+  club → Rob + drunk John outside ("pick up her friend") → car ride, Thud, the dad memory.
+  Snapshot `manuscripts/the-champ-d2_interlude2-nicole_PARTIAL_2026-08-27.txt`
+  (MD5 86CCACAA8F5A22CEC931ED2FB82A1F01). Checker silent:
+  `reports/the-champ-d2_interlude2-nicole_checker_2026-08-27.md` (33 findings, parked).
+  Read in chat (scoped to what's on the page; no missing-end notes per author instruction).
+  **Day total 08-27 = 816 + 511 = 1,327 — over the floor.** ✅ The finished interlude
+  supersedes this partial; recount then.
