@@ -339,3 +339,14 @@ only. Do not report % complete or a finish-length again.
   sheet), the word-processor idea (sized + re-shelved), and hitting the first D2 wall on
   Interlude 2 (diagnosis: the club night outgrew its share — the two-year crossing hasn't
   started; question handed to the pad). One zero after a 1,327; watch the next three.
+- **2026-08-29 — INTERLUDE 2 TAKE 3, DECLARED FINISHED (Google Doc "Interlude 2 take 3", 508w
+  prose):** full restructure off the wall diagnosis — Thud ladder 1→5 now IS the bridge (father
+  → the mold → Harold's wall-punch → drunk-Chuck 4am exit → present), club night cut to its
+  share, ends "Nicole stands there, blank faced." (ladder silent in the final scene). Author
+  tense-fix pass applied before intake. Day's words = **508** — ⚠️ under the 1,000 floor (the
+  take-1 511 were counted to 08-27; no double-count). Snapshot
+  `manuscripts/the-champ-d2_interlude2-nicole_take3_2026-08-29.txt`
+  (MD5 A283A21F54F835BCC5A4DFC5D2994579). Checker silent:
+  `reports/the-champ-d2_interlude2-nicole_take3_checker_2026-08-29.md` (21 findings, parked).
+  Read in chat (landing verdict: sticks via the Chuck-storm/Johnny-freeze contrast). Supersedes
+  the 08-27 PARTIAL. Rulings this read pending ledger log (author yes not yet given).
