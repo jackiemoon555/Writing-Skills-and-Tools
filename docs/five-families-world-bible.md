@@ -458,3 +458,17 @@ killing members doesn't kill the Spider. Common DNA the author is drawing from: 
 individually elite, institution-proof, hunting the powered — the dark mirror of the Wraiths
 (who are contract-bound and legal; the shadow org answers to no contract and no law — inference,
 unconfirmed). Membership, name, emblem, leadership: ALL UNDECIDED — do not invent.
+
+### Shadow org — first member design (author, 2026-08-29; capture only, ONE OPEN IDENTITY FLAG)
+**The crying mask:** a masked man — "kind of like a crying V for Vendetta" — but a **solid-color
+mask with a tear** (author: the solid color + tear is necessary). He is a **devout follower of
+his religion and REPENTS FOR HIS KILLS.** Register echo already in the ledger (untitled-fantasy
+room, author's own note): the no-turmoil assassin — "Szeth WITHOUT the inner turmoil; drama
+relocates from the soul to the CODE." This design fits that register if the repentance is RITUAL
+(the code demands it) rather than anguish — the mask carries the tear so the man doesn't. If the
+repentance is inner turmoil, it collides with the author's own register ruling — his call, by
+writing.
+⚠ **OPEN — IDENTITY (author's word required, do not resolve by inference):** is the crying-mask
+man (a) the EXISTING masked man of the manuscript (Lloyd's killer, the dark-magic herald who
+knows everyone's secrets), now folded into the shadow org — or (b) a SECOND masked figure, a
+distinct shadow-org member? Both readings change trilogy staging. UNDECIDED until he says.
