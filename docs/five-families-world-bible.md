@@ -413,3 +413,34 @@ Silvia — [name-only card, no text]. Harold — [name-only card, text not captu
    create the remaining Kennedy child, create Roth's first son + name the Roth heir, fill
    Silvia/Harold, and rule on flags 1–4. (The "Capella" line = a Reedsy upgrade ad, not his
    writing — the Five Families main note is COMPLETE.)
+
+---
+
+## CANON ADDENDUM — 2026-08-29 (author, home session; capture only — development stays parked behind The Champ)
+
+### Inspiration lineage named (author research, verified in-session)
+The Five Families = a cross between **old-money dynasties and crime families** — specifically the
+**Korean chaebol / old-money dynamic applied to America, with the families AS the government.**
+This sharpens existing canon rather than changing it: the legality fork (when the dynasty writes
+the law, "crime" is policy), the Wraiths as a *state instrument* (contract-bound, legal), and the
+port as the natural stage (chaebols are trade/export empires; the waterfront pact is their native
+terrain). Genre consequence: the conflict axis is not outlaws-vs-law (mafia) but *inside*
+(succession, marriage politics) and *below* (labor vs dynasty — the Longshoreman's lane; Joey at
+Harvard = the poor-kid-among-heirs position). Originality check that prompted the research:
+resolved — the combination is its own thing, and the real NYC Five Families are history, not IP.
+
+### THE MAIN CONFLICT — trilogy spine as of 2026-08-29 (author's words, layered secrets)
+1. **The Five Families have ANOTHER ARCHMAGE** — making them "super strong, ridiculously strong."
+   (⚠ same canon tension already flagged for Stephen: archmages are a transnational order above
+   national loyalty — a family-owned archmage is a deliberate exception or a re-decide. Author to
+   confirm when this project wakes.)
+2. **What the families don't know: CHARLES is planning to usurp them.** (Consistent with the
+   established third villain pole — Charles rots the families from within.)
+3. **What they don't know: STEPHEN wants to take their archmage and make him a NEUTRAL like
+   himself — change America.** (Note: Stephen's card reads "opposition to the families"; author
+   here frames him as *neutral* — capture both, author reconciles by writing.)
+4. **What NOBODY knows: something is lurking in the shadows, hunting them.** (Recorded exactly as
+   stated — identity deliberately unnamed; do NOT conflate with the masked man, the dark magi, or
+   the spymaster without the author's word.)
+
+The shelved spymaster-vs-Charles question remains SHELVED — nothing above answers it.
