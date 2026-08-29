@@ -486,3 +486,10 @@ distinct shadow-org member? Both readings change trilogy staging. UNDECIDED unti
   "Szeth without the inner turmoil" register note — real anguish is allowed in this world; the
   author settles his register by writing. (The older no-turmoil note remains in the fantasy
   ledger as history for whatever character it originally served; it is not a world law.)
+
+### REGISTER HOLD (author, 2026-08-29, same session — supersedes the register line above where
+they differ): **NO LABELS on the Five Families world yet** — the foundation is still being laid.
+Directional only: "it'll definitely be on the darker side." The per-book meta-law stands (The
+Champ's human/no-villains register does NOT apply here); but "has villains and inner turmoil"
+is a direction, not a locked register — nothing is locked until the author locks it. Do not
+build critique or canon on any Five Families register label until he declares one.

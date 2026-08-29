@@ -39,7 +39,9 @@ never supply the sentence. (Full rationale in `docs/PROJECT_CONTEXT.md`.)
 ## 4b. Craft rules are PER-BOOK — never ported (author, 2026-08-29; ranked with rule 4)
 **"Each book changes."** A register, law, or craft ruling belongs only to the book it was made
 for — never apply The Champ's rules (or any book's) to another project. Declared registers:
-The Champ is HUMAN — no villains; the Five Families world HAS villains and inner turmoil.
+The Champ is HUMAN — no villains. Five Families: NO LABELS YET (author, 2026-08-29 — foundation
+still being laid); direction only: "definitely on the darker side," villains and inner turmoil
+exist there in ways The Champ's rules don't cover.
 Before critiquing or capturing canon, check which book's rules are in force (that project's
 ledger/bible); if a register is undecided there, ask or leave it open — never inherit the
 answer from another book. Only the partnership rules (ask-first, no ghost-writing, the jump
