@@ -472,3 +472,17 @@ writing.
 man (a) the EXISTING masked man of the manuscript (Lloyd's killer, the dark-magic herald who
 knows everyone's secrets), now folded into the shadow org — or (b) a SECOND masked figure, a
 distinct shadow-org member? Both readings change trilogy staging. UNDECIDED until he says.
+
+### RULINGS (author, 2026-08-29) — identity flag RESOLVED + per-book rules meta-law
+- **RESOLVED: the crying-mask man and Lloyd's killer are DIFFERENT members of the SAME shadow
+  organization.** The org fields multiple masked members, killing off prominent members of the
+  families — "even secrets like Lloyd." (Natural implication, UNCONFIRMED until author's word:
+  the manuscript's open hook "who's killing royal mages" would belong to this org's activity —
+  do not write that into any record as fact until he says.)
+- **META-LAW (author, cross-project, 2026-08-29): craft rules are PER-BOOK — do not apply The
+  Champ's rules (or any book's rules) to another book. "Each book changes."** Stated registers:
+  **The Champ is human — there are no villains. The Five Families world HAS villains and inner
+  turmoil.** Consequence here: the crying-mask man's repentance is NOT constrained by the older
+  "Szeth without the inner turmoil" register note — real anguish is allowed in this world; the
+  author settles his register by writing. (The older no-turmoil note remains in the fantasy
+  ledger as history for whatever character it originally served; it is not a world law.)
