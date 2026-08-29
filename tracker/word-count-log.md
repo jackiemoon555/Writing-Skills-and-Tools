@@ -334,3 +334,8 @@ only. Do not report % complete or a finish-length again.
   Read in chat (scoped to what's on the page; no missing-end notes per author instruction).
   **Day total 08-27 = 816 + 511 = 1,327 — over the floor.** ✅ The finished interlude
   supersedes this partial; recount then.
+- **2026-08-28 — ZERO DAY.** ❌ No Champ words (author-confirmed 08-29). The day went to the
+  editor board (all 5 briefs answered — Michael offer read in full, Travis message + service
+  sheet), the word-processor idea (sized + re-shelved), and hitting the first D2 wall on
+  Interlude 2 (diagnosis: the club night outgrew its share — the two-year crossing hasn't
+  started; question handed to the pad). One zero after a 1,327; watch the next three.
