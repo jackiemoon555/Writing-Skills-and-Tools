@@ -2122,3 +2122,29 @@ his call, not prescribed).
     (John on screen → the drunk man outside the club) = the recognition device — the reader
     identifies John by the outfit before Nicole confirms. Both claimed; do not re-flag while the
     quotes still match. (Interlude UNFINISHED at intake — no completeness findings recorded.)
+  - **INTERLUDE 2 TAKE 3 = THE INTERLUDE OF RECORD (author declared FINISHED 2026-08-29;
+    snapshot `manuscripts/the-champ-d2_interlude2-nicole_take3_2026-08-29.txt`, 508w).**
+    Full restructure off the 08-28 wall diagnosis: the Thud ladder 1→5 IS the bridge (father's
+    exit → the online mold/"what men always desire" → Harold's wall-punch → drunk-Chuck 4am
+    "Enough is enough" exit → present-day curb); club night cut to one panel; closes "Nicole
+    stands there, blank faced."
+  - **RULINGS SUPERSEDED by take 3 (author, 2026-08-29 — manuscript > ledger, per precedence):**
+    (1) **Mother's-words placement CLOSED-CHANGED** — "Hurt them before they can hurt you" is
+    OUT of Int2; the crying-mother embrace + the parade of departing "fathers" carries the
+    damage instead (his reasoning: better shows what these men do; widely lived experience).
+    The D1 line is unhoused, available if it ever wants a seat elsewhere. (2) **Bedside
+    goodbye CLOSED-CHANGED** — the post-beating bedside goodbye is replaced by the 4am
+    drunk-Chuck exit, deliberately matched to the Ch2/Ch3 departure architecture.
+  - **CLAIMED DEVICES (author, 2026-08-29) — Int2 take 3:** "The memories rush back to Nicole"
+    = deliberate signpost so the jump into memory reads clean · "Nicole followed all the
+    beautiful girls" = her attention-hunger, stays (in whatever tense his fix pass rules) ·
+    the Chuck-STORM vs Johnny-FREEZE contrast = the landing mechanism, protect both poles in
+    revision · the ladder going SILENT for the final curb scene = arrival at now, deliberate ·
+    "my girl" = the girl of the night (the knife is aimed; confirmed) · blank-face close =
+    the canon verdict-face echo.
+  - **TENSE RULING (author, 2026-08-29): the interlude's present-tense law STANDS; "Nicole's
+    eyes ran wet" and "the clean cut lawman was all but dead" are CLAIMED OUTLIERS** — "keep
+    the rule, allow this to be the outlier." Do not re-flag those two lines while the quotes
+    match; the law still applies to everything else.
+  - **DOCKING NOTE (open, decide at Ch10):** Int2 now OPENS on a TV interview with champion
+    Johnny; Ch10 is specced to open on the ESPN broadcast — claim the echo or vary one.
