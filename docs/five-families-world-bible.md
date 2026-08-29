@@ -444,3 +444,17 @@ resolved — the combination is its own thing, and the real NYC Five Families ar
    the spymaster without the author's word.)
 
 The shelved spymaster-vs-Charles question remains SHELVED — nothing above answers it.
+
+### Shadow organization — inspiration DNA (author, 2026-08-29; capture only)
+The thing "lurking in the shadows hunting them" = a SHADOW ORGANIZATION. Author's named
+inspirations, both anime: **the Akatsuki** (Naruto) and **the Phantom Troupe** (Hunter x Hunter).
+Reference notes on what each model is known for (context for future sessions, NOT canon until
+the author writes it): Akatsuki = a small cell of rogue S-class elites — each individually
+legendary — systematically hunting the world's most powerful beings, operating in pairs, with
+branding/uniform and a hidden true master behind the visible leader. Phantom Troupe = a ~13-member
+outlaw troupe with numbered membership and a shared emblem, a charismatic leader, an internal
+code, and the "Spider" doctrine — the organization is the idea, any limb (member) is replaceable,
+killing members doesn't kill the Spider. Common DNA the author is drawing from: small roster,
+individually elite, institution-proof, hunting the powered — the dark mirror of the Wraiths
+(who are contract-bound and legal; the shadow org answers to no contract and no law — inference,
+unconfirmed). Membership, name, emblem, leadership: ALL UNDECIDED — do not invent.
