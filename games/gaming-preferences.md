@@ -240,3 +240,52 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
 ### Immersive-sim / "given a goal, choose your own approach" (Hitman-shape, PC — story-weighted per new filter)
 - Closest to his itch (unowned): **Deathloop** [top — "kill 8 targets one day," Hitman-meets-Dishonored, story-driven loop], **Dishonored 2 + Death of the Outsider** (owns D1 10.9h; the genre peak), **Prey (2017)**. Big sandbox: **MGSV**, Sniper Elite: Resistance (2025, but thin story = demote per new filter). Deep cuts / classics (age by mechanics): **Ctrl Alt Ego** (2022, possess-any-device, top deep cut), **Thief 1/2**, **Deus Ex 2000** (HR-bounce caveat — original more reactive). Recent 2024-26: **Skin Deep** (2025), **Fallen Aces** (~97%, noir), **Shadows of Doubt** (1.0 2024 — procedural DETECTIVE imm-sim, strong story+reactive fit), Thick as Thieves (2026, Spector, $5). OWNS in-genre: Hitman WoA → **Freelancer mode (FREE)** = the randomized sandbox-assassination campaign, top no-cost pick; Vampire: The Masquerade – Bloodlines (11.4h, finish w/ community patch). Upcoming: **007 First Light** (Mar 2026, IO Interactive, Hitman-style Bond), **Judas** (Ken Levine).
 - **CoG erotica question (2026-08-28):** Choice of Games main label = romance/fade-to-black, NO explicit erotica; Hosted Games = mature-but-capped by App Store rules. Explicit adult IF lives on itch.io / web hosts. For *Forgotten*: CoG not a publishing fit, but branching-choice structure is a craft reference.
+
+## Session 2026-08-30 — card-game draft, auto-battlers, strategy, immersive-sim corrections
+
+### THE SHARPEST FILTERS YET (apply to all card-game / auto-battler recs)
+- **Card ACQUISITION is the drag; DRAFT is the hook.** In card games he hates grinding/owning a collection — he loves **drafting a deck fresh from an offered pool each time.** This is the single cleanest predictor of his whole library: **StS (273h), Balatro, Backpack Battles all draft-fresh-each-run = loved; Marvel Snap base game + MTG Arena = collection grind = bounced.** He specifically loved **Marvel Snap's Draft mode** ("couldn't put it down until the tickets ran out"). → Recommend draft/limited/roguelike-draft, NOT constructed-from-collection.
+- **AUTO-BATTLERS are a proven COMPETITIVE lane.** Peaked **Diamond 3 in TFT, Set 3: Galaxies (spring 2020)** — the first space-themed set (he'd misremembered it as Set 4/5). Fav comp = **"Jhinguards"**: Mordekaiser + Jayce Vanguards front, **Jhin** 4-cost Starship carry backline. Regularly Plat/Emerald. So: draft + auto-battler + competitive-to-Diamond, since 2020 — a durable strength, not a phase.
+- **Portrait almost-exclusively on iPhone** (confirmed 2026-08-30) — weight portrait hard for any mobile rec.
+
+### Card games that STILL do DRAFT modes (verified 2026)
+- **Live PvP draft:** Hearthstone **Arena** + **The Underground** (roguelike redraft-on-loss = his taste); **MTG Arena** Draft/Sealed/**Cube** (Cube = phantom, pure draft); **Marvel Snap Draft** (recurring limited-time, ticket-refilling, back Aug 2026); **Eternal** Draft + **Forge** (most F2P-friendly, drafting also builds collection); **Shadowverse: Worlds Beyond** Take Two.
+- **DEAD/frozen — don't chase:** Legends of Runeterra **Expeditions** (removed 2022; PvP in maintenance; a "successor" only teased) — do NOT rely on LoR for draft; Storybook Brawl (dead), Chess Rush (dead), Hearthstone Mercenaries (mothballed), Gwent (frozen).
+- **Best for him:** Hearthstone **Battlegrounds** (zero collection, pure shop-draft every game, mobile) and **The Bazaar** (see below).
+
+### Auto-battler landscape (verified 2026)
+- **Direct TFT competitors (live):** **Hearthstone Battlegrounds** (#1 live alt, mobile, deep ladder); **Magic Chess: Go Go** (Moonton/MLBB — THE new challenger actually trying, mobile-native, 30M+ downloads in 2 wks, real esports scene); Auto Chess (niche, superseded). TFT itself = **Set 18 Enchanted Wilds** now (first UE set); **Set 17 was "Space Gods"** — his Galaxies theme came back around (reinstall nudge).
+- **Adjacent build-a-board:** **The Bazaar** (F2P now, high ceiling, mobile soon), **Mechabellum** (OWNS 1.2h — worth a real return, big-scale brain), **Legion TD 2** (OWNS — highest-rated competitive game on Steam), **Backpack Battles** (OWNS 67h), **Super Auto Pets** (best lightweight mobile, non-predatory).
+- **DEAD (one he owns):** **Dota Underlords** (OWNS 5.2h — abandoned by Valve since 2020, don't reinvest). Also dead: Chess Rush, Storybook Brawl, HS Mercenaries.
+- **⚠️ Backpack Brawl** (mobile, he has it) = DIFFERENT dev from Backpack Battles, **predatory monetization** — don't use for anything serious.
+- **Top new picks:** Hearthstone Battlegrounds (closest competitive climb), Magic Chess: Go Go (the real new challenger), Mechabellum (owns, underplayed).
+
+### The Bazaar — he plays & likes it but HITS A LATE-GAME WALL (derails runs)
+Coaching given: the wall is structural, not luck. Fixes, in impact order: (1) commit to ONE **scaling win-condition** by ~Day 3-4 (poison/burn/growing-weapon/crit — not "good stats, no growth"); (2) build a **defensive layer** (shield + heal/lifesteal + freeze/slow) to survive the Day-7+ ghost-board spike; (3) **econ only counts if it buys the wincon** before the spike; (4) respect **status counters** (poison/burn ignore shield); (5) **enchant + upgrade** the core item (the late multiplier). Offered current-patch tier lists once he names his main hero(es) — PENDING his answer.
+
+### WWII / grand-strategy / tactics he OWNS (from the 2026-08-16 snapshot — playtime = confirmed owned)
+- **Actual WWII:** Company of Heroes 2 (27.4h, top WWII pick), **Sudden Strike 4** (1.4h — WWII RTT, nearly unplayed, prime dive), **Valkyria Chronicles** (4.8h, WWII-alt turn-based tactics = his lane).
+- **Broader strategy flex:** Civ VI (124.8h), Age of Wonders 4 (26.2h — 4X + tactical battles), XCOM 2 (19.7h) + XCOM:EU (12h), **BATTLETECH (1.6h — ⭐ perfect legible-hard turn-based fit, barely touched, the one to load)**, Stellaris (13.1h), Total War: Warhammer II/Shogun 2 (real-time battles = why hours are low).
+
+### Deep strategy/tactics on iPhone in PORTRAIT (verified orientation, 2026)
+- Top: **The Battle of Polytopia** (deepest true 4X in portrait = his Civ itch one-handed), **Six Ages: Ride Like the Wind** (deepest grand-strategy-lite flex), **Kingturn Underworld RPG** (deepest portrait SRPG). Also: **Militia** (abstract tactics, but same lane as owned Auro/Hoplite), **Isle of Arrows**, **Really Bad Chess**, **Antiyoy** (free), **Rebel Inc** (governance). Portrait deckbuilders: **Star Realms** (deepest, PvP, no-collection draft-in-match), Beecarbonize (free climate-optimization), Card Crawl Adventure, Meteorfall: Krumit's Tale.
+- **Star Realms note:** deckbuilding DUEL where you draft your deck live from a shared trade row — **NO collection to acquire** = clears his #1 card-game hurdle. Async multiplayer (no shot clock, unlike Snap). Portrait UNCONFIRMED (app's vertical layout suggests yes; small text on iPhone; free to check). LANDSCAPE-only, don't try vertical: Civ VI/VII iOS, Wargroove 2, Dicey Dungeons.
+
+### Immersive-sim CORRECTIONS (verified 2026-08-30)
+- **007 First Light = RELEASED May 27, 2026** (I'd wrongly called it upcoming). IO Interactive's highest-rated game ever (Metacritic ~86-88). BUT reviews say **more linear/cinematic, steps AWAY from Hitman's sandbox freedom** → strong on the STORY side he loves, weaker on the "choose your approach" side. Real contender given his story-filter.
+- **Judas (Ken Levine) SLIPPED HARD** — reportedly ~2029 (Take-Two FY28/29), not 2026. Drop from near-term radar.
+- **Thick as Thieves / Styx: Blades of Greed** — Styx released Feb 19 2026 but **buggy (save-corrupting crashes) → wishlist, wait for patches**; Thick as Thieves status muddy, verify on Steam.
+- **Gloomwood** (EA, Overwhelmingly Positive, Hightown update Jan 2026) = deepest Thief-lane systemic stealth, stable now, but STORY-LIGHT (atmosphere over plot) — great sandbox itch, weak story itch.
+- Story-weighted ranking for him (Hitman-story filter): **Deathloop > Dishonored 2 > Prey > Shadows of Doubt** (detective+story+reactive); demote thin-story sandboxes (Sniper Elite, Skin Deep).
+- Non-canon deep cuts (his single-char lane): **Deadeye Deepfake Simulacrum** (98%, systemic top-down), **Filcher** (Thief purist), **Ereban: Shadow Legacy** (shadow-merge, has story). AVOID the Mimimi/Commandos RTwP squad-tactics tier (Shadow Gambit etc.) = his hard-no real-time party control (bounced Shadow Tactics 1.6h).
+
+### ⭐ Star Wars: Zero Company (RELEASED Aug 27, 2026) — bullseye
+Single-player **XCOM-like turn-based tactics** from **Bit Reactor (ex-Firaxis XCOM vets)**. His exact lane (turn-based, stakes-per-turn, squad tactics). **NOT on Xbox Game Pass** day one; day-one on **EA Play Pro (PC)**. Game Pass Ultimate → EA Play gives a **10-hour trial now**, full game to the EA Play vault later. One of the strongest fits found — try the trial immediately.
+
+### OWNERSHIP-ACCURACY CAVEAT (important for future recs)
+The library on file is the **2026-08-16 local snapshot** — Steam is unreadable from the remote env, and **his live wishlist is invisible.** Some "OWNS" claims this session were WRONG — especially **year-versioned editions** (owns Axis Football 2023 ≠ owns Axis 2026; same for Pro Basketball Manager) and mobile-shelf items that may be **wishlist, not library**. Only playtime-logged titles are confirmed-owned. **Before asserting ownership, hedge or ask for a fresh wishlist/library paste.**
+Deep unlicensed GM sims flagged (he wanted these): **Basketball GM** & **Football GM** (dumbmatter/ZenGM — FREE, browser, text = his exact lane, top picks); **Draft Day Sports: Pro Football/Basketball 2026** (paid depth). Confirmed-owned sports sims: FOF Nine (~50h), War Room Football, OOTP 26, Football Coach: College Dynasty, an Axis Football.
+
+### SESSION STATE / for a new session
+- This was a GAMING session (no writing pages). All gaming work now lives in `games/`. The Champ D2 revision + editor hunt are the WRITING lane — see `docs/SESSION_HANDOFF.md`, untouched here.
+- OPEN threads to pick up if he returns to games: (1) his Bazaar main hero(es) → pull current tier lists; (2) a fresh wishlist/library paste to fix the ownership gaps; (3) whether he tried any of the night's picks (Hearthstone Battlegrounds, The Bazaar, Star Wars: Zero Company trial, Basketball GM).
