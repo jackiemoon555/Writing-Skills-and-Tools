@@ -1,7 +1,7 @@
 # Alec — Gaming Preferences (logged 2026-08-16)
 
 For game recommendations AND as target-player reference for his own game designs
-(see `docs/heist-game-design.md` — he designs for his own player type).
+(see `games/heist-game-design.md` — he designs for his own player type).
 
 ## Identity / access
 - **Steam ID:** 76561198067381480 (wishlist link shared but UNREADABLE from Claude's
@@ -10,7 +10,7 @@ For game recommendations AND as target-player reference for his own game designs
   screenshots of Steam List view, or Ctrl+A/C the browser games page as text.**
 - **RESOLVED 2026-08-16:** library read directly from local Steam files on his PC
   (`D:\Steam` — localconfig.vdf playtimes + appinfo.vdf names). Full snapshot:
-  `docs/steam-library_2026-08-16.md` (games w/ hours + last-played). Findings below.
+  `games/steam-library_2026-08-16.md` (games w/ hours + last-played). Findings below.
 
 ## The profile
 - **League of Legends since launch (2009)** — 15+ years of one systems-deep competitive
@@ -111,7 +111,7 @@ For game recommendations AND as target-player reference for his own game designs
   Passes: StS, DD, StarVaders, Balatro, Invisible Inc (rationed rewinds, permadeath).
   Explains TBW bounce: unlimited free rewind = zero pressure. Buy candidate for this
   exact taste: Into the Breach. Heist-design implication: no free retry/rewind — rationed
-  at most (see "losing has real punishments" in docs/heist-game-design.md).
+  at most (see "losing has real punishments" in games/heist-game-design.md).
 - **"Pushed, not abused"** (author, 2026-08-16): high stakes are welcome ONLY with full
   information — the loss must be the player's own move (DOS2, StS intents, Into the
   Breach = perfect info). Abusive = hidden info / dice punishing you (XCOM 95% miss, DD

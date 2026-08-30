@@ -515,10 +515,10 @@ PR #2 was closed as superseded (all its commits were contained in PR #3).
   piracy logic (magic re-opens the frontier; Blackbeard-scale figures wanted); notes to
   future-me (brand needs teeth; a cult, no specifics). ONE SHELVED QUESTION: is the
   spymaster actually Charles? (Both positions logged; Alec will answer BY WRITING.)
-- **`docs/heist-game-design.md`** — NEW, full design ledger for a text-first mobile
+- **`games/heist-game-design.md`** — NEW, full design ledger for a text-first mobile
   heist game (DD-inspired: 3 meters, loud/stealth class split, setup-job windows,
   ledger-reading final job, NYC, comp stack). Vault only.
-- **`docs/game-ideas.md`** — NEW vault for game ideas (heist game + a Hitman-style
+- **`games/game-ideas.md`** — NEW vault for game ideas (heist game + a Hitman-style
   assassination game concept).
 - **`manuscripts/longshoreman-ep1-vinny_snapshot_2026-08-16.txt`** — NEW verbatim snapshot:
   **The Longshoreman Series Episode One ("Vinny")**, drafted 8/15 in a Google Doc
@@ -526,12 +526,12 @@ PR #2 was closed as superseded (all its commits were contained in PR #3).
   notes in `docs/future-ideas.md` (weekly-comic anthology, Wire-S2 + Sanderson + GRRM
   lineage, dad = the port's Frank Sobotka, **Vinny was KIDNAPPED — spine reveal
   pending**, possibly a Wraith retrieval contract).
-- **`docs/gaming-preferences.md`** — NEW: Alec's gaming tastes + standing rec queue.
+- **`games/gaming-preferences.md`** — NEW: Alec's gaming tastes + standing rec queue.
 
 ## Open items from this session
 1. **Steam library share pending** — Alec will paste library screenshots (Steam domains
    are egress-blocked from Claude's environment; he must paste images/text) for a
-   "play next" verdict against `docs/gaming-preferences.md`.
+   "play next" verdict against `games/gaming-preferences.md`.
 2. The shelved spymaster-vs-Charles question — do NOT reopen unless he does.
 3. All world-building remains VAULT — do not develop further unless Alec initiates.
 
@@ -546,8 +546,8 @@ PR #2 was closed as superseded (all its commits were contained in PR #3).
   from there get their own memory namespace (seeded with a pointer to this file). Loose older
   files remain in `D:\Claude\` root on purpose ("not everything can live in the repo").
 - **Steam library item RESOLVED** — read directly from local Steam files (no screenshots
-  needed). Snapshot: `docs/steam-library_2026-08-16.md`. Findings + a much sharper profile in
-  `docs/gaming-preferences.md` (revealed preference = run-based roguelike deckbuilders; turn-
+  needed). Snapshot: `games/steam-library_2026-08-16.md`. Findings + a much sharper profile in
+  `games/gaming-preferences.md` (revealed preference = run-based roguelike deckbuilders; turn-
   based tactical party combat = DOS2 benchmark; "pushed not abused" = full-information stakes;
   detective + management lanes; VN slog; single-character real-time worlds OK). Play-next
   verdict + research-play order for the heist design are in that doc.
