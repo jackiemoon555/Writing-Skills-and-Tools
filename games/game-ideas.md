@@ -42,7 +42,7 @@ narrative/prose carries the experience rather than graphics.
 
 **Design session (2026-08-16):** core loop, meters, classes, campaign spine, and setting
 were worked out in conversation — full decisions + open questions now live in
-`docs/heist-game-design.md` (the game's design ledger). Setting confirmed NYC (already
+`games/heist-game-design.md` (the game's design ledger). Setting confirmed NYC (already
 canon — NYU / Hall of Heirs).
 
 ## 2. Untitled assassination game — Hitman 2016, but magical (Five Families world)

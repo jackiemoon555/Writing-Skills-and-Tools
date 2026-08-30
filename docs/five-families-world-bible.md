@@ -11,7 +11,7 @@ ledger ARE the prepared world. Created 2026-08-16.
 2. **The Longshoreman Series** (episodic prose, active-ish) — vault entry in
    `docs/future-ideas.md`; Episode One: `manuscripts/the-longshoreman_snapshot_2026-08-16.txt`.
 3. **The piracy strand** (planned; longshoreman series = its land-side fill-in).
-4. **The heist game** (design-on-paper) — `docs/heist-game-design.md`.
+4. **The heist game** (design-on-paper) — `games/heist-game-design.md`.
 
 ## Canon rules (the guardrails)
 
