@@ -208,6 +208,15 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
   decisions = turn-shaped. **Risk:** "Story Rich, Lore-Rich, Text-Based" tags = potential wall-of-text
   problem. Wishlist and check first reviews when it drops.
 
+- **City Masterplan** (~2027, 1:1 Studio debut, UE5) — realistic 1:1-scale gridless city builder,
+  24×24km maps, simulated traffic/economy; PC Gamer: "first real competition Cities: Skylines has
+  seen in over a decade." Overpromise risk (debut studio, too-good trailer) — wishlist, wait for
+  gameplay. Also announced Gamescom 2026: **LEGO Skylines** (Paradox/Iceflake — same studio now
+  maintaining CS2; likely shallow, watch-and-wait) + **City State Metropolis** (trailer only).
+  CS2 status Aug 2026: real comeback under Iceflake (74% recent positive, performance fixed) but
+  he does NOT own it and it still doesn't "push" like CS1 (28.1h owned) — sale buy at most.
+  His push-me city itch today = **Frostpunk 2**, not a CS2 clone.
+
 ## Session 2026-08-28 — big genre sweep (survival, management/econ, immersive-sim) + sharp new filters
 
 ### NEW PREFERENCE FILTERS (the durable takeaways — apply to all future recs)
@@ -259,6 +268,44 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
 - **DEAD (one he owns):** **Dota Underlords** (OWNS 5.2h — abandoned by Valve since 2020, don't reinvest). Also dead: Chess Rush, Storybook Brawl, HS Mercenaries.
 - **⚠️ Backpack Brawl** (mobile, he has it) = DIFFERENT dev from Backpack Battles, **predatory monetization** — don't use for anything serious.
 - **Top new picks:** Hearthstone Battlegrounds (closest competitive climb), Magic Chess: Go Go (the real new challenger), Mechabellum (owns, underplayed).
+
+### ⚠️ THE LATE-GAME WALL IS CROSS-GAME (2026-08-30 evening, games thread) — not a Bazaar problem
+He reports the SAME wall in **Backpack Battles** (67h) as in The Bazaar: strong early/mid draft,
+runs die at the late-power inflection (BB ~round 10+, Bazaar day 7+ ghosts). Diagnosis: one draft
+habit — value-now over scaling-later; no committed win condition by mid-game (his StS mastery
+proves he CAN do it — the habit doesn't transfer unprompted). Coaching generalized: (1) name ONE
+scaling wincon by mid-game; (2) in BB, crafting = the scaling system — commit to a recipe line,
+an uncrafted board IS the wall; (3) sell early carries; (4) defense layer at the spike; (5) econ
+only counts if it buys the wincon pre-spike. Currency notes: The Bazaar = Season 17, now on Steam
+(app 1617400); Backpack Battles has a 5th class, **Engineer**, since 1.0 (June 2025).
+**RESOLVED 2026-08-30: he has NO main — plays every hero equally** (Bazaar preferred over BB).
+S17 per-hero build sheet delivered in-thread (Mobalytics Aug 14): Vanessa=Wetware, Pyg=Private
+Hot Springs (Double Whammy nerfed — HP caps 800), Dooley=Launcher/Weaponized Core, Mak=Eternal
+Torch (Day-1 commit — cleanest wincon-early build), Stelle=Ramming Balloon, Jules=Farmer's
+Market, Karnok=Outlands Terror, The Dragons (NEW S17 hero)=Superfan. 8 heroes total now.
+Patch notes for his wall: gold-shop rates improved day 9-10 (committed builds rewarded late);
+Scimitar of the Deep poison halved (not a wincon). AWAITING: his run reports (death day +
+did-he-have-an-engine) to tighten coaching.
+**Pivot coaching delivered 2026-08-30** (his named problem #2: when/how to pivot — late switches
+don't translate): engine power = stacks × rounds remaining, so pivots are MID-game moves; the
+Day-5 question ("does this kill a Day-9 ghost?" yes=commit forever / no+offer=pivot now while
+healthy / no+nothing=hero's fallback immediately); real pivot keeps ~60% of board (sell payoff,
+keep shell+defense); payoff swap ≠ pivot (same engine, different finisher = free); one pivot per
+run max; late game = deepen, never re-identity. Framed via his own TFT Diamond discipline.
+**COACHING MODE RULED (author, 2026-08-30): NO live coaching — post-run debriefs of decision
+points only.** Debrief inputs: death day + engine (or lack) + the decision he's second-guessing;
+board screenshot optional. (Mirrors his active-recall preference from revision.)
+**⚠️ ITEM-REFERENCE TOOLING (2026-08-30): bazaardb.gg CRASHES the desktop app — NEVER open it
+in the browser pane.** Use the Mobalytics Bazaar database instead
+(mobalytics.gg/the-bazaar/database/items-and-enchantments): search by name, filter hero/size,
+art thumbnails + full item text — proven working in-pane. thebazaar.wiki.gg works via WebFetch
+for text. Board-screenshot ID loop: he screenshots → describe art → search DB → confirm.
+**First full debrief done 2026-08-30 (Dooley run):** died to a committed Mak burn ghost. Root
+cause found: THREE split trigger economies (Pylon slows→ray-gun weapon; shields→Harmadillo
+[charges on SHIELD, not slow — he'd mixed the triggers]; loose damage bits) = three half-engines,
+none lethal. New rule coined: **one trigger economy per board** — every buy must create or cash
+the SAME trigger as the wincon. His econ/HP curve was fine (2220 HP, +8 income) — econ is not
+his problem, commitment is.
 
 ### The Bazaar — he plays & likes it but HITS A LATE-GAME WALL (derails runs)
 Coaching given: the wall is structural, not luck. Fixes, in impact order: (1) commit to ONE **scaling win-condition** by ~Day 3-4 (poison/burn/growing-weapon/crit — not "good stats, no growth"); (2) build a **defensive layer** (shield + heal/lifesteal + freeze/slow) to survive the Day-7+ ghost-board spike; (3) **econ only counts if it buys the wincon** before the spike; (4) respect **status counters** (poison/burn ignore shield); (5) **enchant + upgrade** the core item (the late multiplier). Offered current-patch tier lists once he names his main hero(es) — PENDING his answer.

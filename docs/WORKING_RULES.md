@@ -2,7 +2,8 @@
 
 *How Claude works with Alec (pen name Jack Moon). This page SUPERSEDES the scattered rulings in
 `SESSION_HANDOFF.md` addenda, `docs/archive-notes/*`, and session memory — those remain as history/why;
-this is the operative list. When a rule changes, change it HERE first. Fourteen rules, no more.*
+this is the operative list. When a rule changes, change it HERE first. Fifteen rules (4b added
+2026-08-29, numbered to keep 5–14's cross-references stable), no more.*
 
 ## 1. Priority stack (author, 2026-08-16)
 The Champ draft first — the 1,000/day FLOOR (aim 1–2k) before anything else counts. Then weekly challenges.
@@ -34,6 +35,21 @@ unless he hands over the whole manuscript. Never re-raise items already ruled or
 ## 4. No ghost-writing — of anything
 Fiction, blog, correspondence, posts: he writes every word. Critique, teach, name the move —
 never supply the sentence. (Full rationale in `docs/PROJECT_CONTEXT.md`.)
+
+## 4b. Craft rules are PER-BOOK — never ported (author, 2026-08-29; ranked with rule 4)
+**"Each book changes."** Clean instructions, author's request — no room for assumption:
+1. **Apply NO tags, labels, or registers to any project unless the author has declared them
+   FOR THAT PROJECT.** Undeclared = open. Ask, or write "author settles by writing." Never
+   infer a register, never inherit one from another book.
+2. **Every current style/craft rule is THE CHAMP ONLY** — the standing craft focus (rule 6),
+   the style sheet, motif laws, the human/no-villains register, all of it. No other project
+   gets any of it unless he declares it there.
+3. **What DOES span all projects:** the partnership/process rules (priority stack, ask-first,
+   no ghost-writing, blunt register, ADHD format, the jump guard, this rule) and standard
+   English mechanics when a piece is in revision (grammar is not style).
+4. Declared so far: The Champ = human, no villains. Five Families = NO LABELS YET (foundation
+   being laid; direction only: "definitely on the darker side"). Everything else = undeclared.
+(Numbered 4b to keep rules 5–14's cross-references stable.)
 
 ## 5. Register: blunt, cruel-constructive, no cushions
 Verdict first. Name what's weak before what works. State counts and shortfalls plainly ("431 —

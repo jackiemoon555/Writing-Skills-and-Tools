@@ -413,3 +413,83 @@ Silvia — [name-only card, no text]. Harold — [name-only card, text not captu
    create the remaining Kennedy child, create Roth's first son + name the Roth heir, fill
    Silvia/Harold, and rule on flags 1–4. (The "Capella" line = a Reedsy upgrade ad, not his
    writing — the Five Families main note is COMPLETE.)
+
+---
+
+## CANON ADDENDUM — 2026-08-29 (author, home session; capture only — development stays parked behind The Champ)
+
+### Inspiration lineage named (author research, verified in-session)
+The Five Families = a cross between **old-money dynasties and crime families** — specifically the
+**Korean chaebol / old-money dynamic applied to America, with the families AS the government.**
+This sharpens existing canon rather than changing it: the legality fork (when the dynasty writes
+the law, "crime" is policy), the Wraiths as a *state instrument* (contract-bound, legal), and the
+port as the natural stage (chaebols are trade/export empires; the waterfront pact is their native
+terrain). Genre consequence: the conflict axis is not outlaws-vs-law (mafia) but *inside*
+(succession, marriage politics) and *below* (labor vs dynasty — the Longshoreman's lane; Joey at
+Harvard = the poor-kid-among-heirs position). Originality check that prompted the research:
+resolved — the combination is its own thing, and the real NYC Five Families are history, not IP.
+
+### THE MAIN CONFLICT — trilogy spine as of 2026-08-29 (author's words, layered secrets)
+1. **The Five Families have ANOTHER ARCHMAGE** — making them "super strong, ridiculously strong."
+   (⚠ same canon tension already flagged for Stephen: archmages are a transnational order above
+   national loyalty — a family-owned archmage is a deliberate exception or a re-decide. Author to
+   confirm when this project wakes.)
+2. **What the families don't know: CHARLES is planning to usurp them.** (Consistent with the
+   established third villain pole — Charles rots the families from within.)
+3. **What they don't know: STEPHEN wants to take their archmage and make him a NEUTRAL like
+   himself — change America.** (Note: Stephen's card reads "opposition to the families"; author
+   here frames him as *neutral* — capture both, author reconciles by writing.)
+4. **What NOBODY knows: something is lurking in the shadows, hunting them.** (Recorded exactly as
+   stated — identity deliberately unnamed; do NOT conflate with the masked man, the dark magi, or
+   the spymaster without the author's word.)
+
+The shelved spymaster-vs-Charles question remains SHELVED — nothing above answers it.
+
+### Shadow organization — inspiration DNA (author, 2026-08-29; capture only)
+The thing "lurking in the shadows hunting them" = a SHADOW ORGANIZATION. Author's named
+inspirations, both anime: **the Akatsuki** (Naruto) and **the Phantom Troupe** (Hunter x Hunter).
+Reference notes on what each model is known for (context for future sessions, NOT canon until
+the author writes it): Akatsuki = a small cell of rogue S-class elites — each individually
+legendary — systematically hunting the world's most powerful beings, operating in pairs, with
+branding/uniform and a hidden true master behind the visible leader. Phantom Troupe = a ~13-member
+outlaw troupe with numbered membership and a shared emblem, a charismatic leader, an internal
+code, and the "Spider" doctrine — the organization is the idea, any limb (member) is replaceable,
+killing members doesn't kill the Spider. Common DNA the author is drawing from: small roster,
+individually elite, institution-proof, hunting the powered — the dark mirror of the Wraiths
+(who are contract-bound and legal; the shadow org answers to no contract and no law — inference,
+unconfirmed). Membership, name, emblem, leadership: ALL UNDECIDED — do not invent.
+
+### Shadow org — first member design (author, 2026-08-29; capture only, ONE OPEN IDENTITY FLAG)
+**The crying mask:** a masked man — "kind of like a crying V for Vendetta" — but a **solid-color
+mask with a tear** (author: the solid color + tear is necessary). He is a **devout follower of
+his religion and REPENTS FOR HIS KILLS.** Register echo already in the ledger (untitled-fantasy
+room, author's own note): the no-turmoil assassin — "Szeth WITHOUT the inner turmoil; drama
+relocates from the soul to the CODE." This design fits that register if the repentance is RITUAL
+(the code demands it) rather than anguish — the mask carries the tear so the man doesn't. If the
+repentance is inner turmoil, it collides with the author's own register ruling — his call, by
+writing.
+⚠ **OPEN — IDENTITY (author's word required, do not resolve by inference):** is the crying-mask
+man (a) the EXISTING masked man of the manuscript (Lloyd's killer, the dark-magic herald who
+knows everyone's secrets), now folded into the shadow org — or (b) a SECOND masked figure, a
+distinct shadow-org member? Both readings change trilogy staging. UNDECIDED until he says.
+
+### RULINGS (author, 2026-08-29) — identity flag RESOLVED + per-book rules meta-law
+- **RESOLVED: the crying-mask man and Lloyd's killer are DIFFERENT members of the SAME shadow
+  organization.** The org fields multiple masked members, killing off prominent members of the
+  families — "even secrets like Lloyd." (Natural implication, UNCONFIRMED until author's word:
+  the manuscript's open hook "who's killing royal mages" would belong to this org's activity —
+  do not write that into any record as fact until he says.)
+- **META-LAW (author, cross-project, 2026-08-29): craft rules are PER-BOOK — do not apply The
+  Champ's rules (or any book's rules) to another book. "Each book changes."** Stated registers:
+  **The Champ is human — there are no villains. The Five Families world HAS villains and inner
+  turmoil.** Consequence here: the crying-mask man's repentance is NOT constrained by the older
+  "Szeth without the inner turmoil" register note — real anguish is allowed in this world; the
+  author settles his register by writing. (The older no-turmoil note remains in the fantasy
+  ledger as history for whatever character it originally served; it is not a world law.)
+
+### REGISTER HOLD (author, 2026-08-29, same session — supersedes the register line above where
+they differ): **NO LABELS on the Five Families world yet** — the foundation is still being laid.
+Directional only: "it'll definitely be on the darker side." The per-book meta-law stands (The
+Champ's human/no-villains register does NOT apply here); but "has villains and inner turmoil"
+is a direction, not a locked register — nothing is locked until the author locks it. Do not
+build critique or canon on any Five Families register label until he declares one.

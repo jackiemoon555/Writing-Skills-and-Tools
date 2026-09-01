@@ -324,3 +324,66 @@ only. Do not report % complete or a finish-length again.
   MD5 5AE1F99DF6AE2A9F6099441C3474290C) — Thump ramp-down 4→1, turn at the bell (4!), KO =
   silence; closes "His name was Daniel Rodriguez." Checkers silent (19/15/13 findings, parked).
   Read in chat.
+- **2026-08-27 (home session) — INTERLUDE 2 (Nicole, the bridge) ⚠️ PARTIAL (chat paste, 511w
+  prose):** author hit his day cap mid-scene — **the ending does not exist yet; do not read or
+  log this as a finished interlude.** Mirror open → ESPN (champion Johnny Law) → Kim call →
+  club → Rob + drunk John outside ("pick up her friend") → car ride, Thud, the dad memory.
+  Snapshot `manuscripts/the-champ-d2_interlude2-nicole_PARTIAL_2026-08-27.txt`
+  (MD5 86CCACAA8F5A22CEC931ED2FB82A1F01). Checker silent:
+  `reports/the-champ-d2_interlude2-nicole_checker_2026-08-27.md` (33 findings, parked).
+  Read in chat (scoped to what's on the page; no missing-end notes per author instruction).
+  **Day total 08-27 = 816 + 511 = 1,327 — over the floor.** ✅ The finished interlude
+  supersedes this partial; recount then.
+- **2026-08-28 — ZERO DAY.** ❌ No Champ words (author-confirmed 08-29). The day went to the
+  editor board (all 5 briefs answered — Michael offer read in full, Travis message + service
+  sheet), the word-processor idea (sized + re-shelved), and hitting the first D2 wall on
+  Interlude 2 (diagnosis: the club night outgrew its share — the two-year crossing hasn't
+  started; question handed to the pad). One zero after a 1,327; watch the next three.
+- **2026-08-29 — INTERLUDE 2 TAKE 3, DECLARED FINISHED (Google Doc "Interlude 2 take 3", 508w
+  prose):** full restructure off the wall diagnosis — Thud ladder 1→5 now IS the bridge (father
+  → the mold → Harold's wall-punch → drunk-Chuck 4am exit → present), club night cut to its
+  share, ends "Nicole stands there, blank faced." (ladder silent in the final scene). Author
+  tense-fix pass applied before intake. Day's words = **508** — ⚠️ under the 1,000 floor (the
+  take-1 511 were counted to 08-27; no double-count). Snapshot
+  `manuscripts/the-champ-d2_interlude2-nicole_take3_2026-08-29.txt`
+  (MD5 A283A21F54F835BCC5A4DFC5D2994579). Checker silent:
+  `reports/the-champ-d2_interlude2-nicole_take3_checker_2026-08-29.md` (21 findings, parked).
+  Read in chat (landing verdict: sticks via the Chuck-storm/Johnny-freeze contrast). Supersedes
+  the 08-27 PARTIAL. Rulings this read pending ledger log (author yes not yet given).
+  *(Stale line — the rulings WERE logged to the ledger later that night on his yes.)*
+- **2026-08-30 — EDITOR DECISION (in principle) + NEW D2 DEADLINE (author, logged on his yes):**
+  **Michael S. = chosen editor, pending the rule-14 evidence** — the Accept waits on his sample
+  edit + two open answers (proofread incl.?; and the DATE CHANGE: offer says start Sep 3 —
+  author will deliver **Sep 8**; agree dates before accepting). Travis's menu priced ~2.4× on
+  comparable scope (CE Refine $1,125 + likely 10% fee vs Michael $522.50 all-in, single payment
+  at completion); installments checked — cash-flow only, no discount. **D2 HANDOFF DEADLINE =
+  MON SEP 8** (author's own timeline tool — "a deadline which I need"). **Dallas bachelor party
+  Sep 4–7 blocks those days** → ~5 writing days (Aug 30–Sep 3) for: drop chapters (Ch10 Coach
+  broadcast / Ch11 Rob + watch), the bottom, the skip seam, rebuild recolor, ending pass.
+  Downstream: Michael edits ~2–3wk + 1wk finals → mid-October publish; standing ruling holds
+  (October slides before the book rushes).
+- **2026-08-30 — ZERO DAY.** ❌ No Champ words (author-confirmed 08-31). The day went to the
+  editor lane (Travis declined politely; Michael messaged: proofread? + sample edit + Sep 8
+  date) and the influence lanes (movies/shows/books created; The Gentlemen mechanism logged).
+  Second zero in three days — the Sep 8 runway is now ~4 writing days (Aug 31–Sep 3).
+- **2026-08-31 — Ch10 v2 INTAKEN (chat paste + same-day fixes, 397w prose): COACH'S OFFICE —
+  broadcast open (skip device: "a little over two years"), rules-recitation verdict ("You've
+  failed at every rule."), EXPULSION on-page, exit John plant ("It should have been you,
+  Chuck.").** Fixes applied before intake: rules-list mismatch → Coach repeats Chuck's exact
+  rules then convicts on them; "fierce eyes" → "A dim fire awoke in his eyes." (fire = rule 3
+  echo). Author: may grow later if time permits. Snapshot
+  `manuscripts/the-champ-d2_ch10-v2_2026-08-31.txt` (MD5 0E16587EF17D281AB15CB57BA4EBAEA9).
+  Checker silent: `reports/the-champ-d2_ch10_checker_2026-08-31.md` (16 findings, parked).
+  Read in chat. Day so far: **397** — floor open, Ch11 (Rob drop) in progress.
+- **2026-08-31 (same day) — Ch11 v2 INTAKEN (chat paste, 357w prose): THE ROB BREAK** —
+  restaurant, dress-code jeans, the failing-name beat (waiter doesn't know "Rob Banks"), UFC
+  wants a comeback but CHUCK quits ROB (leaving-before-left pattern, third instance), closes
+  on the docked seed line "keep the watch, it's the least I could do." **Author rulings:**
+  intaken AS-IS; "I can't sell you what you always wanted" = CLAIMED double reading ("both
+  statements are true" — Rob deflecting/you-chose-this AND the unbuyable want); intent stated:
+  Chuck willingly followed, Rob sold nothing. Open from the read (unfixed by choice): opening
+  "Wives?" attribution stumble; waiter-beat proportion (~40% — name-decay claim available,
+  not yet claimed). Snapshot `manuscripts/the-champ-d2_ch11-v2_2026-08-31.txt`
+  (MD5 7D07820E7514F30FC9CA3C648FC66C3A). Checker silent:
+  `reports/the-champ-d2_ch11_checker_2026-08-31.md` (20 findings, parked). Read in chat.
+  **Day total 08-31 = 397 + 357 = 754 — under the 1,000 floor, day still open.** ⚠️

@@ -23,7 +23,47 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## NEXT SESSION — START HERE (updated 2026-08-27 AFTERNOON, work-session close) — NICOLE'S BRIDGE INTERLUDE IS MID-DRAFT
+> ## NEXT SESSION — START HERE (updated 2026-08-31, home-session close) — DROPS DONE; AIRPORT NEXT; SEP 8 DEADLINE
+> **Home session 2026-08-27→31 CLOSED, merged to main. THE CONTRACT stays in force (ask-first).**
+> **⏰ THE CLOCK: D2 handoff to the editor = MON SEP 8 (author's own deadline). Dallas bachelor
+> party Sep 4–7 blocks those days → remaining runway = Sep 1–3.** Floor record this stretch:
+> 08-27 1,327 ✅ · 08-28 zero ❌ · 08-29 508 ⚠️ · 08-30 zero ❌ · 08-31 754 ⚠️ (two chapters).
+> **D2 state: Prologue–Ch11 + Vlad interlude + NICOLE INTERLUDE (take 3, 508w, FINISHED,
+> declared the interlude of record)** — the bridge crosses the two years on a Thud ladder 1→5;
+> rulings + claimed devices all in the room ledger (mother's-words and bedside-goodbye rulings
+> SUPERSEDED by the page; tense law stands with two claimed outliers). Ch10 (397w) = Coach's
+> office: broadcast open, rules-recitation verdict ("You've failed at every rule."), expulsion,
+> John plant ("It should have been you, Chuck."; may grow later). Ch11 (357w) = the ROB BREAK:
+> failing-name beat, CHUCK quits ROB (leaving-before-left pattern, 3rd instance — observed,
+> never prescribed), "keep the watch" docked; "can't sell you what you always wanted" = CLAIMED
+> double reading.
+> **THE MAP AHEAD (author, 2026-08-31, held in chat — pages outrank it):** next = **AIRPORT →
+> TEXAS** (bottom-cut: wreckage ambiguous, destination clear; the never-pawned WATCH choice =
+> the airport's silent job) → **JOHN AND NICOLE piece** (their world rising while he falls) →
+> **TEXAS spiral → DUI ON-PAGE** (DUI survives, relocated home; dream echo docks there) → rehab
+> skip/seam (seam design pending, gate = candidate door). Ch10/11 open items for revision:
+> "Wives?" attribution stumble; waiter-beat proportion (name-decay claim available, unclaimed).
+> **🎯 EDITOR STATE: MICHAEL S. CHOSEN IN PRINCIPLE (rule 14 satisfied-pending-evidence).**
+> Travis declined politely (menu was ~2.4× on comparable scope; sheet + analysis in chat 08-29/30,
+> PDF in Downloads). Michael messaged 08-30: proofread included? + sample edit request (on the
+> brief's sample) + date change 9/3→9/8. **Accept ONLY after: his answers + sample edit in hand +
+> side-by-side pause. Single payment $522.50 all-in at completion (Sep 30).**
+> **⚠️ WORKFLOW NOTE (author, 2026-08-30): away from work, each piece gets ITS OWN Google Doc,
+> organized later** (Int2 take 3 = doc "Interlude 2 take 3"; Ch10/11 = chat pastes). At nightly
+> verify / before Sep 8: confirm the new pieces LAND IN THE D2 MASTER DOC — that's what Michael
+> gets. Sweep items still owed: verify prologue+Ch1 sample fixes in the master; Ch3 "shut the
+> fuck (up)" twin fix.
+> **🛠 PLUMBING WARNING (recurred 08-30): the stranded-branch failure came back** — the 08-30
+> session branch was cut from main while the 08-27→29 branch sat unmerged (Int2, rulings, rule
+> 4b all briefly missing from the working tree). Recovered by merge same day, nothing lost.
+> At every session close VERIFY the day's branch actually merged to main before the next
+> session starts. Also new since 08-29: WORKING_RULES **rule 4b** (per-book rules, no tags on
+> undeclared projects — ESSENTIAL, ranked with rule 4) + influence lanes `movies/` `shows/`
+> `books/` (The Gentlemen = confirmed Five Families feed) + Five Families canon addenda
+> (chaebol lineage, layered-secrets spine, shadow org: two masked members, crying penitent;
+> REGISTER HOLD — no labels, darker-side direction only).
+>
+> ## NEXT SESSION — PREVIOUS (27th afternoon) — NICOLE'S BRIDGE INTERLUDE WAS MID-DRAFT
 > **Work session 2026-08-27 CLOSED, merged to main. THE CONTRACT stays in force (ask-first).**
 > **⏳ LIVE RIGHT NOW: Nicole's interlude (THE BRIDGE) is ~500 words in, UNFINISHED, on his pad**
 > — he reports "tragic but much more human." FIRST JOB of the home session: receive + intake it

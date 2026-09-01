@@ -458,3 +458,17 @@ architecture). The repo remains the back end (snapshots, logs, ledgers). Build l
 scaffolds from a Claude-written spec, own repo/session, same as the author-site plan.
 Cautionary precedent: "The Room cockpit dashboard" was parked for ADHD load — do not start
 this while any manuscript is live. Vault only; he initiates.
+
+**UPDATE (author, 2026-08-28 — re-raised as "my own word processor," sized, RE-SHELVED):**
+- Sizing session ran (roadmap + costs + killers, in chat 08-28). **Cheap route identified: a
+  GOOGLE DOCS ADD-ON (Apps Script sidebar)** — checker passes ported to JS, findings + floor
+  count inside the live Doc, private deploy, **$0, ~2 weeks of offloaded spare-time cycles**;
+  captures the tailored-rules + pipeline-collapse benefits WITHOUT replacing the Doc. Limit:
+  add-ons don't run in the phone Docs app (phone = pad anyway; checker moment = nightly verify).
+- **The two killers, named:** (1) cross-device SYNC — conflict merges on prose + silent word
+  loss; one eaten paragraph ends all trust in the tool; (2) ATTENTION — infinitely extensible
+  build vs. a finishing-is-the-skill writer; steals the first hour, disguises itself as progress.
+- **Author ordering (2026-08-28): post-Champ tool queue = COCKPIT FIRST, then (maybe) this.**
+  (Note: the cockpit was called off 2026-08-25 for ADHD load — plan file
+  `~/.claude/plans/synthetic-whistling-nautilus.md`; his 08-28 statement revives it as the
+  first post-Champ tool candidate. Still: nothing starts while a manuscript is live.)
