@@ -387,3 +387,14 @@ only. Do not report % complete or a finish-length again.
   (MD5 7D07820E7514F30FC9CA3C648FC66C3A). Checker silent:
   `reports/the-champ-d2_ch11_checker_2026-08-31.md` (20 findings, parked). Read in chat.
   **Day total 08-31 = 397 + 357 = 754 — under the 1,000 floor, day still open.** ⚠️
+- **2026-08-31 (evening) — EDITOR LANE CLOSES OUT (logged on author's yes):** **Michael's
+  SAMPLE EDIT RECEIVED and reviewed** (`The_Champ_snippit.docx`, tracked changes by "Michael
+  S.": 16 ins/12 del on prologue+Ch1 — clean mechanics, restrained line edits, protected voice
+  untouched incl. "gone stop me"; three style-territory suggestions for the author to rule on:
+  stone→like stone, the Johnny-stumble cut, the Chuh-cky chant restyle). **Michael answered
+  YES proofread included + YES Sep 8 delivery. ACCEPT SCHEDULED SEPT 1** — rule 14 fully
+  satisfied (all briefs answered, evidence in hand, side-by-side done, window honored).
+  **Travis kept warm** (his reply reopened negotiation via budget ask — declined per
+  procedure; author sending ONE closed courtesy question: biggest advice for someone starting
+  in the modern sphere). Reminder for the real edit: review Michael's changes one by one,
+  never accept-all.
