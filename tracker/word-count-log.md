@@ -398,3 +398,9 @@ only. Do not report % complete or a finish-length again.
   procedure; author sending ONE closed courtesy question: biggest advice for someone starting
   in the modern sphere). Reminder for the real edit: review Michael's changes one by one,
   never accept-all.
+- **2026-09-01 — ✅ OFFER ACCEPTED (author clicked Accept, logged on his yes): Michael S.,
+  Reedsy offer #497719 — $475 + $47.50 fee = $522.50, single payment at completion; proofread
+  included; manuscript due to Michael TUE SEP 8; completion Sep 30.** The editor hunt is
+  CLOSED — rule 14 ran start to finish (window, evidence, side-by-side) on its first live use.
+  Fable 5.1 trial deferred to the editing lull (post-Sep 8), per jump-guard logic. Tonight:
+  the AIRPORT chapter.
