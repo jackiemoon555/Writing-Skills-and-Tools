@@ -357,7 +357,7 @@ only. Do not report % complete or a finish-length again.
   author will deliver **Sep 8**; agree dates before accepting). Travis's menu priced ~2.4× on
   comparable scope (CE Refine $1,125 + likely 10% fee vs Michael $522.50 all-in, single payment
   at completion); installments checked — cash-flow only, no discount. **D2 HANDOFF DEADLINE =
-  MON SEP 8** (author's own timeline tool — "a deadline which I need"). **Dallas bachelor party
+  TUE SEP 8** (author's own timeline tool — "a deadline which I need"). **Dallas bachelor party
   Sep 4–7 blocks those days** → ~5 writing days (Aug 30–Sep 3) for: drop chapters (Ch10 Coach
   broadcast / Ch11 Rob + watch), the bottom, the skip seam, rebuild recolor, ending pass.
   Downstream: Michael edits ~2–3wk + 1wk finals → mid-October publish; standing ruling holds
