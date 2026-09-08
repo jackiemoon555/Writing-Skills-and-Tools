@@ -472,3 +472,12 @@ this while any manuscript is live. Vault only; he initiates.
   (Note: the cockpit was called off 2026-08-25 for ADHD load — plan file
   `~/.claude/plans/synthetic-whistling-nautilus.md`; his 08-28 statement revives it as the
   first post-Champ tool candidate. Still: nothing starts while a manuscript is live.)
+
+## COLLEGE FOOTBALL — "LONE STAR UNIVERSITY Book One" DRAFT CAPTURED (2026-09-08; vault only)
+Author shared his rough draft (Google Drive doc id 1H3moRF8KWDiBuQ9RgHCC_v2q0xVYqNzg): Prologue +
+Ch1–2 + the top of Ch3 — "very rough but I think it has bones. Save it and we'll come back to it."
+Verbatim snapshot: `manuscripts/lone-star-university_book1_snapshot_2026-09-08.txt` (~4,300w).
+NOT read for craft; no labels or rules applied (rule 4b). Parked behind The Champ. Record-only
+observation, no inference drawn: the booster is a SINCLAIR (John / Frederick Sinclair) — same
+surname as the Five Families' Sinclair family — whether that's a deliberate crossover or a reused
+name is the author's to say when this wakes.
