@@ -474,3 +474,8 @@ only. Do not report % complete or a finish-length again.
   inventory + movie line cut, the KO carries the fight alone, storm-off kept (ruled: a fight,
   not the exit). ⚠ ONE "Rodriguez" survives — author fixes in the master. MD5 D62F593B592C4FF0ABB847C5D95011D2. Checker
   silent. Day 09-08 so far: **1422**.
+- **2026-09-08 — Ch22 v2 INTAKEN (chat paste + fix, 479w prose): THE PLANE HOME (D1 Ch23
+  revised)** — "Ask Rob" replaces the rights line; "that kid" = Mills ("You told me he was just
+  alright"); veins line cut; orphaned follow-up cut. Kept by choice: cost-of-love opener, "The
+  Chosen" echo, the younger/older simile. MD5 08EC015C6CB7CEC7B353C6CBC4E1C393. Checker silent. Day 09-08 so far:
+  **1901**.
