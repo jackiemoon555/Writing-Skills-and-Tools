@@ -479,3 +479,9 @@ only. Do not report % complete or a finish-length again.
   alright"); veins line cut; orphaned follow-up cut. Kept by choice: cost-of-love opener, "The
   Chosen" echo, the younger/older simile. MD5 08EC015C6CB7CEC7B353C6CBC4E1C393. Checker silent. Day 09-08 so far:
   **1901**.
+- **2026-09-08 — Ch23 v2 INTAKEN (fresh rewrite of D1 Ch24, 358w prose): MOM'S DINNER —
+  "SHOW ME" PAID** — mom's "Don't fuck it up," the candle + SPARKLING CIDER (the family knows;
+  nobody says it), "Thanks, sis," Lisa's "she got me out of a jam" plant, "Chuck, is this real?"
+  / "I'm scared. Not again." / Chuck releases her ("Some things can't be taken back") / ends on
+  HER terms: "Maybe, we can just go slow." Fixes applied pre-intake (wine→cider, pronoun, told
+  close cut). MD5 72540796BB9D9B03C0E489E1B0609872. Checker silent. Day 09-08 so far: **2259**.
