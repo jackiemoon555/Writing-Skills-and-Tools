@@ -2184,3 +2184,8 @@ his call, not prescribed).
     REFINED (author, same morning): (1) name shed = INTENTIONAL · (2) the descending ladder =
     NOT planned, adopted on sight ("I don't hate it") — treat as claimed going forward · (3)
     crowd-as-void = CLAIMED.
+  - **RULING (author, 2026-09-08) — NICOLE'S EXIT DESIGN:** the D1 Ch22 storm-off ("Then I'm
+    gone John. Fuck you.") STAYS AS-IS = a toxic-relationship fight she returns from. The REAL
+    exit comes later: John says the thing that finally ends it and she leaves WITH NO WORDS
+    (docks at "Nicole bolted. I didn't ask."). Nicole's leaving-ladder across the book: words
+    (Chuck, 4am) → the freeze (the curb, Int2) → silence (John). Observed, author-confirmed.
