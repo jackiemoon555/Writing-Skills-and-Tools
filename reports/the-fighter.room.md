@@ -2172,3 +2172,12 @@ his call, not prescribed).
     the title shot from the presser podium before the comeback fight (Ch19); no callout. Item 4
     (the machine shown once, cold) now carries the fight-making. Ch19 also: Vlad on the same card,
     lounge coffee = relates-not-consoles delivered pre-fight ("It's all bullshit").
+  - **CLAIMED DEVICES (author, 2026-09-08) — Ch20 the walkout:** (1) "Chuck Miles!" — the
+    announcer drops BOTH "The Chosen" and "Chucky": the full identity shed, stronger than the
+    D1 plan (which kept "Chucky"). (2) The Thump ladder runs DOWN into the cage (1→4→3→2, the
+    announcer takes the last beat) — direction law: descending = settling; the inverse of Ch1's
+    ascent into the takedown = the driver walking in calm. (3) "The void of the crowd" — the
+    void/abyss motif (the drink, Ch12–14) transferred to the crowd: the crowd was always the
+    other drink. Protect all three in revision; do not re-flag while the quotes match.
+  - Also 09-08: comeback opponent = MILLS (new nobody, "tough but not elite"); Rodriguez rematch
+    not used in D2 — consistent with the 08-18 ruling (same nobody OR a different one).

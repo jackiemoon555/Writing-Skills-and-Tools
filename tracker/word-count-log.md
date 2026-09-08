@@ -462,3 +462,10 @@ only. Do not report % complete or a finish-length again.
   **RULING: the MACHINE (Dave) makes the Vlad fight — the ruled CALLOUT is superseded.** "Crept
   into my consciousness" left for the editor. MD5 2794AC1436FB467C833266A8A9E8EE79. Checker silent. Read in chat.
   Day 09-08 so far: **574**.
+- **2026-09-08 — Ch20 v2 INTAKEN (chat paste, as-is, 291w prose): THE WALKOUT** — locker-room
+  pads, opponent = MILLS (a new nobody; Rodriguez rematch not used), Dad's "Go, become you,
+  again.", Bruce: "…Chuck Miles!" **CLAIMED (author: "You get it?"):** the full name shed (no
+  Chosen, no Chucky) · the Thump ladder DESCENDING 1→4→3→2 into the cage = the driver walks in
+  settling (inverse of Ch1's climb) · "the void of the crowd" = the crowd as the other drink.
+  Fight itself → next chapter from John/Nicole's seats (ruled device). MD5 36248E95850A662D4C1075D723B1722A. Checker
+  silent. Read in chat. Day 09-08 so far: **865**.
