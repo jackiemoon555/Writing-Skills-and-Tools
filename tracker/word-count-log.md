@@ -469,3 +469,8 @@ only. Do not report % complete or a finish-length again.
   settling (inverse of Ch1's climb) · "the void of the crowd" = the crowd as the other drink.
   Fight itself → next chapter from John/Nicole's seats (ruled device). MD5 36248E95850A662D4C1075D723B1722A. Checker
   silent. Read in chat. Day 09-08 so far: **865**.
+- **2026-09-08 — Ch21 v2 INTAKEN (chat paste, as-is, 557w prose): THE FIGHT FROM JOHN AND
+  NICOLE'S SEATS (D1 Ch22 revised)** — Mills for Rodriguez, POV leaks fixed, watch line + gaze
+  inventory + movie line cut, the KO carries the fight alone, storm-off kept (ruled: a fight,
+  not the exit). ⚠ ONE "Rodriguez" survives — author fixes in the master. MD5 D62F593B592C4FF0ABB847C5D95011D2. Checker
+  silent. Day 09-08 so far: **1422**.
