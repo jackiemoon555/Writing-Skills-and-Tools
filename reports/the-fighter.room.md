@@ -2167,3 +2167,8 @@ his call, not prescribed).
     curb). Therefore: **Ch15 = Chuck getting OUT OF JAIL, still PAST TENSE.** The tense seam
     fires later, at the post-Vlad rehab skip — present tense = the final act (fight week, the
     stool, the break, epilogue). Precedence applied: author decision > ledger inference.
+  - **RULING (author, 2026-09-08): THE MACHINE MAKES THE VLAD FIGHT.** Architecture item 3 (the
+    post-win CALLOUT as Chuck's reckless driver decision) is SUPERSEDED by the page: Dave promises
+    the title shot from the presser podium before the comeback fight (Ch19); no callout. Item 4
+    (the machine shown once, cold) now carries the fight-making. Ch19 also: Vlad on the same card,
+    lounge coffee = relates-not-consoles delivered pre-fight ("It's all bullshit").

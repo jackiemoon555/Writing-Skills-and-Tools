@@ -454,3 +454,11 @@ only. Do not report % complete or a finish-length again.
   Author: "The hardest part is over." Tomorrow (Tue Sep 8 = delivery day): one last push to
   finish; if the morning doesn't close it, the standing ruling applies (October slides before
   the book rushes) → tell Michael the new date.
+- **2026-09-08 (Tue, DELIVERY DAY, written at work in Reedsy) — Ch19 v2 INTAKEN (chat paste,
+  as-is, 574w prose): THE COMEBACK PRESSER** — Vlad on the same card ("my biggest fights are
+  usually with my wife" / "I train for the deep waters"), "I was too sober for this shit," Dave
+  promises the title shot from the podium, the lounge coffee ("It's all bullshit." / "Good luck
+  out there, Chuck."). Author labeled the paste "Chapter 18" → renumbered 19 on his word.
+  **RULING: the MACHINE (Dave) makes the Vlad fight — the ruled CALLOUT is superseded.** "Crept
+  into my consciousness" left for the editor. MD5 2794AC1436FB467C833266A8A9E8EE79. Checker silent. Read in chat.
+  Day 09-08 so far: **574**.
