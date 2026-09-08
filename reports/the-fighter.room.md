@@ -2181,3 +2181,6 @@ his call, not prescribed).
     other drink. Protect all three in revision; do not re-flag while the quotes match.
   - Also 09-08: comeback opponent = MILLS (new nobody, "tough but not elite"); Rodriguez rematch
     not used in D2 — consistent with the 08-18 ruling (same nobody OR a different one).
+    REFINED (author, same morning): (1) name shed = INTENTIONAL · (2) the descending ladder =
+    NOT planned, adopted on sight ("I don't hate it") — treat as claimed going forward · (3)
+    crowd-as-void = CLAIMED.
