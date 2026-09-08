@@ -2148,3 +2148,22 @@ his call, not prescribed).
     match; the law still applies to everything else.
   - **DOCKING NOTE (open, decide at Ch10):** Int2 now OPENS on a TV interview with champion
     Johnny; Ch10 is specced to open on the ESPN broadcast — claim the echo or vary one.
+  - **RULINGS (author, 2026-09-07) — the BOTTOM lands (Ch12–14 intaken):**
+    (1) **Ch14 blackout is INTENTIONAL** — Chuck blacks out mid-scuffle; the dream-fight (Vlad,
+    "AND NEW", the belt) runs unbroken to "The cell door slammed" with NO surfacing beat. Claimed.
+    (2) **THE CASINO ARREST REPLACES THE DUI** — the D1 DUI scene is OUT of D2 canon; the dream
+    echo docks here instead (author: "I like it a lot more"; drawn from his own casino weekend).
+    (3) Map executed with a fusion: the "John and Nicole piece" became the airport chapter itself
+    (Ch12 — both encounters, separately, at the Miami airport).
+  - **OBSERVED (not prescribed; author may claim):** "Nice watch." — John wears a watch now (the
+    persona kit handed down) · the ABYSS/VOID as an emerging motif (Ch12 glass → Ch13 flow →
+    Ch14 road) · the THUMP returns ONLY inside the dream at the false title, then dies with the
+    gold — the pulse lives where the lie does · Lisa's entrance via "I'd wronged too many women."
+  - **OPEN for revision:** Ch12 closing line ("Those who I thought I loved. Did they really love
+    me?") = rule-6 class, flagged once.
+  - **CORRECTION (author, 2026-09-07; Claude error caught): REHAB IS NOT HERE.** The 08-27 map's
+    "bottom → rehab = 6-month skip → rebuild" was a SEAM READING PENDING CONFIRM and is now
+    OVERRULED: **rehab comes AFTER the Vlad rematch** (as in D1: relapse → Vlad → retire → rehab
+    curb). Therefore: **Ch15 = Chuck getting OUT OF JAIL, still PAST TENSE.** The tense seam
+    fires later, at the post-Vlad rehab skip — present tense = the final act (fight week, the
+    stool, the break, epilogue). Precedence applied: author decision > ledger inference.

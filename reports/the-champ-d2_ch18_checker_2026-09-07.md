@@ -1,0 +1,59 @@
+# Review: the-champ-d2_ch18-v2_2026-09-07.txt
+
+**18 items flagged** across 4 categories.
+
+| Category | Count |
+| --- | ---: |
+| Echoes (repeated words) | 3 |
+| Filter words | 2 |
+| Filler words | 11 |
+| Adverbs (-ly) | 2 |
+
+## Echoes (repeated words) (3)
+
+- **the-champ-d2_ch18-v2_2026-09-07.txt:1:75** · 'thump' appears 11 times — consider varying word choice if these cluster together
+  > …APTER 18 (the date: the steakhouse, the Thump ladder, "Show me Chuck.")] [Intake…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:1:98** · 'chuck' appears 5 times — consider varying word choice if these cluster together
+  > …steakhouse, the Thump ladder, "Show me Chuck.")] [Intake 2026-09-07, chat paste…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:3:35** · 'lisa' appears 4 times — consider varying word choice if these cluster together
+  > …cut, thesis line cut, sofa ending cut; Lisa holds the verdict. Verbatim.]  Chap…
+
+## Filter words (2)
+
+- **the-champ-d2_ch18-v2_2026-09-07.txt:16:24** · filter word: 'looked'
+  > …with two chairs. I picked at my menu. I looked through what I already knew was t…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:16:54** · filter word: 'knew'
+  > …y menu. I looked through what I already knew was there. Thump. "I'm sorry. It's…
+
+## Filler words (11)
+
+- **the-champ-d2_ch18-v2_2026-09-07.txt:6:46** · filler word: 'even'
+  > …n't dressed up in a long time. I didn't even know what to wear anymore. Before a…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:6:103** · filler word: 'just'
+  > …wear anymore. Before all this, I could just throw on something designer, a suit…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:7:26** · filler word: 'Just'
+  > …the more love. Now I simplified things. Just a navy blue polo and black slacks.…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:12:20** · filler word: 'probably'
+  > …mple look glamorous. The steakhouse was probably, well not probably, the nicest…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:12:39** · filler word: 'probably'
+  > …. The steakhouse was probably, well not probably, the nicest dinner spot in town…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:20:31** · filler word: 'that'
+  > …oved me?" I cringed, “Don’t say it like that.” "Like what? The truth?” Damn. Tha…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:22:7** · filler word: 'That'
+  > …ke that.” "Like what? The truth?” Damn. That one stung. “Look, Chuck, I won’t li…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:25:15** · filler word: 'that'
+  > …t me. Bad.” Thump. Thump. Ya I remember that too. “I’m sorry.” She sighed, “At l…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:30:20** · filler word: 'That'
+  > …tching you implode." I grabbed my ribs. That shot landed clean. My eyes watered.…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:31:11** · filler word: 'even'
+  > …anded clean. My eyes watered. We hadn’t even ordered our drinks yet. “I think th…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:33:37** · filler word: 'just'
+  > …a.” She was getting up, she was leaving just like I left her. Thump. Thump. Thum…
+
+## Adverbs (-ly) (2)
+
+- **the-champ-d2_ch18-v2_2026-09-07.txt:12:20** · adverb: 'probably' — a stronger verb may do the work instead
+  > …mple look glamorous. The steakhouse was probably, well not probably, the nicest…
+- **the-champ-d2_ch18-v2_2026-09-07.txt:12:39** · adverb: 'probably' — a stronger verb may do the work instead
+  > …. The steakhouse was probably, well not probably, the nicest dinner spot in town…
+

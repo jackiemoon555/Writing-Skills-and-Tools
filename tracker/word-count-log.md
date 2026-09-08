@@ -357,7 +357,7 @@ only. Do not report % complete or a finish-length again.
   author will deliver **Sep 8**; agree dates before accepting). Travis's menu priced ~2.4× on
   comparable scope (CE Refine $1,125 + likely 10% fee vs Michael $522.50 all-in, single payment
   at completion); installments checked — cash-flow only, no discount. **D2 HANDOFF DEADLINE =
-  MON SEP 8** (author's own timeline tool — "a deadline which I need"). **Dallas bachelor party
+  TUE SEP 8** (author's own timeline tool — "a deadline which I need"). **Dallas bachelor party
   Sep 4–7 blocks those days** → ~5 writing days (Aug 30–Sep 3) for: drop chapters (Ch10 Coach
   broadcast / Ch11 Rob + watch), the bottom, the skip seam, rebuild recolor, ending pass.
   Downstream: Michael edits ~2–3wk + 1wk finals → mid-October publish; standing ruling holds
@@ -387,3 +387,70 @@ only. Do not report % complete or a finish-length again.
   (MD5 7D07820E7514F30FC9CA3C648FC66C3A). Checker silent:
   `reports/the-champ-d2_ch11_checker_2026-08-31.md` (20 findings, parked). Read in chat.
   **Day total 08-31 = 397 + 357 = 754 — under the 1,000 floor, day still open.** ⚠️
+- **2026-08-31 (evening) — EDITOR LANE CLOSES OUT (logged on author's yes):** **Michael's
+  SAMPLE EDIT RECEIVED and reviewed** (`The_Champ_snippit.docx`, tracked changes by "Michael
+  S.": 16 ins/12 del on prologue+Ch1 — clean mechanics, restrained line edits, protected voice
+  untouched incl. "gone stop me"; three style-territory suggestions for the author to rule on:
+  stone→like stone, the Johnny-stumble cut, the Chuh-cky chant restyle). **Michael answered
+  YES proofread included + YES Sep 8 delivery. ACCEPT SCHEDULED SEPT 1** — rule 14 fully
+  satisfied (all briefs answered, evidence in hand, side-by-side done, window honored).
+  **Travis kept warm** (his reply reopened negotiation via budget ask — declined per
+  procedure; author sending ONE closed courtesy question: biggest advice for someone starting
+  in the modern sphere). Reminder for the real edit: review Michael's changes one by one,
+  never accept-all.
+- **2026-09-01 — ✅ OFFER ACCEPTED (author clicked Accept, logged on his yes): Michael S.,
+  Reedsy offer #497719 — $475 + $47.50 fee = $522.50, single payment at completion; proofread
+  included; manuscript due to Michael TUE SEP 8; completion Sep 30.** The editor hunt is
+  CLOSED — rule 14 ran start to finish (window, evidence, side-by-side) on its first live use.
+  Fable 5.1 trial deferred to the editing lull (post-Sep 8), per jump-guard logic. Tonight:
+  the AIRPORT chapter.
+- **2026-09-01→06 — WRITER'S BLOCK STRETCH (author-reported 09-07): Ch12 + Ch13 drafted across
+  ~4 of these days; per-day split unknown — logged as a batch, no daily floor marks claimed.**
+  (Dallas bachelor party Sep 4–7; the casino weekend became Ch14's material.)
+- **2026-09-07 (Mon, night before the Sep 8 delivery) — THREE CHAPTERS INTAKEN (chat paste):**
+  **Ch12 (399w) THE MIAMI AIRPORT** — John at the bar ("You missed my title fight" / "So instead
+  you become me?" / "Nice watch." + the bill), Nicole at the gate ("Nicky" / "Take care of
+  yourself"), closes on a rule-6 told line (flagged). MD5 25A6BE611C26402082F6B383AB0A203A.
+  **Ch13 (368w) TEXAS** — Dad's house ("your house, your rules"), the hometown bar, the grunting
+  bartender, **LISA ENTERS** ("I'd wronged too many women" / "same number?"). MD5
+  BCB4E04A4B2F6232B61C2DB1DEFB061C. **Ch14 (602w, written TODAY) THE BOTTOM** — kicked out →
+  the road-as-void → Oklahoma casino (comped drinks + $10k chips = fame as enabler) → blackjack →
+  security scuffle → BLACKOUT dream-fight (beats Vlad, "AND NEW", Thump ×2 returns only inside
+  the dream) → "The cell door slammed, as the gold melted away." MD5
+  E7DBC18A929666F26C2E4A129B4D9443. Checkers silent (21/14/24 findings, parked). Read in chat.
+  **Day 09-07 = 602 so far (Ch14 only) — floor open, author in flow, hard push running.**
+  Author: "close to the end of the rewrites" — the rebuild chapters should move faster.
+- **2026-09-07 (same night) — Ch15 v2 INTAKEN (chat paste + same-night fix, 473w prose): THE
+  PICKUP** — Dad's minivan (Carl planted: "Well, just one of you."), the old gym lights, the pad
+  ladder ("Harder!" ×5) breaking him face-first, "Weak, son.", the serpent-to-Miami line, and the
+  SPINE LINE restored to Dad: "I'm still here, son." Exit: "Get to running." Fix applied before
+  intake: D1's told close ("Inside I found a broken man") CUT — peak rebuilt as body. MD5
+  7AAC7A71AEC8DE1D85C514D352CF8148. Checker silent (24 findings, parked). Read in chat.
+  **Day 09-07 = 602 + 473 = 1,075 — OVER THE FLOOR.** ✅ Push continuing (Ch16 started).
+- **2026-09-07 (same night) — Ch16 v2 INTAKEN (chat paste, as-is, 281w prose): THE RUN + LISA'S
+  BAR** — Dad's drive-by taunt, "Three days." (= the SOBRIETY COUNTER, claimed recurring), the
+  six-mile detour to Lisa's bar, her "I just can't let you in that easy," Chuck jogs off having
+  set the dinner himself (initiative note in chat: watch whose scene the date becomes). Date
+  deferred to ~Ch18. MD5 F81ACEC0AC0B58B9A0EB754B1B30E95A. Checker silent (see report). Read in chat.
+  **Day 09-07 = 1,075 + 281 = 1356.** ✅
+- **2026-09-07 (same night) — Ch17 v2 INTAKEN (chat paste, as-is, 435w prose): THE GARAGE FILM
+  ROOM** — Dad's recliner + a found couch, the Rodriguez KO in slow motion, the clocks (almost
+  three years / three months / one month since jail / four to go), Rob re-enters via Dad ("that
+  snake… technically still your agent" — "I felt my mouth water"), the fight is set (opponent
+  TBD), "don't you break that girl's heart again," the Vlad tape: "It's always behind the jab."
+  Delayed answer: "No, son, he didn't." Author ruling: tape-switch sentence LEFT AS-IS on purpose
+  (the beat repeats; intention stated here first) — line pass may query, not fix. Open claim in
+  chat: the jab lesson rhymes with Ch14's dream-correction. MD5 CD1D2ADC57ACA2F0C92D81BB9AD09BDF. Checker silent. Read in
+  chat. **Day 09-07 = 1,356 + 435 = 1791.** ✅
+- **2026-09-07 (same night) — Ch18 v2 INTAKEN (chat paste, as-is, 281w prose): THE DATE
+  (D1 Ch17 overhauled)** — polo and slacks, "you're already on thin ice," the Thump ladder 1→4
+  under her jabs ("Is this for when you told me how much you loved me?" / "At least you
+  apologised once." / "watching you implode" — the ribs shot), "We hadn't even ordered our
+  drinks yet," and the new hinge: **"Give me a reason. Show me Chuck."** — Lisa holds the
+  verdict; sofa ending, DUI, gaze inventory, and the spoken thesis all CUT. Open (chat): the D1
+  line "I remember when you wouldn't touch alcohol" fell out — reclaim or not; "Show me" is a
+  promissory note the comeback fight can pay. MD5 F7BCC358D1F46BCD1B1B0C0DF3EFEE70. Checker silent. Read in chat.
+  **DAY 09-07 FINAL = 2072 words, seven chapters (Ch12–18) — the biggest D2 day on record.** ✅
+  Author: "The hardest part is over." Tomorrow (Tue Sep 8 = delivery day): one last push to
+  finish; if the morning doesn't close it, the standing ruling applies (October slides before
+  the book rushes) → tell Michael the new date.

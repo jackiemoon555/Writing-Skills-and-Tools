@@ -23,7 +23,44 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## NEXT SESSION — START HERE (updated 2026-08-31, home-session close) — DROPS DONE; AIRPORT NEXT; SEP 8 DEADLINE
+> ## NEXT SESSION — START HERE (updated 2026-09-07 night) — DELIVERY DAY IS TOMORROW (TUE SEP 8); D2 THROUGH CH18; LAST PUSH TO FINISH
+> **Session closed 2026-09-07 night, merged to main. THE CONTRACT stays in force (ask-first). Model:
+> Fable 5.1 as of 09-07 (author switched mid-session; no behavior change requested).**
+> **⏰ TUE SEP 8 = the manuscript goes to MICHAEL S. (Reedsy offer #497719 ACCEPTED Sept 1 —
+> $522.50 all-in, proofread incl., completion Sep 30).** Author's plan: "one last big push
+> tomorrow morning to finish up. The hardest part is over." If the morning doesn't close it, the
+> standing ruling applies — October slides before the book rushes → he tells Michael the new date.
+> **Before delivery: EVERY D2 piece must be in the D2 MASTER DOC** (Ch10–18 were chat pastes;
+> Int2 lives in its own Doc "Interlude 2 take 3") — verify at the pull. Editor hunt CLOSED
+> (Travis declined warmly, one courtesy question sent).
+> **D2 STATE: Prologue → Ch18 + Vlad interlude + Nicole interlude (Int2 take 3).** 09-07 = 2,072
+> words, seven chapters (Ch12–18) — biggest D2 day on record — after a Sep 1–6 writer's-block
+> stretch (Ch12–13 drafted across it; batch-logged, no daily marks). Tonight's chapters: Ch12
+> Miami airport (John + Nicole; "Nice watch.") · Ch13 Texas/Dad/LISA enters · Ch14 the casino
+> bottom (blackout dream-fight → "The cell door slammed" — **the casino arrest REPLACES the DUI**,
+> blackout CLAIMED intentional) · Ch15 the pickup (pad ladder; **"I'm still here, son."** = Dad's)
+> · Ch16 the run + Lisa's bar ("Three days" = SOBRIETY COUNTER, claimed recurring) · Ch17 garage
+> film room (fight set, 4 months; Rob re-enters via Dad; "always behind the jab" — rhymes with the
+> Ch14 dream-correction, claim pending; tape-switch wording LEFT AS-IS by ruling) · Ch18 the date
+> overhauled (Lisa holds the verdict: **"Give me a reason. Show me Chuck."**).
+> **⚠️ CORRECTED CANON (09-07): REHAB IS NOT AT THE BOTTOM** — rehab comes AFTER the Vlad rematch
+> (D1 order); the tense seam fires there; present tense = the final act only. Ch15+ stay PAST.
+> **THE ROAD AHEAD (D1 material, D2 rulings applied — see ledger 09-07 + chat map):** presser
+> (the ex/teammate question) → comeback fight, SHORT, "The Chosen" dropped from Bruce's intro,
+> the CALLOUT (never drafted) → warm stretch (Carl from Thailand; Carl/Nicole wedding CUT) →
+> Vegas: Rob, Vlad crashes dinner, the vial, "I fell off the wagon" → Lisa lands → wake-up →
+> the gate (she meets him there — ruled) → WEIGH-IN scene owed (blown cut → catchweight →
+> asterisk) → Vlad fight from inside (R5 he gets up; "Look who's finally here" — protect) →
+> backstage (Vlad sits in trunks, one line) → retire → Rob's offer refused (**"take your fucking
+> watch back"** docks here) → Carl airport → living room → rehab curb, Lisa pregnant → Dan's
+> interlude → THE SEAM → present: release, John's penthouse, the corner, the towel, the break,
+> the car, "C-c-charles." Lisa test bar: her scene, in the room, not a phone call; "Show me" =
+> the promissory note the comeback fight can pay. Open small items: "I remember when you
+> wouldn't touch alcohol" (D1's best Lisa line) fell out of Ch18 — reclaim?; Ch12 closing line
+> = rule-6 class for revision; three TV-opens now (Int2/Ch10 + D1's Ch14 broadcast if reused).
+> **Revision-pass targets logged in the room ledger + checkers (Ch10–18, all parked).**
+>
+> ## NEXT SESSION — PREVIOUS (updated 2026-08-31, home-session close) — DROPS DONE; AIRPORT NEXT; SEP 8 DEADLINE
 > **Home session 2026-08-27→31 CLOSED, merged to main. THE CONTRACT stays in force (ask-first).**
 > **⏰ THE CLOCK: D2 handoff to the editor = MON SEP 8 (author's own deadline). Dallas bachelor
 > party Sep 4–7 blocks those days → remaining runway = Sep 1–3.** Floor record this stretch:
