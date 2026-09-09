@@ -507,3 +507,7 @@ only. Do not report % complete or a finish-length again.
   Ch28 revised)** — NEW "I trust you." (Dad's whisper = the relapse's price); Rob's "The Chosen"
   greeting kept as the re-naming weapon; ladder 1→4. MD5 617665D6BF89C727842C355FDCF13751. Checker silent. Day 09-08 so
   far: **4004**.
+- **2026-09-08 — Ch28 v2 INTAKEN (chat paste, as-is, 254w prose): THE DINNER / THE RELAPSE
+  (D1 Ch29 revised)** — Vlad to one Ch19-register line; Anatoly on the page; relapse = act only
+  (vial + Rob's glass), "I fell off the wagon" cut; ladder stops at ×4 — OPEN claim. MD5
+  8F37FB89E82FB32DC84B85E6CE16981D. Checker silent. Day 09-08 so far: **4258**.
