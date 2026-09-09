@@ -503,3 +503,7 @@ only. Do not report % complete or a finish-length again.
   revised)** — opener cut, philosophy re-attributed to Carl, Thailand consistent; "fuck and
   fight" line dropped by choice. MD5 9B141553704AAF1800982F57A0C95492. Checker silent. Day 09-08 so far:
   **3774**.
+- **2026-09-08 — Ch27 v2 INTAKEN (chat paste, as-is, 230w prose): VEGAS AIRPORT, ROB (D1
+  Ch28 revised)** — NEW "I trust you." (Dad's whisper = the relapse's price); Rob's "The Chosen"
+  greeting kept as the re-naming weapon; ladder 1→4. MD5 617665D6BF89C727842C355FDCF13751. Checker silent. Day 09-08 so
+  far: **4004**.
