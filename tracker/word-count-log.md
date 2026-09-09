@@ -485,3 +485,9 @@ only. Do not report % complete or a finish-length again.
   / "I'm scared. Not again." / Chuck releases her ("Some things can't be taken back") / ends on
   HER terms: "Maybe, we can just go slow." Fixes applied pre-intake (wine→cider, pronoun, told
   close cut). MD5 72540796BB9D9B03C0E489E1B0609872. Checker silent. Day 09-08 so far: **2259**.
+- **2026-09-08 — Ch24 v2 INTAKEN (chat paste, as-is, 409w prose): THE FIGHT IS SET + CARL
+  (D1 Ch25 revised)** — TV: Mills KO recap → Linares pulls out on Vlad → "the Miles rematch" →
+  Rob's call ($1M + $250k step-in) → "Can you handle this Chuck?" answered by Carl through the
+  door (flip-flops, five years in Thailand, Dad's tear, "My two boys are back here again").
+  ⚠ stray "Rojas" in Dave's line — master fix. TV-open #3 — claim pending. MD5 A093A6EAE60D1EA496B6EFDB6DE68F8A. Checker
+  silent. Day 09-08 so far: **2668**.
