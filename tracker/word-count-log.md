@@ -499,3 +499,7 @@ only. Do not report % complete or a finish-length again.
   revised** — present tense (residual slips = line pass), POV leak fixed, name ladder ×1→×4
   preserved, "the one that got away" unnamed. Placed after Ch25. MD5 3645367F6B1706E3296BCF51BBB1D7B2. Checker silent.
   Day 09-08 so far: **3481**.
+- **2026-09-08 — Ch26 v2 INTAKEN (chat paste, as-is, 293w prose): THE RUN WITH CARL (D1 Ch27
+  revised)** — opener cut, philosophy re-attributed to Carl, Thailand consistent; "fuck and
+  fight" line dropped by choice. MD5 9B141553704AAF1800982F57A0C95492. Checker silent. Day 09-08 so far:
+  **3774**.
