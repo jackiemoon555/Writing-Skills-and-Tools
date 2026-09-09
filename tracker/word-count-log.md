@@ -511,3 +511,8 @@ only. Do not report % complete or a finish-length again.
   (D1 Ch29 revised)** — Vlad to one Ch19-register line; Anatoly on the page; relapse = act only
   (vial + Rob's glass), "I fell off the wagon" cut; ladder stops at ×4 — OPEN claim. MD5
   8F37FB89E82FB32DC84B85E6CE16981D. Checker silent. Day 09-08 so far: **4258**.
+- **2026-09-08 — INTERLUDE 4 (Vlad 2) INTAKEN (chat paste, as-is, 400w prose)** — the gym
+  circle + Anatoly + THE KIDS at the gym (Int1 plant paid) → fans beat on the Range Rover → "The
+  harvest from what I have sown." Slotted after Ch28 where D1's Lisa-lands chapter was CUT
+  (author: Lisa's D2 character doesn't chase; Vlad 2 = the cast-spectrum cut). MD5 4866F0AA784442A8B65145CAB75699C6.
+  Checker silent. Day 09-08 so far: **4658**.

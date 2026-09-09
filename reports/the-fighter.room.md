@@ -2193,3 +2193,11 @@ his call, not prescribed).
     Thump ladder deliberately STOPS at ×4 (no ×5) — the fall is the act alone (the vial, Rob's
     glass) and the pulse doesn't even spike. Protect; do not re-flag. Vlad's dinner presence =
     one line in the Ch19 register (cartoon-Vlad superseded on the page). Anatoly introduced.
+  - **RULINGS (author, 2026-09-08) — D1 Ch30 (Lisa lands in Vegas) CUT from D2** — Lisa's D2
+    character set terms ("go slow") and doesn't chase; the bender's discovery already lives in the
+    wake-up. **INTERLUDE 4 = VLAD 2 takes the slot** (after the relapse): built from take 1's
+    frozen leftovers, the kids at the gym (the Int1 plant "they'll really get to know their
+    father" PAID — hidden from Sophia by her absence), fans on the glass = the floor drops, closer
+    "The harvest from what I have sown" = Vlad stating the price as fact (his ruled register).
+    Move-up = still a thought ("give me some time"), decided later. Consequences open: the
+    pregnancy reveal's venue (gate vs rehab curb) and Dad's "I trust you" payoff (→ the gate).
