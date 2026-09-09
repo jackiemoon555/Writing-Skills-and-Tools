@@ -23,6 +23,40 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
+> ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
+> **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
+> **THE DEADLINE WAS MISSED — author's own call, no drama:** "I overestimated, rookie mistake… last
+> second push wasn't enough, but I didn't sacrifice quality." He messages MICHAEL S. on 09-09 to
+> re-set the delivery date (offer #497719 accepted 09-01; completion was Sep 30 — expect it to slide).
+> **AUTHOR'S NOTE TO SELF (carry it):** find the correct time frame and time around events — plan
+> finish dates from PIECE COUNTS, not hope. Calibration from the record: **09-08 = 4,658 words,
+> 12 pieces (Ch19–28 + Int3 + Int4) at full quality in one day** — the best D2 day ever. Remaining
+> ≈ 16 pieces → ~1.5–2 more days of that kind. That's the honest number to give Michael.
+> **D2 STATE: Prologue → Ch28 + Interludes 1 (Vlad), 2 (Nicole), 3 (Rob), 4 (Vlad 2).**
+> Today's pieces: Ch19 presser (machine makes the fight — CALLOUT superseded) · Ch20 walkout
+> (name shed "Chuck Miles!", descending ladder, crowd-as-void — all claimed) · Ch21 fight from
+> John/Nicole's seats (Mills; storm-off stays = not the exit) · Ch22 plane · Ch23 mom's dinner
+> (cider; "Maybe, we can just go slow." — Show-me paid on Lisa's terms) · Ch24 fight set + Carl
+> · Ch25 breakfast · Int3 Rob (present, ladder intact) · Ch26 the run · Ch27 Vegas airport ("I
+> trust you.") · Ch28 the dinner/relapse (Vlad one line, Anatoly, Rob's glass; ladder stops at
+> ×4 + "fell off the wagon" cut — CLAIMED) · **Int4 Vlad 2** (kids at the gym, plant paid, "The
+> harvest from what I have sown.") — **D1's Lisa-lands chapter CUT** (she doesn't chase).
+> **MASTER-DOC FIX LIST (author, before delivery):** Ch21 stray "Rodriguez" · Ch24 stray "Rojas"
+> · Ch25 "four years" ×2 → five · plus every chat-pasted piece Ch10–28 + Int2–4 must LAND in the
+> D2 master Doc (verify at the pull).
+> **THE ROAD LEFT (D1 material, rulings applied — bones served on request, flags first):**
+> Ch29 = D1 Ch31 wake-up (flags already given: the weigh-in clock; keep "My savior," "people
+> under the city," "Where's my phone?") → the GATE (family leaving; Dad's "I trust you" payoff
+> lands here; pregnancy reveal venue OPEN: gate vs rehab curb) → **WEIGH-IN (NEW PAGES: blown
+> cut → catchweight → asterisk)** → **VLAD FIGHT (REWRITE: from inside, R5 he gets up, "Look
+> who's finally here" — protect; no thesis lines)** → backstage (Vlad sits in trunks, one line)
+> → retire → Rob's offer refused (name John; **"take your fucking watch back"** docks) → Carl
+> airport → living room (EXPAND) → rehab curb → Dan's interlude → **THE SEAM** → present tense:
+> release, John's penthouse, the corner, the towel, the break, the car, "C-c-charles."
+> **Open decisions:** John/Flash interlude placement (moved later) · Nicole's wordless exit
+> (docks at "Nicole bolted") · epilogue independence beat (one shown detail) · Vlad's move-up
+> decided later · TV-open ×3 claim (Int2/Ch10/Ch24) · Ch17 dream-jab rhyme claim.
+>
 > ## NEXT SESSION — START HERE (updated 2026-09-07 night) — DELIVERY DAY IS TOMORROW (TUE SEP 8); D2 THROUGH CH18; LAST PUSH TO FINISH
 > **Session closed 2026-09-07 night, merged to main. THE CONTRACT stays in force (ask-first). Model:
 > Fable 5.1 as of 09-07 (author switched mid-session; no behavior change requested).**

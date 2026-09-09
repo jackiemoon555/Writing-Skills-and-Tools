@@ -2167,3 +2167,37 @@ his call, not prescribed).
     curb). Therefore: **Ch15 = Chuck getting OUT OF JAIL, still PAST TENSE.** The tense seam
     fires later, at the post-Vlad rehab skip — present tense = the final act (fight week, the
     stool, the break, epilogue). Precedence applied: author decision > ledger inference.
+  - **RULING (author, 2026-09-08): THE MACHINE MAKES THE VLAD FIGHT.** Architecture item 3 (the
+    post-win CALLOUT as Chuck's reckless driver decision) is SUPERSEDED by the page: Dave promises
+    the title shot from the presser podium before the comeback fight (Ch19); no callout. Item 4
+    (the machine shown once, cold) now carries the fight-making. Ch19 also: Vlad on the same card,
+    lounge coffee = relates-not-consoles delivered pre-fight ("It's all bullshit").
+  - **CLAIMED DEVICES (author, 2026-09-08) — Ch20 the walkout:** (1) "Chuck Miles!" — the
+    announcer drops BOTH "The Chosen" and "Chucky": the full identity shed, stronger than the
+    D1 plan (which kept "Chucky"). (2) The Thump ladder runs DOWN into the cage (1→4→3→2, the
+    announcer takes the last beat) — direction law: descending = settling; the inverse of Ch1's
+    ascent into the takedown = the driver walking in calm. (3) "The void of the crowd" — the
+    void/abyss motif (the drink, Ch12–14) transferred to the crowd: the crowd was always the
+    other drink. Protect all three in revision; do not re-flag while the quotes match.
+  - Also 09-08: comeback opponent = MILLS (new nobody, "tough but not elite"); Rodriguez rematch
+    not used in D2 — consistent with the 08-18 ruling (same nobody OR a different one).
+    REFINED (author, same morning): (1) name shed = INTENTIONAL · (2) the descending ladder =
+    NOT planned, adopted on sight ("I don't hate it") — treat as claimed going forward · (3)
+    crowd-as-void = CLAIMED.
+  - **RULING (author, 2026-09-08) — NICOLE'S EXIT DESIGN:** the D1 Ch22 storm-off ("Then I'm
+    gone John. Fuck you.") STAYS AS-IS = a toxic-relationship fight she returns from. The REAL
+    exit comes later: John says the thing that finally ends it and she leaves WITH NO WORDS
+    (docks at "Nicole bolted. I didn't ask."). Nicole's leaving-ladder across the book: words
+    (Chuck, 4am) → the freeze (the curb, Int2) → silence (John). Observed, author-confirmed.
+  - **CLAIMED (author, 2026-09-08) — Ch28 the relapse:** "I fell off the wagon" CUT and the
+    Thump ladder deliberately STOPS at ×4 (no ×5) — the fall is the act alone (the vial, Rob's
+    glass) and the pulse doesn't even spike. Protect; do not re-flag. Vlad's dinner presence =
+    one line in the Ch19 register (cartoon-Vlad superseded on the page). Anatoly introduced.
+  - **RULINGS (author, 2026-09-08) — D1 Ch30 (Lisa lands in Vegas) CUT from D2** — Lisa's D2
+    character set terms ("go slow") and doesn't chase; the bender's discovery already lives in the
+    wake-up. **INTERLUDE 4 = VLAD 2 takes the slot** (after the relapse): built from take 1's
+    frozen leftovers, the kids at the gym (the Int1 plant "they'll really get to know their
+    father" PAID — hidden from Sophia by her absence), fans on the glass = the floor drops, closer
+    "The harvest from what I have sown" = Vlad stating the price as fact (his ruled register).
+    Move-up = still a thought ("give me some time"), decided later. Consequences open: the
+    pregnancy reveal's venue (gate vs rehab curb) and Dad's "I trust you" payoff (→ the gate).

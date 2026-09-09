@@ -454,3 +454,70 @@ only. Do not report % complete or a finish-length again.
   Author: "The hardest part is over." Tomorrow (Tue Sep 8 = delivery day): one last push to
   finish; if the morning doesn't close it, the standing ruling applies (October slides before
   the book rushes) → tell Michael the new date.
+- **2026-09-08 (Tue, DELIVERY DAY, written at work in Reedsy) — Ch19 v2 INTAKEN (chat paste,
+  as-is, 574w prose): THE COMEBACK PRESSER** — Vlad on the same card ("my biggest fights are
+  usually with my wife" / "I train for the deep waters"), "I was too sober for this shit," Dave
+  promises the title shot from the podium, the lounge coffee ("It's all bullshit." / "Good luck
+  out there, Chuck."). Author labeled the paste "Chapter 18" → renumbered 19 on his word.
+  **RULING: the MACHINE (Dave) makes the Vlad fight — the ruled CALLOUT is superseded.** "Crept
+  into my consciousness" left for the editor. MD5 2794AC1436FB467C833266A8A9E8EE79. Checker silent. Read in chat.
+  Day 09-08 so far: **574**.
+- **2026-09-08 — Ch20 v2 INTAKEN (chat paste, as-is, 291w prose): THE WALKOUT** — locker-room
+  pads, opponent = MILLS (a new nobody; Rodriguez rematch not used), Dad's "Go, become you,
+  again.", Bruce: "…Chuck Miles!" **CLAIMED (author: "You get it?"):** the full name shed (no
+  Chosen, no Chucky) · the Thump ladder DESCENDING 1→4→3→2 into the cage = the driver walks in
+  settling (inverse of Ch1's climb) · "the void of the crowd" = the crowd as the other drink.
+  Fight itself → next chapter from John/Nicole's seats (ruled device). MD5 36248E95850A662D4C1075D723B1722A. Checker
+  silent. Read in chat. Day 09-08 so far: **865**.
+- **2026-09-08 — Ch21 v2 INTAKEN (chat paste, as-is, 557w prose): THE FIGHT FROM JOHN AND
+  NICOLE'S SEATS (D1 Ch22 revised)** — Mills for Rodriguez, POV leaks fixed, watch line + gaze
+  inventory + movie line cut, the KO carries the fight alone, storm-off kept (ruled: a fight,
+  not the exit). ⚠ ONE "Rodriguez" survives — author fixes in the master. MD5 D62F593B592C4FF0ABB847C5D95011D2. Checker
+  silent. Day 09-08 so far: **1422**.
+- **2026-09-08 — Ch22 v2 INTAKEN (chat paste + fix, 479w prose): THE PLANE HOME (D1 Ch23
+  revised)** — "Ask Rob" replaces the rights line; "that kid" = Mills ("You told me he was just
+  alright"); veins line cut; orphaned follow-up cut. Kept by choice: cost-of-love opener, "The
+  Chosen" echo, the younger/older simile. MD5 08EC015C6CB7CEC7B353C6CBC4E1C393. Checker silent. Day 09-08 so far:
+  **1901**.
+- **2026-09-08 — Ch23 v2 INTAKEN (fresh rewrite of D1 Ch24, 358w prose): MOM'S DINNER —
+  "SHOW ME" PAID** — mom's "Don't fuck it up," the candle + SPARKLING CIDER (the family knows;
+  nobody says it), "Thanks, sis," Lisa's "she got me out of a jam" plant, "Chuck, is this real?"
+  / "I'm scared. Not again." / Chuck releases her ("Some things can't be taken back") / ends on
+  HER terms: "Maybe, we can just go slow." Fixes applied pre-intake (wine→cider, pronoun, told
+  close cut). MD5 72540796BB9D9B03C0E489E1B0609872. Checker silent. Day 09-08 so far: **2259**.
+- **2026-09-08 — Ch24 v2 INTAKEN (chat paste, as-is, 409w prose): THE FIGHT IS SET + CARL
+  (D1 Ch25 revised)** — TV: Mills KO recap → Linares pulls out on Vlad → "the Miles rematch" →
+  Rob's call ($1M + $250k step-in) → "Can you handle this Chuck?" answered by Carl through the
+  door (flip-flops, five years in Thailand, Dad's tear, "My two boys are back here again").
+  ⚠ stray "Rojas" in Dave's line — master fix. TV-open #3 — claim pending. MD5 A093A6EAE60D1EA496B6EFDB6DE68F8A. Checker
+  silent. Day 09-08 so far: **2668**.
+- **2026-09-08 — Ch25 v2 INTAKEN (chat paste, as-is, 324w prose): BREAKFAST WITH CARL (D1
+  Ch26 revised)** — parking-lot backstory replaced by the real Vlad memory; mom serves; fake-Rolex
+  line cut; told close cut; Lisa corrects "Lizzie" as the exit. ⚠ "four years" ×2 → five (master
+  fix). MD5 0768E01987EFBE7147C88069A60D0A0F. Checker silent. Day 09-08 so far: **2992**.
+- **2026-09-08 — INTERLUDE 3 (Rob) INTAKEN (chat paste, as-is, 489w prose): D1 Interlude 3
+  revised** — present tense (residual slips = line pass), POV leak fixed, name ladder ×1→×4
+  preserved, "the one that got away" unnamed. Placed after Ch25. MD5 3645367F6B1706E3296BCF51BBB1D7B2. Checker silent.
+  Day 09-08 so far: **3481**.
+- **2026-09-08 — Ch26 v2 INTAKEN (chat paste, as-is, 293w prose): THE RUN WITH CARL (D1 Ch27
+  revised)** — opener cut, philosophy re-attributed to Carl, Thailand consistent; "fuck and
+  fight" line dropped by choice. MD5 9B141553704AAF1800982F57A0C95492. Checker silent. Day 09-08 so far:
+  **3774**.
+- **2026-09-08 — Ch27 v2 INTAKEN (chat paste, as-is, 230w prose): VEGAS AIRPORT, ROB (D1
+  Ch28 revised)** — NEW "I trust you." (Dad's whisper = the relapse's price); Rob's "The Chosen"
+  greeting kept as the re-naming weapon; ladder 1→4. MD5 617665D6BF89C727842C355FDCF13751. Checker silent. Day 09-08 so
+  far: **4004**.
+- **2026-09-08 — Ch28 v2 INTAKEN (chat paste, as-is, 254w prose): THE DINNER / THE RELAPSE
+  (D1 Ch29 revised)** — Vlad to one Ch19-register line; Anatoly on the page; relapse = act only
+  (vial + Rob's glass), "I fell off the wagon" cut; ladder stops at ×4 — OPEN claim. MD5
+  8F37FB89E82FB32DC84B85E6CE16981D. Checker silent. Day 09-08 so far: **4258**.
+- **2026-09-08 — INTERLUDE 4 (Vlad 2) INTAKEN (chat paste, as-is, 400w prose)** — the gym
+  circle + Anatoly + THE KIDS at the gym (Int1 plant paid) → fans beat on the Range Rover → "The
+  harvest from what I have sown." Slotted after Ch28 where D1's Lisa-lands chapter was CUT
+  (author: Lisa's D2 character doesn't chase; Vlad 2 = the cast-spectrum cut). MD5 4866F0AA784442A8B65145CAB75699C6.
+  Checker silent. Day 09-08 so far: **4658**.
+- **2026-09-08 FINAL — DELIVERY DAY: DRAFT 2 NOT FINISHED. DAY = 4,658 words, 12 pieces (Ch19–28
+  + Int3 + Int4) — THE BEST D2 DAY ON RECORD, at full quality.** Author: "I overestimated,
+  rookie mistake… I didn't sacrifice quality, so I can write high quality stuff at a good pace."
+  He messages Michael 09-09 to re-set the date. Remaining ≈ 16 pieces → ~1.5–2 more days like
+  this one. Note to self (his): plan finish dates from piece counts and real time frames.
