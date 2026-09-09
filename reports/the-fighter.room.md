@@ -2189,3 +2189,7 @@ his call, not prescribed).
     exit comes later: John says the thing that finally ends it and she leaves WITH NO WORDS
     (docks at "Nicole bolted. I didn't ask."). Nicole's leaving-ladder across the book: words
     (Chuck, 4am) → the freeze (the curb, Int2) → silence (John). Observed, author-confirmed.
+  - **CLAIMED (author, 2026-09-08) — Ch28 the relapse:** "I fell off the wagon" CUT and the
+    Thump ladder deliberately STOPS at ×4 (no ×5) — the fall is the act alone (the vial, Rob's
+    glass) and the pulse doesn't even spike. Protect; do not re-flag. Vlad's dinner presence =
+    one line in the Ch19 register (cartoon-Vlad superseded on the page). Anatoly introduced.
