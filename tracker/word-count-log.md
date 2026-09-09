@@ -491,3 +491,7 @@ only. Do not report % complete or a finish-length again.
   door (flip-flops, five years in Thailand, Dad's tear, "My two boys are back here again").
   ⚠ stray "Rojas" in Dave's line — master fix. TV-open #3 — claim pending. MD5 A093A6EAE60D1EA496B6EFDB6DE68F8A. Checker
   silent. Day 09-08 so far: **2668**.
+- **2026-09-08 — Ch25 v2 INTAKEN (chat paste, as-is, 324w prose): BREAKFAST WITH CARL (D1
+  Ch26 revised)** — parking-lot backstory replaced by the real Vlad memory; mom serves; fake-Rolex
+  line cut; told close cut; Lisa corrects "Lizzie" as the exit. ⚠ "four years" ×2 → five (master
+  fix). MD5 0768E01987EFBE7147C88069A60D0A0F. Checker silent. Day 09-08 so far: **2992**.
