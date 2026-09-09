@@ -495,3 +495,7 @@ only. Do not report % complete or a finish-length again.
   Ch26 revised)** — parking-lot backstory replaced by the real Vlad memory; mom serves; fake-Rolex
   line cut; told close cut; Lisa corrects "Lizzie" as the exit. ⚠ "four years" ×2 → five (master
   fix). MD5 0768E01987EFBE7147C88069A60D0A0F. Checker silent. Day 09-08 so far: **2992**.
+- **2026-09-08 — INTERLUDE 3 (Rob) INTAKEN (chat paste, as-is, 489w prose): D1 Interlude 3
+  revised** — present tense (residual slips = line pass), POV leak fixed, name ladder ×1→×4
+  preserved, "the one that got away" unnamed. Placed after Ch25. MD5 3645367F6B1706E3296BCF51BBB1D7B2. Checker silent.
+  Day 09-08 so far: **3481**.
