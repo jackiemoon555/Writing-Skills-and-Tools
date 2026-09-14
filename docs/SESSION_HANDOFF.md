@@ -23,6 +23,48 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
+> ## ⚡ SATELLITE SESSION 2026-09-13 (evening) — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
+> **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
+> may hold a fuller update he said was coming — if a later block from that session exists, it
+> outranks this one. Merged to main at close (rule 9). Auto-memory mirror NOT refreshed (the live
+> namespace is on his PC, unreachable from here).
+> **THE PIVOT (author, 2026-09-13):** **The Champ is SHELVED** — ~16 D2 pieces from done; his call,
+> "I learned a lot from The Champ but it's what I want to write. I want to write fantasy. It'll be
+> shelved, I'll come back to it." Michael S. / Reedsy offer #497719: author says **"I'm not his
+> client, don't worry"** — treat as NOT a live contract (his word > the 09-01 ledger entry). He is
+> creating a **new Reedsy account under JACK MOON** (resolves the real-name-byline flag).
+> **NEW STORY = a DISCOVERY DRAFT.** "No rules this time or any structure. I'm gonna write it and
+> let it build itself as I write. I'll analyze and edit after. I want to try this once." Rule 4b
+> in full force: **nothing ports from The Champ** — no craft focus, no style sheet, no motif law,
+> no register, no floor unless he invokes it himself (he did tonight, informally). **Room runs on
+> request; REVISIONS HELD; passes kept in sequence** so he can watch the notes change as the
+> story grows. **Chat only until the draft ends:** he said NO ledger logging of intent/rulings —
+> the room passes are the only record he wants kept. Nudges stay normal.
+> **THE PIECE:** Google Doc **"TBD"** (id `18Y18zqtuIqebYkDWOZNGw2rU6mdHM4sG3BVi1ZWjk10`; in-text
+> "Unnamed Story"). Working handle **"Task Force Cryptid"** (from the prologue's last line — not a
+> title). Modern-day: a priest is handed a blank check by Director Burch to build a government
+> cryptid unit; Ch1 = a boot, Johnson, pulled from a hazing toward an unknown summons. Ledger:
+> `reports/task-force-cryptid.room.md` (head blocks + **Pass 1**). Snapshot
+> `manuscripts/task-force-cryptid_prologue-ch1_docpull_2026-09-14.txt`, 826w (prologue 448 / Ch1
+> 373). **Day 09-13 = 826.** Not Five Families, not the trilogy — fresh world.
+> **PASS 1 VERDICT (chat, 09-13):** concept hooks, scene doesn't yet — prologue has no resistance
+> (blank check pre-pays every ask), premise asserted never glimpsed ("this bullshit" ×3, zero
+> nouns), captions on the turns, Director = a type while priest/officer are people. Author's
+> stated intent for the Director (chat only, NOT ledgered by his instruction): "thinks it's all
+> make-believe but doesn't care, he always follows orders" — page currently tells it ("I don't
+> have a choice") rather than tests it. Author's tone target for the office scene: deliberate
+> bureaucratic tedium — told him intentional dullness needs specific mundane particulars, not
+> vagueness.
+> **RESTRUCTURE DECIDED IN CHAT (author, 09-13 — his plan, not a ruling):** the office scene
+> becomes **CHAPTER 1**; a **NEW PROLOGUE = a glimpse of the thing that causes it** (the GoT
+> Gared-in-the-forest → Ned-executes-the-deserter structure: the reader sees what the
+> characters won't believe). Johnson's chapter shifts to Ch2. He's writing the forest next.
+> **Word-count rule he set:** each pull logged with its own count; the running total = what is
+> LIVE in the Doc at that pull (a rewrite moves the total, old versions stay frozen in snapshots).
+> **NEXT SESSION:** pull "TBD", snapshot as a NEW file, log the day, read only if he asks; run
+> the room ONLY when he says "room it" (Pass 2). Don't re-raise Pass 1 items — he's holding all
+> revisions. Don't raise The Champ unless he does.
+>
 > ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
 > **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
 > **THE DEADLINE WAS MISSED — author's own call, no drama:** "I overestimated, rookie mistake… last
