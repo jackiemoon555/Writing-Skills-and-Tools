@@ -256,3 +256,18 @@ head comes off; (2) cut the epitaph and the four captions; (3) decide whose prol
 **ONE ASK (editorial):** Rick SAW the bodies and called it a serial killer. Is that the Director
 Ch1 now inherits — a man who was there and refused — or did you mean him to arrive at the office
 scene still uninformed? The answer changes what Ch1's "bullshit" means.
+
+### AUTHOR'S HELD REVISION NOTES — Prologue v2 (logged at his instruction, 2026-09-14; revisions still HELD)
+- **Less Rick, more Jeff** — Rick is in the story after this; Jeff dies here (author's own
+  diagnosis, stated before reading Pass 2's #4).
+- **More monster** — but the creature stays a MYSTERY on purpose; author "likes how open the
+  monster is." Direction (chat, not canon): leaning werewolf, FLUID transformation, not
+  traditional; Martin's wargs minus the mind-transfer; Fool Moon's not-evil-but-killers. The
+  room's ask stands as ONE non-human perception before the kill, not a reveal.
+- **Body details back in** — slash, bite marks, etc. (he cut some during drafting; restoring
+  them replaces the "savage" ×4 abstraction with evidence).
+- **THE ENDING — AUTHOR CLAIMS IT.** "I'm a sucker for how I ended the prologue, I love it every
+  time I see it." Room's read (Pass 2 #3) stands as logged: the final sentence is an epitaph
+  telling what the death meant. His call; not re-flagged while the line still matches. Test
+  offered (chat): read the ending with the last sentence covered — if it still lands, the
+  sentence was a caption; if it collapses, it was load-bearing.
