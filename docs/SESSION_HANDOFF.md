@@ -23,7 +23,7 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-14 morning — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
+> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-14 afternoon — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
 > **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
 > may hold a fuller update he said was coming — if a later block from that session exists, it
 > outranks this one. Merged to main at close (rule 9). Auto-memory mirror NOT refreshed (the live
@@ -73,9 +73,46 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > already hooked AND the meeting still has someone wanting what they can't have. He read the GoT
 > prologue and took it apart (three attitudes / effect-before-cause / mood through the body /
 > total stakes). Structure still HIS to pick by writing. Not ruled, not ledgered.
-> **NEXT SESSION:** pull "TBD", snapshot as a NEW file, log the day + week, read only if he asks;
-> run the room ONLY when he says "room it" (Pass 2). Don't re-raise Pass 1 items — he's holding
-> all revisions. Don't raise The Champ unless he does.
+> **09-14 AFTERNOON — PROLOGUE v2 (THE FOREST) LANDED. 1,087w chat paste → snapshot
+> `manuscripts/task-force-cryptid_prologue-v2_chatpaste_2026-09-14.txt`. DAY 09-14 = 1,087 ✅.
+> WEEK 1 = 1,087 / 5,000. Live total ≈ 1,908 (new prologue + office scene now Ch1 448 + Johnson
+> now Ch2 373) — PENDING DOC VERIFY: the paste came from chat; confirm at the next "TBD" pull that
+> the new prologue + the re-ordered chapters are IN the Doc.** Room **Pass 2** logged (standing
+> instruction: every batch roomed, passes in sequence, revisions HELD). Verdict given: pulls now,
+> hooks generically; hardest = reader ends knowing exactly as much as Rick (nothing non-human on
+> the page — "the creature," 12 words); proportion (walk-in 367 / bodies 263 / argument 178 / Jeff
+> 165 / kill 114); epitaph last line; POV hands to Jeff 165 words before he dies. Real find: Rick
+> has a MOTIVE to disbelieve (the funding beef).
+> **CANON NOW ON THE PAGE:** Director = **RICK, Director of the CIA** (Burch surname from v1
+> still stands unless he changes it). Ranger = **JEFF** — DEAD, head ripped off, walk back alone.
+> Third attack in five months, "It's only May." Rick SAW the bodies and called it a serial
+> killer → Ch1's "bullshit" is now a man who was there and refused (Royce). Author's ONE ASK
+> from Pass 2 (unanswered): is that the Director Ch1 inherits, or did he mean Rick uninformed?
+> **AUTHOR'S HELD REVISION NOTES (logged in the ledger at his instruction):** less Rick / more
+> Jeff / more monster (mystery stays open — he likes how open it is) / body details back in
+> (slash, bite marks). **The ending is CLAIMED** ("I'm a sucker for how I ended it") — room's
+> epitaph read stands as logged, his call; test offered = cover the last sentence and see if it
+> still lands; register question (deadpan voice → elegiac last line) to be judged around Ch5,
+> not now.
+> **CREATURE DIRECTION (chat only, NOT canon, author settles by writing):** leaning WEREWOLF,
+> FLUID transformation (not moon-bound, not traditional); Martin's wargs minus the mind-transfer;
+> Fool Moon's not-evil-but-killers (culpability + a slope). ⚠ Flagged to him: Fool Moon's
+> government agents ARE the werewolves; his agency HUNTS one — lean in as a reversal or steer
+> away; he should re-read it before the next chapter. Fluid = loses the moon clock, gains a
+> killer who chooses. "Whatever it was wanted them dead" already fits.
+> **"DID I IMPROVE" (answered with evidence, 09-14):** moved = scene sustain (1,087w moment-to-
+> moment, no summary), staged reveal (tent → empty → lake → bodies), dialogue carrying history
+> (names as weapons), specific lines for specific men, and he self-diagnosed Pass 2's #4 before
+> reading it. NOT moved = the epitaph/explain-after-show reflex and biggest-beat-fewest-words
+> (creature 12w vs Rick's résumé 367w). Same two habits, new costume.
+> **PR MECHANICS (author, 09-14): "you don't need to check it every time, just leave it."** No
+> hourly check-ins, no status pings. Commit → push → open the draft PR → leave it; merge when he
+> says or at handoff. **PR #17 is OPEN (this session's afternoon work) — merge it at your close
+> if he hasn't.**
+> **NEXT SESSION:** pull "TBD" (verify the prologue v2 + chapter re-order landed), snapshot as a
+> NEW file, log the day + week, read only if he asks; room each new batch (Pass 3 next) per his
+> standing instruction; revisions HELD; nothing but room passes and his explicit notes go in the
+> ledger. Don't re-raise Pass 1/2 items. Don't raise The Champ unless he does.
 >
 > ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
 > **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
