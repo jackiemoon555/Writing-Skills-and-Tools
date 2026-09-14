@@ -23,7 +23,7 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## ⚡ SATELLITE SESSION 2026-09-13 (evening) — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
+> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-14 morning — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
 > **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
 > may hold a fuller update he said was coming — if a later block from that session exists, it
 > outranks this one. Merged to main at close (rule 9). Auto-memory mirror NOT refreshed (the live
@@ -61,9 +61,21 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > characters won't believe). Johnson's chapter shifts to Ch2. He's writing the forest next.
 > **Word-count rule he set:** each pull logged with its own count; the running total = what is
 > LIVE in the Doc at that pull (a rewrite moves the total, old versions stay frozen in snapshots).
-> **NEXT SESSION:** pull "TBD", snapshot as a NEW file, log the day, read only if he asks; run
-> the room ONLY when he says "room it" (Pass 2). Don't re-raise Pass 1 items — he's holding all
-> revisions. Don't raise The Champ unless he does.
+> **FLOOR FOR THIS PIECE (author, 2026-09-14 6:28am — "today is the restart"):** target **1,000
+> words/day**, judged on **5,000 words/WEEK** (Mon–Sun; week 1 starts Mon 09-14). His reason:
+> "my flow comes in bursts, I don't want to feel bad if I miss a day." Report BOTH numbers at
+> every pull (day + running week); no comment on a missed day unless the week is short. The
+> record's caution stands (zero days, not small days, slid every Champ date) — said once, not
+> re-raised. Day 09-13 = 826 (pre-restart, not in week 1). **Week 1 = 0 / 5,000** at open.
+> **NO-PROLOGUE QUESTION (chat, 09-14 morning):** he asked whether he needs a prologue at all;
+> answer given = only if the reader must know before the characters do (the GoT case); whatever
+> page is first is the hook regardless of label; a meeting can be Ch1 only if the prologue has
+> already hooked AND the meeting still has someone wanting what they can't have. He read the GoT
+> prologue and took it apart (three attitudes / effect-before-cause / mood through the body /
+> total stakes). Structure still HIS to pick by writing. Not ruled, not ledgered.
+> **NEXT SESSION:** pull "TBD", snapshot as a NEW file, log the day + week, read only if he asks;
+> run the room ONLY when he says "room it" (Pass 2). Don't re-raise Pass 1 items — he's holding
+> all revisions. Don't raise The Champ unless he does.
 >
 > ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
 > **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
