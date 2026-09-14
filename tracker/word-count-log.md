@@ -535,3 +535,11 @@ only. Do not report % complete or a finish-length again.
 - **FLOOR (author, 2026-09-14 restart): 1,000/day target, judged on 5,000/WEEK (Mon–Sun).**
   Week 1 = Mon 09-14 → Sun 09-20. Report day + running week at every pull.
 - **Week 1 (09-14 → 09-20): 0 / 5,000** — open.
+- **2026-09-14 — PROLOGUE v2 (the forest) INTAKEN (chat paste, as-is, 1,087w prose).** The
+  restructure: office scene → Ch1, this = the new prologue (Rick/CIA + Jeff the ranger, the
+  campsite bodies, Jeff killed on the walk back). Snapshot
+  `manuscripts/task-force-cryptid_prologue-v2_chatpaste_2026-09-14.txt`. MD5
+  5ab4b3879d26381a6a2118e8d0268871. Checker silent (53 hits, filed). Room Pass 2 logged.
+  **DAY 09-14 = 1,087 ✅ (floor). WEEK 1 = 1,087 / 5,000.** Live total (pending Doc verify — this
+  was a chat paste): new prologue 1,087 + office scene 448 (now Ch1) + Johnson 373 (now Ch2) =
+  **~1,908**. Old prologue v1 stays frozen in the 09-14 docpull snapshot for before/after.

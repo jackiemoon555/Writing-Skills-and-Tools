@@ -160,3 +160,99 @@ that happened; (3) cut the two captions (the "saved" line, the "put off all week
 **ONE ASK (editorial):** is the register COMIC (the daughter joke, "let me just pull them out
 of the basement") or STRAIGHT with jokes in it? The room's next read hinges on it — same
 pages, different verdicts.
+
+## Pass 2 — PROLOGUE v2, the forest (2026-09-14; 1,087w chat paste; snapshot task-force-cryptid_prologue-v2_chatpaste_2026-09-14.txt; MD5 5ab4b3879d26381a6a2118e8d0268871)
+*Restructure executed per his 09-13 plan: the office scene becomes Ch1; this is the NEW prologue =
+the glimpse of what causes it. Author's stated model (chat): the GoT prologue → Ned-executes-the-
+deserter join. Read against that. Room run per his standing instruction for this draft (each batch
+roomed, passes kept in sequence, revisions HELD). Checker filed silently (53 hits).*
+
+**WHAT CHANGED SINCE PASS 1 (the point of keeping these in sequence):** the premise now has NOUNS
+— a slashed tent, a throat ripped out, an arm and a leg missing, "third attack in five months / It's
+only May." Pass 1's #2 (asserted, never glimpsed) is half-paid. The Director now has a name (Rick),
+an agency (CIA), a body (dress shoes in mud, gagging at the beach), and a specific line ("This is on
+US soil. Why call me?") — Pass 1's #5 (Director = a type) is materially better. Ch1's irony is now
+STRONGER than the plan: he didn't merely not-know, he SAW and called it a serial killer. That's
+Royce. Protect that design.
+
+**HARDEST FIRST — (1) The prologue's structural job is dramatic irony, and it isn't achieved:
+the reader ends the prologue knowing exactly as much as Rick.** Nothing on the page is non-human.
+The bodies read as a slasher's work; Jeff ASSERTS "this wasn't a man, or an animal" and Rick
+asserts back "serial killer," and the page never breaks the tie. Then the kill: "Snap!" ×3, "heavy
+footfalls," "Nothing," and "The creature ripped his head off from behind." The word "creature" is
+the narrator telling us; Jeff perceives nothing the reader can hold. Twelve words of creature in
+1,087. Compare the model you named: Will SEES the Other — the shifting armor, the sword that
+shatters steel — and Ned still executes Gared. The reader knows more than Ned; that gap IS the hook
+of Ch1. Here the gap is zero, so Ch1's "I don't believe in any of this bullshit" lands as
+reasonable instead of damning. **Lever:** one thing Jeff perceives in his last seconds that a
+bear or a man could not produce — a smell, a size, the sound the footfalls make, what the
+flashlight catches for half a second — concrete, unexplained, and NOT the word "creature."
+Effect before cause; the glimpse, not the reveal.
+
+**(2) PACING / PROPORTION — the prologue spends itself on the argument it exists to precede.**
+Walk-in banter 367 · campsite + bodies 263 · funding argument 178 · Jeff's walk back 165 · the
+kill 114 (creature: 12). The office scene was moved to Ch1 so the prologue could be the glimpse;
+instead the prologue is 80% two men bickering outdoors, and it climaxes on "you took some of my
+funding." The funding beef is Ch1's material leaking into the forest. **Lever:** words go where
+the tension is. The three-mile walk is the dread engine and it's mostly Rick's résumé ("I was
+maybe 28, or 27. I'd had enough of the beat"); the kill is the payoff and it's a paragraph.
+
+**(3) SHOW-vs-TELL — the last sentence is an epitaph, and it isn't alone.** "He died in the
+place he loved most, killed by the same nature he swore to protect." That's the narrator stepping
+in to say what the death meant. The body falling is the end. Same class elsewhere: "the gears of
+investigation turning in his head" · "Jeff had just about had it with the CIA and its shit" ·
+"His dismay when he found out who was coming was unimaginable" · "Jeff wasn't a stranger to the
+hallucinations of night, but this was different." Each one names a feeling the page was already
+delivering. **Lever:** cut the caption, let the beat stand; the reader felt it before the sentence
+arrived.
+
+**(4) NOT WORKING — the POV hands off to the man who dies 165 words before he dies.** Rick
+carries the walk in, the bodies, the argument. Then the helicopter lifts and the page jumps into
+Jeff for the walk back and the kill. The reader's fear was built in Rick's head (the dropped
+cigarette, the combat stance) and cashed in Jeff's. In your model the POV is Will, start to
+finish; the death is HIS, and the reader has been inside him for the whole approach. **Lever:**
+one head. Either the prologue is Jeff's from the first line (Rick becomes the thing Jeff has to
+endure — which also makes Rick's dismissal land harder, seen from outside), or it stays Rick's and
+someone else pays. The current split gives the death to the character the reader knows least.
+Not a POV-slip note (parked for revision); a structural one — who the reader is afraid FOR.
+
+**(5) DIALOGUE / REPETITION.** The name-drop exchange is the best-built beat on the page: "Ya
+fuck you, Rick." / "There it is!" — the names arrive as weapons and the history spills out.
+Protect. Against it: "The Director of the CIA, scared of what goes bump in the night" says the
+theme out loud; "Kid, you haven't seen the shit I've seen in this world" and "Welcome to reality,
+Jeff" are lines any hard-ass could say. "This is your ranger, what the fuck was that?" — the
+speaker isn't legible (reads as Rick addressing Jeff as "your ranger"). "savage" ×4 in 300 words
+(savage creatures / savage mountain men / more savage / "the cut its, savage") — the word is
+doing the work the image should. "The woman hadn't faired much better" = stock phrase at the
+one place the page needs its own eyes.
+
+**SPINE / THEME PRESSURE-TEST:** none declared (discovery draft). What the page is building
+unasked: the man who follows orders vs. the man who follows the evidence, and the evidence-man
+dies unheard. That's a real spine if he wants it. The Rick/Jeff funding history is a genuine
+find — the skeptic has a MOTIVE to disbelieve (admitting it's real means Jeff was right about
+the money). That's better than Royce, who's merely arrogant. It is currently buried under the
+argument's volume; the page would keep it at a quarter the length.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** the most consequential beat in the prologue is the
+thing itself — the moment that makes a President call a priest. It gets 12 words. The second
+most consequential is the bodies (263, and the best-written stretch). The least consequential,
+Rick's walk-in monologue about going federal, gets 367. Ratio: walk-in 30× the creature. The
+habit held on the restructure — flagged in Pass 1, present in Pass 2. Watching it.
+
+**WORKS — PROTECT:**
+- "This is on US soil. Why call me?" — the CIA's jurisdiction as the first question. One line,
+  and the Director is a specific man with a specific job.
+- "Each drag seemed to pull the woods closer." — the dread engine in one image.
+- "It's only May." — the whole scale of the problem in three words.
+- The slashed tent → "It's empty." → the walk to the lake — the reveal is STAGED, in the right
+  order, and the reader arrives at the bodies with Rick.
+- "Ya fuck you, Rick." / "There it is!" — the names as weapons.
+- Jeff's flashlight-under-the-pistol sweep → "Nothing." → "Jeff could only hear his heart." —
+  the three lines before the kill are the right three lines. What's missing comes AFTER them.
+
+**PRIORITY-3 (held — revisions are HELD):** (1) give Jeff one non-human perception before the
+head comes off; (2) cut the epitaph and the four captions; (3) decide whose prologue this is.
+
+**ONE ASK (editorial):** Rick SAW the bodies and called it a serial killer. Is that the Director
+Ch1 now inherits — a man who was there and refused — or did you mean him to arrive at the office
+scene still uninformed? The answer changes what Ch1's "bullshit" means.
