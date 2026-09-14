@@ -521,3 +521,14 @@ only. Do not report % complete or a finish-length again.
   rookie mistake… I didn't sacrifice quality, so I can write high quality stuff at a good pace."
   He messages Michael 09-09 to re-set the date. Remaining ≈ 16 pieces → ~1.5–2 more days like
   this one. Note to self (his): plan finish dates from piece counts and real time frames.
+
+## NEW PIECE (2026-09-14): UNNAMED STORY — working handle "Task Force Cryptid" (Google Doc "TBD")
+- **Author pivot (2026-09-14): The Champ SHELVED (his call; he'll come back to it). New story =
+  a DISCOVERY DRAFT — no rules, no structure, build it as he writes, analyze after. Room runs on
+  request; revisions HELD; passes kept in sequence.** Words here do not count toward any Champ
+  number. No floor declared for this piece.
+- **2026-09-14 — PROLOGUE + CH1 INTAKEN (Doc pull, as-is, 826w prose: prologue 448 / Ch1 373;
+  Doc created 09-13, last edited 09-13 evening).** Snapshot
+  `manuscripts/task-force-cryptid_prologue-ch1_docpull_2026-09-14.txt`. MD5
+  89ed84428bd3f9ed14ccae88c1fc98e3. Checker silent (49 hits, filed). Room Pass 1 →
+  `reports/task-force-cryptid.room.md`.
