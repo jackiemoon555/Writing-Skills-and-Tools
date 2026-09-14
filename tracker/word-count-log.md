@@ -532,3 +532,6 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/task-force-cryptid_prologue-ch1_docpull_2026-09-14.txt`. MD5
   89ed84428bd3f9ed14ccae88c1fc98e3. Checker silent (49 hits, filed). Room Pass 1 →
   `reports/task-force-cryptid.room.md`.
+- **FLOOR (author, 2026-09-14 restart): 1,000/day target, judged on 5,000/WEEK (Mon–Sun).**
+  Week 1 = Mon 09-14 → Sun 09-20. Report day + running week at every pull.
+- **Week 1 (09-14 → 09-20): 0 / 5,000** — open.
