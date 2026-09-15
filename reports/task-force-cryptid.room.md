@@ -272,7 +272,7 @@ scene still uninformed? The answer changes what Ch1's "bullshit" means.
   offered (chat): read the ending with the last sentence covered — if it still lands, the
   sentence was a caption; if it collapses, it was load-bearing.
 
-## Pass 3 — CHAPTER 1 v2, Johnson (2026-09-14 evening; 628w chat paste; snapshot task-force-cryptid_ch1-v2-johnson_chatpaste_2026-09-14.txt; MD5 231b47a23dfa05c19a0170a5d25a1316)
+## Pass 3 — CHAPTER 1 v2, Johnson (2026-09-15 morning; 628w chat paste; snapshot task-force-cryptid_ch1-v2-johnson_chatpaste_2026-09-14.txt; MD5 231b47a23dfa05c19a0170a5d25a1316)
 *Titled "Chapter 1" by the author — so the Johnson chapter now FOLLOWS the forest prologue
 directly. The priest/Director office scene (v1 prologue, slated to become Ch1 on 09-13) is not
 in this batch; its placement is the pass's ONE ASK. Room run per standing instruction; revisions

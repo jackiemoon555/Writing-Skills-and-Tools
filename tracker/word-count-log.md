@@ -543,18 +543,18 @@ only. Do not report % complete or a finish-length again.
   **DAY 09-14 = 1,087 ✅ (floor). WEEK 1 = 1,087 / 5,000.** Live total (pending Doc verify — this
   was a chat paste): new prologue 1,087 + office scene 448 (now Ch1) + Johnson 373 (now Ch2) =
   **~1,908**. Old prologue v1 stays frozen in the 09-14 docpull snapshot for before/after.
-- **2026-09-14 (evening) — CHAPTER 1 v2 (Johnson) INTAKEN (chat paste, as-is, 628w prose).**
+- **2026-09-15 (morning) — CHAPTER 1 v2 (Johnson) INTAKEN (chat paste, as-is, 628w prose).**
   Rewrite of the 09-13 Johnson chapter (373w → 628w); titled "Chapter 1" by the author, so it now
   follows the forest prologue directly; priest/Director office scene placement OPEN. Snapshot
   `manuscripts/task-force-cryptid_ch1-v2-johnson_chatpaste_2026-09-14.txt`. MD5
   231b47a23dfa05c19a0170a5d25a1316. Checker silent (27 hits, filed). Room Pass 3 logged.
-  **DAY 09-14 = 1,087 + 628 = 1,715 ✅. WEEK 1 = 1,715 / 5,000.** Live total (pending Doc verify)
+  **DAY 09-15 so far = 628. DAY 09-14 stays 1,087. WEEK 1 = 1,715 / 5,000.** Live total (pending Doc verify)
   = prologue v2 1,087 + Ch1 v2 628 = 1,715, + office scene 448 IF it's still in = ~2,163. Ch1 v1
   (373) is REPLACED — frozen in the 09-14 docpull snapshot.
-  *(Counted to 09-14 — his evening; if it was past midnight his time, move it to 09-15.)*
+  *(Author confirmed 09-15: "written this morning." Moved from 09-14.)*
 - **2026-09-15 — CH1 v2.1: Brooks section REVISED (chat paste of the section; spliced into the
   chapter). Old section 213w → new 282w = **+69 net**; Ch1 now 697w. Snapshot
   `manuscripts/task-force-cryptid_ch1-v2.1-johnson_brooks-revised_2026-09-15.txt`. MD5
-  18efc8f6d947060d544386242f00731f. Pass 3a (addendum) logged. **DAY 09-15 so far = +69. WEEK 1 =
-  1,784 / 5,000.** Live total (pending Doc verify) = prologue 1,087 + Ch1 697 = 1,784 (+448 if the
+  18efc8f6d947060d544386242f00731f. Pass 3a (addendum) logged. **DAY 09-15 = 628 + 69 = 697.
+  WEEK 1 = 1,784 / 5,000.** Live total (pending Doc verify) = prologue 1,087 + Ch1 697 = 1,784 (+448 if the
   office scene is still in).
