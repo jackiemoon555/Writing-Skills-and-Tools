@@ -552,3 +552,9 @@ only. Do not report % complete or a finish-length again.
   = prologue v2 1,087 + Ch1 v2 628 = 1,715, + office scene 448 IF it's still in = ~2,163. Ch1 v1
   (373) is REPLACED — frozen in the 09-14 docpull snapshot.
   *(Counted to 09-14 — his evening; if it was past midnight his time, move it to 09-15.)*
+- **2026-09-15 — CH1 v2.1: Brooks section REVISED (chat paste of the section; spliced into the
+  chapter). Old section 213w → new 282w = **+69 net**; Ch1 now 697w. Snapshot
+  `manuscripts/task-force-cryptid_ch1-v2.1-johnson_brooks-revised_2026-09-15.txt`. MD5
+  18efc8f6d947060d544386242f00731f. Pass 3a (addendum) logged. **DAY 09-15 so far = +69. WEEK 1 =
+  1,784 / 5,000.** Live total (pending Doc verify) = prologue 1,087 + Ch1 697 = 1,784 (+448 if the
+  office scene is still in).

@@ -356,3 +356,38 @@ you joined special forces"; (3) settle where the disbeliever's scene sits relati
 
 **ONE ASK (editorial):** where does the priest/Director office scene live now — Ch2, later, or
 cut? Prologue → Johnson skips the payoff the prologue was rebuilt to set up.
+
+### Pass 3a — Ch1 v2.1, the Brooks section REVISED (2026-09-15 morning; +69w net → Ch1 = 697w; snapshot task-force-cryptid_ch1-v2.1-johnson_brooks-revised_2026-09-15.txt; MD5 18efc8f6d947060d544386242f00731f)
+*Author revised the office section same-day after the Pass 3 exchange (intent stated in chat:
+Johnson = passenger by design, SF culture = cold to shadow leaders on purpose, Cap/Sarge already
+know Brooks and obey anyway). Logged as an addendum, not a new pass — same chapter, one section.*
+
+**WHAT LANDED (Pass 3 → 3a):**
+- **The stake — answered in a subordinate clause.** "Yes, Johnson you are, you're just no longer
+  a green beret." The cost of the plane, delivered offhand by the captain, in the room's cold
+  register. That's Pass 3's #1 paid on the page, and paid the RIGHT way — as a thing said
+  sideways, not a speech. Protect.
+- **Johnson reacts to the turn.** "Nothing?" → "All three men shrugged this time." → "At least
+  fucking tell me what this is about." Pass 3's #2 answered; and "all three men shrugged" is the
+  spine in one gesture (the whole room obeys).
+- **The cold move, done physically.** "'This is uh, Brooks?' He asked smile fading from his
+  face, 'He's CIA. I think.'" — the warmth (Chad/Cap) goes flat the instant Brooks enters the
+  sentence; "I think" = contempt by feigned ignorance. This is the withheld-not-said version.
+- **Brooks cracks.** "face slightly agitated" — he's the one who reacts to the jab; the room
+  doesn't. Correct polarity.
+- "admiral captain" → "fearless leader." Fixed.
+
+**WHAT DIDN'T (held):**
+- "Don't let his bravado fool you. We've known each other for quite some time." — Brooks
+  SAYING the history the smile-fade already showed. The line explains the beat before it.
+  "Unwilling, I might add" is the good half — it's information with an edge. Show-tell class.
+- "Next time, I'll be able to fully explain this mess, but I have to leave right now." — the
+  suit apologizing for his exit. A man who outranks the room doesn't account for his time to
+  it; and "this mess" has Brooks calling his own project a mess — deliberate or a slip? (one
+  line, his call).
+- "The world rests on your shoulders, Johnson." — the one pure jab; note it's aimed at JOHNSON
+  (warmth to their own), which is consistent with the culture — but it's the weakest of the
+  additions because it's a joke, not a withholding.
+- "face slightly agitated" — a tag doing the work a gesture could.
+**Net:** three of Pass 3's four priorities moved in one revision. The join to the prologue
+(Pass 3 #3) is still open — the ONE ASK stands: where does the priest/Director scene sit?
