@@ -523,3 +523,13 @@ would have explained the yes).*
 - "She looked up thoughtfully." / "Hmmm." — filler beats between the question and the deal.
 - The Ch1-template back half (Pass 4 #2) is unchanged by this splice — still the same
   classified/NDA/pack cadence before the new ending.
+
+### Pass 4b — Ch2.2, the FIELD PLANT added to the setup (2026-09-16; +26w → Ch2 = 824w; snapshot task-force-cryptid_ch2.2-elizabeth_field-plant_2026-09-16.txt; MD5 52ae46ed3d98cfa5830c0eeb6885c68d)
+Author's add after Pass 4a: "She looked up seeing the Harvard diploma taunting her. Next to it
+was the picture of her first research team in long forgotten rain forest." — the field-want is
+now PLANTED before Brooks arrives, in two objects, with no explaining sentence (his first draft
+of the add had a rhetorical question carrying the field — "How long had it been since she was
+able to study in the field?" — he swapped the question for an object on the room's note). Pass
+4a's open item CLOSED. Bonus observed: "her first research TEAM" — in a team-assembly book her
+want is now a team she lost. "long forgotten" = one word to look at in revision (forgotten by
+whom, if she's looking at it). Her physical intro is no longer only the hair.

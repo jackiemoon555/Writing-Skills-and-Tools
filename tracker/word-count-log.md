@@ -579,3 +579,7 @@ only. Do not report % complete or a finish-length again.
   05d5a97bd9bffb5b98fd8f490067e73f. Pass 4a (addendum) logged. **DAY 09-16 = 603 + 38 = 641.
   WEEK 1 = 2,582 / 5,000** (Thu–Sun left; ~605/day). Live total (pending Doc verify) = prologue
   1,087 + Ch1 697 + Ch2 798 = **2,582** (+448 if the office scene is still in).
+- **2026-09-16 — CH2.2: FIELD PLANT added to the desk setup (+26w → Ch2 = 824w).** Snapshot
+  `manuscripts/task-force-cryptid_ch2.2-elizabeth_field-plant_2026-09-16.txt`. MD5 52ae46ed3d98cfa5830c0eeb6885c68d. Pass 4b
+  logged. **DAY 09-16 = 641 + 26 = 667. WEEK 1 = 2,608 / 5,000.** Live total (pending Doc
+  verify) = 1,087 + 697 + 824 = **2,608** (+448 if the office scene is still in).
