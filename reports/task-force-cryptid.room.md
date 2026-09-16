@@ -271,3 +271,123 @@ scene still uninformed? The answer changes what Ch1's "bullshit" means.
   telling what the death meant. His call; not re-flagged while the line still matches. Test
   offered (chat): read the ending with the last sentence covered — if it still lands, the
   sentence was a caption; if it collapses, it was load-bearing.
+
+## Pass 3 — CHAPTER 1 v2, Johnson (2026-09-15 morning; 628w chat paste; snapshot task-force-cryptid_ch1-v2-johnson_chatpaste_2026-09-14.txt; MD5 231b47a23dfa05c19a0170a5d25a1316)
+*Titled "Chapter 1" by the author — so the Johnson chapter now FOLLOWS the forest prologue
+directly. The priest/Director office scene (v1 prologue, slated to become Ch1 on 09-13) is not
+in this batch; its placement is the pass's ONE ASK. Room run per standing instruction; revisions
+HELD. Checker filed silently (27 hits — lowest density yet).*
+
+**WHAT CHANGED SINCE PASS 1 (same chapter, v1 373w → v2 628w):** it's a scene now. Johnson
+REFUSES ("I have no intention of joining the CIA") and gets overruled ("Too late") — Pass 1's #1
+(no resistance) is answered on the page. The Sergeant Johnson / boot contradiction is gone (he's
+special forces). The "Before he could act, he was saved" caption is gone. The chapter ends on an
+ACTION with a clock ("You have five hours") — no epitaph, no explaining. The Chad/Cap pair is
+alive (the wife exchange, "five dollars," barging in without knocking) where v1's officer was a
+voice. Brooks gets one physical trace ("a cologne trail following him out") instead of a
+description. Net: this is the cleanest batch of the three.
+
+**HARDEST FIRST — (1) Johnson is a passenger in his own chapter.** What does he want? Not to be
+taped, and donuts. He refuses the CIA in one line, is told "too late" in the next, and his
+last line is "So, uh, Cap, I'm good right?" — relief, not loss. He leaves happy. The reader is
+hooked by BROOKS ("what I'm building," "since you joined special forces"), not by Johnson, and
+Johnson is the one they're supposed to follow onto the plane. Compare Jeff: 165 words of POV and
+the reader knew what he loved and what it cost him. Johnson has 628 and no want beyond the
+next hour. **Lever:** one thing the plane costs him, or one thing he wants from it — a person, a
+plan, a reason he joined special forces in the first place. Five hours is a great clock; right
+now it's a clock on nothing. (Not "give him backstory" — give him a stake.)
+
+**(2) PACING / PROPORTION.** Hazing 137 · hallway banter + walk 190 · Chad/Cap office bit 88 ·
+Brooks scene 188 · the turn (refusal → "too late" → classified) 85 · close 25. The line "You've
+been a part of the CIA since you joined special forces" reframes Johnson's entire career in
+fourteen words and the page skates past it — "Mr. Brooks shrugged, offering no explanation" and
+we move on. The reader wants to sit in that line; Johnson doesn't even react to it. That's the
+turn, and it's the thinnest beat. The donut business gets more.
+
+**(3) NEEDS MORE — the join to the prologue is missing.** Jeff died 600 words ago and nothing in
+this chapter touches it. Prologue → "Johnson!" is a hard cut from a body in the woods to a
+barracks comedy, and the reader carries the prologue's question (what killed him, will anyone
+believe it) into a chapter that doesn't know the prologue happened. That may be design — the
+office scene (Rick refusing) was the planned join and it isn't here — but as the pages stand,
+the prologue's irony has nowhere to land. **Lever:** the Ned-executes-Gared move needs the
+disbeliever ON the page soon after the death; if the office scene is Ch2, Ch1 is a detour
+between the setup and its payoff. If the office scene is cut, something in THIS chapter has to
+carry the refusal. Structural; his call; see the ask.
+
+**(4) SHOW-vs-TELL / DIALOGUE.** "The men seemed energized by the challenge." — caption; the
+next line ("moved in unison") shows it. "Johnson looked around, admiring the pictures for the
+thousandth time" — fine, but "the chain of command… ending at the president himself" is a real
+plant (the wall literally shows who the orders come from; observed, not prescribed). Dialogue:
+the Chad/Cap exchange is the best-built beat — two men with a history in four lines. Brooks's
+"Pleasure to meet you, James." / "Likewise." is blank, and that may be right for a suit — the
+cologne is his character. "Quit being weird Johnson, shake the man's hand" = good. "Big fucking
+deal apparently, but so is everything with you CIA type" = generic-cynic register from the
+Champ's Director, now in the captain's mouth.
+
+**(5) REPETITION / SMALL.** "Johnson obliged" ×2 · "The men" opens three of four consecutive
+lines · "shook hands once again" · "admiral captain" — Brooks mocking him, or a slip? (one line,
+his call) · v1's daughter-picture warning ("Even if you have") — on Pass 1's protect list — is
+gone; if it fell out by accident it was the best line in v1.
+
+**SPINE / THEME PRESSURE-TEST:** still undeclared. Building unasked, and now across three
+pieces: men moved by orders they didn't choose — Rick ("why call me?"), Jeff ("I told them
+bringing you in was a waste of time"), Johnson ("Too late"). Nobody in this book has said yes to
+anything yet. That's a spine if he wants one. The chain-of-command wall ending at the President
+is the image of it.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** most consequential beat = "You've been a part of the
+CIA since you joined special forces" + the classified refusal = 85 words, no reaction. Least
+consequential = the donut/five-dollar banter + hallway = 190. Ratio ~2:1 the wrong way. Better
+than the prologue's 30:1 and Pass 1's office scene; the habit is shrinking, not gone.
+
+**WORKS — PROTECT:**
+- "Too late. You've been a part of the CIA since you joined special forces." — the chapter's
+  best line; reframes everything before it.
+- "What if it was your wife?" / "I'd probably go find your wife." / "Touche." — two men, one
+  history, done.
+- "You'd net me a whole five dollars." — Chad in one line.
+- "The military classic. Buy cheap land and expand." — voice.
+- "a cologne trail following him out" — Brooks characterized by what he leaves behind.
+- "Now pack your shit, there's a plane waiting for you already. You have five hours." — an
+  ending that is an action and a clock. The epitaph reflex did NOT fire here. Noted.
+
+**PRIORITY-3 (held):** (1) give Johnson a stake in the five hours; (2) let him react to "since
+you joined special forces"; (3) settle where the disbeliever's scene sits relative to the death.
+
+**ONE ASK (editorial):** where does the priest/Director office scene live now — Ch2, later, or
+cut? Prologue → Johnson skips the payoff the prologue was rebuilt to set up.
+
+### Pass 3a — Ch1 v2.1, the Brooks section REVISED (2026-09-15 morning; +69w net → Ch1 = 697w; snapshot task-force-cryptid_ch1-v2.1-johnson_brooks-revised_2026-09-15.txt; MD5 18efc8f6d947060d544386242f00731f)
+*Author revised the office section same-day after the Pass 3 exchange (intent stated in chat:
+Johnson = passenger by design, SF culture = cold to shadow leaders on purpose, Cap/Sarge already
+know Brooks and obey anyway). Logged as an addendum, not a new pass — same chapter, one section.*
+
+**WHAT LANDED (Pass 3 → 3a):**
+- **The stake — answered in a subordinate clause.** "Yes, Johnson you are, you're just no longer
+  a green beret." The cost of the plane, delivered offhand by the captain, in the room's cold
+  register. That's Pass 3's #1 paid on the page, and paid the RIGHT way — as a thing said
+  sideways, not a speech. Protect.
+- **Johnson reacts to the turn.** "Nothing?" → "All three men shrugged this time." → "At least
+  fucking tell me what this is about." Pass 3's #2 answered; and "all three men shrugged" is the
+  spine in one gesture (the whole room obeys).
+- **The cold move, done physically.** "'This is uh, Brooks?' He asked smile fading from his
+  face, 'He's CIA. I think.'" — the warmth (Chad/Cap) goes flat the instant Brooks enters the
+  sentence; "I think" = contempt by feigned ignorance. This is the withheld-not-said version.
+- **Brooks cracks.** "face slightly agitated" — he's the one who reacts to the jab; the room
+  doesn't. Correct polarity.
+- "admiral captain" → "fearless leader." Fixed.
+
+**WHAT DIDN'T (held):**
+- "Don't let his bravado fool you. We've known each other for quite some time." — Brooks
+  SAYING the history the smile-fade already showed. The line explains the beat before it.
+  "Unwilling, I might add" is the good half — it's information with an edge. Show-tell class.
+- "Next time, I'll be able to fully explain this mess, but I have to leave right now." — the
+  suit apologizing for his exit. A man who outranks the room doesn't account for his time to
+  it; and "this mess" has Brooks calling his own project a mess — deliberate or a slip? (one
+  line, his call).
+- "The world rests on your shoulders, Johnson." — the one pure jab; note it's aimed at JOHNSON
+  (warmth to their own), which is consistent with the culture — but it's the weakest of the
+  additions because it's a joke, not a withholding.
+- "face slightly agitated" — a tag doing the work a gesture could.
+**Net:** three of Pass 3's four priorities moved in one revision. The join to the prologue
+(Pass 3 #3) is still open — the ONE ASK stands: where does the priest/Director scene sit?
