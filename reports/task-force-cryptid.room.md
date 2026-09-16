@@ -402,3 +402,96 @@ know Brooks and obey anyway). Logged as an addendum, not a new pass — same cha
   pulled by a suit in the room / Elizabeth approached by an email she throws away — the SHAPE
   varies (Pass 3 caution honored on sight). Her want is on the page in the first line: order.
 - No findings on a partial. Room runs when the chapter closes.
+
+## Pass 4 — CHAPTER 2, Elizabeth (2026-09-16; 760w chat paste, complete; snapshot task-force-cryptid_ch2-elizabeth_chatpaste_2026-09-16.txt; MD5 bd4aa9866edf953fee97df0e1d02a3a0)
+*Author's note on handing it over: "Feels short but maybe that's ok since it's a recruitment
+scene." Room run per standing instruction; revisions HELD. Checker filed silently (51 hits).
+"Ms. Green" → "Dr. Green" — the intake flag landed.*
+
+**WHAT'S NEW ON THE PAGE:** **Elizabeth Green, morphologist**, ex-Harvard, now teaching
+somewhere she's buried in student papers and funding disputes. Approached by two anonymous
+emails (deleted), then Brooks in person at 12:30am; she pulls a taser; he pitches (CIA,
+"assembling an extremely specific and specialized team," "tasked by the president himself,"
+no number, NDA first, five minutes); she says "Ok. I'm in." — **the first character in the
+book to say YES.** The recruitment SHAPE varies from Ch1 in the front half (email she throws
+away, a stranger at the door, a weapon) — Pass 3's caution honored. Morphologist = the study of
+FORM; for a book leaning fluid transformation that's the prologue planted in a job title (the
+author said he'd plant a piece of the prologue here — this is it, and it's the right kind:
+unexplained, load-bearing later). Brooks has a voice now: "There's less of you than pandas.
+Probably."
+
+**HARDEST FIRST — (1) Her yes is attached to the wrong thing, so the chapter's turn reads as
+gullibility instead of choice.** The setup builds a want in 402 words: a desk she can't beat,
+"This is bullshit" at a student paper, funding disputes, ex-Harvard, midnight. The want is
+ESCAPE, and it's on the page. Then Brooks says "I figured you could use a change of scenery" and
+the narration confirms it in three words: "Damn, he was right." That's the beat that should
+carry the yes. Instead the yes arrives on "Dr. Green we're working for the president here."
+/ "She didn't need to think much longer." / "Ok. I'm in." A woman who just threatened to tase a
+stranger says yes in five minutes with no number, no job description, and no NDA in hand —
+because of the President. The reader was shown escape and told patriotism. James's yes was
+forced; hers is CHOSEN (the contrast the author wanted), and a chosen yes has to cite the thing
+the reader watched her want. **Lever:** let the decision look at the desk, not at Brooks.
+"Damn, he was right" is already the hinge; the ending just doesn't swing on it.
+
+**(2) PACING / REPETITION — the front half varies the shape; the back half collapses into
+Ch1's template.** After the taser, Brooks runs Ch1's lines nearly verbatim: classified ·
+"It'll all be explained after" · the President · "I need to get you back home to pack" · a
+deadline (five hours → five minutes). Two recruitments, same closing beats, same suit, same
+cadence. The reader clocks it on page two of the second one. The variation Pass 3 asked for
+made it as far as the doorway and stopped. **Lever:** the taser is the thing this scene has
+that Ch1 didn't — a recruit who is DANGEROUS to the recruiter. The back half should be
+different because SHE is different, and right now she folds into the same shape James did.
+
+**(3) SHOW-vs-TELL — the captions the author already flagged on the opening, now with the
+back half's.** "Odd. She deleted the email… Probably a scam she thought." (the delete says
+scam) · "Elizabeth was stumped as to who would email anonymously." (the nail-tapping says it) ·
+"She didn't need to think much longer." (the caption on the turn) · "trying to hide her
+disgust" · "Elizabeth mulled the idea over in her head." He caught two or three on his own
+before this pass (active recall — good); the ending's is the one that costs.
+
+**(4) CORNY (quote it).** "Her jaw nearly hit the floor." — stock. "Long strands of red hair
+came to life, free of their restraint." — the librarian-lets-her-hair-down image; also the only
+physical detail she gets, and it's the hair. James got no physical intro at all; Elizabeth's is
+hair + "disgust." Writer-level observation, not a book rule: her body is introduced as an image
+for the reader, his wasn't introduced at all.
+
+**(5) DIALOGUE.** Brooks is a person now — "pandas. Probably." and "a long day, through many
+different states and a couple of countries" (the timeline: James this morning, Elizabeth at
+12:30am — the assembly is happening in ONE day, and the page lets the reader compute it —
+protect). "That's not a number." — her best line; she's sharper than James in negotiation and
+then folds anyway (see #1). "Get the fuck out of here or I will tase you." — the register
+survives the POV change. The ex-boyfriend beat ("wasn't smart enough to pull something like
+this") is the one private-life detail in the chapter and it does more than the hair.
+
+**SPINE / THEME PRESSURE-TEST:** the observed spine (nobody says yes; men moved by orders)
+gets its first EXCEPTION — the volunteer. That's a real structural move: three refusals, then a
+yes. It only works if the yes is legible as a choice (see #1); as written it reads as the
+President's name doing the same work the order did for James — which would make her the fourth
+passenger, not the first volunteer. The author intended the contrast. The page is one beat
+short of it.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** setup 402 · knock-to-taser 131 · pitch 174 · THE
+DECISION 53. The chapter exists for the decision and the decision is the thinnest beat, ~7% of
+the page. Same shape as every batch so far (prologue: creature 12 / Ch1: turn 85 / here: 53).
+The habit is now a measured constant across four passes.
+
+**ON "FEELS SHORT":** 760 words isn't short for a recruitment; Ch1 is 697. What feels short is
+the DECISION, not the chapter — 53 words for the only choice anyone in this book has made.
+The length is fine. The allocation isn't.
+
+**WORKS — PROTECT:**
+- Morphologist. The plant in a job title.
+- "There's less of you than pandas. Probably."
+- "That's not a number."
+- The taser in the purse, held through the whole pitch, released only when he says "the
+  president's backing" — that's a decision shown in a hand. (The ending should have used it.)
+- "This is bullshit." at a student paper.
+- The ex-boyfriend line — a life outside the desk, in one sentence.
+- "a long day, through many different states and a couple of countries" — the assembly's clock.
+
+**PRIORITY-3 (held):** (1) hang the yes on the desk, not the President; (2) let the back half
+be as different from Ch1 as the front half is — she's armed, use it; (3) the three captions on
+the turn.
+
+**ONE ASK (editorial):** what is Elizabeth's yes attached to in your head — escape, the work
+itself, or the President? The setup says escape; the last line says President.

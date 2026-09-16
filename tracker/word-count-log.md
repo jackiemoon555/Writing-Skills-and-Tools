@@ -567,3 +567,9 @@ only. Do not report % complete or a finish-length again.
   Ch2). **DAY 09-15 = 697 + 157 = 854. WEEK 1 = 1,941 / 5,000** (Wed–Sun left). Live total
   (pending Doc verify) = prologue 1,087 + Ch1 697 + Ch2 157 = **1,941** (+448 if the office
   scene is still in).
+- **2026-09-16 — CHAPTER 2 (Elizabeth) COMPLETE, INTAKEN (chat paste, as-is, 760w prose).**
+  Replaces the 157w opening (09-15) → **+603 net today.** Snapshot
+  `manuscripts/task-force-cryptid_ch2-elizabeth_chatpaste_2026-09-16.txt`. MD5
+  bd4aa9866edf953fee97df0e1d02a3a0. Checker silent (51 hits, filed). Room **Pass 4** logged.
+  **DAY 09-16 = 603. WEEK 1 = 2,544 / 5,000** (Thu–Sun left; ~614/day). Live total (pending Doc
+  verify) = prologue 1,087 + Ch1 697 + Ch2 760 = **2,544** (+448 if the office scene is still in).
