@@ -558,3 +558,12 @@ only. Do not report % complete or a finish-length again.
   18efc8f6d947060d544386242f00731f. Pass 3a (addendum) logged. **DAY 09-15 = 628 + 69 = 697.
   WEEK 1 = 1,784 / 5,000.** Live total (pending Doc verify) = prologue 1,087 + Ch1 697 = 1,784 (+448 if the
   office scene is still in).
+- **2026-09-15 (late) — CHAPTER 2 OPENING (Elizabeth) INTAKEN (chat paste on 09-16, author says
+  written 09-15 — counted to 09-15 per his instruction; 157w prose, PARTIAL — chapter in
+  progress).** New POV: Elizabeth Green, teacher/researcher, buried desk, an anonymous email
+  ("We have immense interest in your work… a possible job opportunity"), deleted as spam.
+  Snapshot `manuscripts/task-force-cryptid_ch2-elizabeth_opening_chatpaste_2026-09-15.txt`. MD5
+  cffba23d3c3c6a8bb9dab297b8f1f2a5. Room pass HELD until the chapter is complete (Pass 4 = full
+  Ch2). **DAY 09-15 = 697 + 157 = 854. WEEK 1 = 1,941 / 5,000** (Wed–Sun left). Live total
+  (pending Doc verify) = prologue 1,087 + Ch1 697 + Ch2 157 = **1,941** (+448 if the office
+  scene is still in).
