@@ -542,7 +542,7 @@ whom, if she's looking at it). Her physical intro is no longer only the hair.
 *Written within the hour after the "slow down before the last line, stop dead after it"
 exchange (the Royce-fight example). Spliced as REPLACING the 4a ending from "Will I be in the
 field?" onward — which drops "better pay, with field work?" / "best offer I've received in
-years." Author to confirm replacement vs. insertion (the one ask).*
+years." Author CONFIRMED replacement: the pay lines are gone — "it didn't fit into my new ending beat. Plus like that Elizabeth is a little snarky now."*
 
 **WHAT LANDED — the audit habit answered on the page for the first time.** The decision beat
 went 17w (v2) → 55w (4a) → **212w** (4c). It now has the shape want → obstacle → yes: "Will I
