@@ -567,3 +567,30 @@ only. Do not report % complete or a finish-length again.
   Ch2). **DAY 09-15 = 697 + 157 = 854. WEEK 1 = 1,941 / 5,000** (Wed–Sun left). Live total
   (pending Doc verify) = prologue 1,087 + Ch1 697 + Ch2 157 = **1,941** (+448 if the office
   scene is still in).
+- **2026-09-16 — CHAPTER 2 (Elizabeth) COMPLETE, INTAKEN (chat paste, as-is, 760w prose).**
+  Replaces the 157w opening (09-15) → **+603 net today.** Snapshot
+  `manuscripts/task-force-cryptid_ch2-elizabeth_chatpaste_2026-09-16.txt`. MD5
+  bd4aa9866edf953fee97df0e1d02a3a0. Checker silent (51 hits, filed). Room **Pass 4** logged.
+  **DAY 09-16 = 603. WEEK 1 = 2,544 / 5,000** (Thu–Sun left; ~614/day). Live total (pending Doc
+  verify) = prologue 1,087 + Ch1 697 + Ch2 760 = **2,544** (+448 if the office scene is still in).
+- **2026-09-16 — CH2.1: ENDING REVISED (chat paste; spliced as replacing the last three lines).**
+  17w → 55w = **+38 net**; Ch2 now 798w. Snapshot
+  `manuscripts/task-force-cryptid_ch2.1-elizabeth_ending-revised_2026-09-16.txt`. MD5
+  05d5a97bd9bffb5b98fd8f490067e73f. Pass 4a (addendum) logged. **DAY 09-16 = 603 + 38 = 641.
+  WEEK 1 = 2,582 / 5,000** (Thu–Sun left; ~605/day). Live total (pending Doc verify) = prologue
+  1,087 + Ch1 697 + Ch2 798 = **2,582** (+448 if the office scene is still in).
+- **2026-09-16 — CH2.2: FIELD PLANT added to the desk setup (+25w → Ch2 = 823w).** Snapshot
+  `manuscripts/task-force-cryptid_ch2.2-elizabeth_field-plant_2026-09-16.txt`. MD5 52ae46ed3d98cfa5830c0eeb6885c68d. Pass 4b
+  logged. **DAY 09-16 = 641 + 25 = 666. WEEK 1 = 2,607 / 5,000.** Live total (pending Doc
+  verify) = 1,087 + 697 + 823 = **2,607** (+448 if the office scene is still in).
+- **2026-09-16 — CH2.3: line tweaks on the plant ("the Amazon"; "her smile fading"; "pulling her
+  away from her memories") +9w → Ch2 = 832w.** Snapshot
+  `manuscripts/task-force-cryptid_ch2.3-elizabeth_2026-09-16.txt`. MD5 ff0eb3292581d1d0b51f97b3519569a6. **DAY 09-16 = 675.
+  WEEK 1 = 2,616 / 5,000.** Live total (pending Doc verify) = **2,616** (+448 if the office scene
+  is still in). Further line tweaks batched into one entry when he calls Ch2 done.
+- **2026-09-16 — CH2.4: the ENDING EXTENDED (verification beat; chat paste; spliced as replacing
+  from "Will I be in the field?" onward — author to confirm).** 55w → 212w = **+157 net**; Ch2
+  now 989w. Snapshot `manuscripts/task-force-cryptid_ch2.4-elizabeth_verification-beat_2026-09-16.txt`.
+  MD5 813f8f4710e0ebc8e379492d044a7569. Pass 4c logged. **DAY 09-16 = 675 + 157 = 832. WEEK 1 =
+  2,773 / 5,000.** Live total (pending Doc verify) = 1,087 + 697 + 989 = **2,773** (+448 if the
+  office scene is still in).

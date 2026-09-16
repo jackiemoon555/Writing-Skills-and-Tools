@@ -402,3 +402,172 @@ know Brooks and obey anyway). Logged as an addendum, not a new pass — same cha
   pulled by a suit in the room / Elizabeth approached by an email she throws away — the SHAPE
   varies (Pass 3 caution honored on sight). Her want is on the page in the first line: order.
 - No findings on a partial. Room runs when the chapter closes.
+
+## Pass 4 — CHAPTER 2, Elizabeth (2026-09-16; 760w chat paste, complete; snapshot task-force-cryptid_ch2-elizabeth_chatpaste_2026-09-16.txt; MD5 bd4aa9866edf953fee97df0e1d02a3a0)
+*Author's note on handing it over: "Feels short but maybe that's ok since it's a recruitment
+scene." Room run per standing instruction; revisions HELD. Checker filed silently (51 hits).
+"Ms. Green" → "Dr. Green" — the intake flag landed.*
+
+**WHAT'S NEW ON THE PAGE:** **Elizabeth Green, morphologist**, ex-Harvard, now teaching
+somewhere she's buried in student papers and funding disputes. Approached by two anonymous
+emails (deleted), then Brooks in person at 12:30am; she pulls a taser; he pitches (CIA,
+"assembling an extremely specific and specialized team," "tasked by the president himself,"
+no number, NDA first, five minutes); she says "Ok. I'm in." — **the first character in the
+book to say YES.** The recruitment SHAPE varies from Ch1 in the front half (email she throws
+away, a stranger at the door, a weapon) — Pass 3's caution honored. Morphologist = the study of
+FORM; for a book leaning fluid transformation that's the prologue planted in a job title (the
+author said he'd plant a piece of the prologue here — this is it, and it's the right kind:
+unexplained, load-bearing later). Brooks has a voice now: "There's less of you than pandas.
+Probably."
+
+**HARDEST FIRST — (1) Her yes is attached to the wrong thing, so the chapter's turn reads as
+gullibility instead of choice.** The setup builds a want in 402 words: a desk she can't beat,
+"This is bullshit" at a student paper, funding disputes, ex-Harvard, midnight. The want is
+ESCAPE, and it's on the page. Then Brooks says "I figured you could use a change of scenery" and
+the narration confirms it in three words: "Damn, he was right." That's the beat that should
+carry the yes. Instead the yes arrives on "Dr. Green we're working for the president here."
+/ "She didn't need to think much longer." / "Ok. I'm in." A woman who just threatened to tase a
+stranger says yes in five minutes with no number, no job description, and no NDA in hand —
+because of the President. The reader was shown escape and told patriotism. James's yes was
+forced; hers is CHOSEN (the contrast the author wanted), and a chosen yes has to cite the thing
+the reader watched her want. **Lever:** let the decision look at the desk, not at Brooks.
+"Damn, he was right" is already the hinge; the ending just doesn't swing on it.
+
+**(2) PACING / REPETITION — the front half varies the shape; the back half collapses into
+Ch1's template.** After the taser, Brooks runs Ch1's lines nearly verbatim: classified ·
+"It'll all be explained after" · the President · "I need to get you back home to pack" · a
+deadline (five hours → five minutes). Two recruitments, same closing beats, same suit, same
+cadence. The reader clocks it on page two of the second one. The variation Pass 3 asked for
+made it as far as the doorway and stopped. **Lever:** the taser is the thing this scene has
+that Ch1 didn't — a recruit who is DANGEROUS to the recruiter. The back half should be
+different because SHE is different, and right now she folds into the same shape James did.
+
+**(3) SHOW-vs-TELL — the captions the author already flagged on the opening, now with the
+back half's.** "Odd. She deleted the email… Probably a scam she thought." (the delete says
+scam) · "Elizabeth was stumped as to who would email anonymously." (the nail-tapping says it) ·
+"She didn't need to think much longer." (the caption on the turn) · "trying to hide her
+disgust" · "Elizabeth mulled the idea over in her head." He caught two or three on his own
+before this pass (active recall — good); the ending's is the one that costs.
+
+**(4) CORNY (quote it).** "Her jaw nearly hit the floor." — stock. "Long strands of red hair
+came to life, free of their restraint." — the librarian-lets-her-hair-down image; also the only
+physical detail she gets, and it's the hair. James got no physical intro at all; Elizabeth's is
+hair + "disgust." Writer-level observation, not a book rule: her body is introduced as an image
+for the reader, his wasn't introduced at all.
+
+**(5) DIALOGUE.** Brooks is a person now — "pandas. Probably." and "a long day, through many
+different states and a couple of countries" (the timeline: James this morning, Elizabeth at
+12:30am — the assembly is happening in ONE day, and the page lets the reader compute it —
+protect). "That's not a number." — her best line; she's sharper than James in negotiation and
+then folds anyway (see #1). "Get the fuck out of here or I will tase you." — the register
+survives the POV change. The ex-boyfriend beat ("wasn't smart enough to pull something like
+this") is the one private-life detail in the chapter and it does more than the hair.
+
+**SPINE / THEME PRESSURE-TEST:** the observed spine (nobody says yes; men moved by orders)
+gets its first EXCEPTION — the volunteer. That's a real structural move: three refusals, then a
+yes. It only works if the yes is legible as a choice (see #1); as written it reads as the
+President's name doing the same work the order did for James — which would make her the fourth
+passenger, not the first volunteer. The author intended the contrast. The page is one beat
+short of it.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** setup 402 · knock-to-taser 131 · pitch 174 · THE
+DECISION 53. The chapter exists for the decision and the decision is the thinnest beat, ~7% of
+the page. Same shape as every batch so far (prologue: creature 12 / Ch1: turn 85 / here: 53).
+The habit is now a measured constant across four passes.
+
+**ON "FEELS SHORT":** 760 words isn't short for a recruitment; Ch1 is 697. What feels short is
+the DECISION, not the chapter — 53 words for the only choice anyone in this book has made.
+The length is fine. The allocation isn't.
+
+**WORKS — PROTECT:**
+- Morphologist. The plant in a job title.
+- "There's less of you than pandas. Probably."
+- "That's not a number."
+- The taser in the purse, held through the whole pitch, released only when he says "the
+  president's backing" — that's a decision shown in a hand. (The ending should have used it.)
+- "This is bullshit." at a student paper.
+- The ex-boyfriend line — a life outside the desk, in one sentence.
+- "a long day, through many different states and a couple of countries" — the assembly's clock.
+
+**PRIORITY-3 (held):** (1) hang the yes on the desk, not the President; (2) let the back half
+be as different from Ch1 as the front half is — she's armed, use it; (3) the three captions on
+the turn.
+
+**ONE ASK (editorial):** what is Elizabeth's yes attached to in your head — escape, the work
+itself, or the President? The setup says escape; the last line says President.
+
+### Pass 4a — Ch2.1, the ENDING revised (2026-09-16; +38w net → Ch2 = 798w; snapshot task-force-cryptid_ch2.1-elizabeth_ending-revised_2026-09-16.txt; MD5 05d5a97bd9bffb5b98fd8f490067e73f)
+*Author revised same-day after Pass 4 ("quick add or restructure"). Spliced as REPLACING the last
+three lines ("we're working for the president here" / "didn't need to think much longer" / "Ok.
+I'm in."). Author's stated intent (chat): her want = EXCITEMENT / back in the field; he'd cut "I
+hate this place anyway" because the desk already established it (correct instinct — that line
+would have explained the yes).*
+
+**WHAT LANDED:**
+- **The yes now cites her want, not the President.** "Will I be in the field?" She asked,
+  feeling her legs ache. → "So better pay, with field work?" → "That's the best offer I've
+  received in years, Mr. Brooks." The decision points at the desk-life (legs aching from a
+  night in the chair = the body saying it) and at the field. Pass 4's #1 answered.
+- **The caption on the turn is gone.** "She didn't need to think much longer" is out; the yes is
+  a line in her own terms. The reflex didn't fire on the rewrite.
+- **She negotiates twice now** ("That's not a number." earlier; "better pay, with field work?"
+  here) and takes a deal with no number in it because the FIELD is the currency — consistent
+  with a volunteer, not a passenger. The volunteer contrast to James is legible.
+
+**WHAT'S STILL OPEN (held):**
+- **The field-want is paid at the end and not yet planted at the start.** The setup shows
+  escape (the desk); it doesn't yet show hunger (that she used to be in the field and misses
+  it). "feeling her legs ache" carries the desk half; the field half still rests on Brooks's
+  "the work you did at Harvard." One detail in the 402-word setup would close it. Author said
+  he'd add that; this paste is the ending only.
+- "She looked up thoughtfully." / "Hmmm." — filler beats between the question and the deal.
+- The Ch1-template back half (Pass 4 #2) is unchanged by this splice — still the same
+  classified/NDA/pack cadence before the new ending.
+
+### Pass 4b — Ch2.2, the FIELD PLANT added to the setup (2026-09-16; +25w → Ch2 = 823w; snapshot task-force-cryptid_ch2.2-elizabeth_field-plant_2026-09-16.txt; MD5 52ae46ed3d98cfa5830c0eeb6885c68d)
+Author's add after Pass 4a: "She looked up seeing the Harvard diploma taunting her. Next to it
+was the picture of her first research team in long forgotten rain forest." — the field-want is
+now PLANTED before Brooks arrives, in two objects, with no explaining sentence (his first draft
+of the add had a rhetorical question carrying the field — "How long had it been since she was
+able to study in the field?" — he swapped the question for an object on the room's note). Pass
+4a's open item CLOSED. Bonus observed: "her first research TEAM" — in a team-assembly book her
+want is now a team she lost. "long forgotten" = one word to look at in revision (forgotten by
+whom, if she's looking at it). Her physical intro is no longer only the hair.
+- **Ch2.3 (same day):** "long forgotten" → "the Amazon" (specific, no judgment); "her smile
+  fading" added = the memory shown by its loss — protect; "pulling her away from her memories" =
+  caption (the Ding + the smile-fade already do it) — held. OBSERVED: smile-fading is now used
+  twice in two chapters (Cap in Ch1, Elizabeth here) — a device forming; watch by Ch5.
+
+### Pass 4c — Ch2.4, the TURN EXTENDED: the verification beat (2026-09-16; +157w net → Ch2 = 989w; snapshot task-force-cryptid_ch2.4-elizabeth_verification-beat_2026-09-16.txt; MD5 813f8f4710e0ebc8e379492d044a7569)
+*Written within the hour after the "slow down before the last line, stop dead after it"
+exchange (the Royce-fight example). Spliced as REPLACING the 4a ending from "Will I be in the
+field?" onward — which drops "better pay, with field work?" / "best offer I've received in
+years." Author CONFIRMED replacement: the pay lines are gone — "it didn't fit into my new ending beat. Plus like that Elizabeth is a little snarky now."*
+
+**WHAT LANDED — the audit habit answered on the page for the first time.** The decision beat
+went 17w (v2) → 55w (4a) → **212w** (4c). It now has the shape want → obstacle → yes: "Will I
+be in the field?" (the want, legs aching) → "How do I know you're really the CIA?" (she puts an
+obstacle in HIS path — the negotiator holds) → cigarette / "A Tuesday of all days" (his first
+answer is a joke, she refuses it: "that's not verification") → the badge, "reluctantly" → "No,
+it works. I'll find out for sure when you take me to the random black site you likely have
+prepped for me." (the yes, wry, in her voice) → "Thank you, now hurry up." **No caption after
+the last line.** The turn is now the second-longest beat in the chapter instead of the
+shortest. That is the exact move the audit has been asking for across four passes.
+
+**Also landed:** Brooks characterized by a VIOLATION — asked not to light it, "Brooks lit the
+cigarette anyway." That's the cologne trail again: a man who leaves things in other people's
+rooms. Protect. **Brooks = KYLE Brooks** (badge) — name canon. Her verification demand is the
+same woman who pulled the taser — consistent; the volunteer is not a pushover.
+
+**HELD (small):** "Elizabeth shot daggers at the man" — stock. "Elizabeth's face had turned
+hard." / "Elizabeth considered it for a moment." — tags standing in for the thing her face or
+hands do. "a proper CIA badge. It was small, had CIA in big letters" — the badge description
+is generic where the rest of the beat is specific; one detail only she'd notice would do it.
+OBSERVED: two CIA men, two smokers (Rick's cigarette in the forest, Brooks's here) — a tell
+forming for the agency, or coincidence; author's to claim or vary.
+
+**OPEN (the ask):** if this REPLACES the 4a tail, the yes is no longer attached to the field
+in words ("best offer in years" is gone) — but "Will I be in the field?" still OPENS the beat,
+so the attachment survives structurally: the want is the first thing she asks. Arguably better
+(the summary line was doing tell-work). If it's an INSERTION and the pay lines return after
+the badge, the beat runs want → obstacle → deal → yes, also fine, ~50w longer.
