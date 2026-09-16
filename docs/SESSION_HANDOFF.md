@@ -23,7 +23,7 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-14 afternoon — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
+> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-15 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
 > **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
 > may hold a fuller update he said was coming — if a later block from that session exists, it
 > outranks this one. Merged to main at close (rule 9). Auto-memory mirror NOT refreshed (the live
@@ -107,12 +107,57 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > (creature 12w vs Rick's résumé 367w). Same two habits, new costume.
 > **PR MECHANICS (author, 09-14): "you don't need to check it every time, just leave it."** No
 > hourly check-ins, no status pings. Commit → push → open the draft PR → leave it; merge when he
-> says or at handoff. **PR #17 is OPEN (this session's afternoon work) — merge it at your close
-> if he hasn't.**
-> **NEXT SESSION:** pull "TBD" (verify the prologue v2 + chapter re-order landed), snapshot as a
-> NEW file, log the day + week, read only if he asks; room each new batch (Pass 3 next) per his
-> standing instruction; revisions HELD; nothing but room passes and his explicit notes go in the
-> ledger. Don't re-raise Pass 1/2 items. Don't raise The Champ unless he does.
+> says or at handoff. **PR #17 merged 09-14; PR #18 (09-15 work) merged 09-16.**
+> **09-15 — CHAPTER 1 v2 (JOHNSON) + v2.1 (BROOKS SECTION REVISED) LANDED.** Ch1 v2 = 628w chat
+> paste, written 09-15 morning (author-confirmed; log corrected from 09-14) → snapshot
+> `manuscripts/task-force-cryptid_ch1-v2-johnson_chatpaste_2026-09-14.txt`; **Pass 3** logged.
+> Same morning he revised the Brooks section (+69 net → Ch1 = 697w) → snapshot
+> `…_ch1-v2.1-johnson_brooks-revised_2026-09-15.txt`; **Pass 3a** (addendum) logged.
+> **DAY 09-14 = 1,087 · DAY 09-15 = 697 · WEEK 1 = 1,784 / 5,000** (Mon–Sun; 5 days left).
+> Live total (PENDING DOC VERIFY — all chat pastes) = prologue 1,087 + Ch1 697 = **1,784**, plus
+> the old priest/Director office scene (448) IF it's still in — its placement is the standing
+> OPEN ask (Ch2? later? cut?). **STRUCTURE NOW:** forest prologue → Ch1 = Johnson (the office
+> scene is NOT Ch1 anymore; the 09-13 plan was revised by the page). The prologue→Ch1 disconnect
+> is INTENTIONAL (author: Sanderson-style delayed connection; the CIA is the thread — Rick =
+> Director, Brooks = CIA, "what I'm building" = the task force).
+> **CANON ON THE PAGE (Ch1):** Johnson = **JAMES**, a **green beret** (special forces, NOT a
+> boot — the v1 contradiction is gone); his sergeant = **CHAD**; the captain (unnamed) knows
+> Brooks of old; **MR. BROOKS = CIA**, recruiting for "what I'm building"; "You've been a part
+> of the CIA since you joined special forces"; James refuses, is overruled, and leaves on a
+> plane in five hours — **"you're just no longer a green beret."** Brooks calls the project
+> "this mess" (DELIBERATE, author: explained later). Hallway wall = chain of command ending at
+> the President (plant, observed).
+> **PASS 3/3a VERDICT:** cleanest batch yet; hardest = Johnson a passenger (author: BY DESIGN —
+> he's military, follows orders; SF culture = cold to shadow leaders on purpose; Cap/Sarge knew
+> Brooks and obey anyway). Room's position: passenger-as-character is the spine; passenger-as-
+> reader-experience still needs a WANT — and the page has it upside-down: his want = being a
+> green beret; not-CIA is its shadow. v2.1 paid three of Pass 3's four priorities (stake as a
+> subordinate clause, James reacts, cold register done physically via the captain's smile
+> fading). AUTHOR CLAIMS (chat, held): stating "we've known each other" outright (clarity),
+> "this mess," the jab "world rests on your shoulders" (SF mock outsiders to their face).
+> Ruled in chat: James DIDN'T know how close SF and the CIA are (veterans knew, he didn't) —
+> page already plays it that way; nothing to add.
+> **AUTHOR'S PLAN (chat, 09-15 — his, not a ruling):** GATHERING-THE-TEAM structure — intro
+> chapters for each member, connect/fill in when assembled. **NEXT CHAPTER = a NEW CHARACTER
+> (not James).** He intends: plant another piece of the prologue there + give the new character
+> MOTIVATION (contrast: James signed his choice away). Room's cautions given once: vary the
+> SHAPE of each recruitment (one recruited, one volunteers, one already inside, one dragged by
+> an event) or the reader clocks the pattern by Ch3; let the woods be felt in every intro or the
+> prologue's patience runs out. Next JAMES chapter = ARRIVAL, not recruitment; open threads it
+> holds: the five hours, the first private cost, one piece of the woods he can't connect.
+> Salem's Lot discussed: portrait chapters run on the READER's stake (dramatic irony) + a small
+> WANT per inhabitant — a legitimate model for the intros.
+> **"IS THE IMPROVEMENT CONTINUING" (09-15, evidence):** same chapter three times in 48h — v1
+> no stake/captioned/contradiction → v2 refusal+overrule, real pair, action ending, no epitaph
+> → v2.1 stake as a clause, reaction, cold register shown. Audit ratio prologue 30:1 → Ch1 ~2:1.
+> Caveat given: this is improvement UNDER A PASS; the real test = whether the next FRESH chapter
+> arrives with stake/reaction/clean ending already in it.
+> **NEXT SESSION:** pull "TBD" (verify prologue v2 + Ch1 v2.1 landed; find out whether the
+> office scene is still in and where), snapshot as a NEW file, log day + week (week 1 ends Sun
+> 09-20), read only if he asks; room each new batch (**Pass 4 next** — the new-character
+> chapter) per his standing instruction; revisions HELD; nothing but room passes and his
+> explicit notes go in the ledger. Don't re-raise Pass 1–3 items. Don't raise The Champ unless
+> he does. PR mechanics unchanged: push, open draft PR, leave it; merge at handoff.
 >
 > ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
 > **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
