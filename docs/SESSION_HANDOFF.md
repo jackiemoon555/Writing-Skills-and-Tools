@@ -23,7 +23,7 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-15 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
+> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-16 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
 > **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
 > may hold a fuller update he said was coming — if a later block from that session exists, it
 > outranks this one. Merged to main at close (rule 9). Auto-memory mirror NOT refreshed (the live
@@ -152,12 +152,56 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > → v2.1 stake as a clause, reaction, cold register shown. Audit ratio prologue 30:1 → Ch1 ~2:1.
 > Caveat given: this is improvement UNDER A PASS; the real test = whether the next FRESH chapter
 > arrives with stake/reaction/clean ending already in it.
-> **NEXT SESSION:** pull "TBD" (verify prologue v2 + Ch1 v2.1 landed; find out whether the
-> office scene is still in and where), snapshot as a NEW file, log day + week (week 1 ends Sun
-> 09-20), read only if he asks; room each new batch (**Pass 4 next** — the new-character
-> chapter) per his standing instruction; revisions HELD; nothing but room passes and his
-> explicit notes go in the ledger. Don't re-raise Pass 1–3 items. Don't raise The Champ unless
-> he does. PR mechanics unchanged: push, open draft PR, leave it; merge at handoff.
+> **09-16 — CHAPTER 2 (ELIZABETH) COMPLETE + revised four times same morning.** Ch2 = 989w
+> (opening 157w on 09-15 → full 760 → ending revised → field plant → line tweaks → the
+> VERIFICATION BEAT). Snapshots `…_ch2-elizabeth_chatpaste_2026-09-16.txt` through
+> `…_ch2.4-elizabeth_verification-beat_2026-09-16.txt`; **Pass 4 + 4a/4b/4c** logged.
+> **DAY 09-14 = 1,087 · 09-15 = 854 · 09-16 = 832 · WEEK 1 = 2,773 / 5,000** (Thu–Sun left,
+> ~557/day). Live total (PENDING DOC VERIFY, all chat pastes) = prologue 1,087 + Ch1 697 + Ch2
+> 989 = **2,773** (+448 if the office scene is still in — placement still OPEN).
+> **CANON ON THE PAGE (Ch2):** **Dr. Elizabeth Green, morphologist**, ex-Harvard (diploma on the
+> wall + a photo of "her first research team in the Amazon rain forest"), now buried in student
+> papers/funding disputes; red hair; a taser in her purse; approached by two anonymous emails
+> then **Kyle Brooks** (first name via badge) in person at 12:30am Tuesday; he smokes (stress —
+> author: Rick indulges vices, Brooks is fraying; both CIA, both smoke, different reasons); she
+> demands verification, gets the badge, says yes wryly ("the random black site you likely have
+> prepped for me"). **First character in the book to say YES — the volunteer** (contrast to
+> James, who signed his choice away). Morphologist = the prologue planted in a job title
+> (author's intended "piece of the prologue"). The assembly is happening in ONE day ("many
+> different states and a couple of countries").
+> **PASS 4 → 4c ARC (the audit habit answered on the page for the first time):** the decision
+> beat went 17w → 55w → **212w** and now runs want ("Will I be in the field?", legs aching) →
+> obstacle she creates (badge demand) → his joke refused ("that's not verification") → badge,
+> reluctantly → her yes in her voice → "hurry up." No caption after the last line. Pay lines
+> ("best offer in years") CUT by author — "Elizabeth is a little snarky now."
+> **THE DIAGNOSIS (chat, 09-16 — the most useful exchange of the session; not ledgered, he
+> didn't answer the log ask):** his two standing habits (thinnest turn + epitaph after it) are
+> ONE cause — he's been starving the run-up to protect the punch, then explaining the punch
+> because it felt thin. Rule he took: **slow down BEFORE the last line, stop dead AFTER it**
+> (the Royce-fight page in the GoT prologue = the model; detail concentrated at the turn, not
+> spread everywhere). He applied it within the hour (the verification beat). Test he can run:
+> at every turn, is the detail on the run-up side or the aftermath side of the last line?
+> **AUTHOR SELF-CATCHES TODAY:** captions in the Ch2 opening (before the pass) · **the location
+> problem** (Ch1 + Ch2 both offices; "Ch3 can't be in an office") · that "I hate this place
+> anyway" would have explained the yes (he cut it himself).
+> **CHAT-ONLY CLAIMS/RULINGS (held, not ledgered):** Johnson = passenger by design; SF culture
+> cold to shadow leaders; "this mess" deliberate; the pitch's Ch1-cadence (classified /
+> president / pack / deadline) = Brooks has a SCRIPT — feature only if a character clocks it
+> (held); telling = fine for INFORMATION (creature rules, via the morphologist), the reflex is
+> INTERPRETATION; "horror toward the middle" — cautioned: one drop per recruitment chapter
+> (King's town chapters); green beret + morphologist = a head-drip, next recruit could use a
+> skin-drip; **smile-fading device now used twice** (Cap Ch1, Elizabeth Ch2) — watch by Ch5.
+> **AUTHOR'S PLAN:** next recruitment chapters "coming right away," "completely different";
+> Ch3 NOT in an office; still gathering-the-team, connect when assembled; explaining the
+> creature = the morphologist's job, in scene, not a list. Honeymoon caution given once
+> (record: The Champ felt like this in week one) — week 3 is the evidence.
+> **NEXT SESSION:** pull "TBD" (verify prologue v2 + Ch1 v2.1 + Ch2.4 landed; office scene
+> status), snapshot as a NEW file, log day + week (week 1 ends Sun 09-20), read only if he
+> asks; room each new batch (**Pass 5 next** = Ch3, new character, new location) per his
+> standing instruction; revisions HELD; nothing but room passes and his explicit notes go in
+> the ledger. Don't re-raise Pass 1–4 items. Don't raise The Champ unless he does. PR
+> mechanics: push, open draft PR, leave it; merge when he says or at handoff. **PR #20 merged
+> 09-16 at his "merge the repo, leaving work."**
 >
 > ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
 > **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
