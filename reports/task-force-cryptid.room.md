@@ -700,3 +700,75 @@ presser's turn the run-up the back room already has.
 **ONE ASK (editorial):** what is this chapter FOR in your head — is Frank a future recruit, or is
 Frank the town, the ground the task force lands on? It decides how much the reader needs to
 feel him hiding something now versus later.
+
+### Pass 5a — Ch3.1, the PRESSER revised (2026-09-16; −14w net → Ch3 = 646w; back room unchanged; snapshot task-force-cryptid_ch3.1-frank_presser-revised_2026-09-16.txt; MD5 a553b97ddc806658ea35d29f0d044bf6)
+*Author revised same-day after Pass 5 ("a little rewrite"). Chat rulings first (held, not
+ledgered as rulings — recorded here only because they bear on the read): **Frank = a FUTURE
+RECRUIT**; "eventually they both realize they have to work together." Author self-diagnosed the
+two-cop-lanes trap (super cop / morally grey cop) and said he was falling into grey; room's note:
+both lanes are one axis (his relation to the law), a person is what's OFF the axis; what "the
+supply" IS decides the lane. He floated arms dealers (same lane, different crate) and "he needs
+the forest clear of the thing to reach the supply" (moves the axis — the creature becomes a WALL
+between Frank and what he wants, so he wants it gone while denying it exists = the engine for
+working with the task force). One caution given once: cultists OR werewolves, not both yet —
+six parties is too many at Ch3. Nothing ruled; author settles by writing.*
+*CORRECTION to Pass 5's audit: the v1 split was mis-measured. v1 = presser 439 / back room 221
+(not 495 / 165). The finding stands (the presser's turn was 3 words + knuckles); the ratio was
+wrong. Logged, not edited — the ledger is append-only.*
+
+**WHAT LANDED — three of Pass 5's five, and the hardest one by a better route than the room
+named.**
+- **(1) THE LEAK — paid, and paid on the THING, not on jurisdiction.** The woman's question is
+  now "Is there any possibility it's a serial killer?" → **"No. Not from what I've seen."** →
+  Long, from the floor: **"And what have you seen, Frank?"** → grip → "Answer him!" / "YA!" →
+  **"Uh, god-"** → the sheriff rushes in. Frank volunteers that he has SEEN, gets caught on it by
+  the one man in the room who knows him, and can't answer. The reader now registers "this man
+  has seen something and won't say" before the back room names what. That's the lever from Pass
+  5 applied — and better than the room's version, because the leak is about the forest, not
+  about paperwork. Bonus the author may not have clocked: Rick (prologue) SAW and said "serial
+  killer"; Frank SAW and says "not a serial killer." Two men who stood over the same kind of
+  bodies, lying in opposite directions — the town cop contradicts the CIA's cover story without
+  knowing it exists. Protect.
+- **(2) THE CROWD — paid.** Four summaries → six quoted lines: "How long!? How long have people
+  been dying out there!?" (Arch, the back of the room) · "Arch, you stop that. Let the man
+  finish." · "Is our forest safe!?" · "ARE THEY!?" · "Ya!" · "Answer him!" The room has a
+  back, a front, a left side and a middle now. "Arch, you stop that" is the best of them — a
+  town where people know each other's first names is a town, not a crowd.
+- **(4) CORNY — paid.** Knuckles gone; "every hand shot up" → **"Frank didn't need to see the
+  room."** (the stock image turned into the man's fatigue — protect); trucker hat and overalls →
+  "a plump man" + the water-bottle spit, which was always the detail that mattered.
+- **(3) STOCK COP LINES — half-paid by contrast.** "I will not rest until the suspect is caught"
+  and "my number one priority" are gone; "pouring all of our man power" and "working our
+  hardest" remain. But the crowd's lines are now so specific that Frank's stock reads as
+  FRANK's — a man reaching for the script in a room that won't take it. The ambiguity Pass 5
+  named is resolved by the room around him, not by his lines. Acceptable.
+- **NEW ON THE PAGE:** **Dave Long** (first name); "Mr. Long for the umpteenth time, it's
+  Detective Stillwell." / "Uh huh." — a history between these two in nine words. **"Why is this
+  just coming out, Frank?"** + "How long have people been dying out there!?" = NEW CANON: the
+  TOWN DIDN'T KNOW. Tonight is the reveal to the town, which makes the presser a bigger event
+  than v1's — and raises a plant: who kept four deaths (and a dead ranger) quiet in a small
+  town for five months? The cover-up is bigger than Frank. Open, not a defect. "four different,
+  isolated attacks" is gone — the count is no longer stated in Ch3.
+
+**WHAT'S STILL OPEN (held):**
+- **"Frank gripped the podium, trying to hide his contempt."** — the turn's one physical beat,
+  and it captions the feeling. This is the RUN-UP side of the chapter's best punch ("Uh, god-")
+  and the detail there is a label. "trying to hide" is also used twice in twenty lines
+  ("tried to hide his sigh" / "trying to hide his contempt") — each time the thing hidden is
+  named, which un-hides it. Lever: what his hands or his eyes do in the half-second before he
+  answers Long.
+- **The college woman lost her function.** In v1 she was the outsider who SAW him (the smirk);
+  in v2 she asks one question and vanishes, and the catching is done by Long. That's the right
+  trade for a town chapter (the local catches him), but she's now a question-delivery device
+  with no face. If she's nobody, fine. If she's somebody, one detail.
+- "Gasps erupted around the room." / "Cascaded across the room." / "Echoed." — residual
+  crowd-summary tags, but now attached to quoted lines, so they read as staging, not
+  substitution. Held.
+
+**AUDIT (corrected split):** presser 425 (crowd-open 110 / Long 111 / the turn 45) · back room
+221. The presser's turn went from ~3 words + knuckles to 45 words with a run-up (question →
+half-answer → caught → crowd → "Uh, god-") and a stop (the sheriff). Both turns in the chapter
+now have the shape. The one remaining thin spot is the caption at the top of the turn (above).
+
+**ONE ASK (held for when he wants it — not re-asked now):** none. Pass 5's ask is answered
+(future recruit). The supply question is his to settle by writing.

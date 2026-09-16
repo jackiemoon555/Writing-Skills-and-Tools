@@ -605,3 +605,11 @@ only. Do not report % complete or a finish-length again.
   (floor). WEEK 1 = 2,773 + 660 = 3,433 / 5,000** (Thu–Sun left; ~392/day). Live total (pending
   Doc verify — all chat pastes) = prologue 1,087 + Ch1 697 + Ch2 989 + Ch3 660 = **3,433**
   (+448 if the office scene is still in — placement still OPEN).
+- **2026-09-16 — CH3.1: PRESSER REVISED (chat paste; the back room unchanged).** 660w → 646w =
+  **−14 net**; the crowd now speaks (seven quoted lines replace four summaries), Dave Long named,
+  the woman's jurisdiction trap replaced by "Is there any possibility it's a serial killer?" /
+  "No. Not from what I've seen." / "And what have you seen, Frank?" → "Uh, god-" → the sheriff
+  rushes in. Snapshot `manuscripts/task-force-cryptid_ch3.1-frank_presser-revised_2026-09-16.txt`.
+  MD5 a553b97ddc806658ea35d29f0d044bf6. Pass 5a (addendum) logged. **DAY 09-16 = 1,492 − 14 =
+  1,478 ✅. WEEK 1 = 3,419 / 5,000** (Thu–Sun left; ~396/day). Live total (pending Doc verify) =
+  1,087 + 697 + 989 + 646 = **3,419** (+448 if the office scene is still in).
