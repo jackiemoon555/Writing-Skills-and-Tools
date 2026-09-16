@@ -583,3 +583,8 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/task-force-cryptid_ch2.2-elizabeth_field-plant_2026-09-16.txt`. MD5 52ae46ed3d98cfa5830c0eeb6885c68d. Pass 4b
   logged. **DAY 09-16 = 641 + 25 = 666. WEEK 1 = 2,607 / 5,000.** Live total (pending Doc
   verify) = 1,087 + 697 + 823 = **2,607** (+448 if the office scene is still in).
+- **2026-09-16 — CH2.3: line tweaks on the plant ("the Amazon"; "her smile fading"; "pulling her
+  away from her memories") +11w → Ch2 = 834w.** Snapshot
+  `manuscripts/task-force-cryptid_ch2.3-elizabeth_2026-09-16.txt`. MD5 ff0eb3292581d1d0b51f97b3519569a6. **DAY 09-16 = 677.
+  WEEK 1 = 2,618 / 5,000.** Live total (pending Doc verify) = **2,618** (+448 if the office scene
+  is still in). Further line tweaks batched into one entry when he calls Ch2 done.

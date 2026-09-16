@@ -533,3 +533,7 @@ able to study in the field?" — he swapped the question for an object on the ro
 4a's open item CLOSED. Bonus observed: "her first research TEAM" — in a team-assembly book her
 want is now a team she lost. "long forgotten" = one word to look at in revision (forgotten by
 whom, if she's looking at it). Her physical intro is no longer only the hair.
+- **Ch2.3 (same day):** "long forgotten" → "the Amazon" (specific, no judgment); "her smile
+  fading" added = the memory shown by its loss — protect; "pulling her away from her memories" =
+  caption (the Ding + the smile-fade already do it) — held. OBSERVED: smile-fading is now used
+  twice in two chapters (Cap in Ch1, Elizabeth here) — a device forming; watch by Ch5.
