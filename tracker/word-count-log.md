@@ -588,3 +588,9 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/task-force-cryptid_ch2.3-elizabeth_2026-09-16.txt`. MD5 ff0eb3292581d1d0b51f97b3519569a6. **DAY 09-16 = 675.
   WEEK 1 = 2,616 / 5,000.** Live total (pending Doc verify) = **2,616** (+448 if the office scene
   is still in). Further line tweaks batched into one entry when he calls Ch2 done.
+- **2026-09-16 — CH2.4: the ENDING EXTENDED (verification beat; chat paste; spliced as replacing
+  from "Will I be in the field?" onward — author to confirm).** 55w → 212w = **+157 net**; Ch2
+  now 989w. Snapshot `manuscripts/task-force-cryptid_ch2.4-elizabeth_verification-beat_2026-09-16.txt`.
+  MD5 813f8f4710e0ebc8e379492d044a7569. Pass 4c logged. **DAY 09-16 = 675 + 157 = 832. WEEK 1 =
+  2,773 / 5,000.** Live total (pending Doc verify) = 1,087 + 697 + 989 = **2,773** (+448 if the
+  office scene is still in).

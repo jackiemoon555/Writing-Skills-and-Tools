@@ -537,3 +537,37 @@ whom, if she's looking at it). Her physical intro is no longer only the hair.
   fading" added = the memory shown by its loss — protect; "pulling her away from her memories" =
   caption (the Ding + the smile-fade already do it) — held. OBSERVED: smile-fading is now used
   twice in two chapters (Cap in Ch1, Elizabeth here) — a device forming; watch by Ch5.
+
+### Pass 4c — Ch2.4, the TURN EXTENDED: the verification beat (2026-09-16; +157w net → Ch2 = 989w; snapshot task-force-cryptid_ch2.4-elizabeth_verification-beat_2026-09-16.txt; MD5 813f8f4710e0ebc8e379492d044a7569)
+*Written within the hour after the "slow down before the last line, stop dead after it"
+exchange (the Royce-fight example). Spliced as REPLACING the 4a ending from "Will I be in the
+field?" onward — which drops "better pay, with field work?" / "best offer I've received in
+years." Author to confirm replacement vs. insertion (the one ask).*
+
+**WHAT LANDED — the audit habit answered on the page for the first time.** The decision beat
+went 17w (v2) → 55w (4a) → **212w** (4c). It now has the shape want → obstacle → yes: "Will I
+be in the field?" (the want, legs aching) → "How do I know you're really the CIA?" (she puts an
+obstacle in HIS path — the negotiator holds) → cigarette / "A Tuesday of all days" (his first
+answer is a joke, she refuses it: "that's not verification") → the badge, "reluctantly" → "No,
+it works. I'll find out for sure when you take me to the random black site you likely have
+prepped for me." (the yes, wry, in her voice) → "Thank you, now hurry up." **No caption after
+the last line.** The turn is now the second-longest beat in the chapter instead of the
+shortest. That is the exact move the audit has been asking for across four passes.
+
+**Also landed:** Brooks characterized by a VIOLATION — asked not to light it, "Brooks lit the
+cigarette anyway." That's the cologne trail again: a man who leaves things in other people's
+rooms. Protect. **Brooks = KYLE Brooks** (badge) — name canon. Her verification demand is the
+same woman who pulled the taser — consistent; the volunteer is not a pushover.
+
+**HELD (small):** "Elizabeth shot daggers at the man" — stock. "Elizabeth's face had turned
+hard." / "Elizabeth considered it for a moment." — tags standing in for the thing her face or
+hands do. "a proper CIA badge. It was small, had CIA in big letters" — the badge description
+is generic where the rest of the beat is specific; one detail only she'd notice would do it.
+OBSERVED: two CIA men, two smokers (Rick's cigarette in the forest, Brooks's here) — a tell
+forming for the agency, or coincidence; author's to claim or vary.
+
+**OPEN (the ask):** if this REPLACES the 4a tail, the yes is no longer attached to the field
+in words ("best offer in years" is gone) — but "Will I be in the field?" still OPENS the beat,
+so the attachment survives structurally: the want is the first thing she asks. Arguably better
+(the summary line was doing tell-work). If it's an INSERTION and the pay lines return after
+the badge, the beat runs want → obstacle → deal → yes, also fine, ~50w longer.
