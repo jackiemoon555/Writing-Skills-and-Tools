@@ -495,3 +495,31 @@ the turn.
 
 **ONE ASK (editorial):** what is Elizabeth's yes attached to in your head — escape, the work
 itself, or the President? The setup says escape; the last line says President.
+
+### Pass 4a — Ch2.1, the ENDING revised (2026-09-16; +38w net → Ch2 = 798w; snapshot task-force-cryptid_ch2.1-elizabeth_ending-revised_2026-09-16.txt; MD5 05d5a97bd9bffb5b98fd8f490067e73f)
+*Author revised same-day after Pass 4 ("quick add or restructure"). Spliced as REPLACING the last
+three lines ("we're working for the president here" / "didn't need to think much longer" / "Ok.
+I'm in."). Author's stated intent (chat): her want = EXCITEMENT / back in the field; he'd cut "I
+hate this place anyway" because the desk already established it (correct instinct — that line
+would have explained the yes).*
+
+**WHAT LANDED:**
+- **The yes now cites her want, not the President.** "Will I be in the field?" She asked,
+  feeling her legs ache. → "So better pay, with field work?" → "That's the best offer I've
+  received in years, Mr. Brooks." The decision points at the desk-life (legs aching from a
+  night in the chair = the body saying it) and at the field. Pass 4's #1 answered.
+- **The caption on the turn is gone.** "She didn't need to think much longer" is out; the yes is
+  a line in her own terms. The reflex didn't fire on the rewrite.
+- **She negotiates twice now** ("That's not a number." earlier; "better pay, with field work?"
+  here) and takes a deal with no number in it because the FIELD is the currency — consistent
+  with a volunteer, not a passenger. The volunteer contrast to James is legible.
+
+**WHAT'S STILL OPEN (held):**
+- **The field-want is paid at the end and not yet planted at the start.** The setup shows
+  escape (the desk); it doesn't yet show hunger (that she used to be in the field and misses
+  it). "feeling her legs ache" carries the desk half; the field half still rests on Brooks's
+  "the work you did at Harvard." One detail in the 402-word setup would close it. Author said
+  he'd add that; this paste is the ending only.
+- "She looked up thoughtfully." / "Hmmm." — filler beats between the question and the deal.
+- The Ch1-template back half (Pass 4 #2) is unchanged by this splice — still the same
+  classified/NDA/pack cadence before the new ending.

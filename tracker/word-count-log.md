@@ -573,3 +573,9 @@ only. Do not report % complete or a finish-length again.
   bd4aa9866edf953fee97df0e1d02a3a0. Checker silent (51 hits, filed). Room **Pass 4** logged.
   **DAY 09-16 = 603. WEEK 1 = 2,544 / 5,000** (Thu–Sun left; ~614/day). Live total (pending Doc
   verify) = prologue 1,087 + Ch1 697 + Ch2 760 = **2,544** (+448 if the office scene is still in).
+- **2026-09-16 — CH2.1: ENDING REVISED (chat paste; spliced as replacing the last three lines).**
+  17w → 55w = **+38 net**; Ch2 now 798w. Snapshot
+  `manuscripts/task-force-cryptid_ch2.1-elizabeth_ending-revised_2026-09-16.txt`. MD5
+  05d5a97bd9bffb5b98fd8f490067e73f. Pass 4a (addendum) logged. **DAY 09-16 = 603 + 38 = 641.
+  WEEK 1 = 2,582 / 5,000** (Thu–Sun left; ~605/day). Live total (pending Doc verify) = prologue
+  1,087 + Ch1 697 + Ch2 798 = **2,582** (+448 if the office scene is still in).
