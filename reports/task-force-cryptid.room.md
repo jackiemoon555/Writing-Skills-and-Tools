@@ -391,3 +391,14 @@ know Brooks and obey anyway). Logged as an addendum, not a new pass — same cha
 - "face slightly agitated" — a tag doing the work a gesture could.
 **Net:** three of Pass 3's four priorities moved in one revision. The join to the prologue
 (Pass 3 #3) is still open — the ONE ASK stands: where does the priest/Director scene sit?
+
+### INTAKE NOTE — Ch2 opening, ELIZABETH (2026-09-15, 157w partial; snapshot task-force-cryptid_ch2-elizabeth_opening_chatpaste_2026-09-15.txt) — Pass 4 HELD for the full chapter
+- New POV: **Elizabeth Green** — teacher + researcher (field not yet named); buried desk, papers
+  "growing slowly since the beginning of the year"; emails at all hours; funding disputes.
+- The pull arrives as an **anonymous email** with no sender address — "We have immense interest in
+  your work. We'll see you soon with a possible job opportunity." — which she deletes as a scam.
+- Continuity: "Ms. Green" (not Dr.) — deliberate slight from the sender, or is she not a PhD?
+  (one line; his call). Third recruitment shape so far: Rick summoned by the President / James
+  pulled by a suit in the room / Elizabeth approached by an email she throws away — the SHAPE
+  varies (Pass 3 caution honored on sight). Her want is on the page in the first line: order.
+- No findings on a partial. Room runs when the chapter closes.
