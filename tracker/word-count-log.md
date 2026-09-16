@@ -594,3 +594,14 @@ only. Do not report % complete or a finish-length again.
   MD5 813f8f4710e0ebc8e379492d044a7569. Pass 4c logged. **DAY 09-16 = 675 + 157 = 832. WEEK 1 =
   2,773 / 5,000.** Live total (pending Doc verify) = 1,087 + 697 + 989 = **2,773** (+448 if the
   office scene is still in).
+- **2026-09-16 (PC session, evening) — CHAPTER 3 (Frank Stillwell, the press conference) INTAKEN
+  (chat paste, as-is, 660w prose).** New POV, new shape: NOT a recruitment — a small-town
+  detective (Lolo forest, Montana), a hostile presser about "the murders" (four attacks now),
+  then backstage with Sheriff John Collins: the murders are on federal land, the mayor is taking
+  it to the FBI within the week, and Frank has to "move the supply" first — the town's law is
+  running something in the forest. Snapshot
+  `manuscripts/task-force-cryptid_ch3-frank_chatpaste_2026-09-16.txt`. MD5
+  637a8d1b6f96504c445b3ca7230e187c. Room **Pass 5** logged. **DAY 09-16 = 832 + 660 = 1,492 ✅
+  (floor). WEEK 1 = 2,773 + 660 = 3,433 / 5,000** (Thu–Sun left; ~392/day). Live total (pending
+  Doc verify — all chat pastes) = prologue 1,087 + Ch1 697 + Ch2 989 + Ch3 660 = **3,433**
+  (+448 if the office scene is still in — placement still OPEN).

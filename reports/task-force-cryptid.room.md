@@ -571,3 +571,132 @@ in words ("best offer in years" is gone) — but "Will I be in the field?" still
 so the attachment survives structurally: the want is the first thing she asks. Arguably better
 (the summary line was doing tell-work). If it's an INSERTION and the pay lines return after
 the badge, the beat runs want → obstacle → deal → yes, also fine, ~50w longer.
+
+## Pass 5 — CHAPTER 3, Frank Stillwell / the press conference (2026-09-16; 660w chat paste, complete; snapshot task-force-cryptid_ch3-frank_chatpaste_2026-09-16.txt; MD5 637a8d1b6f96504c445b3ca7230e187c)
+*Author's note on handing it over: "this feel short too but chapter 2 was long so we'll see."
+No intent stated for the chapter. Room run per standing instruction; revisions HELD. Checker
+filed silently (37 hits). Rule 4b in force: seven drafting lenses + the audit only; nothing
+ported.*
+
+**WHAT'S NEW ON THE PAGE:** **Detective Frank Stillwell**, a small-town cop in **Lolo forest**
+country (Montana), fronting a press conference about "the murders" — **four attacks now** (the
+prologue had three, "It's only May"). **Sheriff John Collins** behind him. **Mr. Long** (trucker
+hat, overalls, spits into a water bottle — "What do I pay you for then Frank?"). An unnamed
+woman "from the college" — the outsider — asks the two questions that matter: "any truth to the
+rumors of wild animal attacks?" (first person in the book to say it out loud; Frank: "Not that
+I'm aware of") and the jurisdiction trap (town vs. forest). Backstage: the murders are on
+FEDERAL land so the town can't work them; the **mayor** is forcing it to the **FBI "within the
+week"**; "He's a part of this too"; **"move the supply before the FBI arrives."** The town's law
+is running something in the forest. Last line: "I can barely tolerate this fucking town."
+**THE SHAPE IS NEW — this is NOT a recruitment.** Nobody in a suit, no pitch, no yes. Pass 3's
+caution (vary the shape or the reader clocks it by Ch3) is answered by not being the shape at
+all: this is the ground the task force will land on, the Salem's Lot town chapter. The location
+problem he caught himself (Ch1 + Ch2 = offices) is half-answered: a press room and a back
+room are not an office, but they're still two institutional interiors — observed, not ruled.
+**The real structural find:** a SECOND party now wants the forest unwatched. Rick (prologue)
+had a funding beef and called the bodies a serial killer; Frank has "the supply" and calls the
+rumor nothing out of the ordinary. Two men with private reasons to deny the thing, on opposite
+sides of the law. Whether that rhyme is intentional is his to claim.
+
+**HARDEST FIRST — (1) The presser (495 of 660 words) runs on a stake the page hides from the
+reader as well as from the town, so three-quarters of the chapter plays as a nervous cop being
+bad at his job, and the reason arrives only in the last 165 words.** The twist re-colors
+everything — knuckles, "tread carefully," the jurisdiction dodge — but a twist that re-colors
+still needs the first read to carry its own pressure. Quote the hinge: "Frank knew he had to
+tread carefully here" — carefully around WHAT? The word is doing the work the scene should
+do. Then: "The Lolo forest isn't exactly our jurisdiction." — this is the moment Frank is
+STEERING the town away from the forest, and the page lets it read as a bureaucrat's excuse.
+Then the woman: "does that mean you only protect those in the city?" → "Frank was grabbing the
+side of the podium so hard his knuckles were turning white." The honest PR answer (federal land
+is the Forest Service's problem) is easy and he can't reach it — the page never lets the reader
+feel that there's a reason he can't. **Lever:** let the hidden thing LEAK once while he's on
+stage — the question he answers too fast, the word he swallows, the thing he almost says
+before the sheriff's hat-tip — so the reader registers "something is wrong with this man"
+before the back room says what. One leak, not a confession. The smirk is already halfway
+there: she noticed something. Let the reader notice it with her.
+
+**(2) SHOW-vs-TELL — the crowd is summarized four times and never heard once.** "The crowd
+raved, people hurled questions at him from all directions." · "Another clamour cascaded across
+the crowd." · "The crowd was beginning to rile up again" · "The longer he didn't answer the more
+foul the jabs." Four crowd-summaries, zero crowd lines; the only voices are the two named
+askers. "the more foul the jabs" is the clearest case — the jabs are asserted, not quoted, in a
+scene whose whole pressure is what the town says to his face. "This outsider was empowering
+the locals." — caption on the woman's effect (the smirk + the rising room already show it).
+**Lever:** one heckle in words beats four summaries; a room that's "almost overflowing" needs
+one voice from the back.
+
+**(3) DIALOGUE — the page can't yet tell the difference between Frank being generic and the
+writing being generic.** "I promise all of you that I will not rest until the suspect is
+caught." · "we are pouring all of our man power into the case." · "My number one priority will
+always be the townspeople and the town itself." — stock cop lines. If Frank is a liar reaching
+for the script, that's characterization and it pays off backstage; but the reader can only
+read it that way if something shows him REACHING (see #1). As written, the stock lines and the
+white knuckles sit side by side and the reader can't tell whether the man is nervous because
+he's lying or because he's bad at podiums. Also: "I know the murders have every one startled"
+— "startled" for four killings is either Frank's tin ear (good) or the page's (not) — same
+ambiguity. The back room has none of this problem: "Did you want me to lie to them?" / "Yes."
+is the best two-line exchange in the book so far.
+
+**(4) CORNY (quote it).** "Every hand in the room shot up." · "his knuckles were turning
+white." — both stock; the knuckles are the one physical tell the presser gives Frank and it's
+the most-used tell in the language. "Clad in a trucker hat and overalls." — costume shorthand
+for "rural"; the water-bottle spit does the same job better and is his.
+
+**(5) PACING / the exposition in the back room.** Two insiders telling each other what they
+both know — "Are you forgetting we're in this together?" / "He's a part of this too." — is
+half-earned by the fight (men restate grievances when they're angry) and half for the reader.
+It holds because the NEW information (mayor → FBI → within the week → move the supply) arrives
+in the same breath and Frank genuinely doesn't have it. Held, not a defect: watch that the next
+Frank chapter doesn't re-explain the supply the same way.
+
+**SPINE / THEME PRESSURE-TEST:** the observed spine so far = the assembly (nobody says yes
+freely; the volunteer as the exception) + the woods felt in every intro. Ch3 is the first
+chapter with no assembly in it and the most woods: the attacks are public, doors get locked,
+the wild-animal rumor is spoken. Dramatic irony is now three-layered — the reader knows it's
+not a serial killer; the town half-knows ("wild animal attacks"); Frank knows a third thing
+(what's actually in the forest that he needs kept quiet). That's a real structure. It lands as
+SETUP: the collision (FBI + task force + the supply + the thing) is asserted by "within the
+week," not yet felt. Fine for a town chapter; the debt is that Ch4 or Ch5 has to start paying
+it or the reader's patience with the prologue's monster runs out (said in Pass 3, still true).
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** presser 495 (opening-to-questions 166 / Mr. Long 108 /
+the woman 194) · back room 165. **For the first time the chapter's turn is NOT the thinnest
+beat.** The back room builds a run-up (pacing, muttering, "I don't have a choice anymore," the
+mayor, the FBI) to an eight-word punch ("move the supply before the FBI arrives") and then
+stops dead — "Fine." — no caption. That is the 09-16 rule applied on a fresh page, unprompted,
+which is the test Pass 3 set. What's thin instead: the PRESSER's turn — the outsider catching
+him — is "The woman smirked." (3 words) + the knuckles, with a caption on either side. Half
+the habit answered, half still running. **On "feels short":** 660 vs Ch1 697 / Ch2 989 — the
+chapter isn't short; the CROWD is. A room that's overflowing and yields two speakers reads
+emptier than its word count.
+
+**WORKS — PROTECT:**
+- "Did you want me to lie to them?" / "Yes."
+- "Mr. Long spit into his water bottle." — one detail, the whole man.
+- "Load of horseshit. What do I pay you for then Frank?"
+- "He didn't know her personally but the college brought in all types of people." — Frank's
+  contempt for outsiders in one clause; it pays off in the last line.
+- "Not that I'm aware of. Nothing out of the ordinary." — the second man in the book to deny
+  the thing, and the second with a private reason to.
+- "I can barely tolerate this fucking town." — a cop who hates the town he's robbing; stop dead
+  after it. Exit-on-a-line is now the closer of all three chapters (Ch1 "no longer a green
+  beret" / Ch2 "now hurry up" / Ch3 this) — a device forming, same watch as the smile-fade.
+- The shape: no suit, no pitch. The reader can't predict the book from its first three
+  chapters anymore.
+
+**CONTINUITY (open plants, not defects):** "four different, isolated attacks" vs. the
+prologue's "third attack in five months" — a fourth has happened; Ch3's place on the
+assembly's one-day clock is unfixed. Whether the town knows about Jeff (a federal ranger) is
+open. "The supply" = undefined — right call for now. The woman from the college: unnamed,
+undescribed except the smirk; if she matters later she needs one detail now, if she doesn't
+she's the outsider archetype. Names now on the page: Frank Stillwell (Detective), John
+Collins (Sheriff), Mr. Long, the mayor (unnamed). John = a second first-name-John book for
+this author (The Champ) — observed only.
+
+**PRIORITY-3 (held):** (1) one leak of the hidden stake ON STAGE before the back room names it;
+(2) one crowd voice in words instead of four summaries; (3) the outsider's catch — give the
+presser's turn the run-up the back room already has.
+
+**ONE ASK (editorial):** what is this chapter FOR in your head — is Frank a future recruit, or is
+Frank the town, the ground the task force lands on? It decides how much the reader needs to
+feel him hiding something now versus later.
