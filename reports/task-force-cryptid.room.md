@@ -693,5 +693,8 @@ the next Frank page doesn't.
 - **Fact check (report only — he said he researched; his call):** "the oldest library in the
   world" — the Vatican Apostolic Library (1475) is among the oldest, not the oldest (St.
   Catherine's at Sinai, for one, is older and still running). If the Director is wrong on
-  purpose, fine; if the book is, it's a two-word fix later.
+  purpose, fine; if the book is, it's a two-word fix later. **AUTHOR (same day): the library is
+  a FICTIONAL SPLIT from the real one ("mine is a different version split from the main one");
+  researched CIA–Vatican ties + the papacy.** So: not a research error — a sequencing note only
+  (the reader can't know it's a split until the page says so).
 - "What's that got to do with the CIA?" / "Everything." — a mid-chapter hook that works as one.
