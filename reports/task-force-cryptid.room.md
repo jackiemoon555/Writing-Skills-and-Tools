@@ -665,3 +665,31 @@ one other face; (3) the "trying to hide" tic.
 
 **ONE ASK (editorial):** is Frank a recruit, or the other side? The chapter works either way;
 the next Frank page doesn't.
+
+### INTAKE NOTE — Ch4 opening, THE VATICAN (2026-09-17, 704w partial; snapshot task-force-cryptid_ch4-vatican_opening_chatpaste_2026-09-17.txt) — Pass 6 HELD for the full chapter
+- **⚠ CONTINUITY — THE DIRECTOR'S NAME.** Prologue: "Ya fuck you, **Rick**" / v1: "Director
+  **Burch**." Ch4: "Director **Samuels**" / "**Andrew**" ×7. Same man (Director of the CIA,
+  cigarettes, "flask," the vices) — two names. One line, his call: which is canon. (The room
+  reads it as the same character; the reader will read it as an error.)
+- **The cut office scene is REBORN here, and the relocation fixes Pass 1's #1.** Director +
+  priest (Father Joseph = the v1 priest, presumably) — but now with a GATEKEEPER (the pope makes
+  him ask; "You'll have 10 minutes"; "You'll pay me back" = a cost), a HISTORY (lapsed faith —
+  "return to your faith Andrew," "sins of the body," "Did he tell you how he ended up here?"),
+  and a WANT (get out: "Fuck this place… That damn pope is clocking us"). The man who always
+  follows orders is in the one building where his orders don't run. That's the scene v1 never
+  had. Observed, not prescribed.
+- **Brooks = the Director's protégé**; "How'd you get my picture?" — the surveillance beat
+  again (James's file, Elizabeth's hidden sender, now Brooks's own photo): a motif forming,
+  observed. "He stood there like the door was watching him" — protect.
+- **Held for the pass (not flags):** opening pleasantries run three exchanges before "enough
+  of frivolity" (small-talk = the requisition problem, lite); "hard work and determination" =
+  stock unless it's meant hollow; "uniform immaculate" — verbatim reuse from Ch1's captain;
+  "The dank smell of old books caressed Brooks" — corny; "miles of rows" — hyperbole in a scene
+  that's otherwise literal; the pope's voice is wise-old-man generic ("Tsk. Tsk. Always
+  meddling") where the Monsignor is specific. POV: reads as Brooks's (the smell "caressed
+  Brooks," "trying to keep up") — first Brooks-POV page; parked.
+- **Fact check (report only — he said he researched; his call):** "the oldest library in the
+  world" — the Vatican Apostolic Library (1475) is among the oldest, not the oldest (St.
+  Catherine's at Sinai, for one, is older and still running). If the Director is wrong on
+  purpose, fine; if the book is, it's a two-word fix later.
+- "What's that got to do with the CIA?" / "Everything." — a mid-chapter hook that works as one.

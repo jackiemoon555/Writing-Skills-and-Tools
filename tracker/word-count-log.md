@@ -605,3 +605,9 @@ only. Do not report % complete or a finish-length again.
   **DAY 09-16 = 832 + 646 + ~28 = ~1,506 ✅. WEEK 1 = ~3,447 / 5,000** (Thu–Sun left; ~388/day).
   Live total (Doc-verified) = prologue 1,087 + Ch1 697 + Ch2 ~1,017 + Ch3 646 = **~3,447**.
   *(Ch3 dated to 09-16 by the Doc's last-edit time; if it was written 09-17, say so and I'll move it.)*
+- **2026-09-17 — CHAPTER 4 OPENING (the Vatican) INTAKEN (chat paste, PARTIAL — "not done yet";
+  704w prose).** The Director + Brooks at the Vatican: the pope, Monsignor Matthew, the Swiss
+  guard, the library, "Father Joseph." Snapshot
+  `manuscripts/task-force-cryptid_ch4-vatican_opening_chatpaste_2026-09-17.txt`. MD5 bdc460e7a862f1151c7d4064f74d0a8c. Room
+  pass HELD until the chapter is complete (Pass 6 = full Ch4). **DAY 09-17 so far = 704. WEEK 1 ≈
+  3,447 + 704 = 4151 / 5,000.** Live total (Doc-verified through Ch3 + this paste) ≈ 4151.
