@@ -571,3 +571,97 @@ in words ("best offer in years" is gone) — but "Will I be in the field?" still
 so the attachment survives structurally: the want is the first thing she asks. Arguably better
 (the summary line was doing tell-work). If it's an INSERTION and the pay lines return after
 the badge, the beat runs want → obstacle → deal → yes, also fine, ~50w longer.
+
+## Pass 5 — CHAPTER 3, Frank (2026-09-17 pull; written 09-16 per Doc timestamp; 646w; snapshot task-force-cryptid_ch3-frank_docpull_2026-09-17.txt; MD5 a553b97ddc806658ea35d29f0d044bf6)
+*First pull from the new master Doc **"Tbd D1 Take 2"** (id `12krCIEuFEv1HlkPbTV63aGOnGDmvmApeTVq9JJY7qk4`; the
+old "TBD" Doc is stale at v1). DOC VERIFIED: prologue v2, Ch1 v2.1, Ch2 v2.4 (+~28w of new tags —
+"Ugh, the pay?", "Brooks was stone faced. Simply maintaining his public smile.", "Mr. Brooks sighed
+deeply," "Elizabeth was still standing, trying to size up this random man.", "Brooks pleaded.") and
+Ch3 are all in. The priest/Director office scene is NOT in the Doc — CUT by the page, unless he
+says otherwise. Room run per standing instruction; revisions HELD. Checker filed silently (32 hits).*
+
+**WHAT'S NEW ON THE PAGE:** **Detective Frank Stillwell** at a town press conference; **Sheriff
+John Collins**; the forest is **the Lolo** (federally protected — Montana; "the college brought in
+all types" = a college town); townspeople **Dave Long** (plump, spits in his water bottle, "What do
+I pay you for then Frank?"), **Arch** (heckler), an unnamed woman who asks "serial killer?";
+**the mayor** (off-page). The murders are public now. Backstage: Frank and John are DIRTY —
+"we're in this together," "He's a part of this too," **"move the supply before the FBI arrives."**
+FBI in a week (mayor forcing it federal). Frank hates the town he's robbing. **This is NOT a
+recruitment chapter and NOT an office** — his two self-catches from 09-16 honored on the first
+fresh page after them. Third POV, third register: Frank is contempt-under-a-podium, distinct
+from James (deadpan) and Elizabeth (snark).
+
+**HARDEST FIRST — (1) The chapter's turn is its best-built scene, and it's still the one that
+gets the fewest words.** Press conference 425 · backstage 221 · the reveal (mayor → FBI →
+"move the supply") 102. The backstage IS a scene — two men who want different things ("Did you
+want me to lie to them?" / "Yes."), a clock (a week), a decision ("move the supply") — and it's
+the first turn in the book that's a real argument instead of a capitulation. But the reversal
+that reframes the whole chapter (the cops are the criminals) arrives in four lines and the
+chapter ends on the fifth. The presser got twice the room. **Lever (his own rule from 09-16):
+slow down BEFORE the last line.** The run-up to "move the supply" is where the reader should
+feel Frank's stomach drop, and it's the part that's sprinted. The presser, by contrast, could
+lose a third of its chorus and lose nothing.
+
+**(2) NOT WORKING — the crowd is a chorus, not a town.** "Gasps erupted around the room." ·
+"'ARE THEY!?' Cascaded across the room." · "'Ya!' The crowd responded." · "'Answer him!' Came
+from someone in the middle rows." · "'YA!' Echoed." Five crowd-reactions, all generic, all
+doing the same job. Dave Long is the ONE face in the room and he carries the whole presser —
+plump, the water bottle, "for the umpteenth time, it's Detective Stillwell," "And what have
+you seen, Frank?" The others (Arch, the lady) are named and then nothing. **Lever:** a town is
+three faces, not a noise; Long proves one face beats five gasps. The chorus lines are the
+crowd equivalent of a caption.
+
+**(3) SHOW-vs-TELL — "trying to hide" is now a tic.** "Frank tried to hide his sigh" · "Frank
+gripped the podium, trying to hide his contempt" · (Ch2: "trying to hide her disgust"). Three
+uses in two chapters; the phrase names the feeling and then names the hiding. "Frank gripped
+the podium" already IS the hiding. Also: "Frank didn't need to see the room." — orphaned;
+unclear what it means (he knows what's coming? he's looking down?). The Ch2 Doc-adds are the
+same class: "Brooks was stone faced. Simply maintaining his public smile." / "Brooks pleaded."
+— tags added AFTER the pass that the dialogue was already carrying.
+
+**(4) DIALOGUE.** Best exchange in the book so far: "Did you want me to lie to them?" / "Yes."
+Protect. "Not from what I've seen." / "And what have you seen, Frank?" — Long asks the
+reader's question and Frank can't answer it; that line does more for the prologue's irony than
+anything in Ch1–2. "I'm trying to not vilify us" — Frank's honesty as a cop is his cover for
+his dishonesty as a criminal; nice. Weak: "Hopefully, no one else dies in the mean time." — on
+the nose; "keep your doors locked" — stock sheriff. "Ugh" — Frank's grunt, Elizabeth's grunt
+("Ugh, the pay?"), Rick's "Hmpf": three POVs, one grunt. OBSERVED: the interjection is
+becoming a house tic across characters who are supposed to sound different.
+
+**(5) PACING / CONTINUITY (one line each, his call).** "Frank leaned into the podium, 'Ok.
+Any questions?'" right after "ARE THEY!?" — the deadpan works; keep. STILLWELL — the Five
+Families world bible's spymaster is a "Dulles/Varys/Stillwell composite"; name reuse across
+projects (rule 4b: not a problem, just noticed). Timeline: the prologue was May with three
+attacks; Jeff's death presumably made it public — the reader can do that math, the page
+doesn't need to. Frank = fourth POV; is he a recruit, the local liaison, or the antagonist's
+side? Open, and good that it's open.
+
+**SPINE / THEME PRESSURE-TEST:** the observed spine (men moved by orders) gets its darkest
+instance: Frank ← John ← the mayor, and the order is "move the supply." The chain of command
+that ended at the President on James's wall has a criminal twin here. And the FOOL MOON flag
+from 09-14 (government agents ARE the werewolves) has a possible answer forming: the local law
+isn't the monster, it's running something the monster is about to expose. That's a reversal
+of the reversal — his to build, not mine. **The drop of the woods:** this chapter is the first
+time the horror has a PUBLIC. "Is our forest safe!?" is the skin-drip the 09-16 note asked for;
+the town's fear does what a description couldn't.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** presser 425 · backstage 221 · reveal 102. The turn is
+16% of the chapter. Better than Ch2's fresh draft (7%) and the prologue (1%); the habit is
+shrinking on FRESH pages now, not just under revision. Still the thinnest beat.
+
+**WORKS — PROTECT:**
+- "Did you want me to lie to them?" / "Yes."
+- "And what have you seen, Frank?" — the reader's question, in a townsman's mouth.
+- Dave Long: the water bottle, "for the umpteenth time, it's Detective Stillwell."
+- "Mr. Long, the Lolo forest is federally protected. We don't have jurisdiction." — the whole
+  plot's mechanism (federal land = the CIA's excuse, the FBI's delay, the cops' cover) in one
+  line of bureaucracy.
+- "move the supply before the FBI arrives." — a last line that is an order, and ends.
+- "I can barely tolerate this fucking town." — the detective who hates what he protects; rhymes
+  with Jeff, who loved what he protected. (Observed.)
+
+**PRIORITY-3 (held):** (1) feed the run-up to "move the supply"; (2) cut the chorus to Long +
+one other face; (3) the "trying to hide" tic.
+
+**ONE ASK (editorial):** is Frank a recruit, or the other side? The chapter works either way;
+the next Frank page doesn't.

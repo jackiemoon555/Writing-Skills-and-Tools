@@ -594,3 +594,14 @@ only. Do not report % complete or a finish-length again.
   MD5 813f8f4710e0ebc8e379492d044a7569. Pass 4c logged. **DAY 09-16 = 675 + 157 = 832. WEEK 1 =
   2,773 / 5,000.** Live total (pending Doc verify) = 1,087 + 697 + 989 = **2,773** (+448 if the
   office scene is still in).
+- **2026-09-17 pull — MASTER DOC CHANGED: "Tbd D1 Take 2"** (id `12krCIEuFEv1HlkPbTV63aGOnGDmvmApeTVq9JJY7qk4`;
+  the old "TBD" Doc is stale at v1). DOC VERIFIED — prologue v2 + Ch1 v2.1 + Ch2 v2.4 + Ch3 all
+  in. The priest/Director office scene is NOT in the Doc (cut by the page). Ch2 in the Doc
+  carries ~+28w of tags added after Pass 4c → Ch2 ≈ 1,017.
+- **2026-09-16 (late, per Doc timestamp 4:21pm CT) — CHAPTER 3 (Frank) INTAKEN (Doc pull, 646w
+  prose).** Press conference + backstage; the cops are dirty ("move the supply before the FBI
+  arrives"). Snapshot `manuscripts/task-force-cryptid_ch3-frank_docpull_2026-09-17.txt`. MD5
+  a553b97ddc806658ea35d29f0d044bf6. Checker silent (32 hits, filed). Room **Pass 5** logged.
+  **DAY 09-16 = 832 + 646 + ~28 = ~1,506 ✅. WEEK 1 = ~3,447 / 5,000** (Thu–Sun left; ~388/day).
+  Live total (Doc-verified) = prologue 1,087 + Ch1 697 + Ch2 ~1,017 + Ch3 646 = **~3,447**.
+  *(Ch3 dated to 09-16 by the Doc's last-edit time; if it was written 09-17, say so and I'll move it.)*
