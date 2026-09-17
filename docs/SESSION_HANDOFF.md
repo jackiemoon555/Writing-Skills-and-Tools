@@ -23,7 +23,7 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-16 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
+> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-17 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
 > **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
 > may hold a fuller update he said was coming — if a later block from that session exists, it
 > outranks this one. Merged to main at close (rule 9). Auto-memory mirror NOT refreshed (the live
@@ -195,13 +195,45 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > Ch3 NOT in an office; still gathering-the-team, connect when assembled; explaining the
 > creature = the morphologist's job, in scene, not a list. Honeymoon caution given once
 > (record: The Champ felt like this in week one) — week 3 is the evidence.
-> **NEXT SESSION:** pull "TBD" (verify prologue v2 + Ch1 v2.1 + Ch2.4 landed; office scene
-> status), snapshot as a NEW file, log day + week (week 1 ends Sun 09-20), read only if he
-> asks; room each new batch (**Pass 5 next** = Ch3, new character, new location) per his
-> standing instruction; revisions HELD; nothing but room passes and his explicit notes go in
-> the ledger. Don't re-raise Pass 1–4 items. Don't raise The Champ unless he does. PR
-> mechanics: push, open draft PR, leave it; merge when he says or at handoff. **PR #20 merged
-> 09-16 at his "merge the repo, leaving work."**
+> **09-17 — MASTER DOC CHANGED + CH3 INTAKEN + CH4 PARTIAL.** ⚠ **The live master is now the
+> Google Doc "Tbd D1 Take 2"** (id `12krCIEuFEv1HlkPbTV63aGOnGDmvmApeTVq9JJY7qk4`); the old "TBD"
+> Doc is STALE at the 09-13 v1 — never read it again. DOC VERIFIED 09-17: prologue v2 + Ch1
+> v2.1 + Ch2 v2.4 (+~28w of tags he added after Pass 4c) + Ch3 all in. **The priest/Director
+> office scene is NOT in the Doc — cut by the page; its material is reborn in Ch4.**
+> **Ch3 = FRANK** (Detective Frank Stillwell, town press conference near **the Lolo** National
+> Forest, Montana college town; Sheriff **John Collins**; **Dave Long** the heckler; the mayor
+> off-page) — 646w, written 09-16 per the Doc timestamp. **The cops are DIRTY: "move the supply
+> before the FBI arrives."** FBI in a week. Not a recruitment, not an office — both his 09-16
+> catches honored on the first fresh page. **Pass 5** logged: hardest = backstage (the real
+> argument: "Did you want me to lie to them?" / "Yes.") gets 221w to the presser's 425 and the
+> reveal 102; crowd = a chorus not a town (Long is the one face); "trying to hide" is a tic
+> (×3 in two chapters); three POVs share one grunt ("Ugh"/"Hmpf"). Turn's share of the chapter
+> on FRESH pages: prologue 1% → Ch2 draft 7% → Ch3 16% — the habit shrinking without notes.
+> ONE ASK open: is Frank a recruit or the other side?
+> **Ch4 (partial, 704w, chat paste 09-17) = THE VATICAN:** the Director + Brooks (his protégé)
+> meet the pope (gatekeeper: "10 minutes," "You'll pay me back"), Monsignor Matthew (the
+> Director's past — lapsed faith, "sins of the body," "did he tell you how he ended up here?"),
+> a Swiss guard, VISITOR badges with photos ("How'd you get my picture?" = the 3rd surveillance
+> beat), the library ("The Vatican's sins"), heading to **Father Joseph** (= the v1 priest).
+> Ends "What's that got to do with the CIA?" / "Everything." Pass 6 HELD for the full chapter;
+> intake note in the ledger. ⚠ **CONTINUITY CAUGHT + RESOLVED: Ch4 names the Director "Samuels"
+> / "Andrew" — canon is RICK BURCH (author, 09-17: "I forgot, I'll fix it") — VERIFY at the
+> next Doc pull.** Fact-check reported: "oldest library in the world" (Vatican's is among, not
+> the). Held: pleasantries ×3 before the point; "uniform immaculate" reused from Ch1; "caressed";
+> "miles of rows"; pope's voice generic vs. the Monsignor's specific. POV reads as Brooks's —
+> first Brooks page.
+> **COUNTS: 09-14 = 1,087 · 09-15 = 854 · 09-16 ≈ 1,506 (Ch2 tags + Ch3) · 09-17 so far = 704
+> (Ch4 partial). WEEK 1 ≈ 4,151 / 5,000** with Thu night–Sun left. Live total ≈ 4,151.
+> **CHAT-ONLY (09-17):** the scene-relocation instinct named (office → Vatican fixed Pass 1's
+> #1 by moving, not fixing; press conference = where a dirty cop can't lie well); crowd fix =
+> subtraction + specificity, not "livelier"; reps caution — the rep that proves it is the one
+> on a boring day. Honeymoon caution stands.
+> **NEXT SESSION:** pull **"Tbd D1 Take 2"** (verify the Rick Burch fix in Ch4 + whether Ch4 is
+> complete), snapshot as a NEW file, log day + week (week 1 ends Sun 09-20), read only if he
+> asks; room the full Ch4 (**Pass 6**) per his standing instruction; revisions HELD; nothing
+> but room passes and his explicit notes go in the ledger. Don't re-raise Pass 1–5 items. Don't
+> raise The Champ unless he does. PR mechanics: push, open draft PR, leave it; merge when he
+> says or at handoff. **PR #21 merged 09-17 at his "merge, heading home."**
 >
 > ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
 > **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
