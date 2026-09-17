@@ -670,7 +670,9 @@ the next Frank page doesn't.
 - **⚠ CONTINUITY — THE DIRECTOR'S NAME.** Prologue: "Ya fuck you, **Rick**" / v1: "Director
   **Burch**." Ch4: "Director **Samuels**" / "**Andrew**" ×7. Same man (Director of the CIA,
   cigarettes, "flask," the vices) — two names. One line, his call: which is canon. (The room
-  reads it as the same character; the reader will read it as an error.)
+  reads it as the same character; the reader will read it as an error.) **RESOLVED (author,
+  same day): canon = RICK BURCH.** "Samuels"/"Andrew" in Ch4 = a slip; he's changing it back.
+  Verify at the next Doc pull.
 - **The cut office scene is REBORN here, and the relocation fixes Pass 1's #1.** Director +
   priest (Father Joseph = the v1 priest, presumably) — but now with a GATEKEEPER (the pope makes
   him ask; "You'll have 10 minutes"; "You'll pay me back" = a cost), a HISTORY (lapsed faith —
