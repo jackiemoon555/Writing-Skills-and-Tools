@@ -616,8 +616,7 @@ only. Do not report % complete or a finish-length again.
   Snapshot `manuscripts/task-force-cryptid_ch4-vatican_docpull_2026-09-18.txt`. MD5
   cadb01d0faf3f88f5764f25d2aa6282b. Checker silent (95 hits, filed). Room **Pass 6** logged —
   the turn (Joseph, 458w) is the BIGGEST beat in the chapter for the first time.
-  **DAY 09-17 = 1,636 ✅. WEEK 1 = 09-14 1,087 + 09-15 854 + 09-16 ~1,506 + 09-17 1,636 =
-  ~5,083 / 5,000 — FLOOR HIT with Fri–Sun to spare.** Live total (Doc-verified) = prologue 1,087
+  **DAY 09-17 = 704 (the partial). DAY 09-18 = 1,636 − 704 = 932 (the back half — author
+  confirmed). WEEK 1 = 09-14 1,087 + 09-15 854 + 09-16 ~1,506 + 09-17 704 + 09-18 932 =
+  ~5,083 / 5,000 — FLOOR HIT with Fri night–Sun to spare.** Live total (Doc-verified) = prologue 1,087
   + Ch1 697 + Ch2 ~1,017 + Ch3 646 + Ch4 1,636 = **~5,083**.
-  *(Ch4 dated 09-17 — the partial was 09-17 and he called it ready 09-18 early; if the back half
-  was written 09-18, say so and I'll split it.)*
