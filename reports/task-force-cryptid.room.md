@@ -695,3 +695,269 @@ the next Frank page doesn't.
   Catherine's at Sinai, for one, is older and still running). If the Director is wrong on
   purpose, fine; if the book is, it's a two-word fix later.
 - "What's that got to do with the CIA?" / "Everything." — a mid-chapter hook that works as one.
+## Pass 5-PC — CHAPTER 3 v1, Frank Stillwell / the press conference — PC SESSION READ, logged 2026-09-16 BEFORE the satellite's Pass 5 (independent; see RECONCILIATION below) (2026-09-16; 660w chat paste, complete; snapshot task-force-cryptid_ch3-frank_chatpaste_2026-09-16.txt; MD5 637a8d1b6f96504c445b3ca7230e187c)
+*Author's note on handing it over: "this feel short too but chapter 2 was long so we'll see."
+No intent stated for the chapter. Room run per standing instruction; revisions HELD. Checker
+filed silently (37 hits). Rule 4b in force: seven drafting lenses + the audit only; nothing
+ported.*
+
+**WHAT'S NEW ON THE PAGE:** **Detective Frank Stillwell**, a small-town cop in **Lolo forest**
+country (Montana), fronting a press conference about "the murders" — **four attacks now** (the
+prologue had three, "It's only May"). **Sheriff John Collins** behind him. **Mr. Long** (trucker
+hat, overalls, spits into a water bottle — "What do I pay you for then Frank?"). An unnamed
+woman "from the college" — the outsider — asks the two questions that matter: "any truth to the
+rumors of wild animal attacks?" (first person in the book to say it out loud; Frank: "Not that
+I'm aware of") and the jurisdiction trap (town vs. forest). Backstage: the murders are on
+FEDERAL land so the town can't work them; the **mayor** is forcing it to the **FBI "within the
+week"**; "He's a part of this too"; **"move the supply before the FBI arrives."** The town's law
+is running something in the forest. Last line: "I can barely tolerate this fucking town."
+**THE SHAPE IS NEW — this is NOT a recruitment.** Nobody in a suit, no pitch, no yes. Pass 3's
+caution (vary the shape or the reader clocks it by Ch3) is answered by not being the shape at
+all: this is the ground the task force will land on, the Salem's Lot town chapter. The location
+problem he caught himself (Ch1 + Ch2 = offices) is half-answered: a press room and a back
+room are not an office, but they're still two institutional interiors — observed, not ruled.
+**The real structural find:** a SECOND party now wants the forest unwatched. Rick (prologue)
+had a funding beef and called the bodies a serial killer; Frank has "the supply" and calls the
+rumor nothing out of the ordinary. Two men with private reasons to deny the thing, on opposite
+sides of the law. Whether that rhyme is intentional is his to claim.
+
+**HARDEST FIRST — (1) The presser (495 of 660 words) runs on a stake the page hides from the
+reader as well as from the town, so three-quarters of the chapter plays as a nervous cop being
+bad at his job, and the reason arrives only in the last 165 words.** The twist re-colors
+everything — knuckles, "tread carefully," the jurisdiction dodge — but a twist that re-colors
+still needs the first read to carry its own pressure. Quote the hinge: "Frank knew he had to
+tread carefully here" — carefully around WHAT? The word is doing the work the scene should
+do. Then: "The Lolo forest isn't exactly our jurisdiction." — this is the moment Frank is
+STEERING the town away from the forest, and the page lets it read as a bureaucrat's excuse.
+Then the woman: "does that mean you only protect those in the city?" → "Frank was grabbing the
+side of the podium so hard his knuckles were turning white." The honest PR answer (federal land
+is the Forest Service's problem) is easy and he can't reach it — the page never lets the reader
+feel that there's a reason he can't. **Lever:** let the hidden thing LEAK once while he's on
+stage — the question he answers too fast, the word he swallows, the thing he almost says
+before the sheriff's hat-tip — so the reader registers "something is wrong with this man"
+before the back room says what. One leak, not a confession. The smirk is already halfway
+there: she noticed something. Let the reader notice it with her.
+
+**(2) SHOW-vs-TELL — the crowd is summarized four times and never heard once.** "The crowd
+raved, people hurled questions at him from all directions." · "Another clamour cascaded across
+the crowd." · "The crowd was beginning to rile up again" · "The longer he didn't answer the more
+foul the jabs." Four crowd-summaries, zero crowd lines; the only voices are the two named
+askers. "the more foul the jabs" is the clearest case — the jabs are asserted, not quoted, in a
+scene whose whole pressure is what the town says to his face. "This outsider was empowering
+the locals." — caption on the woman's effect (the smirk + the rising room already show it).
+**Lever:** one heckle in words beats four summaries; a room that's "almost overflowing" needs
+one voice from the back.
+
+**(3) DIALOGUE — the page can't yet tell the difference between Frank being generic and the
+writing being generic.** "I promise all of you that I will not rest until the suspect is
+caught." · "we are pouring all of our man power into the case." · "My number one priority will
+always be the townspeople and the town itself." — stock cop lines. If Frank is a liar reaching
+for the script, that's characterization and it pays off backstage; but the reader can only
+read it that way if something shows him REACHING (see #1). As written, the stock lines and the
+white knuckles sit side by side and the reader can't tell whether the man is nervous because
+he's lying or because he's bad at podiums. Also: "I know the murders have every one startled"
+— "startled" for four killings is either Frank's tin ear (good) or the page's (not) — same
+ambiguity. The back room has none of this problem: "Did you want me to lie to them?" / "Yes."
+is the best two-line exchange in the book so far.
+
+**(4) CORNY (quote it).** "Every hand in the room shot up." · "his knuckles were turning
+white." — both stock; the knuckles are the one physical tell the presser gives Frank and it's
+the most-used tell in the language. "Clad in a trucker hat and overalls." — costume shorthand
+for "rural"; the water-bottle spit does the same job better and is his.
+
+**(5) PACING / the exposition in the back room.** Two insiders telling each other what they
+both know — "Are you forgetting we're in this together?" / "He's a part of this too." — is
+half-earned by the fight (men restate grievances when they're angry) and half for the reader.
+It holds because the NEW information (mayor → FBI → within the week → move the supply) arrives
+in the same breath and Frank genuinely doesn't have it. Held, not a defect: watch that the next
+Frank chapter doesn't re-explain the supply the same way.
+
+**SPINE / THEME PRESSURE-TEST:** the observed spine so far = the assembly (nobody says yes
+freely; the volunteer as the exception) + the woods felt in every intro. Ch3 is the first
+chapter with no assembly in it and the most woods: the attacks are public, doors get locked,
+the wild-animal rumor is spoken. Dramatic irony is now three-layered — the reader knows it's
+not a serial killer; the town half-knows ("wild animal attacks"); Frank knows a third thing
+(what's actually in the forest that he needs kept quiet). That's a real structure. It lands as
+SETUP: the collision (FBI + task force + the supply + the thing) is asserted by "within the
+week," not yet felt. Fine for a town chapter; the debt is that Ch4 or Ch5 has to start paying
+it or the reader's patience with the prologue's monster runs out (said in Pass 3, still true).
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** presser 495 (opening-to-questions 166 / Mr. Long 108 /
+the woman 194) · back room 165. **For the first time the chapter's turn is NOT the thinnest
+beat.** The back room builds a run-up (pacing, muttering, "I don't have a choice anymore," the
+mayor, the FBI) to an eight-word punch ("move the supply before the FBI arrives") and then
+stops dead — "Fine." — no caption. That is the 09-16 rule applied on a fresh page, unprompted,
+which is the test Pass 3 set. What's thin instead: the PRESSER's turn — the outsider catching
+him — is "The woman smirked." (3 words) + the knuckles, with a caption on either side. Half
+the habit answered, half still running. **On "feels short":** 660 vs Ch1 697 / Ch2 989 — the
+chapter isn't short; the CROWD is. A room that's overflowing and yields two speakers reads
+emptier than its word count.
+
+**WORKS — PROTECT:**
+- "Did you want me to lie to them?" / "Yes."
+- "Mr. Long spit into his water bottle." — one detail, the whole man.
+- "Load of horseshit. What do I pay you for then Frank?"
+- "He didn't know her personally but the college brought in all types of people." — Frank's
+  contempt for outsiders in one clause; it pays off in the last line.
+- "Not that I'm aware of. Nothing out of the ordinary." — the second man in the book to deny
+  the thing, and the second with a private reason to.
+- "I can barely tolerate this fucking town." — a cop who hates the town he's robbing; stop dead
+  after it. Exit-on-a-line is now the closer of all three chapters (Ch1 "no longer a green
+  beret" / Ch2 "now hurry up" / Ch3 this) — a device forming, same watch as the smile-fade.
+- The shape: no suit, no pitch. The reader can't predict the book from its first three
+  chapters anymore.
+
+**CONTINUITY (open plants, not defects):** "four different, isolated attacks" vs. the
+prologue's "third attack in five months" — a fourth has happened; Ch3's place on the
+assembly's one-day clock is unfixed. Whether the town knows about Jeff (a federal ranger) is
+open. "The supply" = undefined — right call for now. The woman from the college: unnamed,
+undescribed except the smirk; if she matters later she needs one detail now, if she doesn't
+she's the outsider archetype. Names now on the page: Frank Stillwell (Detective), John
+Collins (Sheriff), Mr. Long, the mayor (unnamed). John = a second first-name-John book for
+this author (The Champ) — observed only.
+
+**PRIORITY-3 (held):** (1) one leak of the hidden stake ON STAGE before the back room names it;
+(2) one crowd voice in words instead of four summaries; (3) the outsider's catch — give the
+presser's turn the run-up the back room already has.
+
+**ONE ASK (editorial):** what is this chapter FOR in your head — is Frank a future recruit, or is
+Frank the town, the ground the task force lands on? It decides how much the reader needs to
+feel him hiding something now versus later.
+
+### Pass 5-PC-a — Ch3.1, the PRESSER revised — PC SESSION (2026-09-16; −14w net → Ch3 = 646w; back room unchanged; text = byte-identical to the satellite's 09-17 docpull snapshot task-force-cryptid_ch3-frank_docpull_2026-09-17.txt; MD5 a553b97ddc806658ea35d29f0d044bf6)
+*Author revised same-day after Pass 5 ("a little rewrite"). Chat rulings first (held, not
+ledgered as rulings — recorded here only because they bear on the read): **Frank = a FUTURE
+RECRUIT**; "eventually they both realize they have to work together." Author self-diagnosed the
+two-cop-lanes trap (super cop / morally grey cop) and said he was falling into grey; room's note:
+both lanes are one axis (his relation to the law), a person is what's OFF the axis; what "the
+supply" IS decides the lane. He floated arms dealers (same lane, different crate) and "he needs
+the forest clear of the thing to reach the supply" (moves the axis — the creature becomes a WALL
+between Frank and what he wants, so he wants it gone while denying it exists = the engine for
+working with the task force). One caution given once: cultists OR werewolves, not both yet —
+six parties is too many at Ch3. Nothing ruled; author settles by writing.*
+*CORRECTION to Pass 5's audit: the v1 split was mis-measured. v1 = presser 439 / back room 221
+(not 495 / 165). The finding stands (the presser's turn was 3 words + knuckles); the ratio was
+wrong. Logged, not edited — the ledger is append-only.*
+
+**WHAT LANDED — three of Pass 5's five, and the hardest one by a better route than the room
+named.**
+- **(1) THE LEAK — paid, and paid on the THING, not on jurisdiction.** The woman's question is
+  now "Is there any possibility it's a serial killer?" → **"No. Not from what I've seen."** →
+  Long, from the floor: **"And what have you seen, Frank?"** → grip → "Answer him!" / "YA!" →
+  **"Uh, god-"** → the sheriff rushes in. Frank volunteers that he has SEEN, gets caught on it by
+  the one man in the room who knows him, and can't answer. The reader now registers "this man
+  has seen something and won't say" before the back room names what. That's the lever from Pass
+  5 applied — and better than the room's version, because the leak is about the forest, not
+  about paperwork. Bonus the author may not have clocked: Rick (prologue) SAW and said "serial
+  killer"; Frank SAW and says "not a serial killer." Two men who stood over the same kind of
+  bodies, lying in opposite directions — the town cop contradicts the CIA's cover story without
+  knowing it exists. Protect.
+- **(2) THE CROWD — paid.** Four summaries → six quoted lines: "How long!? How long have people
+  been dying out there!?" (Arch, the back of the room) · "Arch, you stop that. Let the man
+  finish." · "Is our forest safe!?" · "ARE THEY!?" · "Ya!" · "Answer him!" The room has a
+  back, a front, a left side and a middle now. "Arch, you stop that" is the best of them — a
+  town where people know each other's first names is a town, not a crowd.
+- **(4) CORNY — paid.** Knuckles gone; "every hand shot up" → **"Frank didn't need to see the
+  room."** (the stock image turned into the man's fatigue — protect); trucker hat and overalls →
+  "a plump man" + the water-bottle spit, which was always the detail that mattered.
+- **(3) STOCK COP LINES — half-paid by contrast.** "I will not rest until the suspect is caught"
+  and "my number one priority" are gone; "pouring all of our man power" and "working our
+  hardest" remain. But the crowd's lines are now so specific that Frank's stock reads as
+  FRANK's — a man reaching for the script in a room that won't take it. The ambiguity Pass 5
+  named is resolved by the room around him, not by his lines. Acceptable.
+- **NEW ON THE PAGE:** **Dave Long** (first name); "Mr. Long for the umpteenth time, it's
+  Detective Stillwell." / "Uh huh." — a history between these two in nine words. **"Why is this
+  just coming out, Frank?"** + "How long have people been dying out there!?" = NEW CANON: the
+  TOWN DIDN'T KNOW. Tonight is the reveal to the town, which makes the presser a bigger event
+  than v1's — and raises a plant: who kept four deaths (and a dead ranger) quiet in a small
+  town for five months? The cover-up is bigger than Frank. Open, not a defect. "four different,
+  isolated attacks" is gone — the count is no longer stated in Ch3.
+
+**WHAT'S STILL OPEN (held):**
+- **"Frank gripped the podium, trying to hide his contempt."** — the turn's one physical beat,
+  and it captions the feeling. This is the RUN-UP side of the chapter's best punch ("Uh, god-")
+  and the detail there is a label. "trying to hide" is also used twice in twenty lines
+  ("tried to hide his sigh" / "trying to hide his contempt") — each time the thing hidden is
+  named, which un-hides it. Lever: what his hands or his eyes do in the half-second before he
+  answers Long.
+- **The college woman lost her function.** In v1 she was the outsider who SAW him (the smirk);
+  in v2 she asks one question and vanishes, and the catching is done by Long. That's the right
+  trade for a town chapter (the local catches him), but she's now a question-delivery device
+  with no face. If she's nobody, fine. If she's somebody, one detail.
+- "Gasps erupted around the room." / "Cascaded across the room." / "Echoed." — residual
+  crowd-summary tags, but now attached to quoted lines, so they read as staging, not
+  substitution. Held.
+
+**AUDIT (corrected split):** presser 425 (crowd-open 110 / Long 111 / the turn 45) · back room
+221. The presser's turn went from ~3 words + knuckles to 45 words with a run-up (question →
+half-answer → caught → crowd → "Uh, god-") and a stop (the sheriff). Both turns in the chapter
+now have the shape. The one remaining thin spot is the caption at the top of the turn (above).
+
+**ONE ASK (held for when he wants it — not re-asked now):** none. Pass 5's ask is answered
+(future recruit). The supply question is his to settle by writing.
+
+### RECONCILIATION — Pass 5 (satellite, 09-17, read Ch3.1 cold from the Doc) vs Pass 5-PC / 5-PC-a (PC, 09-16, read v1 then the revision) — logged 2026-09-17 at the merge
+*Two Claude reads of the same chapter, neither aware of the other: the PC session ran 09-16
+evening on a branch; the satellite pulled the Doc 09-17 morning and logged its own Pass 5 to
+main. Same model both sides — this is NOT a cross-vendor blind read; treat agreement as a
+signal, not proof. Splits go to the author (rule 8). Ch3 v1 (660w, chat paste) existed only in
+the PC session; the satellite's 646w docpull = the post-rewrite text, byte-identical to the PC's
+Ch3.1 snapshot (same MD5), so the duplicate PC snapshot was dropped at the merge.*
+
+**BOTH READS AGREE (the signal):**
+- "Did you want me to lie to them?" / "Yes." — the best exchange in the book. Protect.
+- "No. Not from what I've seen." / "And what have you seen, Frank?" — the chapter's key beat
+  (satellite: the reader's question in a townsman's mouth; PC: the leak of the hidden stake).
+- "trying to hide" is a tic (satellite ×3 across Ch2–3; PC ×2 inside Ch3), and each use names
+  the feeling it claims to hide.
+- Dave Long is the one real face in the room; the water bottle; "for the umpteenth time."
+- Not a recruitment, not an office — both 09-16 self-catches honored on a fresh page.
+- The turn's share of the page is growing on FRESH drafts (satellite's series: prologue 1% →
+  Ch2 draft 7% → Ch3 16%; PC: the back room built a run-up before any pass).
+- "I can barely tolerate this fucking town." — protect; stop dead after it.
+
+**SPLITS (author's call):**
+1. **The crowd.** Satellite: "a chorus, not a town" — five generic reactions doing one job; cut
+   to Long + one face. PC: "alive" — six quoted lines, four directions, Arch scolded by name.
+   Both are measuring different things: the PC read graded the DELTA (v1 had four summaries
+   and zero lines; v2 has voices), the satellite graded the ABSOLUTE page (the voices are
+   mostly exclamations). Honest composite: alive relative to v1; still mostly noise except
+   Arch and Long. Author asked the PC "does the crowd feel alive?" and got yes — the satellite's
+   read is the caveat on that yes.
+2. **The back room.** Satellite: the reveal (102w inside the 221w backstage) is still the
+   thinnest beat; feed the run-up to "move the supply." PC: the back room already has a run-up
+   (pacing, muttering, "I don't have a choice anymore," the mayor, the FBI) and stops dead on
+   "Fine." — the 09-16 rule applied. The satellite measured finer (the reveal within the
+   scene); the PC measured the scene. Author decides whether 102 words is a run-up or a sprint.
+3. **"Frank didn't need to see the room."** Satellite: orphaned, unclear. PC: protect — the
+   stock "every hand shot up" turned into the man's fatigue. If a cold reader can't parse it,
+   the intent didn't land; if it lands, it's the best sentence in the presser. His call.
+4. **What the town knew.** Satellite: Jeff's death presumably made the attacks public. PC: "Why
+   is this just coming out, Frank?" / "How long have people been dying out there!?" = the town
+   is learning TONIGHT, which makes the cover-up bigger than Frank. The page supports the PC
+   reading; the plant is open either way.
+
+**ONE-SIDE ONLY (neither confirmed nor denied by the other read):**
+- Satellite: three POVs share one grunt ("Ugh" / "Hmpf"); "Stillwell" reused from the Five
+  Families bible (rule 4b — noticed, not a problem); the Fool Moon reversal-of-reversal (the
+  local law isn't the monster, it's running what the monster will expose); "federally
+  protected" = the whole plot's mechanism in one line; "keep your doors locked" stock; Frank
+  hates what he protects / Jeff loved what he protected.
+- PC: Rick SAW and said "serial killer," Frank SAW and says "not a serial killer" — two men
+  lying in opposite directions, the town cop contradicting the CIA's cover story without
+  knowing it exists; a second party (the supply) now wants the forest unwatched — rhymes with
+  Rick's funding beef as a motive to deny; exit-on-a-spoken-line closes all three chapters
+  (device forming); the college woman lost her function in the rewrite (right trade).
+
+**ASKS ANSWERED BY THE AUTHOR (PC chat, 09-16 — held, recorded here because two passes asked):**
+- Satellite's Pass 5 ask ("recruit or the other side?") → **FUTURE RECRUIT.** "Eventually they
+  both realize that they have to work together."
+- Pass 2's open ask (is Rick-who-saw-the-bodies the Director Ch1 inherits?) → **"Ya, it's the
+  same guy."**
+- Author's own diagnosis: he was writing the "morally grey cop" lane (vs. "super cop"). Room:
+  both lanes are one axis (his relation to the law); the person is what's off the axis; what
+  "the supply" IS decides the lane. Author floated arms dealing (same lane, new crate) and
+  "he needs the forest clear of the thing to reach the supply" (moves the axis — the creature
+  becomes a wall between Frank and what he wants; he wants it gone while denying it exists =
+  the engine for working with the task force). Caution given once: cultists OR werewolves, not
+  both yet. Nothing ruled; author settles by writing.

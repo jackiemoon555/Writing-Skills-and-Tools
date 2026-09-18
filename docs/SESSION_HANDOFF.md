@@ -23,6 +23,40 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
+> ## 🖥 PC SESSION 2026-09-16 evening → merged 2026-09-17 — RAN BESIDE THE SATELLITE; RECONCILED AT THE MERGE — read WITH the satellite block below
+> **This block and the satellite block below cover the SAME days from two machines.** The PC
+> session (Fable 5.1, author at his desk) took Ch3 as a chat paste on 09-16 evening — v1 (660w)
+> and, after the pass, the presser rewrite (Ch3.1, 646w) — and logged **Pass 5-PC + 5-PC-a** on
+> a branch. The satellite session, unaware, pulled the Doc 09-17 morning (the post-rewrite text,
+> byte-identical) and logged its own **Pass 5** to main. Both are kept, append-only, with a
+> **RECONCILIATION** block after them in `reports/task-force-cryptid.room.md` (agreements = the
+> signal; four splits for the author: the crowd — alive vs. still a chorus; the back room's
+> run-up — built vs. sprinted; "Frank didn't need to see the room" — protect vs. orphaned; what
+> the town knew). **Counts: the satellite's Doc-verified line wins** (09-16 ≈ 1,506 incl. ~28w of
+> Ch2 tags; the PC's 1,478 was chat-paste-only and is superseded — the PC's tracker entries stand
+> as history). Ch3 v1 (660w) is snapshotted for before/after; the PC's Ch3.1 duplicate was dropped.
+> **CHAT RULINGS FROM THE PC SESSION (held, not ledgered as rulings; recorded because two passes
+> asked):** **Frank = FUTURE RECRUIT** ("eventually they both realize that they have to work
+> together") — answers the satellite's Pass 5 ask. **Rick who saw the bodies = the same Director
+> throughout** ("Ya, it's the same guy") — answers Pass 2's open ask. Author self-diagnosed the
+> two-cop-lanes trap (super cop / grey cop) and is steering off it; what "the supply" IS decides
+> the lane (arms = same lane; the creature as a WALL between Frank and the supply moves it — he
+> wants it gone while denying it exists = the working-together engine). Caution given once:
+> cultists OR werewolves, not both yet. **FLOOR RULING (09-13, PC, before the satellite's 09-14
+> restart): STACKED** — 1,000 per sitting AND 5,000 per week (Mon–Sun), two rest days built in,
+> raise only after three clean weeks; the satellite's "1,000/day judged on 5,000/week" is the same
+> ruling in his later words. Week 1 counter opened Mon 09-14; 09-13's 826 sits outside it.
+> **Author on 09-16 (PC):** "this project feels better… I'm doing it my way, loose and flowy";
+> through Ch3 the new book is ~3,419w vs The Champ D2's ~1,073w at the same point (he thought
+> double; the record says more than triple). Honeymoon caution stands: week 3 is the evidence.
+> **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
+> squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
+> (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **Two sessions on one book = a collision risk.** Rule for both machines from here: PULL FIRST,
+> check the ledger's highest Pass number immediately before appending, and if the other machine
+> already logged the same pages, log yours as `Pass N-<machine>` + a reconciliation, never a
+> second `Pass N`.
+>
 > ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-17 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
 > **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
 > may hold a fuller update he said was coming — if a later block from that session exists, it

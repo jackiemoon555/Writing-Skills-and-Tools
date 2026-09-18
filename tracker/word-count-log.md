@@ -611,3 +611,12 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/task-force-cryptid_ch4-vatican_opening_chatpaste_2026-09-17.txt`. MD5 bdc460e7a862f1151c7d4064f74d0a8c. Room
   pass HELD until the chapter is complete (Pass 6 = full Ch4). **DAY 09-17 so far = 704. WEEK 1 ≈
   3,447 + 704 = 4151 / 5,000.** Live total (Doc-verified through Ch3 + this paste) ≈ 4151.
+- **2026-09-17 MERGE NOTE (PC session 09-16 reconciled with the satellite's 09-17 pull).** The
+  PC session intook Ch3 twice on 09-16 as chat pastes — v1 660w (snapshot
+  `manuscripts/task-force-cryptid_ch3-frank_chatpaste_2026-09-16.txt`, MD5
+  637a8d1b6f96504c445b3ca7230e187c, checker 37 hits filed) then the presser rewrite 646w (−14) —
+  and logged day 09-16 = 1,478 / week 3,419 from pastes alone. **The satellite's Doc-verified line
+  above supersedes those numbers** (09-16 ≈ 1,506 / week ≈ 3,447 — the difference is the ~28w of
+  Ch2 tags the PC never saw). The PC's 646w Ch3.1 snapshot was byte-identical to the satellite's
+  `…_ch3-frank_docpull_2026-09-17.txt` (same MD5) and was dropped; v1 stays for before/after.
+  Running totals unchanged: **09-17 so far = 704 (Ch4 partial). WEEK 1 ≈ 4,151 / 5,000.**
