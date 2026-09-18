@@ -698,3 +698,107 @@ the next Frank page doesn't.
   researched CIA–Vatican ties + the papacy.** So: not a research error — a sequencing note only
   (the reader can't know it's a split until the page says so).
 - "What's that got to do with the CIA?" / "Everything." — a mid-chapter hook that works as one.
+
+## Pass 6 — CHAPTER 4, the Vatican (2026-09-18 pull; written 09-17; 1,636w — his biggest chapter; snapshot task-force-cryptid_ch4-vatican_docpull_2026-09-18.txt; MD5 cadb01d0faf3f88f5764f25d2aa6282b)
+*Pulled from "Tbd D1 Take 2." **Rick Burch fix VERIFIED** — zero "Samuels"/"Andrew" in the Doc. The
+pope scene was tightened from the 09-17 partial (pleasantries cut to two exchanges; the pope
+coughs and an assistant refills his cup — a body; "have you come demanding things of the church,
+Rick?"). Room run per standing instruction; revisions HELD. Checker filed silently (95 hits —
+highest raw count, proportional to length).*
+
+**WHAT'S NEW ON THE PAGE:** the Director + Brooks → the pope (10 minutes, "You'll pay me back") →
+Monsignor Matthew → the Swiss guard + VISITOR badges → the split library ("The rumor is smoke.
+It's true in the sense that it exists. It's just separated" — the fictional split is now ON the
+page, so the "oldest library" note is closed) → "52 miles" → the RED MASK (scarred, black eyes;
+Brooks compelled to touch it; "Don't") → **Father Joseph's chapel**: bald, sunken eyes, praying;
+"If not to repent then what?"; "President's orders"; **"The folly of youth… This why you couldn't
+have taken my place."** → **"What need do you have for a faith you cast away? You don't believe
+that things go bump in the night, you never have."** / "It's not my call." → "Don't call me
+that." → "A monster problem?" / "No, a serial killer problem, that people are convinced is a
+monster problem." → a man already in the US, "What we always do in the shadows, hunt monsters."
+→ Rick's tie "swinging like a pendulum," eyes empty → Brooks alone: the **gold ring**, "for
+protection"; "the Vatican wouldn't have a monster hunter division"; "Rick is the exception."
+**THE REVEAL: Rick Burch was in the Vatican's monster-hunting arm 10–15 years ago, was Joseph's
+intended successor, and walked away.** That re-reads the prologue ("you haven't seen the shit
+I've seen") and Ch1's "always follows orders": the disbeliever KNOWS, and is ordered back.
+
+**THE AUDIT, FIRST, BECAUSE IT'S THE HEADLINE:** pope 237 · Monsignor 131 · guard 198 · library
+walk 265 · mask 187 · **JOSEPH 458 (the reveal alone 250)** · Brooks + ring 160. **The turn is
+the biggest beat in the chapter. First time in six passes.** 28% of the page on the scene the
+chapter exists for; the run-up to "hunt monsters" is fed (the foot-tapping, "Never," "Father."
+"Father Joseph." the pews, the beard, "If not to repent then what?"), and the Director's
+reaction is SHOWN — "eyes empty," the tie like a pendulum — with no epitaph on it. The
+09-16 diagnosis applied to a fresh chapter, unprompted. Logged as the measured fact it is.
+
+**HARDEST FIRST — (1) The reveal is delivered twice, and the second time is the reflex at
+scene scale.** To Rick, obliquely, it's the best writing in the book: "you couldn't have taken
+my place" · "a faith you cast away" · "What we always do in the shadows, hunt monsters." · the
+tie. Then Rick leaves, and the scene turns to Brooks and SAYS it: "Things go bump in the night.
+I'm the one who brings them to their knees. Monsters are real boy, never question that. If they
+weren't the Vatican wouldn't have a monster hunter division." / "Father, are you saying the
+supernatural is real?" — Brooks asks the question the reader has already answered, and Joseph
+answers it in a sentence that names the division. The ring beat ("Here, for protection." /
+"Protection from what?") was already doing this job perfectly, unexplained. **Lever:** the
+Brooks coda is right to exist (he's the initiate; the ring is the first supernatural object
+handed to a POV; "Rick is the exception" is a great last line of dialogue) — it just shouldn't
+restate what the pendulum said. Let the ring and "In due time boy" carry it.
+
+**(2) SHOW-vs-TELL — the mask beat is the skin-drip the book needed, and it's delivered as
+emotion-nouns.** The mask itself is concrete (red, ornate, scarred, black eyes) — good. Around
+it: "evil flickers of life could be heard" · "Brooks could feel the library breathing, the walls
+closing in" · "He couldn't shake his anxiety, it wrapped around him, squeezing his emotions.
+They were both feeling it." · "The life of the room was leaving." The first overt supernatural
+beat in the present tense of the book, and it's told through the words "evil," "anxiety,"
+"emotions," "feeling." Compare the Swiss guard: "He stood there like the door was watching him"
+— that's the same dread, shown. **Lever:** the mask beat needs what the door got — one thing
+Brooks's body does, one thing the room does, no naming of the feeling.
+
+**(3) CORNY (quote it) — the holy set-dressing.** "his great pope hat not moving an inch" ·
+"heavenly robes flowing gracefully in the sunlight" · "the seat of all things holy" · "holy
+scripture passing judgment" · "his ghost white hair fluttering behind him" · "evil flickers of
+life." Where the chapter is specific (the cough and the refilled cup, the badge photo, the
+guard's bow with the arm tucked, the foot-tap echoing, the beard to the chest) it's the best
+stuff in the book; where it reaches for "holy"/"heavenly"/"evil" it's stock. The research
+shows in the particulars and vanishes in the adjectives.
+
+**(4) REPETITION / REFRAINS FORMING.** "bump in the night" ×2 here + the prologue = 3; it's a
+refrain now — claim it or vary. "abyss" ×2 (and it was a Champ motif — cross-book bleed, 4b:
+observed only). "Ya, ya." — Chuck's cadence, third sighting. "Tsk. Tsk." stays. Joseph's "boy"
+×3 = voice, fine. "the unknown" as the last word = mild caption on an action ending.
+
+**(5) DIALOGUE — the strongest chapter of dialogue in the book, with a few flat spots.** Protect
+(see below). Flat: "Ah, the lack of faith. Rearing its ugly head again." — cliché; "A very old
+and a very dangerous place." — trailer-line; "Do not fear lost lamb" — costume. POV note
+(parked for revision, one line): Brooks's POV, but the Director's interior leaks twice ("he
+tried to brush off a chill that shocked his body"; "They were both feeling it").
+
+**SPINE / THEME PRESSURE-TEST:** the observed spine (men moved by orders; nobody says yes)
+now has its THESIS CHARACTER: the Director cast away faith and is being ORDERED back into it —
+"It's not my call." Obedience vs. belief, in one man, and the book has three institutions to
+stage it across: the CIA (orders), the Vatican (faith), the town (greed). The Fool Moon flag is
+answered — the Vatican has the hunters, not the government. "No, a serial killer problem, that
+people are convinced is a monster problem" is the Director's whole self-deception in a line,
+and it's a LIE he tells a man who knows better; the reader knows it too. That's dramatic irony
+with a third layer now. Also: the prologue's "Kid, you haven't seen the shit I've seen" was a
+plant whether he knew it or not — it pays here.
+
+**WORKS — PROTECT:**
+- "The folly of youth. Always too quick to act. This why you couldn't have taken my place."
+- "What need do you have for a faith you cast away?" / "It's not my call."
+- "Don't call me that." (to "my son")
+- "No, a serial killer problem, that people are convinced is a monster problem."
+- "What we always do in the shadows, hunt monsters." → "eyes empty. His tie dangled in front
+  of him swinging like a pendulum." — the reaction shown, no caption. The model for the book.
+- "Father." "Father." "Father Joseph." — the foot-tap escalation.
+- "Oh, have you come demanding things of the church, Rick?" / "You'll pay me back."
+- The pope's cough and the refilled cup. The guard's bow. The badge photo.
+- "Here, for protection." / "Protection from what?" — the ring, before it gets explained.
+- "Rick is the exception."
+
+**PRIORITY-3 (held):** (1) cut the second telling — let the ring and "In due time" carry the
+Brooks coda; (2) give the mask beat the door's treatment (body + room, no feeling-nouns); (3)
+the holy adjectives.
+
+**ONE ASK (editorial):** confirm the reveal as canon — Rick was a Vatican monster hunter and
+Joseph's intended successor. If yes, the prologue's Rick is a man who SAW the bodies and knew,
+and the room reads everything before this chapter differently from here on.

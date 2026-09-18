@@ -611,3 +611,13 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/task-force-cryptid_ch4-vatican_opening_chatpaste_2026-09-17.txt`. MD5 bdc460e7a862f1151c7d4064f74d0a8c. Room
   pass HELD until the chapter is complete (Pass 6 = full Ch4). **DAY 09-17 so far = 704. WEEK 1 ≈
   3,447 + 704 = 4151 / 5,000.** Live total (Doc-verified through Ch3 + this paste) ≈ 4151.
+- **2026-09-17 — CHAPTER 4 (the Vatican) COMPLETE, INTAKEN (Doc pull 09-18; 1,636w prose — his
+  BIGGEST chapter to date).** Supersedes the 704w partial. Rick Burch fix VERIFIED in the Doc.
+  Snapshot `manuscripts/task-force-cryptid_ch4-vatican_docpull_2026-09-18.txt`. MD5
+  cadb01d0faf3f88f5764f25d2aa6282b. Checker silent (95 hits, filed). Room **Pass 6** logged —
+  the turn (Joseph, 458w) is the BIGGEST beat in the chapter for the first time.
+  **DAY 09-17 = 1,636 ✅. WEEK 1 = 09-14 1,087 + 09-15 854 + 09-16 ~1,506 + 09-17 1,636 =
+  ~5,083 / 5,000 — FLOOR HIT with Fri–Sun to spare.** Live total (Doc-verified) = prologue 1,087
+  + Ch1 697 + Ch2 ~1,017 + Ch3 646 + Ch4 1,636 = **~5,083**.
+  *(Ch4 dated 09-17 — the partial was 09-17 and he called it ready 09-18 early; if the back half
+  was written 09-18, say so and I'll split it.)*
