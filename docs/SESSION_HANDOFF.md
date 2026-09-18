@@ -52,6 +52,25 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
 > squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
 > (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **09-17 EVENING (PC, after the merge) — CHAT ONLY, no pages; recorded so it isn't re-taught:**
+> The Ch4 partial got a signs-check (NOT Pass 6 — held until whole): the office scene's relocation
+> to the Vatican fixed Pass 1's #1 by moving it (gatekeeper with a price, a past he won't look at,
+> a want = get out); history-in-dialogue, staged reveal, hook-and-stop ending, third unexplained
+> surveillance beat all held on a fresh page. **ONE CLASS NAMED ONCE (active recall — he finds
+> the rest): his dialogue is ahead of his description.** People talk specific; places arrive
+> stock ("dank smell… caressed," "miles of rows," "rainbows") — and it's narrower than "place":
+> place in motion (the forest prologue) is fine; place as a setting to walk through goes stock.
+> Fix = put the room in motion or in someone's mouth ("The Vatican's sins" is the best
+> description in the chapter and it's dialogue); detail follows the character's attention.
+> He read GoT Eddard I (the crypts) on this and took it apart himself: description doesn't stop
+> when the scene starts, it stops being separate; telling BEFORE a scene to load it works,
+> explaining AFTER the beat is the reflex; light on the column / heavy on Robert = words go
+> where the eyes go; Jaime/Tyrion = a judgment wearing a detail. **Back-room split resolved in
+> chat:** not more words — one missing beat between "within the week" and "He's a part of this
+> too" where Frank takes the FBI news before he deflects. Revisions HELD; his call. "trying to"
+> tic migrated into Ch4 (×2). Day 09-17 = 704 (Ch4 partial); week 1 = 4,151 / 5,000, Fri–Sun
+> left. He's prioritizing sleep — no nudges.
+>
 > **Two sessions on one book = a collision risk.** Rule for both machines from here: PULL FIRST,
 > check the ledger's highest Pass number immediately before appending, and if the other machine
 > already logged the same pages, log yours as `Pass N-<machine>` + a reconciliation, never a
