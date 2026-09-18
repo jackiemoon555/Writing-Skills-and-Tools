@@ -23,7 +23,7 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > dated before 2026-08-25 uses the OLD numbering. **Disambiguate interludes by CHARACTER
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
-> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-17 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
+> ## ⚡ SATELLITE SESSION 2026-09-13 evening → 09-18 — PIVOT: THE CHAMP SHELVED; NEW STORY, FREE-FLOW DRAFT — READ THIS FIRST
 > **This was a SATELLITE session** (author on his PC, not remote-controlled in). His PC session
 > may hold a fuller update he said was coming — if a later block from that session exists, it
 > outranks this one. Merged to main at close (rule 9). Auto-memory mirror NOT refreshed (the live
@@ -228,12 +228,60 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > #1 by moving, not fixing; press conference = where a dirty cop can't lie well); crowd fix =
 > subtraction + specificity, not "livelier"; reps caution — the rep that proves it is the one
 > on a boring day. Honeymoon caution stands.
-> **NEXT SESSION:** pull **"Tbd D1 Take 2"** (verify the Rick Burch fix in Ch4 + whether Ch4 is
-> complete), snapshot as a NEW file, log day + week (week 1 ends Sun 09-20), read only if he
-> asks; room the full Ch4 (**Pass 6**) per his standing instruction; revisions HELD; nothing
-> but room passes and his explicit notes go in the ledger. Don't re-raise Pass 1–5 items. Don't
-> raise The Champ unless he does. PR mechanics: push, open draft PR, leave it; merge when he
-> says or at handoff. **PR #21 merged 09-17 at his "merge, heading home."**
+> **09-18 — CHAPTER 4 (THE VATICAN) COMPLETE — 1,636w, HIS BIGGEST — Pass 6. WEEK 1 FLOOR HIT.**
+> Pulled from "Tbd D1 Take 2"; **Rick Burch fix VERIFIED** (zero Samuels/Andrew). Snapshot
+> `manuscripts/task-force-cryptid_ch4-vatican_docpull_2026-09-18.txt`. Split by author: **09-17 =
+> 704 (the partial) · 09-18 = 932 (the back half). WEEK 1 = 1,087 + 854 + ~1,506 + 704 + 932 ≈
+> 5,083 / 5,000 — HIT with Fri night–Sun to spare.** Live total ≈ 5,083 (Doc-verified).
+> **THE CHAPTER:** pope (10 min, "You'll pay me back") → Monsignor Matthew → Swiss guard +
+> VISITOR badges → the SPLIT library, now ON the page ("The rumor is smoke… It's just
+> separated") → "52 miles" → the RED MASK (scarred, black eyes; Brooks compelled; "Don't") →
+> **Father Joseph** (bald, sunken eyes, praying): "If not to repent then what?" · **"The folly
+> of youth… This why you couldn't have taken my place."** · **"What need do you have for a
+> faith you cast away?" / "It's not my call."** · "Don't call me that." · "No, a serial killer
+> problem, that people are convinced is a monster problem." · a hunter "already in the US" →
+> "What we always do in the shadows, hunt monsters." → Rick "eyes empty," tie "swinging like a
+> pendulum" → Brooks alone: the **gold ring** "for protection"; "the Vatican wouldn't have a
+> monster hunter division"; "Rick is the exception."
+> **PASS 6 HEADLINE — THE AUDIT FLIPPED:** pope 237 · Monsignor 131 · guard 198 · library 265 ·
+> mask 187 · **JOSEPH 458 (reveal 250)** · ring 160. **First time in six passes the turn is the
+> BIGGEST beat.** Run-up fed; reaction shown, no epitaph. The 09-16 diagnosis applied to a
+> fresh chapter unprompted. Hardest = the reveal told TWICE (oblique to Rick = the best writing
+> in the book; then flat to Brooks: "Monsters are real boy… the Vatican wouldn't have a monster
+> hunter division" / "are you saying the supernatural is real?") — the reflex at scene scale;
+> the mask beat = the skin-drip the book needed, told as feeling-nouns ("evil flickers," "anxiety
+> wrapped around him… They were both feeling it"); holy set-dressing ("great pope hat," "heavenly
+> robes flowing gracefully," "seat of all things holy"); refrains: "bump in the night" ×3 now,
+> "abyss" ×2 (Champ bleed), "Ya, ya" (Chuck). Protect list in the ledger.
+> **CANON / DIRECTION (author, chat, 09-18 — NOT ledgered by his rule; his "what I got right
+> now"):** **Rick was a CIA PLANT in the Vatican 10–15 years ago; the pope warmed to him; he
+> was STARTING TO BELIEVE and had to tread the line; he worked his way to what the Vatican hides
+> (why he knows where to look); he rebukes it when he remembers his mission.** Joseph: "what
+> kind of man it takes to run the monster division" — Joseph sees his own path in Rick and, as
+> a man of God now, FORGIVES ("I won't rub this in your face" = already on the page). Whether
+> Joseph KNEW Rick was a plant = open, his to settle by writing. Room's note: the scene works
+> because Rick REFUSES the forgiveness ("Ya, ya," "Don't call me that") — protect that friction.
+> Ch4 = the book's spine crystallizing: obedience vs. belief in one man ("It's not my call");
+> three institutions to stage it across (CIA/orders, Vatican/faith, town/greed). The Fool Moon
+> flag is answered: the Vatican has the hunters.
+> **THE CAMERA TEST (taught 09-18, he asked — active recall: named once):** can a camera film
+> it? Tie swinging / guard still / cup refilled = yes. "Anxiety," "evil," "heavenly," "nasty"
+> = the writer's verdict, no. Put the feeling IN THE OBJECT (black tears on the mask, a scowl)
+> and cut the sentence that names it. He got it ("the feeling needs to be outside"). He's
+> revising the mask + "a couple of these" on the PC tonight — **expect Ch4 revisions in the
+> Doc; log as 6a.** Door = already the best dread (understated threshold); the INTERIOR is what
+> hasn't earned it.
+> **"MOST IMPROVEMENT?"** Yes, measured: audit flipped; reaction shown; run-up fed; a broken
+> scene fixed by relocation; backstory delivered sideways between two men who both know it.
+> Reflexes still fired (second telling, feeling-nouns, holy adjectives) — smaller.
+> **NEXT SESSION:** pull **"Tbd D1 Take 2"** (expect Ch4 revisions → snapshot NEW file, delta,
+> Pass 6a), log day + week (week 1 ends Sun 09-20 — already hit; week 2 starts Mon 09-21 at 0),
+> read only if he asks; room the next new chapter (**Pass 7**) per his standing instruction;
+> revisions HELD except his own same-day passes; nothing but room passes and his explicit notes
+> go in the ledger. Don't re-raise Pass 1–6 items. Don't raise The Champ unless he does. Open
+> asks carried: is Frank a recruit or the other side; did Joseph know. PR mechanics: push, open
+> draft PR, leave it; merge when he says or at handoff. **PR #22 merged 09-18 ("merge, switching
+> to PC").**
 >
 > ## NEXT SESSION — START HERE (updated 2026-09-08 night, DELIVERY-DAY close) — DRAFT 2 NOT FINISHED; DATE SLIDES; ~16 PIECES LEFT
 > **Session closed 2026-09-08 night, merged to main. THE CONTRACT stays in force (ask-first). Model: Fable 5.1.**
