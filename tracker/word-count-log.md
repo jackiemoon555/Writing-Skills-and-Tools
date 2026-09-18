@@ -620,3 +620,12 @@ only. Do not report % complete or a finish-length again.
   Ch2 tags the PC never saw). The PC's 646w Ch3.1 snapshot was byte-identical to the satellite's
   `…_ch3-frank_docpull_2026-09-17.txt` (same MD5) and was dropped; v1 stays for before/after.
   Running totals unchanged: **09-17 so far = 704 (Ch4 partial). WEEK 1 ≈ 4,151 / 5,000.**
+- **2026-09-17 — CHAPTER 4 (the Vatican) COMPLETE, INTAKEN (Doc pull 09-18; 1,636w prose — his
+  BIGGEST chapter to date).** Supersedes the 704w partial. Rick Burch fix VERIFIED in the Doc.
+  Snapshot `manuscripts/task-force-cryptid_ch4-vatican_docpull_2026-09-18.txt`. MD5
+  cadb01d0faf3f88f5764f25d2aa6282b. Checker silent (95 hits, filed). Room **Pass 6** logged —
+  the turn (Joseph, 458w) is the BIGGEST beat in the chapter for the first time.
+  **DAY 09-17 = 704 (the partial). DAY 09-18 = 1,636 − 704 = 932 (the back half — author
+  confirmed). WEEK 1 = 09-14 1,087 + 09-15 854 + 09-16 ~1,506 + 09-17 704 + 09-18 932 =
+  ~5,083 / 5,000 — FLOOR HIT with Fri night–Sun to spare.** Live total (Doc-verified) = prologue 1,087
+  + Ch1 697 + Ch2 ~1,017 + Ch3 646 + Ch4 1,636 = **~5,083**.
