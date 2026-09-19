@@ -9,7 +9,7 @@
 - [Active recall in revision](feedback-active-recall-revision.md) — name a defect class ONCE then make him find the next instances himself; don't pre-flag every hit (his edge over school = tailoring, not offloading)
 - [DeepSeek code offload](user_deepseek_code_offload.md) — he offloads code work to DeepSeek; first run saved externally; repo plumbing stays mine (rule 7)
 - [Jack Moon signature devices](project_jackmoon_signature_devices.md) — percussion motifs + convergent-tense architecture; his declared developing style
-- [Sonnet codes only](feedback-sonnet-codes-only.md) — all coding to Sonnet subagents, minimal reasoning, Fable writes the spec
+- [Orchestrate; Sonnet/Haiku do the labor](feedback-sonnet-codes-only.md) — main session plans, specs, judges, reviews; ALL coding and any token-heavy work (big file digs, bulk fetching, long searches) goes to Sonnet/Haiku subagents; main session writes no code; room passes stay with Fable
 - [Usage rollback Aug 31](project_usage_rollback_aug31.md) — limits shrink after 08-31; front-load heavy passes this week
 - [No guessed facts](feedback-no-guessed-numbers.md) — anything not in the record or plainly derivable: ask or say unknown, never guess
 - [THE CONTRACT: ask-first writing partnership](feedback-ask-first-writing-partnership.md) — writing domain = propose and wait (even logging his rulings); no nudges; only pure plumbing autonomous
