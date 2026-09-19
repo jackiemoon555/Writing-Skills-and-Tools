@@ -88,3 +88,7 @@ integrity OK · byte-identical on re-run · exit 2 on a missing file · no id st
   Sonnet/Haiku subagent from a spec, code only**, same as the reader.
 - The most useful single finding was cross-deck card frequency ("which unowned cards gate the
   meta"). Keep that section.
+- **Rules interactions: never from Claude's memory either.** 2026-09-19: Claude believed
+  Jubilee-added cards don't trigger On Reveal; Alec said they do; the source agreed with Alec.
+  When he states a rule from play, check it, and expect him to be right.
+- Local game files contain NO card text (verified). Text always comes from the sites.

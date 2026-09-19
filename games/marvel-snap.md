@@ -77,3 +77,14 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   (double, then double again, for 1 energy after the swap) — the cut that hurts**; **Wong in the
   same lane as Mister Negative repeats the swap and undoes it**; Bishop is a smart add for the
   free-card dump turn; Jubilee is fine but (UNVERIFIED) may waste Negative if she pulls him.
+- 2026-09-19 (evening) — **CORRECTION, his rules knowledge beat Claude's:** cards added by
+  Jubilee DO trigger their On Reveal (he said so; confirmed via Marvel Snap Zone's On Reveal
+  guide: On Reveals fire when a card is revealed however it got there). Claude's "I believe it
+  doesn't fire" was stale memory and WRONG. Consequences: Jubilee pulling Mister Negative is
+  GOOD (the swap fires) — she's a second route to the swap; but Jubilee in WONG's lane can pull
+  Negative there and the repeated swap undoes itself. Cassandra Nova verified 3/0: On Reveal,
+  steal 1 Power from each card in the opponent's deck.
+- **Local files do NOT hold card rules text.** Checked read-only: the state folder has only
+  account/collection state; `LocPatches` has one tiny patch file with no ability text; the card
+  text lives in the game's packed data. Card TEXT must always come from the sites; the local
+  files are good for exactly one thing — what he owns and his saved decks.
