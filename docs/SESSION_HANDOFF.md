@@ -61,6 +61,14 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
 > squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
 > (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **PASS 6a ASK — ANSWERED (author, chat, 09-19; don't re-raise):** the trigger for Rick's
+> pendulum beat is NOT "hunt monsters" — it's **a foreign entity operating on his front lawn**:
+> "He's already in the US on other business" → fists clenched, "Doing what?" → Joseph answers
+> with Rick's own trade ("The game of shadows") = mentor vs. mentee in a mental battle, and the
+> mentor wins. "my son" is what Rick rebukes; "my boy" is Joseph needling. The room MISREAD the
+> cause; the run-up was already on the page. Room's remaining note (one word, his call): "eyes
+> empty" says hollowed where he means outplayed — same kind of mismatch as "evil" on the embers.
+> "Monsters are real boys" = a typo, he's fixing it.
 > **09-19 AFTERNOON (PC) — CH4.1 + PASS 6a.** Ch4 revised in the Doc (1,803w, +167). **The mask
 > now PASSES the camera test in the same word count** (feeling-nouns out; "Kyle." whispered, the
 > porcelain weeps and sobs, "When did the mask end up in front of him?", Rick's flat "No," the
