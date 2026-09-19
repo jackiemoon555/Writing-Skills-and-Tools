@@ -24,6 +24,18 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
 > ## 🖥 PC SESSION 2026-09-16 evening → merged 2026-09-17 — RAN BESIDE THE SATELLITE; RECONCILED AT THE MERGE — read WITH the satellite block below
+> **▶ NEXT SESSION — START HERE (PC close, 2026-09-19 ~afternoon; author may not return today —
+> "rather pleased with this week and don't want to burn out again"):** PULL FIRST. Master Doc =
+> "Tbd D1 Take 2". State on main: prologue v3 (1,340) · Ch1 697 · Ch2 ~1,017 · Ch3 646 · Ch4.1
+> 1,803. Passes through 6 + 2a + 6a. **WEEK 1 ≈ 5,503 / 5,000 — CLOSED EARLY; Sat–Sun are free
+> by rule 1 (side work allowed, not counted). WEEK 2 opens Mon 09-21 at 0.** Expected small
+> deltas at the next Doc pull: "heavenly" cut from "smite", the "real boys" typo, "a couple of
+> fixes" in Ch4, possibly labels stripped from the prologue's hunt — snapshot as NEW files, log
+> the net (may be negative). Next new pages = Ch5 → **Pass 7**. Open, his to settle by writing:
+> the first ~150 words of the prologue (what does line one promise?); "eyes empty" (hollowed vs
+> outplayed); Joseph's "you never have" vs Rick-was-starting-to-believe; did Joseph know Rick
+> was a plant. Don't re-raise anything claimed above. Nothing downstream mid-draft (no editor /
+> title / length / finish-date talk). Report day + week only.
 > **⚠ STANDING ORDERS FOR BOTH MACHINES (author, 2026-09-19) — READ BEFORE ANYTHING BELOW:**
 > **(1) THE PC SESSION IS PRIMARY — "the satellite session follows you, not the other way
 > around."** Satellite: pull first, conform to the PC's records and rulings; where the two
