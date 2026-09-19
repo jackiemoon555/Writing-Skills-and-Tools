@@ -146,7 +146,7 @@ For game recommendations AND as target-player reference for his own game designs
 - **Mobile-native, later ported:** Slice & Dice; Shattered Pixel Dungeon (free, Mage class);
   Reigns series (management in swipes, stakes per decision); Grindstone (Apple Arcade);
   Retro Bowl (sports-sim shelf in pocket form); Auro (spell-bump tactics roguelike, hard-fair).
-- **Skip:** Marvel Snap (PvP timer = abused), Kairosoft (idle-shaped), landscape ports he already
+- **Skip:** ~~Marvel Snap (PvP timer = abused)~~ **[SUPERSEDED 2026-09-19 — he came back for the DRAFT mode and stayed; rank 75, peaked Omega 83 on free decks; see `marvel-snap.md`]**, Kairosoft (idle-shaped), landscape ports he already
   owns on PC (StS, Into the Breach, Obra Dinn, Golden Idol).
 - **iOS LIBRARY LOGGED (screenshots, 2026-08-16; ☁ = offloaded/bounced):** ALREADY OWNS Dawncaster
   (installed), Slice & Dice ☁, Into the Breach (Netflix, installed), Slay the Spire+ (Arcade),
