@@ -43,3 +43,14 @@ collection file is, so a stale one is obvious.
 - [ ] 4. First report built by hand in-session; he says what was useful and what was noise
 - [ ] 5. Scheduled task `snap-weekly-report` created and test-run once
 - [ ] 6. Cross-vendor review brief for the script offered (rule 8; not a gate)
+
+## Step 1 notes — cross-platform carry-over (checked 2026-09-19; sources are older articles, verify in-game)
+- Snap HAS cross-progression: one account, same collection and rank on phone and Steam, once the
+  account is LINKED (Settings cog → Link Account).
+- **iPhone caveat:** players have reported that an Apple-ID-only account can't sign in on Steam.
+  Safest order: on the PHONE first, link the account to a **Google** login; THEN install on the
+  PC and sign in with that same Google login.
+- **Don't play on the PC before signing in** — launching fresh can start a brand-new guest
+  account, and then the collection file would describe the wrong account. The check: the rank
+  and card count on the PC match the phone.
+- Signing in is Alec's step. Claude never enters credentials.
