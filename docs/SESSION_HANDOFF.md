@@ -61,6 +61,11 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
 > squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
 > (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **CLAIMED (author, 09-19; never re-flag):** the pope's "holy Roman chair, a golden crucifix
+> embedded in the marble" STAYS — it's a deliberate dichotomy with where Father Joseph is (gold,
+> marble and sunlight vs. cracked concrete, tattered pews and candles). He IS cutting "heavenly"
+> from "smite" — his own reasoning: "smite is holy already without being told." ("smite" is
+> intentional, not a typo for smile.) The holy-adjective class is otherwise his to keep or cut.
 > **PASS 6a ASK — ANSWERED (author, chat, 09-19; don't re-raise):** the trigger for Rick's
 > pendulum beat is NOT "hunt monsters" — it's **a foreign entity operating on his front lawn**:
 > "He's already in the US on other business" → fists clenched, "Doing what?" → Joseph answers
