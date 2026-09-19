@@ -629,3 +629,12 @@ only. Do not report % complete or a finish-length again.
   confirmed). WEEK 1 = 09-14 1,087 + 09-15 854 + 09-16 ~1,506 + 09-17 704 + 09-18 932 =
   ~5,083 / 5,000 — FLOOR HIT with Fri night–Sun to spare.** Live total (Doc-verified) = prologue 1,087
   + Ch1 697 + Ch2 ~1,017 + Ch3 646 + Ch4 1,636 = **~5,083**.
+- **2026-09-19 — PROLOGUE v3 INTAKEN (Doc pull, PC session; 1,340w prose; v2 was 1,087 → +253
+  net).** Revised throughout + a NEW ENDING: the 12-word kill and the epitaph line are gone; a
+  322w hunt, then a 53w coda — a sheriff and his detective find a blood-splattered gold star,
+  "Jeff Fisher." Season moved to July; Rick now calls it an "animal attack." Snapshot
+  `manuscripts/task-force-cryptid_prologue-v3_docpull_2026-09-19.txt`. MD5
+  ecb0d501dd367d3630597b981dd19c79. Checker silent (59 hits, filed). Room **Pass 2a** logged. v2
+  stays frozen for before/after. **DAY 09-19 = +253. WEEK 1 ≈ 5,083 + 253 = ~5,336 / 5,000**
+  (hit 09-18; Sun 09-20 left). Live total (Doc-verified) = prologue 1,340 + Ch1 697 + Ch2 ~1,017
+  + Ch3 646 + Ch4 1,636 = **~5,336**. Ch1–4 read as unchanged in the Doc at this pull.

@@ -1068,3 +1068,115 @@ the holy adjectives.
 **ONE ASK (editorial):** confirm the reveal as canon — Rick was a Vatican monster hunter and
 Joseph's intended successor. If yes, the prologue's Rick is a man who SAW the bodies and knew,
 and the room reads everything before this chapter differently from here on.
+
+### Pass 2a — PROLOGUE v3, the forest REVISED + NEW ENDING (2026-09-19 Doc pull, PC session; 1,340w, +253 net vs v2's 1,087; snapshot task-force-cryptid_prologue-v3_docpull_2026-09-19.txt; MD5 ecb0d501dd367d3630597b981dd19c79)
+*Author: "prologue revised, it's in the Doc, tell me what you think." He'd said 09-18 he had "a
+good scene churning" for the ending — the ending he CLAIMED on 09-14 ("I'm a sucker for how I
+ended it"); reopening it was his call. v2 stays frozen in its 09-14 snapshot. Pulled from "Tbd D1
+Take 2"; Ch1–4 read as unchanged in the Doc (not re-counted). Checker filed silently (59 hits).
+PC pulled the repo first — no satellite entry for these pages. Rule 4b: seven lenses + the audit.
+His own held notes from 09-14 were the brief: less Rick / more Jeff / more monster (mystery
+open) / body details back in.*
+
+**WHAT CHANGED:** (1) The walk-in now has an EVENT — the first **Snap!**; Rick drops into a
+combat stance, the ranger keeps walking: "The Director of the CIA, scared of what goes bump in
+the night." + a CIA/forest-service history ("I know where the national forest services' bodies
+lay. Some of them of *ours*" / "the feral people problem"). Rick's résumé is cut off by the
+ranger mid-sentence. (2) At the tent Rick cycles through four rational outs — "Bad acid trip?" →
+"The ultra guys" → "It's Daltov pass" → ("It's July.") → "Ya, grizzly season." (3) Body details
+back: the jagged leg ("not even a machete"), organs, "The girl's eyes were still open, locking
+with him"; the young man "one arm outreached for the lake," three slices, the back of his neck
+gone. "Aren't you the same guy who permits torture." / "Prove it." (4) **Rick now calls it an
+ANIMAL ATTACK** (v2: "a serial killer's work"). (5) Season moved: "It's July," "third attack
+since the start of June," "a dying summer," Glacier named, "the middle of Montana." (v2's
+"It's only May" / "five months" is superseded.) (6) **THE NEW ENDING:** v2's 12-word kill + the
+epitaph ("He died in the place he loved most…") are GONE. Now: a 322-word hunt — owl, wolf,
+Snap!, the flashlight, red eyes, the ankle, the owl's call come back huge, Snap! directly
+behind, breath at his ear, "Its slobber dripped onto his shoulder," "Something towered over
+him." — CUT — then a 53-word coda: a sheriff and "his detective" at Jeff's truck; a gold star
+splattered with blood; **"Jeff Fisher."** The death is OFF the page. Jeff has a surname. The
+two men are Ch3's John Collins and Frank Stillwell, unnamed.
+
+**THE AUDIT, FIRST:** walk-in 353 · tent 180 · bodies 270 · argument 162 · **HUNT 322** · coda
+53. v2 was walk-in 367 / bodies 263 / argument 178 / Jeff 165 / kill 114 with the creature at
+TWELVE words. The ending (hunt + badge = 375, 28%) is now the biggest unit in the prologue; the
+creature went from 12 words to a scene. The walk-in is still the single largest beat by 31
+words — "less Rick" happened in KIND (it has an event and a plant now), not in size.
+
+**HARDEST FIRST — (1) The hunt is built right and then labeled at its peaks — the Ch4 mask
+problem, at the book's first monster.** The sequence is the best staging he's done: normal
+forest sound → the same sounds come back wrong → the light shrinks to his feet → breath →
+slobber → "Something towered over him." Everything a camera could film lands. But at the
+moments of highest pressure the page hands the reader the verdict instead of the thing. Named
+to the author ONCE with one example (active recall — the class was taught 09-18 as the camera
+test): **"WHOOOOOOOO!" Some eldritch beast screeched.** — the owl's own call returning enormous
+is the scare, and "eldritch beast" tells the reader what to think of it before they can feel
+it. *Room's tally, NOT shown to the author (he finds them): "Evil embers in the night" · "as
+they laughed at him" · "Malice pushed Jeff forward" · "The tendrils of shadow hungrily licked"
+/ "The tendrils, now circling Jeff" · "his anchor to reality" · "perverting the natural peace"
+= 6–7 in the hunt.* **Lever:** the slobber sentence is the model — it names nothing and it's
+the most frightening line in the prologue.
+
+**(2) CONTINUITY THAT IS NOW LOAD-BEARING (one line, his call): what does Rick CALL it?** v2:
+"a serial killer's work." v3: "an animal attack" ×2. Ch4: "No, a serial killer problem, that
+people are convinced is a monster problem." Ch3: the town asks "serial killer?" and Frank says
+no. If Rick's story CHANGES between the forest and the Vatican (animal → serial killer), that's
+a man upgrading his lie as the bodies pile up — usable, but the page has to know it's doing it.
+If it's drift from the rewrite, Ch4's line and the Pass 5-PC-a rhyme (Rick saw → "serial
+killer"; Frank saw → "not a serial killer") depend on which one is canon. Also: the ranger says
+"The suspect is still on the loose" (crime language) before arguing it isn't human.
+
+**(3) CORNY (quote it) — the sound effects.** "Arooooooooo!" · "Whooooosh!" · "Whoooo." —
+comic-panel SFX in a scene whose whole job is dread. **Snap! is the exception and earns its
+place:** it's a structural rhyme — the first Snap has Rick reaching for his hip while Jeff mocks
+him; the last has Jeff alone with it "Directly behind him." Protect the Snap; the howl and the
+whoosh are the costume.
+
+**(4) SHOW-vs-TELL — two captions survive in the first half** (the old epitaph reflex, relocated
+mid-scene; class named long ago, he finds them): *room's tally — "The shadows masking a decades
+old struggle." · "He watched the last hope of a dying summer fly away."* The second is close to
+earning it (it's Jeff's, and it's the hand-off of POV); the first explains a history the
+dialogue just delivered.
+
+**(5) REPETITION / REFRAINS.** "bump in the night" now OPENS the book in the ranger's mouth and
+returns in Ch4 in Joseph's ("You don't believe that things go bump in the night, you never
+have") — with this placement it's a PLANT, not a tic: two different men tell Rick the same
+thing about himself. Claimed by structure. "abyss" ×2 here (+×2 in Ch4 = 4 in 6,600 words —
+a tic). **"ember":** Rick's cigarette = "an evil ember of light in the shadows"; the creature's
+eyes = "Evil embers in the night." Same image for the Director and the monster inside 500 words
+— if deliberate (the disbeliever and the thing rhymed), it's the smartest image in the prologue
+and it should lose the word "evil" both times; if accidental, it's an echo. His to claim.
+
+**SPINE / THEME PRESSURE-TEST:** with Ch4's canon (Rick was inside the Vatican's arm and
+KNOWS), the tent scene now plays twice. First read: a bureaucrat reaching for any explanation.
+Second read: a man who knows exactly what tears a tent like that, running out of lies — acid,
+ultra-runners, Dyatlov, grizzlies — until "It's July" takes the last one away. That is the
+book's spine (obedience vs. belief in one man) seeded on page three, and he did it without a
+word of interior. **And the coda re-wires Ch3:** "No. Not from what I've seen." / "And what
+have you seen, Frank?" now has a referent the READER holds — he found the star. The leak Pass
+5-PC asked for is paid from the prologue's side. It also bears on the reconciliation's split #4
+(what the town knew): the sheriff and detective knew a federal ranger was dead before the
+presser.
+
+**WORKS — PROTECT:**
+- "Aren't you the same guy who permits torture." / "Prove it."
+- "It's July." / "Ya, grizzly season." — the last lie taken away, and he tells another.
+- The first Snap: Rick in a combat stance, the ranger still walking.
+- "The girl's eyes were still open, locking with him." · "one arm outreached for the lake"
+- "Its slobber dripped onto his shoulder." — names nothing. The model.
+- "Something towered over him." + the white space. The kill is the reader's.
+- The badge: "a gold star splattered with blood… Jeff Fisher." Ends on an object and a name.
+  No epitaph. He cut the line he said he was a sucker for, himself.
+- The owl's call coming back wrong (the device — not the label on it).
+
+**HELD (small):** Jeff's POV takes over at the helicopter (same hand-off as v2; parked for
+revision). "Special Forest Service" on the star — check the agency's real wording when he
+cares to. "Daltov" = Dyatlov (mechanics, parked) — but note Rick citing a Soviet hiking mystery
+is in character for a CIA man; keep the reference. "The ranger dropped his ," — a word is
+missing and the beat ("It's July.") deserves a clean run-up.
+
+**PRIORITY-3 (held):** (1) the camera test on the hunt — he finds them; (2) settle what Rick
+calls it (animal vs. serial killer) so Ch3/Ch4 rhyme on purpose; (3) the howl and the whoosh.
+
+**ONE ASK (editorial):** Rick says "animal attack" in the forest and "serial killer" in the
+Vatican — is his story changing on purpose, or did the rewrite move it?
