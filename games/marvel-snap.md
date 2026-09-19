@@ -65,3 +65,15 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   equal to the last card you played. Explained to him: after the swap he's a 0-cost body whose
   power is OVERWRITTEN by whatever you played just before him — great after your biggest card,
   bad after a small one; sequencing-dependent, which is why he's confusing.
+- 2026-09-19 (evening) — NEGATIVE DECK, base vs his edit (base list from his screenshot): base =
+  Adam Warlock 2/0, Psylocke 2/2, Ravonna Renslayer 2/2, Cassandra Nova 3/0, Ironheart 3/0,
+  Mystique 3/1, Magik 3/2, Mister Negative 4/-1, Iron Man 5/0, White Tiger 5/1, Jane Foster 5/9,
+  Taskmaster 6/0. HE CUT Cassandra Nova, Mystique, Taskmaster; ADDED Bishop, Wong, Jubilee.
+  Texts verified on snap.fan that day: Wong 4/2 Ongoing "your On Reveal abilities here repeat";
+  Mystique 3/1 copies the Ongoing text of the last card you played; Iron Man 5/0 Ongoing doubles
+  your total Power here; Jubilee 4/1 On Reveal adds the top card of your deck to her location;
+  Bishop 3/2 gains +1 after each card you play. Told him: the base list is built from
+  high-cost/low-power cards so the swap makes them free; **Mystique is the other half of Iron Man
+  (double, then double again, for 1 energy after the swap) — the cut that hurts**; **Wong in the
+  same lane as Mister Negative repeats the swap and undoes it**; Bishop is a smart add for the
+  free-card dump turn; Jubilee is fine but (UNVERIFIED) may waste Negative if she pulls him.
