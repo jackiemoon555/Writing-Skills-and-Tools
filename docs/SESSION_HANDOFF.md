@@ -24,6 +24,15 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
 > ## 🖥 PC SESSION 2026-09-16 evening → merged 2026-09-17 — RAN BESIDE THE SATELLITE; RECONCILED AT THE MERGE — read WITH the satellite block below
+> **⚠ STANDING ORDERS FOR BOTH MACHINES (author, 2026-09-19) — READ BEFORE ANYTHING BELOW:**
+> **(1) THE PC SESSION IS PRIMARY — "the satellite session follows you, not the other way
+> around."** Satellite: pull first, conform to the PC's records and rulings; where the two
+> disagree the PC's stands unless the author says otherwise. **(2) REVISIONS ARE OPEN MID-DRAFT**
+> ("I'm keeping it fluid… some of the scenes call back to me") — this SUPERSEDES every "revisions
+> HELD" line below. The room still never opens or assigns a revision; he goes back when a scene
+> calls; revised batches are roomed under the original pass's letter. The net-words floor is the
+> guard. **(3) DECLARED: this is a NOVEL · NO EDITOR until the draft is entirely done (hold it,
+> rule 14) · title TBD ("Task Force Cryptid" is only the filing handle; never propose titles).**
 > **This block and the satellite block below cover the SAME days from two machines.** The PC
 > session (Fable 5.1, author at his desk) took Ch3 as a chat paste on 09-16 evening — v1 (660w)
 > and, after the pass, the presser rewrite (Ch3.1, 646w) — and logged **Pass 5-PC + 5-PC-a** on

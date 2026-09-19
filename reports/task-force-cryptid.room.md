@@ -1203,3 +1203,19 @@ Vatican — is his story changing on purpose, or did the rewrite move it?
   like Saw for Jeff." **Jeff KNEW something about what the sheriff is up to** — so "You don't
   know these woods… like you think you do" is double, and the coda (the sheriff checks the truck:
   "Nothing") is loaded on a re-read. Nothing on the page needs to change for it.
+- **PROCESS CHANGE (author, 2026-09-19, logged at his instruction): REVISIONS ARE OPEN MID-DRAFT.**
+  "I'm ok with revising in the middle this time… I'm keeping it fluid. As I improve some of the
+  scenes call back to me." SUPERSEDES the 09-13/14 "revisions HELD / analyze and edit after"
+  frame. The room still does NOT open revisions or assign them — he goes back when a scene calls
+  him; a revised batch gets roomed as the original pass's letter (2a, 6a…). Guard already built
+  in: the floor counts NET new words, so a week can't be closed by revising (09-19's rewrite,
+  his best work of the week, netted 253). Room's hook note given once (09-19): the prologue's
+  ending is at the level he wants; the first ~150 words before the first Snap are still warming
+  up — what does the first line promise?
+- **TITLE: still TBD (author, 09-19).** "Task Force Cryptid is cheesy" — it was only ever the
+  filing handle (from a cut scene); the unit is currently UNNAMED on the page. Files keep the
+  handle until he names the book; rename everything in one pass then. Claude does not propose
+  titles.
+- **SESSION PRECEDENCE (author, 09-19): "the satellite session follows you, not the other way
+  around."** The PC session is PRIMARY. Where the two machines' records or reads disagree, the
+  PC's stands unless the author says otherwise; the satellite pulls first and conforms.
