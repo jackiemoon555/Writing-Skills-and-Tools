@@ -38,7 +38,7 @@ collection file is, so a stale one is obvious.
 ## Build status
 - [x] 1. (2026-09-19) Alec installs Snap from Steam on this PC, logs into his phone's account, opens it once
 - [x] 2. (2026-09-19) Inspect the real layout of CollectionState.json (read-only) and write the spec from it
-- [~] 3. (2026-09-19; reader verified; IN-GAME COUNT CHECK STILL OWED by Alec — does the game show 123?) Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
+- [x] 3. (2026-09-19; reader verified; ALEC CONFIRMED: the Zombie deck list read from the file is his, and he does NOT own Ultron — matches the file. In-app card counter not located; spot-check accepted instead) Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
         card count checked against the number the game shows
 - [~] 4. (2026-09-19; report written: reports/2026-09-19.md; his used/noise feedback pending) First report built by hand in-session; he says what was useful and what was noise
 - [ ] 5. Scheduled task `snap-weekly-report` created and test-run once
