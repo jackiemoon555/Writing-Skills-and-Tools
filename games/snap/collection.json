@@ -172,7 +172,7 @@
     },
     {
       "id": "DrDoom",
-      "norm_key": "drdoom",
+      "norm_key": "doctordoom",
       "base_owned": true,
       "variant_count": 0
     },
@@ -424,19 +424,19 @@
     },
     {
       "id": "MrFantastic",
-      "norm_key": "mrfantastic",
+      "norm_key": "misterfantastic",
       "base_owned": true,
       "variant_count": 0
     },
     {
       "id": "MrNegative",
-      "norm_key": "mrnegative",
+      "norm_key": "misternegative",
       "base_owned": true,
       "variant_count": 0
     },
     {
       "id": "MrSinister",
-      "norm_key": "mrsinister",
+      "norm_key": "mistersinister",
       "base_owned": true,
       "variant_count": 0
     },
@@ -526,7 +526,7 @@
     },
     {
       "id": "Ronan",
-      "norm_key": "ronan",
+      "norm_key": "ronantheaccuser",
       "base_owned": true,
       "variant_count": 0
     },

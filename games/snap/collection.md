@@ -31,9 +31,9 @@ Integrity: OK
 - Cyclops (`Cyclops`) — +1 variants
 - Deathlok (`Deathlok`)
 - Devil Dinosaur (`DevilDinosaur`)
+- Doctor Doom (`DrDoom`)
 - Doctor Strange (`DoctorStrange`) — +2 variants
 - Domino (`Domino`)
-- Dr Doom (`DrDoom`)
 - Electro (`Electro`)
 - Elektra (`Elektra`)
 - Elsa Bloodstone (`ElsaBloodstone`)
@@ -71,13 +71,13 @@ Integrity: OK
 - Magneto (`Magneto`)
 - Mantis (`Mantis`)
 - Medusa (`Medusa`)
+- Mister Fantastic (`MrFantastic`)
+- Mister Negative (`MrNegative`)
+- Mister Sinister (`MrSinister`)
 - Misty Knight (`MistyKnight`)
 - Monstro Octopus (`MonstroOctopus`)
 - Moon Girl (`MoonGirl`)
 - Morph (`Morph`)
-- Mr Fantastic (`MrFantastic`)
-- Mr Negative (`MrNegative`)
-- Mr Sinister (`MrSinister`)
 - Multiple Man (`MultipleMan`)
 - Mystique (`Mystique`)
 - Nakia (`Nakia`)
@@ -92,7 +92,7 @@ Integrity: OK
 - Quicksilver (`Quicksilver`) — +1 variants
 - Ravonna Renslayer (`RavonnaRenslayer`)
 - Rocket Raccoon (`RocketRaccoon`)
-- Ronan (`Ronan`)
+- Ronan the Accuser (`Ronan`)
 - Sabretooth (`Sabretooth`) — +1 variants
 - Sandman (`Sandman`) — +1 variants
 - Scarlet Witch (`ScarletWitch`)
@@ -137,7 +137,7 @@ Missing: DraxAvatarOfLife, DraxGuardiansOfTheGalaxy, GamoraGuardiansOfTheGalaxy,
 
 ### Negative Deck
 Updated: 2026-09-19T17:02:38.989-05:00
-Adam Warlock, Psylocke, Ravonna Renslayer, Magik, Mr Negative, Jane Foster, Iron Man, White Tiger, Bishop, Wong, Jubilee, Ironheart
+Adam Warlock, Psylocke, Ravonna Renslayer, Magik, Mister Negative, Jane Foster, Iron Man, White Tiger, Bishop, Wong, Jubilee, Ironheart
 
 ### Zombie Deck
 Updated: 2026-09-19T08:28:50.94-05:00
@@ -159,7 +159,7 @@ Missing: CaptainAmericaAvengers, CaptainCarter, DoctorStrangeAvengers, HawkeyeAv
 
 ### Deck 1
 Updated: 2026-08-27T19:00:13.358-05:00
-Hawkeye, Quicksilver, Starlord, Medusa, Punisher, Misty Knight, Iron Man, Abomination, Hulk, Jessica Jones, Mr Fantastic, Doctor Strange
+Hawkeye, Quicksilver, Starlord, Medusa, Punisher, Misty Knight, Iron Man, Abomination, Hulk, Jessica Jones, Mister Fantastic, Doctor Strange
 
 ### Custom Brotherhood of Mutants
 Updated: 2026-09-16T17:10:27.066-05:00
@@ -198,7 +198,7 @@ Missing: BlackCat, LadyDeathstrikeBrotherhoodOfMutants, MagnetoBrotherhoodOfMuta
 
 ### Ramp Deck
 Updated: 2026-08-27T19:00:42.913-05:00
-Sunspot, Domino, Electro, Wave, Jubilee, Blink, Sandman, Vision, Dr Doom, War Machine, Magneto, Giganto
+Sunspot, Domino, Electro, Wave, Jubilee, Blink, Sandman, Vision, Doctor Doom, War Machine, Magneto, Giganto
 
 ### Custom Guardians of the Galaxy
 Updated: 2026-09-16T17:10:27.066-05:00

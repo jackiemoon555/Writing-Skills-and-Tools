@@ -38,9 +38,9 @@ collection file is, so a stale one is obvious.
 ## Build status
 - [x] 1. (2026-09-19) Alec installs Snap from Steam on this PC, logs into his phone's account, opens it once
 - [x] 2. (2026-09-19) Inspect the real layout of CollectionState.json (read-only) and write the spec from it
-- [~] 3. (2026-09-19, count check pending) Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
+- [~] 3. (2026-09-19; reader verified; IN-GAME COUNT CHECK STILL OWED by Alec — does the game show 123?) Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
         card count checked against the number the game shows
-- [ ] 4. First report built by hand in-session; he says what was useful and what was noise
+- [~] 4. (2026-09-19; report written: reports/2026-09-19.md; his used/noise feedback pending) First report built by hand in-session; he says what was useful and what was noise
 - [ ] 5. Scheduled task `snap-weekly-report` created and test-run once
 - [ ] 6. Cross-vendor review brief for the script offered (rule 8; not a gate)
 
@@ -74,3 +74,17 @@ Main session wrote the SPEC from the verified layout; a **Sonnet subagent wrote 
 only** (one file, no git, no docs, never ran it on his data); main session reviewed it (no
 network imports, two writes only, no account fields), ran it, and checked: 123 cards · 17 decks ·
 integrity OK · byte-identical on re-run · exit 2 on a missing file · no id strings in the output.
+
+## Lessons from the first hand-built report (2026-09-19) — for the scheduled run's prompt
+- The fetch summarizer MISLABELED a change (called Blink 5/8 → 5/7 a "buff"). **Always report the
+  numbers and judge buff/nerf from them, never from a label.**
+- Name mismatches are real: the game says `DrDoom`/`MrFantastic`/`MrNegative`/`MrSinister`/`Ronan`;
+  sites spell them out. Fixed in `name_overrides.json`. After matching, ALWAYS scan the "missing"
+  list against his ids for near-matches before calling a card unowned.
+- Base cards and their variant-named cards are DIFFERENT cards (`JaneFoster` ≠ "Jane Foster
+  Fractured Frontier"). Never merge them.
+- Deck matching was done with a throwaway shell loop. For the weekly run it should be a second
+  small script (`tools/match_decks.py`: decks in, owned/missing out) — **to be written by a
+  Sonnet/Haiku subagent from a spec, code only**, same as the reader.
+- The most useful single finding was cross-deck card frequency ("which unowned cards gate the
+  meta"). Keep that section.

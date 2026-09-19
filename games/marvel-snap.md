@@ -51,3 +51,9 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   `snap/README.md`. Wednesdays 9am, ladder only, tracks both his collection and the meta.
   BLOCKED on his step: install Snap on the PC via Steam, log in, open once. No code is written
   by the main session — Sonnet/Haiku subagent, code only, from a spec (his instruction).
+- 2026-09-19 (evening) — PC client installed + logged in; collection read: **123 cards, 17 saved
+  decks** (incl. "Zombie Deck" and "Ramp Deck"); first report → `snap/reports/2026-09-19.md`.
+  Headline: 0 of this week's 15 ranked decks buildable; closest = Kazootriot 9/12 (missing
+  Dazzler, Patriot, Ultron) and Curved High Evo 8/12; Thanos Fractured Frontier (last season's
+  paid pass card) is in 9 of 15 decks. Blink (in his Ramp deck) went 5/8 → 5/7 on 09-10.
+  Account dates to 2023 (deck timestamps) — he's a RETURNING player, not new.
