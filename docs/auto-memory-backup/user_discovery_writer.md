@@ -15,3 +15,11 @@ knew what), respond with what his existing pages already imply and stop — neve
 an outline, never log it unless he says "log it" ([[feedback-ask-first-writing-partnership]]).
 Observations from his own pages are welcome; invented plot is not. The structure that makes the
 looseness work is the floor and the pass after every batch ([[project-task-force-cryptid]]).
+
+**His method in his words (2026-09-19):** premise is easy; planning past the core concept feels
+"too boxy." He keeps the premise OPEN and works from a few core principles that ground the story
+but flex around it. For the current novel the seed was only: his deep cryptid knowledge + a
+priest + a CIA branch + special forces; the morphologist arrived later and was kept because she
+enriched those principles. So the principles are both generator and filter — useful question
+when he floats an addition: which core principle does it serve? Known risk to hold quietly
+([[endings-on-fumes]]): an open premise carries a first act easily; endings need convergence.
