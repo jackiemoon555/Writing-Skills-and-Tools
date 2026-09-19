@@ -1180,3 +1180,26 @@ calls it (animal vs. serial killer) so Ch3/Ch4 rhyme on purpose; (3) the howl an
 
 **ONE ASK (editorial):** Rick says "animal attack" in the forest and "serial killer" in the
 Vatican — is his story changing on purpose, or did the rewrite move it?
+
+### AUTHOR DECLARATIONS — 2026-09-19 (logged at his explicit instruction: "log both")
+- **FORM: THIS IS A NOVEL.** ("So this is definitely a novel.") First thing declared for this
+  book under rule 4b. Register, tense law, POV law, genre label = still UNDECLARED.
+- **NO EDITOR UNTIL THE DRAFT IS ENTIRELY DONE.** ("no editor until I'm entirely done this
+  time.") A jump-guard commitment (rule 14) specific to this book: Claude HOLDS it — no editor
+  search, no sample edits, no offers evaluated on partial pages, however good the chapters feel.
+  His aside, recorded as an OPTION not a plan: cheaper critique exists before an editor (e.g. a
+  first-page critique "if I really [want to] know how good my first page is"); timing undeclared.
+  Any outside party or money still runs through rule 14's procedure when he gets there.
+- **PACE:** keeping the current floor (1,000 per sitting / 5,000 per week); "maybe go up more but
+  I don't want to trap myself like I did with the Champ." His standing rule applies: raise only
+  after three clean weeks. Week 1 (09-14→09-20) = clean, ~5,336.
+- **CLAIMS FROM THE PASS 2a CONVERSATION (his, explicit):** the EMBER rhyme is DELIBERATE — Rick's
+  cigarette ember = Jeff's humiliation at being called crazy; the red eyes are that dismissal
+  coming back ("as they laughed at him" = the point, not a label — removed from the room's
+  camera-test tally; room's note: "evil" is the word fighting his meaning, which is contempt).
+  Rick's "animal attack" (prologue) vs "serial killer" (Ch4): came from the rewrite and HOLDS in
+  his head — a killer whose work looks like animal attacks; the bridge (who reclassified three
+  maulings as murders) is not on the page yet. Intent for the hunt: "I wanted the forest to feel
+  like Saw for Jeff." **Jeff KNEW something about what the sheriff is up to** — so "You don't
+  know these woods… like you think you do" is double, and the coda (the sheriff checks the truck:
+  "Nothing") is loaded on a re-read. Nothing on the page needs to change for it.

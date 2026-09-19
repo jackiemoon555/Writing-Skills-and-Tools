@@ -52,6 +52,25 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
 > squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
 > (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **09-19 (PC) — PROLOGUE v3 + DECLARATIONS.** Prologue revised throughout with a NEW ENDING
+> (1,340w, +253): the 12-word kill and the epitaph he'd claimed are GONE → a 322w hunt + a 53w
+> coda (sheriff + "his detective" = Ch3's John and Frank find a bloodied gold star, **"Jeff
+> Fisher"**; the death is off the page). Season now JULY ("third attack since the start of
+> June"); Rick says "animal attack." **Pass 2a** logged (appended at the ledger's end). Headline:
+> creature 12w → a scene; the ending is the prologue's biggest unit; NO epitaph — the
+> explain-after-show reflex did not fire; what remains is adjective-scale ("eldritch," "malice,"
+> "evil") — reflex trend: paragraph (v2) → scene (Ch4's second telling) → single words (v3). He's
+> running the camera test on the hunt himself (one example given; don't pre-flag). The coda pays
+> Ch3's "And what have you seen, Frank?" from the prologue's side. **DECLARED + LOGGED in the
+> ledger (his instruction): THIS IS A NOVEL · NO EDITOR UNTIL THE DRAFT IS ENTIRELY DONE (Claude
+> holds it, rule 14) · pace stays, raise only after three clean weeks (week 1 clean).** Claims:
+> ember rhyme deliberate (Rick's cigarette = Jeff's humiliation); Jeff knew about the sheriff;
+> forest = "Saw for Jeff." He says the prologue "feels like me and not a shitty GRRM" — room
+> agrees: the frame is Martin's, the voice (two feds bickering about funding over a body) is his.
+> **COUNTS: 09-19 = 253 · WEEK 1 ≈ 5,336 / 5,000.** If he strips the hunt's labels, log the small
+> negative delta at the next pull. Carried: Pass 6a (Ch4 mask revision) still expected, with the
+> PC's four additions.
+>
 > **09-18 EVENING (PC, no new pages) — recorded so it isn't redone:** PC pulled first; nothing
 > to reconcile (the satellite had already merged the PC blocks). Author asked the PC "do you
 > agree with Pass 6?" — PC read all 1,636w of Ch4 and AGREES with the headline (audit flipped)
