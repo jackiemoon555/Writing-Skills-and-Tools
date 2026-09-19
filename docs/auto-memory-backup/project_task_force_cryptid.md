@@ -26,3 +26,9 @@ immediately before appending, and if the other machine already logged those page
 once (don't re-teach, use active recall per [[feedback-active-recall-revision]]): run-up before
 the last line / stop dead after it; dialogue is ahead of description (place goes stock when
 nothing moves in it); the camera test (can a camera film it?).
+
+**Standing orders (author, 2026-09-19):** the PC session is PRIMARY — the phone satellite follows
+it, not the reverse. Revisions are OPEN mid-draft (supersedes "revisions HELD"); he goes back
+when a scene calls him, the room never assigns one; the net-words floor is the guard. Declared:
+it's a NOVEL; NO EDITOR until the draft is entirely done (hold it, jump guard); title TBD —
+"Task Force Cryptid" is only the filing handle ("cheesy"), never propose titles.
