@@ -5,11 +5,19 @@
 this is the operative list. When a rule changes, change it HERE first. Fifteen rules (4b added
 2026-08-29, numbered to keep 5–14's cross-references stable), no more.*
 
-## 1. Priority stack (author, 2026-08-16)
-The Champ draft first — the 1,000/day FLOOR (aim 1–2k) before anything else counts. Then weekly challenges.
-Then the Substack/blog lane incl. the Longshoreman serial. Side work never outranks the tier
-above. **No new planning on other projects until The Champ is done.** No total word-count target
-and no "% complete" (author, 2026-08-17): done is done; the floor is the only number.
+## 1. Priority stack (author, 2026-08-16; REVISED 2026-09-19)
+**The NOVEL comes first** — the untitled fantasy/horror discovery draft (filing handle "Task Force
+Cryptid"), live since 2026-09-13. The floor: **1,000 words per sitting AND 5,000 per week
+(Mon–Sun)**, net new words, two rest days built in; raise only after three clean weeks. Then
+weekly challenges. Then the Substack/blog lane incl. the Longshoreman serial. Side work never
+outranks the tier above. **RELAXED (author, 2026-09-19): when the week's 5,000 is closed EARLY,
+the remaining days of that week are free — "if I finish like I did then I'll split off"** — side
+pieces, a Substack post, a serial idea; those words do NOT count toward the novel's week unless he
+rules otherwise, and the split ends when the next week opens. No total word-count target and no
+"% complete" (author, 2026-08-17): done is done; the floor is the only number.
+**The Champ is SHELVED (author, 2026-09-13)** at D2 Ch28 + four interludes (~16 pieces from a
+complete second draft) — he'll come back to it; don't raise it unless he does. The old line "no
+new planning on other projects until The Champ is done" is RETIRED with the shelve.
 
 ## 2. Scoped reading
 Close-read ONLY the pages he designates, WHEN he says. Never re-review the whole manuscript
