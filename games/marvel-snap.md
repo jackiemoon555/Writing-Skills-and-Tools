@@ -57,3 +57,11 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Dazzler, Patriot, Ultron) and Curved High Evo 8/12; Thanos Fractured Frontier (last season's
   paid pass card) is in 9 of 15 decks. Blink (in his Ramp deck) went 5/8 → 5/7 on 09-10.
   Account dates to 2023 (deck timestamps) — he's a RETURNING player, not new.
+- 2026-09-19 (evening) — NEGATIVE DECK (his edit of a base list; saved 17:02 today): Adam Warlock,
+  Psylocke, Ravonna Renslayer, Magik, Mister Negative, Jane Foster, Iron Man, White Tiger, Bishop,
+  Wong, Jubilee, Ironheart. He CUT Taskmaster because he couldn't see its role (he owns the card).
+  Verified texts that day (snap.fan): Mister Negative 4/-1, On Reveal swaps Power and Cost of every
+  card in your deck; **Taskmaster is 6/0 now** (Claude's memory said 5/0 — stale), sets his Power
+  equal to the last card you played. Explained to him: after the swap he's a 0-cost body whose
+  power is OVERWRITTEN by whatever you played just before him — great after your biggest card,
+  bad after a small one; sequencing-dependent, which is why he's confusing.
