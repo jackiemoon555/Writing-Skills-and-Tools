@@ -43,3 +43,7 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   carried him to rank 83 without a collection. Refines the profile's "acquisition is the drag"
   filter: the drag is GRINDING to be allowed to compete; a game that hands out a competitive
   deck for free clears it. (The PvP-timer question is still unanswered — don't assume.)
+- 2026-09-19 (later) — TIMER QUESTION CLOSED: a week of ladder play to rank 83 and opponents
+  stalling the turn clock has come up "not once." The 08-16 skip reason ("PvP timer = abused")
+  was NOT his objection — he didn't recognize the phrase; it was an earlier session's inference.
+  Lesson for recs: don't pre-filter live-PvP card games on a guessed timer complaint; ask him.
