@@ -16,3 +16,4 @@
 - [Sprint capacity calibration](user_sprint_capacity_calibration.md) — 09-08: 4,658w/12 pieces at quality; plan deadlines from piece counts and real time frames, not hope
 - [Games hobby thread](project_games_hobby_thread.md) — dedicated session for game research that feeds the writing; docs in games/; Steam readable locally (D:\Steam\userdata\107115752); read gaming-preferences.md before any rec
 - [Task Force Cryptid — CURRENT book](project_task_force_cryptid.md) — Champ shelved 09-13; discovery draft, Doc "Tbd D1 Take 2"; phone satellite runs in parallel: PULL FIRST, never duplicate a Pass number; PC has no gh, python = py
+- [Discovery writer](user_discovery_writer.md) — best stuff comes in the moment; story direction stays in chat, never becomes a logged plan; reflect his own pages back, invent nothing
