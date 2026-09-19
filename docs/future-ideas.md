@@ -481,3 +481,12 @@ NOT read for craft; no labels or rules applied (rule 4b). Parked behind The Cham
 observation, no inference drawn: the booster is a SINCLAIR (John / Frederick Sinclair) — same
 surname as the Five Families' Sinclair family — whether that's a deliberate crossover or a reused
 name is the author's to say when this wakes.
+
+## VAULT — MODERN DANTE / A DESCENT, HIS WAY (author, 2026-09-19; one line, parked behind the novel)
+Came up while revising the Vatican chapter: he considered a Dante's-Inferno-style descent to
+Father Joseph, ruled it out for that chapter ("a different concept all together"), and said he'd
+do "my own interpretation in a modern setting like how I do everything else." That's the whole
+idea as stated — nothing developed, no labels, no rules applied (rule 4b). Also floated the same
+day, equally undeveloped: serializing the ex-cultist JANITOR premise (bones banked in the comp
+tracker, Reedsy #368) and a Substack think piece on Detroit rap and positive reinforcement from
+something that has no meaning. All three wait; side work only in an early-closed week (rule 1).
