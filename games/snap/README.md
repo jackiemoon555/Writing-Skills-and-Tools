@@ -92,3 +92,15 @@ integrity OK · byte-identical on re-run · exit 2 on a missing file · no id st
   Jubilee-added cards don't trigger On Reveal; Alec said they do; the source agreed with Alec.
   When he states a rule from play, check it, and expect him to be right.
 - Local game files contain NO card text (verified). Text always comes from the sites.
+
+## Local card TEXT — found (2026-09-19, Sonnet subagent, read-only dig; corrects the note above)
+The install is in his SECOND Steam library: `D:\SteamLibrary\steamapps\common\MARVEL SNAP`
+(8.7 GB). English card ability text IS there:
+`SNAP_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle`
+(~249 KB, a UnityFS container whose text block is stored uncompressed). Plain tools pull out
+whole sentences but only in fragments — stray length bytes break some lines — so a complete
+card-text lookup would need a small careful parser (NO download required). Also readable:
+`SNAP_Data/StreamingAssets/aa/catalog.bin` (47 MB) lists every card's internal name — a full
+card roster. NOT BUILT. If wanted, it is a Saturday job for a Sonnet/Haiku subagent from a spec
+(code only). Until then, card text comes from the sites. Earlier line saying "local files
+contain NO card text" was true only of the AppData state folder.
