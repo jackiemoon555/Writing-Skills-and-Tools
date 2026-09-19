@@ -638,3 +638,13 @@ only. Do not report % complete or a finish-length again.
   stays frozen for before/after. **DAY 09-19 = +253. WEEK 1 ≈ 5,083 + 253 = ~5,336 / 5,000**
   (hit 09-18; Sun 09-20 left). Live total (Doc-verified) = prologue 1,340 + Ch1 697 + Ch2 ~1,017
   + Ch3 646 + Ch4 1,636 = **~5,336**. Ch1–4 read as unchanged in the Doc at this pull.
+- **2026-09-19 — CH4.1 (the Vatican REVISED) INTAKEN (Doc pull, PC session; 1,803w prose; was
+  1,636 → +167 net).** The mask scene rebuilt (camera test: the feeling moved INTO the object —
+  it weeps, sobs, then sits "unstained"; "Kyle." whispered), the library walk fed (the
+  hair-bound book, the crossroads), Rick now says "animal problem" (matches the prologue), the
+  veiled line to Rick re-cut ("The game of shadows, my boy…"), Brooks's question cut. Snapshot
+  `manuscripts/task-force-cryptid_ch4.1-vatican_docpull_2026-09-19.txt`. MD5
+  82fd3c62d6e0aecd06d2dc046414b8e0. Checker silent (97 hits, filed). Room **Pass 6a** logged
+  (PC's four 09-18 additions folded in). **DAY 09-19 = 253 + 167 = 420. WEEK 1 ≈ 5,336 + 167 =
+  ~5,503 / 5,000** (hit 09-18; Sun 09-20 left). Live total (Doc-verified) = prologue 1,340 + Ch1
+  697 + Ch2 ~1,017 + Ch3 646 + Ch4 1,803 = **~5,503**. Prologue + Ch1–3 unchanged at this pull.

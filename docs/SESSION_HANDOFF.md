@@ -61,6 +61,23 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
 > squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
 > (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **09-19 AFTERNOON (PC) — CH4.1 + PASS 6a.** Ch4 revised in the Doc (1,803w, +167). **The mask
+> now PASSES the camera test in the same word count** (feeling-nouns out; "Kyle." whispered, the
+> porcelain weeps and sobs, "When did the mask end up in front of him?", Rick's flat "No," the
+> mask "unstained") — the 09-18 lesson applied within a day. Library walk fed (hair-bound book
+> "too hard for leather"; "…accusing the CIA of stealing from them again"). **CANON ON THE PAGE:
+> Rick says "an ANIMAL problem" in Ch4 too — Pass 2a's continuity ask is closed; "serial
+> killer"/"murders" = the town's word.** He fixed Pass 6's told-twice by the opposite cut (veiled
+> the line to Rick further: "The game of shadows, my boy…"; kept the plain telling to Brooks,
+> cut Brooks's question). Pass 6a hardest = the pendulum reaction lost its trigger; also a
+> scene-killing typo at the reveal ("Monsters are real boys"); holy adjectives 6 → 3 (he finds
+> them). ONE ASK open: what hollows Rick at that line now? **Chat-only story direction 09-19
+> (NOT ledgered, his rule — "all my best stuff comes in the moment"):** Brooks to lead the task
+> force as Rick's inside man; the shift's COST = the more they shift the less human they become
+> (physically, mentally, or both); the morphologist is also how he finds a reasonable way to kill
+> it; science/religion/CIA = the premise's three pillars. Don't develop any of it — reflect his
+> pages back only. **COUNTS: 09-19 = 420 · WEEK 1 ≈ 5,503.**
+>
 > **09-19 (PC) — PROLOGUE v3 + DECLARATIONS.** Prologue revised throughout with a NEW ENDING
 > (1,340w, +253): the 12-word kill and the epitaph he'd claimed are GONE → a 322w hunt + a 53w
 > coda (sheriff + "his detective" = Ch3's John and Frank find a bloodied gold star, **"Jeff

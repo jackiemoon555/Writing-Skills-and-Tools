@@ -1219,3 +1219,102 @@ Vatican — is his story changing on purpose, or did the rewrite move it?
 - **SESSION PRECEDENCE (author, 09-19): "the satellite session follows you, not the other way
   around."** The PC session is PRIMARY. Where the two machines' records or reads disagree, the
   PC's stands unless the author says otherwise; the satellite pulls first and conforms.
+
+### Pass 6a — Ch4.1, the Vatican REVISED: the mask rebuilt, the library fed, the reveal re-cut (2026-09-19 Doc pull, PC session; 1,803w, +167 net vs 1,636; snapshot task-force-cryptid_ch4.1-vatican_docpull_2026-09-19.txt; MD5 82fd3c62d6e0aecd06d2dc046414b8e0)
+*Author: "chapter 4 take, in the doc." His own same-day revision under the 09-19 standing order
+(revisions open mid-draft). He'd been taught the camera test on 09-18 and said he'd redo the
+mask "and a couple of these." Prologue v3 and Ch1–3 unchanged in the Doc at this pull. Checker
+filed silently (97 hits). PC pulled the repo first — no satellite entry for these pages. The PC's
+four additions from 09-18 are folded in below as promised.*
+
+**THE HEADLINE — THE MASK PASSES THE CAMERA TEST, IN THE SAME WORD COUNT (187 → 180).** He
+didn't add words; he traded verdicts for events. OUT: "evil flickers of life," "Brooks could
+feel the library breathing," "He couldn't shake his anxiety, it wrapped around him, squeezing his
+emotions. They were both feeling it," "The life of the room was leaving." IN: **"Kyle." Someone
+whispered in Brooks ear.** → a white porcelain mask with red eyes → "The walls took in a deep
+breath, expelling a chill." → "red streaks fell down its face. The mask's mouth fell open in a
+quiet sob, its eyes drooping down." → **"When did the mask end up in front of him?"** → "Don't,"
+from down the hall → "Director! You have to see this." / **"No."** → "a simple and elegant
+porcelain mask, unstained." The feeling is IN THE OBJECT (it weeps, it sobs, then it's clean),
+exactly the 09-18 lesson, and the hallucination is confirmed by an object instead of a sentence.
+"Kyle." also turns the surveillance motif supernatural: the Vatican had his photo before he
+arrived; now something in it has his first name. And Rick refusing to come look — a flat "No" —
+is the man who KNOWS declining to see. Best dread beat in the book so far.
+
+**AUDIT:** pope 239 · Monsignor 134 · guard 187 · **library walk 398** (was 265) · mask 180 ·
+chapel arrival 107 · **JOSEPH 408** (reveal 195) · ring coda 150. On Pass 6's basis (arrival +
+Joseph) the turn is 515 vs 458 — still the biggest unit, and fed. The library walk grew by half
+and is now the second-largest beat — and it EARNS it: it's place in motion and in a hand (see
+PROTECT), not the "never ending room" it was. Note only: "never ending room" itself survives.
+
+**HARDEST FIRST — (1) The pendulum lost its trigger.** Pass 6's #1 was the reveal told twice
+(oblique to Rick, then flat to Brooks). He fixed it by the OPPOSITE cut from the one the room
+named: the veiled telling got MORE veiled — "What we always do in the shadows, hunt monsters."
+is now **"The game of shadows, my boy. Christ shields us in light and in dark."** — and the
+plain telling to Brooks stayed (minus Brooks's question, a good cut). The logic is sound and
+it's his: two men who both know speak in code; the initiate gets it plain; the reveal is now
+told ONCE. The cost landed on the best reaction beat in the book. "The director just stared at
+the man, eyes empty. His ties dangled in front of him swinging like a pendulum." used to answer
+the two words Rick can't stand to hear. Now it answers a blessing, and the reader watches a man
+go hollow without knowing at what. There IS a needle still in the line — "my boy," seconds after
+"Don't call me that" — but Joseph then says "my boy" to Brooks too, which blunts it as Rick's
+wound. **Lever:** the line can stay opaque to Brooks and still be a knife to Rick; right now it's
+opaque to both.
+
+**(2) The plain telling still names the division — and a typo is sitting on the reveal.**
+"Monsters are real **boys**, never question that. If they weren't, the Vatican wouldn't have a
+monster hunter division." — flagged under the scene-killing exception: "real boys" reads as
+Pinocchio at the book's biggest line. Separately (held): "monster hunter division" is still the
+org-chart phrase in a scene that's otherwise ring-and-shadow; Pass 6's lever stands. Cut and
+gone, correctly: "Father, are you saying the supernatural is real?" Also gone: "In due time
+boy" — a small loss; it was the right amount of answer.
+
+**(3) CORNY — the holy adjectives: six → three.** Gone: "great pope hat," "heavenly robes
+flowing gracefully." The class was named in Pass 6; the author finds the rest (active recall).
+*Room's tally, not shown: "holy Roman chair" (the crucifix embedded in the marble is the real
+detail; "holy Roman" is an empire) · "stood up with a heavenly smite" (garbled — smile? — and
+still the adjective) · "the seat of all things holy."* Survivors elsewhere: "ghost white hair
+fluttering," "desks praying amongst the literature" (in-theme personification; borderline).
+
+**(4) ONE LINE EACH, his call:** the new Rick line — "And stop touching shit. The last thing I
+need is them accusing the CIA of stealing from them again." — is fused onto Brooks's reply with
+no break, so it reads as Brooks's; it's the best new line in the chapter ("again" = Rick's years
+as a plant, in one word) and it needs to be unmistakably Rick's. · "hearing a low, 'thump',
+throughout the room" — unexplained: a plant, or the foot-tap arriving early? · "Christs' eyes
+cast his approval down to the old man" — "approval" is a label, but it's doing character work
+(approves of Joseph; by omission, not of Rick) — keep.
+
+**CANON SETTLED ON THE PAGE:** "No, an **animal** problem that people are convinced is a monster
+problem." — Ch4 now matches the prologue's "animal attack." Pass 2a's continuity ask is closed:
+Rick's word is ANIMAL in both places; "serial killer" / "murders" is the TOWN's word (Ch3).
+
+**THE PC's FOUR ADDITIONS FROM 09-18, FOLDED IN:** (1) the GoT reading on the page — MORE of it
+now: the book "tied together by some kind of hair… too hard for leather," the crossroads, "blood
+red rugs… drenched in candle light," "Veins in the concrete" — place through a hand and through
+motion. (2) PROTECT the flask-reach inside the mask paragraph — LOST in the rebuild, by a fair
+trade: Rick is down the hall now and his denial is "No," he won't look. (3) "A very old and a
+very dangerous place" / "That's not an answer." — stays; it's Rick dodging. (4) The page-vs-head
+gap — Joseph's "you never have [believed]" vs the author's direction that Rick was STARTING to
+believe — still on the page; carried, his to settle. Still gone from the pope scene: "The
+director didn't look him in the eye."
+
+**TICS (counts only):** "trying to / tried to" ×3 · "abyss" ×2 (×4 in the book) · "Ya, ya." ·
+"bump in the night" ×2 here — now a PLANT with the prologue (claimed by structure, Pass 2a).
+
+**WORKS — PROTECT (new in 4.1):**
+- "Kyle." Someone whispered in Brooks ear.
+- "When did the mask end up in front of him?"
+- "Director! You have to see this." / "No."
+- "a simple and elegant porcelain mask, unstained."
+- The book: "tied together by some kind of hair?… too hard for leather."
+- "…accusing the CIA of stealing from them again."
+- "No, an animal problem that people are convinced is a monster problem."
+- Everything Pass 6 protected in the Joseph scene that survived: "you couldn't have taken my
+  place," "a faith you cast away" / "It's not my call," "Don't call me that," the foot-tap
+  escalation, the ring, "Rick is the exception."
+
+**PRIORITY-3:** (1) give the pendulum its trigger back without un-veiling the line; (2) "boys";
+(3) make "stop touching shit… again" unmistakably Rick's.
+
+**ONE ASK (editorial):** what hollows Rick at "The game of shadows, my boy" — is it "my boy," or
+did cutting "hunt monsters" take the trigger with it?
