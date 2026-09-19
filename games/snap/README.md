@@ -36,9 +36,9 @@ collection file is, so a stale one is obvious.
 - Known NOT to load: `snap.untapped.gg` draft pages (script-rendered). Draft is out of scope.
 
 ## Build status
-- [ ] 1. Alec installs Snap from Steam on this PC, logs into his phone's account, opens it once
-- [ ] 2. Inspect the real layout of CollectionState.json (read-only) and write the spec from it
-- [ ] 3. Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
+- [x] 1. (2026-09-19) Alec installs Snap from Steam on this PC, logs into his phone's account, opens it once
+- [x] 2. (2026-09-19) Inspect the real layout of CollectionState.json (read-only) and write the spec from it
+- [~] 3. (2026-09-19, count check pending) Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
         card count checked against the number the game shows
 - [ ] 4. First report built by hand in-session; he says what was useful and what was noise
 - [ ] 5. Scheduled task `snap-weekly-report` created and test-run once
@@ -54,3 +54,23 @@ collection file is, so a stale one is obvious.
   account, and then the collection file would describe the wrong account. The check: the rank
   and card count on the PC match the phone.
 - Signing in is Alec's step. Claude never enters credentials.
+
+## Verified file layout (inspected 2026-09-19, read-only; the reader depends on exactly this)
+`CollectionState.json` is ~660 KB and starts with a UTF-8 byte-order mark. Under `ServerState`:
+- `CardOwnership.Dao.S[]` — one row per OWNED card: `C` (card id), `B` (base owned), `V` (variant
+  indexes). **This is the source of truth.** 123 rows on 2026-09-19.
+- `Cards[]` — his card COPIES (variants included). Used only as a cross-check; its distinct ids
+  matched the ownership table exactly (123 / 123, zero differences).
+- `Decks[]` — 17 saved decks, each with `Name` and its own `Cards[]`. **Trap:** the first
+  seventeen `"Cards"` arrays in the file belong to decks, not the collection.
+- `CardDefStats.Stats{}` — ~555 cards he has SEEN. **Not ownership.** Never use it for that.
+- Several saved decks are team-up/precon lists holding cards he does NOT own; the reader reports
+  those under each deck's `missing`.
+The reader exits 3 and writes nothing if any of these paths move, so a game update that changes
+the layout fails loudly instead of producing a wrong collection.
+
+## How the reader was built (his rule, 2026-09-19)
+Main session wrote the SPEC from the verified layout; a **Sonnet subagent wrote the code, code
+only** (one file, no git, no docs, never ran it on his data); main session reviewed it (no
+network imports, two writes only, no account fields), ran it, and checked: 123 cards · 17 decks ·
+integrity OK · byte-identical on re-run · exit 2 on a missing file · no id strings in the output.

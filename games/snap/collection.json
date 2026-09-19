@@ -1,0 +1,1158 @@
+{
+  "source_file_modified": "2026-09-19T17:40:24",
+  "card_count": 123,
+  "cards": [
+    {
+      "id": "Abomination",
+      "norm_key": "abomination",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "AbsorbingMan",
+      "norm_key": "absorbingman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "AdamWarlock",
+      "norm_key": "adamwarlock",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Agent13",
+      "norm_key": "agent13",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "AmericaChavez",
+      "norm_key": "americachavez",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Angel",
+      "norm_key": "angel",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Angela",
+      "norm_key": "angela",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "AntMan",
+      "norm_key": "antman",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Apocalypse",
+      "norm_key": "apocalypse",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Armor",
+      "norm_key": "armor",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Bishop",
+      "norm_key": "bishop",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Blade",
+      "norm_key": "blade",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Blink",
+      "norm_key": "blink",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "BlueMarvel",
+      "norm_key": "bluemarvel",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "BuckyBarnes",
+      "norm_key": "buckybarnes",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Cable",
+      "norm_key": "cable",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "CaptainAmerica",
+      "norm_key": "captainamerica",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Carnage",
+      "norm_key": "carnage",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "CassandraNova",
+      "norm_key": "cassandranova",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Cloak",
+      "norm_key": "cloak",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Colossus",
+      "norm_key": "colossus",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Cosmo",
+      "norm_key": "cosmo",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Crystal",
+      "norm_key": "crystal",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Cyclops",
+      "norm_key": "cyclops",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Deathlok",
+      "norm_key": "deathlok",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "DevilDinosaur",
+      "norm_key": "devildinosaur",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "DoctorStrange",
+      "norm_key": "doctorstrange",
+      "base_owned": true,
+      "variant_count": 2
+    },
+    {
+      "id": "Domino",
+      "norm_key": "domino",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "DrDoom",
+      "norm_key": "drdoom",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Electro",
+      "norm_key": "electro",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Elektra",
+      "norm_key": "elektra",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "ElsaBloodstone",
+      "norm_key": "elsabloodstone",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Enchantress",
+      "norm_key": "enchantress",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Forge",
+      "norm_key": "forge",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Galacta",
+      "norm_key": "galacta",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Gamora",
+      "norm_key": "gamora",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Giganto",
+      "norm_key": "giganto",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "GrandMaster",
+      "norm_key": "grandmaster",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Groot",
+      "norm_key": "groot",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Hawkeye",
+      "norm_key": "hawkeye",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Heimdall",
+      "norm_key": "heimdall",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "HellcowFracturedFrontier",
+      "norm_key": "hellcowfracturedfrontier",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Hobgoblin",
+      "norm_key": "hobgoblin",
+      "base_owned": true,
+      "variant_count": 2
+    },
+    {
+      "id": "Hulk",
+      "norm_key": "hulk",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Hulkbuster",
+      "norm_key": "hulkbuster",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "HumanTorch",
+      "norm_key": "humantorch",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "HydroMan",
+      "norm_key": "hydroman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Iceman",
+      "norm_key": "iceman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "IronFist",
+      "norm_key": "ironfist",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "IronMan",
+      "norm_key": "ironman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Ironheart",
+      "norm_key": "ironheart",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "JaneFoster",
+      "norm_key": "janefoster",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "JessicaJones",
+      "norm_key": "jessicajones",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Jubilee",
+      "norm_key": "jubilee",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "KaZar",
+      "norm_key": "kazar",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "KittyPryde",
+      "norm_key": "kittypryde",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Klaw",
+      "norm_key": "klaw",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Korg",
+      "norm_key": "korg",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Kraven",
+      "norm_key": "kraven",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "LadySif",
+      "norm_key": "ladysif",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Leech",
+      "norm_key": "leech",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Lizard",
+      "norm_key": "lizard",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Magik",
+      "norm_key": "magik",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Magneto",
+      "norm_key": "magneto",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Mantis",
+      "norm_key": "mantis",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Medusa",
+      "norm_key": "medusa",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MistyKnight",
+      "norm_key": "mistyknight",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MonstroOctopus",
+      "norm_key": "monstrooctopus",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MoonGirl",
+      "norm_key": "moongirl",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Morph",
+      "norm_key": "morph",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MrFantastic",
+      "norm_key": "mrfantastic",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MrNegative",
+      "norm_key": "mrnegative",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MrSinister",
+      "norm_key": "mrsinister",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MultipleMan",
+      "norm_key": "multipleman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Mystique",
+      "norm_key": "mystique",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Nakia",
+      "norm_key": "nakia",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Namor",
+      "norm_key": "namor",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Nightcrawler",
+      "norm_key": "nightcrawler",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Nova",
+      "norm_key": "nova",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Odin",
+      "norm_key": "odin",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Onslaught",
+      "norm_key": "onslaught",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "ProfessorX",
+      "norm_key": "professorx",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Psylocke",
+      "norm_key": "psylocke",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Punisher",
+      "norm_key": "punisher",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Quicksilver",
+      "norm_key": "quicksilver",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "RavonnaRenslayer",
+      "norm_key": "ravonnarenslayer",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "RocketRaccoon",
+      "norm_key": "rocketraccoon",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Ronan",
+      "norm_key": "ronan",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Sabretooth",
+      "norm_key": "sabretooth",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Sandman",
+      "norm_key": "sandman",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "ScarletWitch",
+      "norm_key": "scarletwitch",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Scorpion",
+      "norm_key": "scorpion",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Selene",
+      "norm_key": "selene",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Sentinel",
+      "norm_key": "sentinel",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Shocker",
+      "norm_key": "shocker",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Spectrum",
+      "norm_key": "spectrum",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "SpiderWoman",
+      "norm_key": "spiderwoman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "SquirrelGirl",
+      "norm_key": "squirrelgirl",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Starlord",
+      "norm_key": "starlord",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Stegron",
+      "norm_key": "stegron",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "StrongGuy",
+      "norm_key": "strongguy",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Sunspot",
+      "norm_key": "sunspot",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "SuperiorIronMan",
+      "norm_key": "superiorironman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Swarm",
+      "norm_key": "swarm",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "SwordMaster",
+      "norm_key": "swordmaster",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Taskmaster",
+      "norm_key": "taskmaster",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "TheCollector",
+      "norm_key": "thecollector",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "TheHunger",
+      "norm_key": "thehunger",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "TheThing",
+      "norm_key": "thething",
+      "base_owned": true,
+      "variant_count": 1
+    },
+    {
+      "id": "Uatu",
+      "norm_key": "uatu",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Vision",
+      "norm_key": "vision",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Vulture",
+      "norm_key": "vulture",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "WarMachine",
+      "norm_key": "warmachine",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Warpath",
+      "norm_key": "warpath",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Wave",
+      "norm_key": "wave",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "WhiteQueen",
+      "norm_key": "whitequeen",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "WhiteTiger",
+      "norm_key": "whitetiger",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Wolfsbane",
+      "norm_key": "wolfsbane",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Wolverine",
+      "norm_key": "wolverine",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Wong",
+      "norm_key": "wong",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Yondu",
+      "norm_key": "yondu",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "ZombieGiantMan",
+      "norm_key": "zombiegiantman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "ZombieSentry",
+      "norm_key": "zombiesentry",
+      "base_owned": true,
+      "variant_count": 0
+    }
+  ],
+  "decks": [
+    {
+      "name": "Heist Mixtape",
+      "time_updated": "2026-09-16T17:10:27.066-05:00",
+      "slot": "TeamUp_GuardiansOfTheGalaxy_Precon",
+      "cards": [
+        "StarlordGuardiansOfTheGalaxy",
+        "GamoraGuardiansOfTheGalaxy",
+        "DraxGuardiansOfTheGalaxy",
+        "GrootGuardiansOfTheGalaxy",
+        "RocketRaccoonGuardiansOfTheGalaxy",
+        "MantisGuardiansOfTheGalaxy",
+        "Nebula",
+        "AdamWarlock",
+        "GrandMaster",
+        "Gladiator",
+        "DraxAvatarOfLife",
+        "MajorVictory"
+      ],
+      "missing": [
+        "DraxAvatarOfLife",
+        "DraxGuardiansOfTheGalaxy",
+        "GamoraGuardiansOfTheGalaxy",
+        "Gladiator",
+        "GrootGuardiansOfTheGalaxy",
+        "MajorVictory",
+        "MantisGuardiansOfTheGalaxy",
+        "Nebula",
+        "RocketRaccoonGuardiansOfTheGalaxy",
+        "StarlordGuardiansOfTheGalaxy"
+      ]
+    },
+    {
+      "name": "Negative Deck",
+      "time_updated": "2026-09-19T17:02:38.989-05:00",
+      "slot": null,
+      "cards": [
+        "AdamWarlock",
+        "Psylocke",
+        "RavonnaRenslayer",
+        "Magik",
+        "MrNegative",
+        "JaneFoster",
+        "IronMan",
+        "WhiteTiger",
+        "Bishop",
+        "Wong",
+        "Jubilee",
+        "Ironheart"
+      ],
+      "missing": []
+    },
+    {
+      "name": "Zombie Deck",
+      "time_updated": "2026-09-19T08:28:50.94-05:00",
+      "slot": null,
+      "cards": [
+        "TheHunger",
+        "Nightcrawler",
+        "ZombieSentry",
+        "ElsaBloodstone",
+        "Hulkbuster",
+        "GrandMaster",
+        "Crystal",
+        "Wong",
+        "AbsorbingMan",
+        "ZombieGiantMan",
+        "Ironheart",
+        "Psylocke"
+      ],
+      "missing": []
+    },
+    {
+      "name": "Deck 4",
+      "time_updated": "2026-09-09T20:32:39.241-05:00",
+      "slot": null,
+      "cards": [],
+      "missing": []
+    },
+    {
+      "name": "Custom Avengers",
+      "time_updated": "2026-09-16T17:10:27.085-05:00",
+      "slot": "TeamUp_Avengers_Custom",
+      "cards": [
+        "CaptainAmericaAvengers",
+        "DoctorStrangeAvengers",
+        "HawkeyeAvengers",
+        "HulkAvengers",
+        "ThorAvengers",
+        "VisionAvengers"
+      ],
+      "missing": [
+        "CaptainAmericaAvengers",
+        "DoctorStrangeAvengers",
+        "HawkeyeAvengers",
+        "HulkAvengers",
+        "ThorAvengers",
+        "VisionAvengers"
+      ]
+    },
+    {
+      "name": "Avengers Assemble!",
+      "time_updated": "2026-09-16T17:10:27.085-05:00",
+      "slot": "TeamUp_Avengers_Precon",
+      "cards": [
+        "HawkeyeAvengers",
+        "DoctorStrangeAvengers",
+        "CaptainAmericaAvengers",
+        "ThorAvengers",
+        "VisionAvengers",
+        "HulkAvengers",
+        "AmericaChavez",
+        "SamWilson",
+        "Quake",
+        "CaptainCarter",
+        "Ironheart",
+        "IronMan"
+      ],
+      "missing": [
+        "CaptainAmericaAvengers",
+        "CaptainCarter",
+        "DoctorStrangeAvengers",
+        "HawkeyeAvengers",
+        "HulkAvengers",
+        "Quake",
+        "SamWilson",
+        "ThorAvengers",
+        "VisionAvengers"
+      ]
+    },
+    {
+      "name": "Deck 1",
+      "time_updated": "2026-08-27T19:00:13.358-05:00",
+      "slot": null,
+      "cards": [
+        "Hawkeye",
+        "Quicksilver",
+        "Starlord",
+        "Medusa",
+        "Punisher",
+        "MistyKnight",
+        "IronMan",
+        "Abomination",
+        "Hulk",
+        "JessicaJones",
+        "MrFantastic",
+        "DoctorStrange"
+      ],
+      "missing": []
+    },
+    {
+      "name": "Custom Brotherhood of Mutants",
+      "time_updated": "2026-09-16T17:10:27.066-05:00",
+      "slot": "TeamUp_BrotherhoodOfMutants_Custom",
+      "cards": [
+        "SeleneBrotherhoodOfMutants",
+        "ScarletWitchBrotherhoodOfMutants",
+        "MystiqueBrotherhoodOfMutants",
+        "WhiteQueenBrotherhoodOfMutants",
+        "LadyDeathstrikeBrotherhoodOfMutants",
+        "MagnetoBrotherhoodOfMutants"
+      ],
+      "missing": [
+        "LadyDeathstrikeBrotherhoodOfMutants",
+        "MagnetoBrotherhoodOfMutants",
+        "MystiqueBrotherhoodOfMutants",
+        "ScarletWitchBrotherhoodOfMutants",
+        "SeleneBrotherhoodOfMutants",
+        "WhiteQueenBrotherhoodOfMutants"
+      ]
+    },
+    {
+      "name": "Spider-Frenemies",
+      "time_updated": "2026-09-16T17:10:27.049-05:00",
+      "slot": "TeamUp_WebSlingers_Precon",
+      "cards": [
+        "AgonyWebSlingers",
+        "GhostSpiderWebSlingers",
+        "ScarletSpiderWebSlingers",
+        "SymbioteSpiderManWebSlingers",
+        "AntiVenomWebSlingers",
+        "SpiderMan2099WebSlingers",
+        "SpiderManBrandNewDay",
+        "Silk",
+        "SpiderPunk",
+        "Prowler",
+        "MaryJane",
+        "ManSpider"
+      ],
+      "missing": [
+        "AgonyWebSlingers",
+        "AntiVenomWebSlingers",
+        "GhostSpiderWebSlingers",
+        "ManSpider",
+        "MaryJane",
+        "Prowler",
+        "ScarletSpiderWebSlingers",
+        "Silk",
+        "SpiderMan2099WebSlingers",
+        "SpiderManBrandNewDay",
+        "SpiderPunk",
+        "SymbioteSpiderManWebSlingers"
+      ]
+    },
+    {
+      "name": "Custom Thunderbolts",
+      "time_updated": "2026-09-16T17:10:27.067-05:00",
+      "slot": "TeamUp_Thunderbolts_Custom",
+      "cards": [
+        "WinterSoldierThunderbolts",
+        "ValentinaThunderbolts",
+        "TaskmasterThunderbolts",
+        "SentryThunderbolts",
+        "GhostThunderbolts",
+        "ToxieDoxieThunderbolts"
+      ],
+      "missing": [
+        "GhostThunderbolts",
+        "SentryThunderbolts",
+        "TaskmasterThunderbolts",
+        "ToxieDoxieThunderbolts",
+        "ValentinaThunderbolts",
+        "WinterSoldierThunderbolts"
+      ]
+    },
+    {
+      "name": "Custom Spider-Verse",
+      "time_updated": "2026-09-16T17:10:27.051-05:00",
+      "slot": "TeamUp_WebSlingers_Custom",
+      "cards": [
+        "SpiderMan2099WebSlingers",
+        "AgonyWebSlingers",
+        "GhostSpiderWebSlingers",
+        "ScarletSpiderWebSlingers",
+        "SymbioteSpiderManWebSlingers",
+        "AntiVenomWebSlingers"
+      ],
+      "missing": [
+        "AgonyWebSlingers",
+        "AntiVenomWebSlingers",
+        "GhostSpiderWebSlingers",
+        "ScarletSpiderWebSlingers",
+        "SpiderMan2099WebSlingers",
+        "SymbioteSpiderManWebSlingers"
+      ]
+    },
+    {
+      "name": "Children of the Atom",
+      "time_updated": "2026-09-16T17:10:27.066-05:00",
+      "slot": "TeamUp_XMen_Precon",
+      "cards": [
+        "NightcrawlerXMen",
+        "WolverineXMen",
+        "JeanGreyXMen",
+        "CyclopsXMen",
+        "JubileeXMen",
+        "ProfessorXXMen",
+        "Sunspot",
+        "Surge",
+        "HopeSummers",
+        "Prodigy",
+        "Isca",
+        "Sasquatch"
+      ],
+      "missing": [
+        "CyclopsXMen",
+        "HopeSummers",
+        "Isca",
+        "JeanGreyXMen",
+        "JubileeXMen",
+        "NightcrawlerXMen",
+        "Prodigy",
+        "ProfessorXXMen",
+        "Sasquatch",
+        "Surge",
+        "WolverineXMen"
+      ]
+    },
+    {
+      "name": "Null and Void",
+      "time_updated": "2026-09-16T17:10:27.067-05:00",
+      "slot": "TeamUp_Thunderbolts_Precon",
+      "cards": [
+        "WinterSoldierThunderbolts",
+        "ValentinaThunderbolts",
+        "ToxieDoxieThunderbolts",
+        "GhostThunderbolts",
+        "SentryThunderbolts",
+        "TaskmasterThunderbolts",
+        "Hood",
+        "Hulkbuster",
+        "Viper",
+        "AbsorbingMan",
+        "Klaw",
+        "RedHulk"
+      ],
+      "missing": [
+        "GhostThunderbolts",
+        "Hood",
+        "RedHulk",
+        "SentryThunderbolts",
+        "TaskmasterThunderbolts",
+        "ToxieDoxieThunderbolts",
+        "ValentinaThunderbolts",
+        "Viper",
+        "WinterSoldierThunderbolts"
+      ]
+    },
+    {
+      "name": "Mutant and Proud",
+      "time_updated": "2026-09-16T17:10:27.047-05:00",
+      "slot": "TeamUp_BrotherhoodOfMutants_Precon",
+      "cards": [
+        "SeleneBrotherhoodOfMutants",
+        "ScarletWitchBrotherhoodOfMutants",
+        "MystiqueBrotherhoodOfMutants",
+        "WhiteQueenBrotherhoodOfMutants",
+        "LadyDeathstrikeBrotherhoodOfMutants",
+        "MagnetoBrotherhoodOfMutants",
+        "BlackCat",
+        "Martyr",
+        "Forge",
+        "Maverick",
+        "SebastianShaw",
+        "WolverineHorseman"
+      ],
+      "missing": [
+        "BlackCat",
+        "LadyDeathstrikeBrotherhoodOfMutants",
+        "MagnetoBrotherhoodOfMutants",
+        "Martyr",
+        "Maverick",
+        "MystiqueBrotherhoodOfMutants",
+        "ScarletWitchBrotherhoodOfMutants",
+        "SebastianShaw",
+        "SeleneBrotherhoodOfMutants",
+        "WhiteQueenBrotherhoodOfMutants",
+        "WolverineHorseman"
+      ]
+    },
+    {
+      "name": "Ramp Deck",
+      "time_updated": "2026-08-27T19:00:42.913-05:00",
+      "slot": null,
+      "cards": [
+        "Sunspot",
+        "Domino",
+        "Electro",
+        "Wave",
+        "Jubilee",
+        "Blink",
+        "Sandman",
+        "Vision",
+        "DrDoom",
+        "WarMachine",
+        "Magneto",
+        "Giganto"
+      ],
+      "missing": []
+    },
+    {
+      "name": "Custom Guardians of the Galaxy",
+      "time_updated": "2026-09-16T17:10:27.066-05:00",
+      "slot": "TeamUp_GuardiansOfTheGalaxy_Custom",
+      "cards": [
+        "StarlordGuardiansOfTheGalaxy",
+        "GamoraGuardiansOfTheGalaxy",
+        "DraxGuardiansOfTheGalaxy",
+        "GrootGuardiansOfTheGalaxy",
+        "RocketRaccoonGuardiansOfTheGalaxy",
+        "MantisGuardiansOfTheGalaxy"
+      ],
+      "missing": [
+        "DraxGuardiansOfTheGalaxy",
+        "GamoraGuardiansOfTheGalaxy",
+        "GrootGuardiansOfTheGalaxy",
+        "MantisGuardiansOfTheGalaxy",
+        "RocketRaccoonGuardiansOfTheGalaxy",
+        "StarlordGuardiansOfTheGalaxy"
+      ]
+    },
+    {
+      "name": "Custom X-Men",
+      "time_updated": "2026-09-16T18:21:00.613-05:00",
+      "slot": "TeamUp_XMen_Custom",
+      "cards": [
+        "ProfessorXXMen",
+        "CyclopsXMen",
+        "JeanGreyXMen",
+        "WolverineXMen",
+        "NightcrawlerXMen",
+        "JubileeXMen",
+        "Morph",
+        "Iceman",
+        "Electro",
+        "Sunspot",
+        "WarMachine",
+        "Odin"
+      ],
+      "missing": [
+        "CyclopsXMen",
+        "JeanGreyXMen",
+        "JubileeXMen",
+        "NightcrawlerXMen",
+        "ProfessorXXMen",
+        "WolverineXMen"
+      ]
+    }
+  ],
+  "integrity": {
+    "copies_list_count": 123,
+    "only_in_ownership": [],
+    "only_in_copies": []
+  }
+}
