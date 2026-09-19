@@ -52,6 +52,30 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
 > squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
 > (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **09-18 EVENING (PC, no new pages) — recorded so it isn't redone:** PC pulled first; nothing
+> to reconcile (the satellite had already merged the PC blocks). Author asked the PC "do you
+> agree with Pass 6?" — PC read all 1,636w of Ch4 and AGREES with the headline (audit flipped)
+> and all three priorities (second telling / mask in feeling-nouns / holy adjectives). **No
+> second pass logged on the same pages; these four PC additions get FOLDED INTO PASS 6a when his
+> mask revision lands:** (1) yesterday's GoT reading is already on the page — "How big is this
+> place?" / "52 miles.", "There is no lord here. Only weak men hiding behind a veil.", "the
+> rainbow passing over his face" = description in a mouth / in motion; the stock moved ("seat of
+> all things holy," "never ending room") rather than left. (2) PROTECT inside the mask paragraph:
+> Rick says "It's just a mask" and reaches into his suit for the flask — passes the camera test.
+> (3) Split with Pass 6: "A very old and a very dangerous place" is Rick dodging, not a trailer
+> line — Brooks calls it ("That's not an answer."). (4) Page-vs-head gap: Joseph says "you never
+> have [believed]"; author's chat direction says Rick was STARTING to believe — either Joseph is
+> wrong about him or the line drifts; his to settle, nothing to fix now. One loss noted: the
+> partial's "The director didn't look him in the eye" is gone from the pope scene.
+> **Author's plan (chat):** may REDO THE PROLOGUE'S ENDING — "a good scene churning." He claimed
+> that ending on 09-14; reopening it is his call. Old ending stays frozen; log the rewrite against
+> the prologue's pass (2a), pull first.
+> **Also:** `docs/link-inbox.md` created — links he says "file this" about, purpose undeclared
+> (first entry 09-18, a Substack note; specifics about real people deliberately kept OUT of the
+> repo). New auto-memory `project_task_force_cryptid` (current book + the two-machine pull-first
+> protocol), mirrored. **Counts unchanged: 09-18 = 932 · WEEK 1 ≈ 5,083 / 5,000 (hit).** Week 2
+> opens Mon 09-21 at 0.
+>
 > **09-17 EVENING (PC, after the merge) — CHAT ONLY, no pages; recorded so it isn't re-taught:**
 > The Ch4 partial got a signs-check (NOT Pass 6 — held until whole): the office scene's relocation
 > to the Vatican fixed Pass 1's #1 by moving it (gatekeeper with a price, a past he won't look at,
