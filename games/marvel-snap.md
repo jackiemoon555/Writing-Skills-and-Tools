@@ -38,3 +38,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 
 ## LOG
 - 2026-09-19 — file opened; state above. No deck lists recorded yet (he hasn't shared them).
+- 2026-09-19 (later) — HIS READ: "I was able to make it to Omega with free decks, so it's not a
+  hard bottleneck." → **Card acquisition is NOT a hard gate in Snap for him** — the giveaway decks
+  carried him to rank 83 without a collection. Refines the profile's "acquisition is the drag"
+  filter: the drag is GRINDING to be allowed to compete; a game that hands out a competitive
+  deck for free clears it. (The PvP-timer question is still unanswered — don't assume.)
