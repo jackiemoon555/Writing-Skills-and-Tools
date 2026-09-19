@@ -47,3 +47,7 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   stalling the turn clock has come up "not once." The 08-16 skip reason ("PvP timer = abused")
   was NOT his objection — he didn't recognize the phrase; it was an earlier session's inference.
   Lesson for recs: don't pre-filter live-PvP card games on a guessed timer complaint; ask him.
+- 2026-09-19 (later) — WEEKLY REPORT + COLLECTION TRACKER approved and scaffolded: see
+  `snap/README.md`. Wednesdays 9am, ladder only, tracks both his collection and the meta.
+  BLOCKED on his step: install Snap on the PC via Steam, log in, open once. No code is written
+  by the main session — Sonnet/Haiku subagent, code only, from a spec (his instruction).

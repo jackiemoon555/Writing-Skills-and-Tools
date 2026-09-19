@@ -21,6 +21,7 @@ and the books; the trilogy's ledgers remain the source of truth.
   filters that predict his reactions (turn-based, legible-hard > opaque-hard,
   draft-not-collection, bails on system-cliffs, etc.). Doubles as target-player
   reference for his own game designs.
+- `snap/` — the weekly Snap report + collection tracker (see `snap/README.md`).
 - `marvel-snap.md` — the standing Marvel Snap file (rank, decks, what he has already been told);
   read it first when Snap comes up, so he never has to re-explain.
 - `steam-library_2026-08-16.md` — a library snapshot (games with hours +
