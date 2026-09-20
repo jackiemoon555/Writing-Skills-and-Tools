@@ -113,3 +113,10 @@ contain NO card text" was true only of the AppData state folder.
 - **Always run them as `py -X utf8 …`** on this PC — without the flag, dashes and dots in the
   output come out garbled.
 - Weekly deck inputs are kept as `reports/decks-YYYY-MM-DD.json`.
+- `tools/read_card_text.py` (Sonnet-written, 2026-09-19) — unpacks the game's English string
+  table from the local install (pure-Python LZ4; no downloads) → 13,039 strings, written to
+  `local/card_text.json` (**gitignored — the game's text is never committed**). Verified: exact
+  current ability wording comes out (e.g. "On Reveal: Add the top card of your deck to this
+  location."). **KNOWN GAP: the file has no key names, so text can't be matched to a CARD NAME.**
+  Use it to search by wording: `py -X utf8 games/snap/tools/read_card_text.py --lookup "last card you played"`.
+  Linking names to text needs the key table / card definitions from another bundle — not found yet.
