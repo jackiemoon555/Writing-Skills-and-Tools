@@ -93,3 +93,5 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   text from his install, 756 cards, no web)**. Weekly report scheduled **Saturdays ~3pm**
   (end of his usage week; heavy steps delegated to a Sonnet subagent). Install lives in his
   SECOND Steam library, `D:\SteamLibrary`. Answer card-text questions from the lookup first.
+- 2026-09-19 (night) — **FINAL: reports are ON DEMAND.** He'll ask ("snap report") around patch
+  notes; the weekly schedule is paused and must not be re-proposed. Recipe in `snap/README.md`.

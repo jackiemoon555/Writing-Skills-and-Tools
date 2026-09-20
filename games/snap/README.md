@@ -41,7 +41,7 @@ collection file is, so a stale one is obvious.
 - [x] 3. (2026-09-19; reader verified; ALEC CONFIRMED: the Zombie deck list read from the file is his, and he does NOT own Ultron — matches the file. In-app card counter not located; spot-check accepted instead) Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
         card count checked against the number the game shows
 - [~] 4. (2026-09-19; report written: reports/2026-09-19.md; his used/noise feedback pending) First report built by hand in-session; he says what was useful and what was noise
-- [~] 5. (2026-09-19) Scheduled task `snap-weekly-report` CREATED — Saturdays ~3pm (moved from Wednesday at his request: heavy non-writing work belongs at the end of his usage week; patch-day freshness traded away, on-demand covers it). Test run still owed
+- [x] 5. (2026-09-19) **ON DEMAND ONLY — his final call: "don't worry about a weekly check in, I'll call for it manually around patch notes."** The scheduled task `snap-weekly-report` exists but is PAUSED (disabled); its one test run stalled on a first-run permission prompt and was stopped. Its saved prompt (`C:SERSLEC_.CLAUDESCHEDULED-TASKSSNAP-WEEKLY-REPORTSKILL.MD`) IS THE RECIPE FOR A MANUAL RUN
 - [ ] 6. Cross-vendor review brief for the script offered (rule 8; not a gate)
 
 ## Step 1 notes — cross-platform carry-over (checked 2026-09-19; sources are older articles, verify in-game)
@@ -134,3 +134,16 @@ contain NO card text" was true only of the AppData state folder.
   `name_overrides.json`. Not wired in yet.
 - **For "what does this card do" questions: use card_lookup first, the web only for cost/power
   and for anything the lookup can't resolve.** Saves fetches.
+
+## HOW A REPORT HAPPENS NOW (final, 2026-09-19): he asks for it
+No schedule. When he says **"snap report"** (usually right after patch notes), the session:
+1. pulls the repo, runs `py -X utf8 games/snap/tools/read_collection.py` (and reminds him to open
+   Snap on the PC first if the collection file is more than a week old);
+2. hands the fetching to ONE Sonnet subagent (patch notes, balance update, the newest ranked
+   tier-list article saved as `reports/decks-YYYY-MM-DD.json`, card win rates) — main session
+   orchestrates, writes no code, does no bulk reading;
+3. runs `py -X utf8 games/snap/tools/match_decks.py reports/decks-YYYY-MM-DD.json`;
+4. answers card-text questions from `tools/card_lookup.py` first, the web only for cost/power;
+5. writes `reports/YYYY-MM-DD.md` (verdict first line, action last), updates
+   `../marvel-snap.md`, commits only `games/`.
+Do NOT re-enable the schedule or suggest one unless he asks.
