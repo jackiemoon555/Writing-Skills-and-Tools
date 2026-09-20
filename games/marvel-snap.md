@@ -95,3 +95,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   SECOND Steam library, `D:\SteamLibrary`. Answer card-text questions from the lookup first.
 - 2026-09-19 (night) — **FINAL: reports are ON DEMAND.** He'll ask ("snap report") around patch
   notes; the weekly schedule is paused and must not be re-proposed. Recipe in `snap/README.md`.
+- 2026-09-19 (night) — He's going back to the BASE Negative deck ("let's try the basics"):
+  Adam Warlock, Psylocke, Ravonna Renslayer, Cassandra Nova, Ironheart, Mystique, Magik, Mister
+  Negative, Iron Man, White Tiger, Jane Foster Mighty Thor, Taskmaster. Told him the meta picture
+  (8 of 15 tracked decks are "Curved" lists built on Thanos FF / Jane Foster FF) and the two
+  cards that hurt Negative most by exact text: Cosmo (in 3 of the 15) and Enchantress.

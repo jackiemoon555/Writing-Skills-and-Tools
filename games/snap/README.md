@@ -158,3 +158,7 @@ Do NOT re-enable the schedule or suggest one unless he asks.
 - So `py -X utf8 games/snap/tools/card_lookup.py --name "Blink"` now answers the WHOLE question
   (name · cost · power · exact text) from his PC with no web fetch. Known leftovers: some texts
   keep a `{card.…}` placeholder where a number goes.
+- Lookup quirks seen 2026-09-19: **Rogue** returns a flavor quote instead of her ability (her
+  `Card_Desc` id points at the wrong string, or her real text lives under another key) — verify
+  Rogue on the web. Keyword DEFINITIONS (Quickdraw, Empowered, Judge) were not found by simple
+  search of the string table; do not explain those keywords from memory.
