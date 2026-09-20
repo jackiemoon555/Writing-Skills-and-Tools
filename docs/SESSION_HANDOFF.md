@@ -73,6 +73,14 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLUMBING NOTE:** the PC has no GitHub CLI (`gh`), so PC sessions push a branch and
 > squash-merge LOCALLY into main at handoff instead of opening a PR. Python is `py` on the PC
 > (`PYTHONPATH=src py -m writing_tools …`). Auto-memory mirror checked 09-16: already current.
+> **CLAIMED DESIGN, Ch4 (author, 09-19 evening; never re-flag as "unexplained"):** the lower
+> church is a LIVING BODY — the blood-red rugs are the blood of Christ, the "veins in the
+> concrete" are veins, the walls breathe, and the low "thump" near the crucifix is a HEARTBEAT
+> (the crucifix as the heart). Pairs with his heaven-above / depths-below dichotomy. **The room
+> caught the pieces and MISSED the whole** — Pass 6a protected the veins and rugs as description
+> and flagged the thump as "a plant, or the foot-tap arriving early?" Room's one note, his call:
+> a single thump placed right before the foot-tapping can't read as a heart; a heartbeat is
+> recognized by its second beat.
 > **CLAIMED (author, 09-19; never re-flag):** the pope's "holy Roman chair, a golden crucifix
 > embedded in the marble" STAYS — it's a deliberate dichotomy with where Father Joseph is (gold,
 > marble and sunlight vs. cracked concrete, tattered pews and candles). He IS cutting "heavenly"
