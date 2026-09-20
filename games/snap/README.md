@@ -120,3 +120,17 @@ contain NO card text" was true only of the AppData state folder.
   location."). **KNOWN GAP: the file has no key names, so text can't be matched to a CARD NAME.**
   Use it to search by wording: `py -X utf8 games/snap/tools/read_card_text.py --lookup "last card you played"`.
   Linking names to text needs the key table / card definitions from another bundle — not found yet.
+- `tools/card_lookup.py` (Sonnet-written, 2026-09-19, second dig) — **card NAME → exact current
+  ability text, from his own install, no network.** Found the real link (never a guess): key
+  names live in `…/localization-assets-shared_assets_assets/data/localization/tables/card/cardshareddata.asset.bundle`
+  (`Card_Name_<Key>` / `Card_Desc_<Key>` → int64 ids) and the same ids sit beside each English
+  string in the string-table bundle. 756 cards linked, 1 unresolved (Husk). Verified against five
+  cards fetched from the web the same night: identical text.
+  Use: `py -X utf8 games/snap/tools/card_lookup.py --name "Wong"`. Output → `local/card_lookup.json`
+  (gitignored). **Gaps:** cost and power are NOT in these files (reported as null — get numbers
+  from the sites); some texts keep placeholders like `{card.AddedPower}`.
+  **Bonus:** each entry's `key` is the game's own card id (`MrNegative`) beside its display name
+  ("Mister Negative") — an authoritative id→name map that could replace the hand-kept
+  `name_overrides.json`. Not wired in yet.
+- **For "what does this card do" questions: use card_lookup first, the web only for cost/power
+  and for anything the lookup can't resolve.** Saves fetches.

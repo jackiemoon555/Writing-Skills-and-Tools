@@ -88,3 +88,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   account/collection state; `LocPatches` has one tiny patch file with no ability text; the card
   text lives in the game's packed data. Card TEXT must always come from the sites; the local
   files are good for exactly one thing — what he owns and his saved decks.
+- 2026-09-19 (night) — TOOLING DONE, all Sonnet-written from specs (main session wrote no code):
+  collection reader · deck matcher · string-table parser · **card lookup (name → exact ability
+  text from his install, 756 cards, no web)**. Weekly report scheduled **Saturdays ~3pm**
+  (end of his usage week; heavy steps delegated to a Sonnet subagent). Install lives in his
+  SECOND Steam library, `D:\SteamLibrary`. Answer card-text questions from the lookup first.
