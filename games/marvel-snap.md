@@ -138,3 +138,13 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   free lists only Zombies has a tracked ranked relative (Curved Zombies, Tier 3, 57%, shares 4 of
   12 with his list); no source rates the free lists themselves; by his OWN results Ramp took him
   higher (83) than Zombies (70s).
+- 2026-09-19 (night) — THE VICTORIA HAND LOGIN DECK ("Created Cards Deck", from his screenshot;
+  cost/power on the screenshot matched the local stats file for all 12): Quinjet 1/1, Spider-Ham
+  1/1, Loki 1/2, Agent 13 1/3, Maria Hill 1/3, Victoria Hand 2/2, Mirage 2/3, The Collector 2/3,
+  Valentina 2/3, Agent Coulson 3/5, Moon Girl 4/5, Devil Dinosaur 5/4. He OWNS 4 (Agent 13, The
+  Collector, Moon Girl, Devil Dinosaur); claiming adds 8 permanent cards (Quinjet, Spider-Ham,
+  Loki, Maria Hill, Victoria Hand, Mirage, Valentina, Agent Coulson). Valentina is in a Tier 1
+  list (Curved Superior High-Low) and Spider-Ham in Curved Aurora. Told him: it's the opposite of
+  Negative — five 1-costs, nothing above 5, never bricks on cost, low variance, lower ceiling;
+  engine = generators (Agent 13, Maria Hill, Valentina, Coulson, Mirage, Moon Girl) feeding
+  Victoria Hand / The Collector / Devil Dinosaur / Quinjet. Not in this week's tracked 15.
