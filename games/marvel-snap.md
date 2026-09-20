@@ -148,3 +148,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Negative — five 1-costs, nothing above 5, never bricks on cost, low variance, lower ceiling;
   engine = generators (Agent 13, Maria Hill, Valentina, Coulson, Mirage, Moon Girl) feeding
   Victoria Hand / The Collector / Devil Dinosaur / Quinjet. Not in this week's tracked 15.
+- 2026-09-19 (night) — LOGIN CALENDAR (his screenshot): "19 Day Event Login Rewards", ends in
+  1w 3d. He has claimed through DAY 11; day 12 unlocks in ~17h40m. Ahead: day 14 = **Gorr the God
+  Butcher base card**; day 18 = 200 credits; **day 19 = the Created Cards (Victoria Hand) deck**.
+  He needs 8 more login days (12→19); earliest day 19 ≈ 7d 18h out; the event has ~10 days left,
+  so roughly TWO days of slack — assuming a missed day doesn't auto-advance (not verified).
