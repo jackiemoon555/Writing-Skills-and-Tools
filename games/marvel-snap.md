@@ -109,3 +109,14 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   His edited list (Bishop/Wong/Jubilee) was "taking the all-in to the extreme"; he's testing the
   base list now. Also verified: Ravonna 2/2 Ongoing makes his low-Power cards cheaper BEFORE the
   swap (a plan B); Adam Warlock 2/0; Ironheart 3/0; White Tiger 5/1.
+- 2026-09-19 (night) — THE REAL PROBLEM HE FOUND WITH NEGATIVE: the swap only hits cards still
+  in the DECK (verified text), so payoff cards drawn BEFORE the flip stay expensive and weak and
+  "brick my hand post flip." Worked out with him: on the T3 line he has seen 6 of 12 cards;
+  with Negative + Psylocke accounted for he holds 4 of the other 10, so each payoff (Iron Man /
+  Mystique / Taskmaster) is in hand 40% of the time — about ONE of the three is bricked in a
+  typical game; all three still in deck ≈ 1 game in 6. Flip side: Jane Foster Mighty Thor (5/9)
+  must be IN HAND at the flip (in deck she becomes 9-cost). Ravonna is the anti-brick card (she
+  discounts low-Power cards in hand). Suggested read for cubes: count bricks at the flip —
+  snap when Negative is on curve, Jane is in hand, payoffs are still in the deck; leave cheap
+  when the finishers are already in hand. Adam Warlock's extra draws are bad before the flip
+  and good after it.
