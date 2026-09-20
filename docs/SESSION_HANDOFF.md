@@ -24,6 +24,49 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > (John / Nicole / Rob / Dan / Vlad), never by number.** More renames will follow as he works.
 >
 > ## 🖥 PC SESSION 2026-09-16 evening → merged 2026-09-17 — RAN BESIDE THE SATELLITE; RECONCILED AT THE MERGE — read WITH the satellite block below
+> **▶▶ NEXT SESSION — START HERE (PC close, 2026-09-19 late night; supersedes the afternoon
+> note just below where they differ). He asked for this handoff because the context was large —
+> START A FRESH SESSION.** PULL FIRST. The PC session is primary; revisions are open mid-draft.
+> **WRITING STATE (unchanged since the afternoon pulls):** master Doc "Tbd D1 Take 2" — prologue
+> v3 1,340 · Ch1 697 · Ch2 ~1,017 · Ch3 646 · Ch4.1 1,803. Passes 1–6 + 2a + 6a logged.
+> **WEEK 1 ≈ 5,503 / 5,000 — closed early. WEEK 2 opens MON 09-21 at 0.** Report day + week only.
+> **EXPECTED AT THE NEXT DOC PULL (snapshot NEW files, log net deltas, may be negative):**
+> (a) **Ch4 → Pass 6b:** he is moving the THUMP so it comes FROM CHRIST/the crucifix and then
+> LEADS INTO Rick's shoe tap; "heavenly" cut from "smite"; the "real boys" typo; "a couple of
+> fixes." (b) possibly labels stripped from the prologue's hunt. Next NEW pages = Ch5 → Pass 7.
+> **CH4 DESIGN, CLAIMED TONIGHT (never re-flag; he explained it in chat):** the lower church is
+> a living body (blood-red rugs = the blood of Christ, veins in the concrete, the walls breathe,
+> the thump = a HEARTBEAT at the crucifix). **The ending is a biblical homage: Christ goes where
+> he is needed, among the sinners — his heart is kept at the center of the Vatican's SINS, and
+> the keeper tends it.** Gold/marble/rainbow upstairs = the institution; Christ himself is below.
+> Consequences for the record: **"Do not fear lost lamb" is the lost-sheep parable, ON theme —
+> the satellite's Pass 6 "costume" flag on it is WITHDRAWN**; "Christ's eyes cast his approval
+> down to the old man" is the payoff, not a label. The room MISSED the whole design in 6a (read
+> the parts as separate atmosphere). Room's only note, now accepted by him: on the page the
+> thump had no SOURCE ("throughout the room") and no second beat. Watch in 6b: the tap mustn't
+> swallow the heartbeat — the thump needs to be its own thing first; whether Rick's foot taps
+> AGAINST the rhythm or falls INTO it is his to find. He ruled out a Dante-style descent for
+> this chapter (vaulted as its own idea); a staircase is optional; leaving it ambiguous is fine.
+> **Also tonight:** the prologue v3 file was sent to him for a COLD READ in another chat session
+> (offered `docs/third-party-review-brief.md` so the outside read stays blind — not confirmed
+> whether he used it). If he brings that read back: reconcile per rule 8, splits go to him.
+> **STILL OPEN, his to settle by writing:** the prologue's first ~150 words (what does line one
+> promise?) · "eyes empty" (hollowed vs. outplayed) · Joseph's "you never have" vs. Rick-was-
+> starting-to-believe · did Joseph know Rick was a plant. Chat-only story direction (NOT canon,
+> never develop): Brooks leads the task force as Rick's inside man; shifting costs humanity;
+> the morphologist finds how to kill it; science / religion / CIA = three answers to one body.
+> **STANDING RULES ADDED THIS SESSION (all in auto-memory, mirrored):** Fable ORCHESTRATES —
+> all code and any token-heavy work goes to Sonnet/Haiku subagents, the main session writes no
+> code (room passes stay with Fable: that's judgment) · heavy non-writing work belongs at the END
+> of his usage week (resets Saturday night) · nothing downstream mid-draft (no editor / title /
+> length / finish dates) · he's a discovery writer: reflect his pages back, never plan his book.
+> **GAMES LANE (separate; never competes with the floor):** Marvel Snap has a standing file
+> `games/marvel-snap.md` + tools in `games/snap/` (collection reader, deck matcher, card lookup
+> with exact text + cost/power from his own install — all Sonnet-written). Reports are ON DEMAND
+> only ("snap report", usually after patch notes); the schedule is paused — do not propose one.
+> He's on the login calendar: Gorr day 14, the Victoria Hand deck day 19 (~2 days of slack).
+> Back in Omega on Zombies as of 09-19 late.
+>
 > **▶ NEXT SESSION — START HERE (PC close, 2026-09-19 ~afternoon; author may not return today —
 > "rather pleased with this week and don't want to burn out again"):** PULL FIRST. Master Doc =
 > "Tbd D1 Take 2". State on main: prologue v3 (1,340) · Ch1 697 · Ch2 ~1,017 · Ch3 646 · Ch4.1
