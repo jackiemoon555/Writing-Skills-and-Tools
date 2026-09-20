@@ -9,7 +9,7 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   stayed cause I actually like it." Rank **75**, peaked **83 (Omega)**. Climbed to the 70s on the
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
-- Goal: not stated. (Ask before assuming Infinite is the goal.)
+- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: Omega (80+) again, 2026-09-19 late, on Zombies.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -153,3 +153,6 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Butcher base card**; day 18 = 200 credits; **day 19 = the Created Cards (Victoria Hand) deck**.
   He needs 8 more login days (12→19); earliest day 19 ≈ 7d 18h out; the event has ~10 days left,
   so roughly TWO days of slack — assuming a missed day doesn't auto-advance (not verified).
+- 2026-09-19 (late night) — **BACK TO OMEGA (80+) on the ZOMBIE deck**, climbed from 75 the same
+  night. Corrects an earlier line: by his own results Zombies is at least Ramp's equal — it has
+  now carried him to Omega too. Exact rank not given.
