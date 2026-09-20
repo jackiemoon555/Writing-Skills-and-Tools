@@ -100,3 +100,12 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Negative, Iron Man, White Tiger, Jane Foster Mighty Thor, Taskmaster. Told him the meta picture
   (8 of 15 tracked decks are "Curved" lists built on Thanos FF / Jane Foster FF) and the two
   cards that hurt Negative most by exact text: Cosmo (in 3 of the 15) and Enchantress.
+- 2026-09-19 (night) — HIS NEGATIVE RULES (his own, and tighter than Claude's): Mister Negative
+  is a TURN-3 play when Psylocke lands on 2 (verified: Psylocke 2/2, On Reveal next turn +energy),
+  turn 4 at the latest. **No Negative by T4 → retreat. T5 Negative is only acceptable when a
+  turn 7 exists** (Magik, 3/2, replaces her location; the location name is a placeholder in the
+  local file — he knows it's the turn-7 one). Why it's right: Negative T3/T4 → Jane Foster T5 →
+  dump T6; Negative T5 → Jane T6 → no turn left to play what she draws unless there's a T7.
+  His edited list (Bishop/Wong/Jubilee) was "taking the all-in to the extreme"; he's testing the
+  base list now. Also verified: Ravonna 2/2 Ongoing makes his low-Power cards cheaper BEFORE the
+  swap (a plan B); Adam Warlock 2/0; Ironheart 3/0; White Tiger 5/1.
