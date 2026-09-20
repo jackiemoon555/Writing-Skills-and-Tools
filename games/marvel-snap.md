@@ -128,3 +128,13 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   all fight for turn 4). On a 6-energy dump turn only one 4-cost fits next to the free cards.
   Bishop drawn late is just a 3/2. That's why he's back on the base list. (The 40%-per-card
   math still holds for any card; it just bites hardest on mid-cost cards with no discount.)
+- 2026-09-19 (night) — FREE DECKS: the September login calendar (Sept 7–29) gives TWO decks, a
+  Mister Negative deck (he has it) and a **Victoria Hand deck** ("generating cards on the fly");
+  claimed decks grant the base cards PERMANENTLY (boosters if already owned) — per Marvel Snap
+  Zone's season page. Victoria Hand (local lookup): 2/2, Ongoing, cards created in your hand get
+  +Power; he does NOT own her yet. NOT FOUND on two pages: which day grants it (he asked about
+  day 19) or the deck's card list — don't guess; after he claims it, open Snap on the PC and the
+  collection reader will show the list. Asked "is Zombies the highest rated free deck": of his
+  free lists only Zombies has a tracked ranked relative (Curved Zombies, Tier 3, 57%, shares 4 of
+  12 with his list); no source rates the free lists themselves; by his OWN results Ramp took him
+  higher (83) than Zombies (70s).
