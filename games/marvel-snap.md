@@ -120,3 +120,11 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   snap when Negative is on curve, Jane is in hand, payoffs are still in the deck; leave cheap
   when the finishers are already in hand. Adam Warlock's extra draws are bad before the flip
   and good after it.
+- 2026-09-19 (night) — CORRECTION to the entry above: the bricking HE meant was his three ADDS —
+  **Wong (4/2), Jubilee (4/1), Bishop (3/2)** — not the base list. Drawn before the flip they stay
+  3- and 4-cost in hand, and they are all cards that only pay off if PLAYED before the flip, in
+  turns 3–4 that already belong to Psylocke/Negative/Magik. His edit turned the curve from
+  2,2,2,3,3,3,3,4,5,5,5,6 into one with THREE 4-costs beside Negative (Wong, Jubilee, Negative
+  all fight for turn 4). On a 6-energy dump turn only one 4-cost fits next to the free cards.
+  Bishop drawn late is just a 3/2. That's why he's back on the base list. (The 40%-per-card
+  math still holds for any card; it just bites hardest on mid-cost cards with no discount.)
