@@ -174,6 +174,56 @@ def _normalize(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", s.lower())
 
 
+DEFAULT_STATS_PATH = Path(__file__).resolve().parent.parent / "card_stats.json"
+
+
+def _load_stats(stats_path: Path) -> tuple[Optional[dict], Optional[str], Optional[str]]:
+    """Load the optional card_stats.json file.
+
+    Returns (name -> {cost, power} keyed by normalized stats name, source, fetched).
+    Returns (None, None, None) if the file is missing. Prints a one-line error
+    to stderr and returns (None, None, None) if the file exists but is
+    malformed or has an unexpected shape -- a bad stats file must never break
+    text lookup.
+    """
+    if not stats_path.is_file():
+        return None, None, None
+    try:
+        with stats_path.open("r", encoding="utf-8-sig") as f:
+            data = json.load(f)
+        cards = data["cards"]
+        by_name: dict[str, dict] = {}
+        for card in cards:
+            by_name[_normalize(card["name"])] = {
+                "cost": int(card["cost"]),
+                "power": int(card["power"]),
+            }
+        source = data.get("source")
+        fetched = data.get("fetched")
+    except (json.JSONDecodeError, KeyError, TypeError, ValueError) as exc:
+        print(f"malformed stats file {stats_path}: {exc}", file=sys.stderr)
+        return None, None, None
+    return by_name, source, fetched
+
+
+def _apply_stats(
+    lookup: dict[str, dict], stats_by_name: Optional[dict]
+) -> int:
+    """Fill cost/power in-place from stats_by_name. Returns matched count."""
+    matched = 0
+    if not stats_by_name:
+        return matched
+    for name, entry in lookup.items():
+        stat = stats_by_name.get(_normalize(name))
+        if stat is None:
+            stat = stats_by_name.get(_normalize(entry["key"]))
+        if stat is not None:
+            entry["cost"] = stat["cost"]
+            entry["power"] = stat["power"]
+            matched += 1
+    return matched
+
+
 def main(argv: Optional[list[str]] = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -190,12 +240,21 @@ def main(argv: Optional[list[str]] = None) -> int:
     )
     parser.add_argument("--name", default=None, help="Print cards whose name contains NAME and exit.")
     parser.add_argument("--out", default=None, help="Output JSON path.")
+    parser.add_argument(
+        "--stats",
+        type=Path,
+        default=DEFAULT_STATS_PATH,
+        help="Path to card_stats.json (optional; cost/power source).",
+    )
     args = parser.parse_args(argv)
 
     try:
         lookup = build_lookup(args.shared_bundle, args.english_bundle)
     except SystemExit as exc:
         return exc.code if isinstance(exc.code, int) else 1
+
+    stats_by_name, stats_source, stats_fetched = _load_stats(args.stats)
+    matched = _apply_stats(lookup, stats_by_name)
 
     if args.name:
         needle = _normalize(args.name)
@@ -205,6 +264,11 @@ def main(argv: Optional[list[str]] = None) -> int:
         for name, entry in sorted(matches.items()):
             print(json.dumps({"name": name, **entry}, ensure_ascii=False))
         print(f"# {len(matches)} match(es) for {args.name!r}", file=sys.stderr)
+        if stats_by_name is None:
+            print(
+                "note: no card_stats.json found; cost/power unavailable",
+                file=sys.stderr,
+            )
         return 0
 
     if args.out:
@@ -214,8 +278,14 @@ def main(argv: Optional[list[str]] = None) -> int:
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
     ordered = {name: lookup[name] for name in sorted(lookup)}
+    output = {
+        "stats_source": stats_source,
+        "stats_fetched": stats_fetched,
+        "stats_matched": matched,
+        **ordered,
+    }
     with out_path.open("w", encoding="utf-8", newline="\n") as f:
-        json.dump(ordered, f, indent=2, ensure_ascii=False)
+        json.dump(output, f, indent=2, ensure_ascii=False)
         f.write("\n")
     print(f"wrote {len(ordered)} cards to {out_path}", file=sys.stderr)
     return 0

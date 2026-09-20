@@ -1,0 +1,2772 @@
+{
+  "source": "https://marvelsnapzone.com/getinfo/?searchtype=cards&searchcardstype=true",
+  "fetched": "2026-09-19",
+  "card_count": 553,
+  "cards": [
+    {
+      "name": "Abomination",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Absorbing Man",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Adam Warlock",
+      "cost": 2,
+      "power": 0
+    },
+    {
+      "name": "Adamantium Infusion",
+      "cost": 4,
+      "power": 0
+    },
+    {
+      "name": "Aero",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Agamotto",
+      "cost": 5,
+      "power": 10
+    },
+    {
+      "name": "Agatha Harkness",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "Agent 13",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Agent Coulson",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Agent Venom",
+      "cost": 2,
+      "power": 5
+    },
+    {
+      "name": "Agony",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Agony - Spider-Verse",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Air-Walker",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Ajax",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Alioth",
+      "cost": 6,
+      "power": 7
+    },
+    {
+      "name": "America Chavez",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Angel",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Angela",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Annihilus",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Annihilus Champion",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Ant Man",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Anti-Polar Magneto",
+      "cost": 6,
+      "power": 9
+    },
+    {
+      "name": "Anti-Venom",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Anti-Venom - Spider-Verse",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Apocalypse",
+      "cost": 6,
+      "power": 9
+    },
+    {
+      "name": "Araña",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Archangel Horseman of Death",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Ares",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Arishem",
+      "cost": 7,
+      "power": 7
+    },
+    {
+      "name": "Armor",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Arnim Zola",
+      "cost": 6,
+      "power": 0
+    },
+    {
+      "name": "Askani'son",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Astral Projection",
+      "cost": 3,
+      "power": 0
+    },
+    {
+      "name": "Attuma",
+      "cost": 4,
+      "power": 10
+    },
+    {
+      "name": "Aunt May",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Aurora",
+      "cost": 6,
+      "power": 5
+    },
+    {
+      "name": "Awesome Andy",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Baron Mordo",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Baron Zemo",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Bast",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Bastion",
+      "cost": 4,
+      "power": 3
+    },
+    {
+      "name": "Batroc the Leaper",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Beast",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Beta Ray Bill",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Bishop",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Black Bolt",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Black Cat",
+      "cost": 1,
+      "power": 4
+    },
+    {
+      "name": "Black Knight",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Black Panther",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Black Panther Champion",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Black Swan",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Black Widow",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Blade",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Blink",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Blob",
+      "cost": 6,
+      "power": 0
+    },
+    {
+      "name": "Blue Marvel",
+      "cost": 5,
+      "power": 3
+    },
+    {
+      "name": "Boomerang",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Brood",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Bruce Banner",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Bucky Barnes",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Bullseye",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Cable",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Caiera",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Caliban Horseman of Pestilence",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Cannonball",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Captain America",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Captain America Champion",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Captain Carter",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Captain Marvel",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "CaptainAmericaAvengers",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Carnage",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Carnage Champion",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Cassandra Nova",
+      "cost": 3,
+      "power": 0
+    },
+    {
+      "name": "Cerebro",
+      "cost": 3,
+      "power": 0
+    },
+    {
+      "name": "Chamber",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Chameleon",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Clea",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Cloak",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Cobra",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Colleen Wing",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Colonel America",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Colossus",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Copycat",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Corvus Glaive",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Cosmic Ghost Rider",
+      "cost": 5,
+      "power": 6
+    },
+    {
+      "name": "Cosmo",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Crossbones",
+      "cost": 4,
+      "power": 10
+    },
+    {
+      "name": "Crystal",
+      "cost": 3,
+      "power": 6
+    },
+    {
+      "name": "Cull Obsidian",
+      "cost": 4,
+      "power": 10
+    },
+    {
+      "name": "Cyclops",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Cyclops - X-Men",
+      "cost": 3,
+      "power": 1
+    },
+    {
+      "name": "Dagger",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Daken",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Danger",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Daredevil",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Darkhawk",
+      "cost": 5,
+      "power": 3
+    },
+    {
+      "name": "Dazzler",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Deadpool",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Deafening Chord",
+      "cost": 1,
+      "power": 0
+    },
+    {
+      "name": "Death",
+      "cost": 8,
+      "power": 12
+    },
+    {
+      "name": "Death Fractured Frontier",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Deathlok",
+      "cost": 3,
+      "power": 6
+    },
+    {
+      "name": "Debrii",
+      "cost": 3,
+      "power": 7
+    },
+    {
+      "name": "Destroyer",
+      "cost": 6,
+      "power": 18
+    },
+    {
+      "name": "Devil Dinosaur",
+      "cost": 5,
+      "power": 4
+    },
+    {
+      "name": "Diamondback",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Doctor Doom",
+      "cost": 6,
+      "power": 5
+    },
+    {
+      "name": "Doctor Doom 2099",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Doctor Doom Champion",
+      "cost": 6,
+      "power": 5
+    },
+    {
+      "name": "Doctor Octopus",
+      "cost": 4,
+      "power": 8
+    },
+    {
+      "name": "Doctor Octopus Fractured Frontier",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Doctor Strange",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "DoctorStrange - Avengers",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Domino",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Dormammu",
+      "cost": 7,
+      "power": 13
+    },
+    {
+      "name": "Dracula",
+      "cost": 4,
+      "power": 1
+    },
+    {
+      "name": "Dragon Lord",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Dragon of the Moon",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Drax",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Drax - Guardians of the Galaxy",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Drax, Avatar Of Life",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Ebony Maw",
+      "cost": 1,
+      "power": 7
+    },
+    {
+      "name": "Echo",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Electro",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Elektra",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Elixir",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Elsa Bloodstone",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Emperor Hulkling",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "En Sabah Nur",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Enchantress",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Esme Cuckoo",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Eson",
+      "cost": 6,
+      "power": 10
+    },
+    {
+      "name": "Ezekiel Sims",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Falcon",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Fan Fei",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Fantasticar",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Fantomex",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Fastball Special",
+      "cost": 2,
+      "power": 0
+    },
+    {
+      "name": "Fenris Wolf",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Fin Fang Foom",
+      "cost": 7,
+      "power": 14
+    },
+    {
+      "name": "Firehair",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Firelord",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Forge",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Frigga",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Galacta",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Galactus",
+      "cost": 6,
+      "power": 6
+    },
+    {
+      "name": "Galactus First Steps",
+      "cost": 6,
+      "power": 11
+    },
+    {
+      "name": "Gambit",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Gambit Horseman of Death",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Gamora",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Gamora - Guardians of the Galaxy",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Ghost",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Ghost - Thunderbolts",
+      "cost": 3,
+      "power": 6
+    },
+    {
+      "name": "Ghost Rider",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Ghost-Spider",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Ghost-Spider - Spider-Verse",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Ghost-Spider Champion",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Giganto",
+      "cost": 6,
+      "power": 16
+    },
+    {
+      "name": "Gilgamesh",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Gladiator",
+      "cost": 3,
+      "power": 8
+    },
+    {
+      "name": "Goliath",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Goose",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Gorgon",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Gorr the God Butcher",
+      "cost": 6,
+      "power": 1
+    },
+    {
+      "name": "Grand Master",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Green Goblin",
+      "cost": 3,
+      "power": -4
+    },
+    {
+      "name": "Groot",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Groot - Guardians of the Galaxy",
+      "cost": 4,
+      "power": 12
+    },
+    {
+      "name": "Gwenpool",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "H.E.R.B.I.E.",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "H.E.R.B.I.E. Champion",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Havok",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Hawkeye",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Hawkeye - Avengers",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Hawkeye Kate Bishop",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Hazmat",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Headpool",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Heimdall",
+      "cost": 6,
+      "power": 10
+    },
+    {
+      "name": "Hela",
+      "cost": 6,
+      "power": 6
+    },
+    {
+      "name": "Helicarrier",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "Hellcow",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Hellcow Fractured Frontier",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Hellion",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Hercules",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "High Evolutionary",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Hit-Monkey",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Hobgoblin",
+      "cost": 5,
+      "power": -8
+    },
+    {
+      "name": "Hope Summers",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Howard the Duck",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Hulk",
+      "cost": 6,
+      "power": 14
+    },
+    {
+      "name": "Hulk - Avengers",
+      "cost": 6,
+      "power": 11
+    },
+    {
+      "name": "Hulk Champion",
+      "cost": 6,
+      "power": 14
+    },
+    {
+      "name": "Hulkbuster",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Human Torch",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Human Torch First Steps",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Human Torch First Steps Champion",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Hydra Bob",
+      "cost": 1,
+      "power": 4
+    },
+    {
+      "name": "Hydra Stomper",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Hydro-Man",
+      "cost": 5,
+      "power": 10
+    },
+    {
+      "name": "Iceman",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Ikari",
+      "cost": 4,
+      "power": 12
+    },
+    {
+      "name": "Infinity Ultron",
+      "cost": 5,
+      "power": 6
+    },
+    {
+      "name": "Invisible Woman",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Invisible Woman Champion",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Invisible Woman First Steps",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Iron Fist",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Iron Lad",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Iron Man",
+      "cost": 5,
+      "power": 0
+    },
+    {
+      "name": "Iron Man Champion",
+      "cost": 5,
+      "power": 0
+    },
+    {
+      "name": "Iron Patriot",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Ironheart",
+      "cost": 3,
+      "power": 0
+    },
+    {
+      "name": "Isca the Unbeaten",
+      "cost": 4,
+      "power": 2
+    },
+    {
+      "name": "J. Jonah Jameson",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Jack Flag",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Jane Foster Fractured Frontier",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Jane Foster Mighty Thor",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Jean Grey",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Jean Grey - X-Men",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Jeff the Baby Dolphin!?",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Jeff the Baby Land Shark",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Jennifer Kale",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Jessica Jones",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Jim Hammond Human Torch",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Joaquin Torres Falcon II",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Jocasta",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Jubilee",
+      "cost": 4,
+      "power": 1
+    },
+    {
+      "name": "Jubilee - X-Men",
+      "cost": 4,
+      "power": 1
+    },
+    {
+      "name": "Jubilee Silver Surfer",
+      "cost": 4,
+      "power": 3
+    },
+    {
+      "name": "Juggernaut",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Juggernaut Horseman of War",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Ka-Zar",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Kahhori",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Kang",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Karen Page",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Khonshu",
+      "cost": 6,
+      "power": 5
+    },
+    {
+      "name": "Kid Omega",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Killmonger",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "King Eitri",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Kingpin",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Kitty Pryde",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Klaw",
+      "cost": 4,
+      "power": 2
+    },
+    {
+      "name": "Kluh",
+      "cost": 5,
+      "power": 10
+    },
+    {
+      "name": "Knull",
+      "cost": 6,
+      "power": 0
+    },
+    {
+      "name": "Korg",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Kraglin",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Kraven",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Lady Bullseye",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Lady Deathstrike",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Lady Deathstrike - Brotherhood of Mutants",
+      "cost": 4,
+      "power": 4
+    },
+    {
+      "name": "Lady Sif",
+      "cost": 3,
+      "power": 6
+    },
+    {
+      "name": "Lasher",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Laufey",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Leader",
+      "cost": 6,
+      "power": 5
+    },
+    {
+      "name": "Leech",
+      "cost": 4,
+      "power": 4
+    },
+    {
+      "name": "Legion",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Lin Lie Iron Fist",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Lizard",
+      "cost": 2,
+      "power": 6
+    },
+    {
+      "name": "Lockheed",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Lockjaw",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Loki",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Luke Cage",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Luna Snow",
+      "cost": 3,
+      "power": 6
+    },
+    {
+      "name": "M'Baku",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "M.O.D.O.K.",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Mad Thinker",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Madame Web",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Magik",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Magneto",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "Magneto - Brotherhood of Mutants",
+      "cost": 5,
+      "power": 10
+    },
+    {
+      "name": "Magneto Champion",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "Magus",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Majestic Wingbeat",
+      "cost": 1,
+      "power": 0
+    },
+    {
+      "name": "Major Victory",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Makkari",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Malekith",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Man-Spider",
+      "cost": 5,
+      "power": 1
+    },
+    {
+      "name": "Man-Thing",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Mantis",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Mantis - Guardians of the Galaxy",
+      "cost": 0,
+      "power": 1
+    },
+    {
+      "name": "Maria Hill",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Marrow",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Martyr",
+      "cost": 1,
+      "power": 5
+    },
+    {
+      "name": "Marvel Boy",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Mary Jane",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Master Mold",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Maverick",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Maximus",
+      "cost": 2,
+      "power": 6
+    },
+    {
+      "name": "Medusa",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Mephisto",
+      "cost": 6,
+      "power": 0
+    },
+    {
+      "name": "Mercury",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Merlin",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Miek",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Miles Morales Spider-Man",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Mirage",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Misery",
+      "cost": 4,
+      "power": 8
+    },
+    {
+      "name": "Mister Fantastic",
+      "cost": 3,
+      "power": 1
+    },
+    {
+      "name": "Mister Fantastic Champion",
+      "cost": 3,
+      "power": 1
+    },
+    {
+      "name": "Mister Fantastic First Steps",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Mister Negative",
+      "cost": 4,
+      "power": -1
+    },
+    {
+      "name": "Mister Sinister",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Misty Knight",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Mobius M. Mobius",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Mockingbird",
+      "cost": 6,
+      "power": 9
+    },
+    {
+      "name": "Moira X",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Mojo",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Mole Man",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Mole Man Champion",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Monstro",
+      "cost": 8,
+      "power": 8
+    },
+    {
+      "name": "Moon Girl",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Moon Knight",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Moondragon",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Moonstone",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Morbius",
+      "cost": 2,
+      "power": 0
+    },
+    {
+      "name": "Morgan le Fay",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Morph",
+      "cost": 3,
+      "power": 0
+    },
+    {
+      "name": "Mother Askani",
+      "cost": 4,
+      "power": 4
+    },
+    {
+      "name": "Ms. Marvel",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Multiple Man",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Muse",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Mysterio",
+      "cost": 2,
+      "power": 5
+    },
+    {
+      "name": "Mystique",
+      "cost": 3,
+      "power": 1
+    },
+    {
+      "name": "Mystique - Brotherhood of Mutants",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Nakia",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Namor",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Namora",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Namorita",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Nebula",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Negasonic Teenage Warhead",
+      "cost": 4,
+      "power": 4
+    },
+    {
+      "name": "Nicholas Scratch",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Nick Fury",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Nico Minoru",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Nightcrawler",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Nightcrawler - X-Men",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Nightmare",
+      "cost": 3,
+      "power": 1
+    },
+    {
+      "name": "Nimrod",
+      "cost": 5,
+      "power": 6
+    },
+    {
+      "name": "Nocturne",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Nova",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Nova Frankie Raye",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Odin",
+      "cost": 6,
+      "power": 10
+    },
+    {
+      "name": "Okoye",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Omega Red",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Omega Sentinel",
+      "cost": 4,
+      "power": 3
+    },
+    {
+      "name": "Onslaught",
+      "cost": 6,
+      "power": 8
+    },
+    {
+      "name": "Orka",
+      "cost": 6,
+      "power": 11
+    },
+    {
+      "name": "Ozymandias",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Patriot",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Peni Parker",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Phastos",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Phoenix Force",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Pixie",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Polaris",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Polaris Horseman of Pestilence",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Prodigy",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Professor X",
+      "cost": 5,
+      "power": 2
+    },
+    {
+      "name": "Professor X - X-Men",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Prowler",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Proxima Midnight",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Psylocke",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Psylocke Fractured Frontier",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Punisher",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Punisher War Machine",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Quake",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Quicksand",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Quicksilver",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Quinjet",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Rama-Tut",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Random",
+      "cost": 4,
+      "power": 0
+    },
+    {
+      "name": "Ravonna Renslayer",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Red Guardian",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Red Hulk",
+      "cost": 6,
+      "power": 10
+    },
+    {
+      "name": "Red Hulk Fractured Frontier",
+      "cost": 3,
+      "power": 8
+    },
+    {
+      "name": "Red Onslaught",
+      "cost": 4,
+      "power": 4
+    },
+    {
+      "name": "Red Shift",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Red Skull",
+      "cost": 5,
+      "power": 14
+    },
+    {
+      "name": "Red Wolf Fractured Frontier",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Redwing",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Rescue",
+      "cost": 4,
+      "power": 4
+    },
+    {
+      "name": "Rhino",
+      "cost": 2,
+      "power": 5
+    },
+    {
+      "name": "Rocket Raccoon",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Rocket Raccoon - Guardians of the Galaxy",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Rocket Raccoon Champion",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Rocket and Groot",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Rockslide",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Rogue",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Rogue Scion of Division",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Ronan the Accuser",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Sabretooth",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Sage",
+      "cost": 3,
+      "power": 0
+    },
+    {
+      "name": "Sam Wilson Captain America",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Sandman",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Sandstorm",
+      "cost": 2,
+      "power": 0
+    },
+    {
+      "name": "Sasquatch",
+      "cost": 6,
+      "power": 11
+    },
+    {
+      "name": "Sauron",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Scarlet Spider",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Scarlet Spider - Spider-Verse",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Scarlet Witch",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Scarlet Witch - Brotherhood of Mutants",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Scorn",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Scorpion",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Scorpion Brand New Day",
+      "cost": 6,
+      "power": 6
+    },
+    {
+      "name": "Scream",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Sebastian Shaw",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Selene",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Selene - Brotherhood of Mutants",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Selene Horseman of Famine",
+      "cost": 4,
+      "power": 4
+    },
+    {
+      "name": "Sentinel",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Sentinel Champion",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Sentry",
+      "cost": 4,
+      "power": 9
+    },
+    {
+      "name": "Sentry - Thunderbolts",
+      "cost": 4,
+      "power": 9
+    },
+    {
+      "name": "Sera",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "Sersi",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Shadow King",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Shadowlands Daredevil",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Shang-Chi",
+      "cost": 4,
+      "power": 3
+    },
+    {
+      "name": "Shang-Chi, Master of the Rings",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Shanna",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "She-Hulk",
+      "cost": 6,
+      "power": 10
+    },
+    {
+      "name": "Shocker",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Shou-Lao the Undying",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Shuri",
+      "cost": 4,
+      "power": 3
+    },
+    {
+      "name": "Silk",
+      "cost": 2,
+      "power": 5
+    },
+    {
+      "name": "Silver Sable",
+      "cost": 1,
+      "power": 0
+    },
+    {
+      "name": "Silver Samurai",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Silver Surfer",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Silver Surfer First Steps",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Sinister Six",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "Skaar",
+      "cost": 7,
+      "power": 12
+    },
+    {
+      "name": "Snowguard",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Sparky",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Spectrum",
+      "cost": 6,
+      "power": 7
+    },
+    {
+      "name": "Speed",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Spider Sense",
+      "cost": 5,
+      "power": 0
+    },
+    {
+      "name": "Spider-Ham",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Spider-Man",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Spider-Man 2099",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Spider-Man 2099 - Spider-Verse",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Spider-Man Brand New Day",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Spider-Man Noir",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Spider-Punk",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Spider-Woman",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Squirrel Girl",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Star-Lord",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Star-Lord, Master of the Sun",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Starbrand",
+      "cost": 3,
+      "power": 10
+    },
+    {
+      "name": "Stardust",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Starhawk",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Starlord - Guardians of the Galaxy",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Stature",
+      "cost": 5,
+      "power": 7
+    },
+    {
+      "name": "Stegron",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Stick",
+      "cost": 4,
+      "power": 3
+    },
+    {
+      "name": "Storm",
+      "cost": 3,
+      "power": 1
+    },
+    {
+      "name": "Storm Horseman of Famine",
+      "cost": 3,
+      "power": 1
+    },
+    {
+      "name": "Strange Supreme",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Strong Guy",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Stryfe",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Sub-Mariner",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Sunspot",
+      "cost": 1,
+      "power": 0
+    },
+    {
+      "name": "Super-Adaptoid",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Super-Skrull",
+      "cost": 4,
+      "power": 2
+    },
+    {
+      "name": "Supergiant",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Superior Iron Man",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Superior Spider-Man",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Surge",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Surtur",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Swarm",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Sword Master",
+      "cost": 3,
+      "power": 7
+    },
+    {
+      "name": "Symbiote Spider-Man",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "Symbiote Spider-Man - Spider-Verse",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Tarantula",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Taskmaster",
+      "cost": 6,
+      "power": 0
+    },
+    {
+      "name": "Taskmaster - Thunderbolts",
+      "cost": 4,
+      "power": -1
+    },
+    {
+      "name": "Techno-Organic Virus",
+      "cost": 2,
+      "power": 0
+    },
+    {
+      "name": "Terrax the Tamer",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Thaddeus Ross",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Thanos",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "Thanos Champion",
+      "cost": 6,
+      "power": 12
+    },
+    {
+      "name": "Thanos Fractured Frontier",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "The Ancient One",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "The Collector",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "The Fallen One",
+      "cost": 5,
+      "power": 5
+    },
+    {
+      "name": "The First Ghost Rider",
+      "cost": 2,
+      "power": 7
+    },
+    {
+      "name": "The Hood",
+      "cost": 1,
+      "power": -3
+    },
+    {
+      "name": "The Hunger",
+      "cost": 1,
+      "power": 0
+    },
+    {
+      "name": "The Infinaut",
+      "cost": 6,
+      "power": 20
+    },
+    {
+      "name": "The Living Tribunal",
+      "cost": 6,
+      "power": 9
+    },
+    {
+      "name": "The Thing",
+      "cost": 4,
+      "power": 7
+    },
+    {
+      "name": "The Thing First Steps",
+      "cost": 5,
+      "power": 6
+    },
+    {
+      "name": "The Thing First Steps Champion",
+      "cost": 5,
+      "power": 6
+    },
+    {
+      "name": "Thena",
+      "cost": 2,
+      "power": 0
+    },
+    {
+      "name": "Thor",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Thor - Avengers",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Thor Champion",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "Titania",
+      "cost": 1,
+      "power": 5
+    },
+    {
+      "name": "Toad",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Tombstone",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Topaz",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Toxie Doxie",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Toxie Doxie - Thunderbolts",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Toxin",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Triton",
+      "cost": 3,
+      "power": 6
+    },
+    {
+      "name": "Typhoid Mary",
+      "cost": 4,
+      "power": 10
+    },
+    {
+      "name": "U.S. Agent",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Uatu the Watcher",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Ultron",
+      "cost": 6,
+      "power": 8
+    },
+    {
+      "name": "Uncle Ben",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Valentina",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Valentina - Thunderbolts",
+      "cost": 1,
+      "power": -1
+    },
+    {
+      "name": "Valkyrie",
+      "cost": 5,
+      "power": 3
+    },
+    {
+      "name": "Venom",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "Venus",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Victoria Hand",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Viper",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Vision",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Vision - Avengers",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Viv Vision",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Vulture",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Wade Wilson",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "War Machine",
+      "cost": 5,
+      "power": 9
+    },
+    {
+      "name": "Warlock",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Warpath",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Wasp",
+      "cost": 0,
+      "power": 1
+    },
+    {
+      "name": "Wave",
+      "cost": 3,
+      "power": 6
+    },
+    {
+      "name": "Weapon H",
+      "cost": 7,
+      "power": 14
+    },
+    {
+      "name": "Weapon X Wolverine",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Weapon X Wolverine Champion",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Web Sling",
+      "cost": 1,
+      "power": 0
+    },
+    {
+      "name": "Werewolf By Night",
+      "cost": 3,
+      "power": 3
+    },
+    {
+      "name": "White Queen",
+      "cost": 3,
+      "power": 5
+    },
+    {
+      "name": "White Queen - Brotherhood of Mutants",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "White Tiger",
+      "cost": 5,
+      "power": 1
+    },
+    {
+      "name": "White Widow",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Wiccan",
+      "cost": 4,
+      "power": 6
+    },
+    {
+      "name": "Wild Child",
+      "cost": 2,
+      "power": 1
+    },
+    {
+      "name": "Wilson Fisk",
+      "cost": 5,
+      "power": 8
+    },
+    {
+      "name": "Winter Soldier - Thunderbolts",
+      "cost": 2,
+      "power": 7
+    },
+    {
+      "name": "Wolfsbane",
+      "cost": 3,
+      "power": 2
+    },
+    {
+      "name": "Wolverine",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Wolverine - X-Men",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Wolverine Horseman of War",
+      "cost": 4,
+      "power": 3
+    },
+    {
+      "name": "Wong",
+      "cost": 4,
+      "power": 2
+    },
+    {
+      "name": "X-23",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Xorn",
+      "cost": 2,
+      "power": 3
+    },
+    {
+      "name": "Yellowjacket",
+      "cost": 0,
+      "power": 2
+    },
+    {
+      "name": "Yondu",
+      "cost": 1,
+      "power": 2
+    },
+    {
+      "name": "Zabu",
+      "cost": 1,
+      "power": 1
+    },
+    {
+      "name": "Zero",
+      "cost": 1,
+      "power": 3
+    },
+    {
+      "name": "Zombie Captain Marvel",
+      "cost": 4,
+      "power": 5
+    },
+    {
+      "name": "Zombie Galacti",
+      "cost": 7,
+      "power": 5
+    },
+    {
+      "name": "Zombie Giant-Man",
+      "cost": 5,
+      "power": 4
+    },
+    {
+      "name": "Zombie Mister Fantastic",
+      "cost": 2,
+      "power": 2
+    },
+    {
+      "name": "Zombie Power Man",
+      "cost": 2,
+      "power": 4
+    },
+    {
+      "name": "Zombie Scarlet Witch",
+      "cost": 3,
+      "power": 4
+    },
+    {
+      "name": "Zombie Sentry",
+      "cost": 2,
+      "power": 1
+    }
+  ]
+}

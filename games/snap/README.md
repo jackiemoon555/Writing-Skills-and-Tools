@@ -147,3 +147,14 @@ No schedule. When he says **"snap report"** (usually right after patch notes), t
 5. writes `reports/YYYY-MM-DD.md` (verdict first line, action last), updates
    `../marvel-snap.md`, commits only `games/`.
 Do NOT re-enable the schedule or suggest one unless he asks.
+- **COST + POWER are now local too (his idea, 2026-09-19): "if the numbers don't change until
+  patch notes, fill the gaps once so there's no need to look every time."** `card_stats.json`
+  (553 released cards, one bulk request to Marvel Snap Zone's card endpoint; Sonnet-gathered,
+  nothing from memory) is merged into `card_lookup.py` by exact normalized name. Passed the
+  freshness test (Blink 5/7 after the 09-10 nerf) and a nine-card spot check.
+  **REFRESH RULE: numbers change ONLY on patch notes and on the smaller balance updates — so
+  re-gather `card_stats.json` whenever he calls a "snap report" (that run already reads both),
+  and never otherwise.** A broken or missing stats file never breaks text lookup.
+- So `py -X utf8 games/snap/tools/card_lookup.py --name "Blink"` now answers the WHOLE question
+  (name · cost · power · exact text) from his PC with no web fetch. Known leftovers: some texts
+  keep a `{card.…}` placeholder where a number goes.
