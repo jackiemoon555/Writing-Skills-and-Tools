@@ -41,7 +41,7 @@ collection file is, so a stale one is obvious.
 - [x] 3. (2026-09-19; reader verified; ALEC CONFIRMED: the Zombie deck list read from the file is his, and he does NOT own Ultron — matches the file. In-app card counter not located; spot-check accepted instead) Sonnet subagent writes `tools/read_collection.py` (code only); main session runs it;
         card count checked against the number the game shows
 - [~] 4. (2026-09-19; report written: reports/2026-09-19.md; his used/noise feedback pending) First report built by hand in-session; he says what was useful and what was noise
-- [ ] 5. Scheduled task `snap-weekly-report` created and test-run once
+- [~] 5. (2026-09-19) Scheduled task `snap-weekly-report` CREATED — Saturdays ~3pm (moved from Wednesday at his request: heavy non-writing work belongs at the end of his usage week; patch-day freshness traded away, on-demand covers it). Test run still owed
 - [ ] 6. Cross-vendor review brief for the script offered (rule 8; not a gate)
 
 ## Step 1 notes — cross-platform carry-over (checked 2026-09-19; sources are older articles, verify in-game)
@@ -104,3 +104,12 @@ card-text lookup would need a small careful parser (NO download required). Also 
 card roster. NOT BUILT. If wanted, it is a Saturday job for a Sonnet/Haiku subagent from a spec
 (code only). Until then, card text comes from the sites. Earlier line saying "local files
 contain NO card text" was true only of the AppData state folder.
+
+## Tools (both Sonnet-written from specs, code only; main session reviewed and ran them)
+- `tools/read_collection.py` — his owned cards + saved decks → `collection.json` / `collection.md`.
+- `tools/match_decks.py DECKS.json` — ranked decks vs. his collection → Markdown: table, buildable,
+  closest, most-common unowned cards, possible spelling mismatches. Verified 2026-09-19 against a
+  hand-match of 15 decks: identical results; byte-identical on re-run; exit 2 on a missing file.
+- **Always run them as `py -X utf8 …`** on this PC — without the flag, dashes and dots in the
+  output come out garbled.
+- Weekly deck inputs are kept as `reports/decks-YYYY-MM-DD.json`.
