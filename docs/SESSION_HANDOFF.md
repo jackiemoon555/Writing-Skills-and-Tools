@@ -27,6 +27,16 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **▶▶ NEXT SESSION — START HERE (PC close, 2026-09-19 late night; supersedes the afternoon
 > note just below where they differ). He asked for this handoff because the context was large —
 > START A FRESH SESSION.** PULL FIRST. The PC session is primary; revisions are open mid-draft.
+> **09-21 LATE MORNING — queued for the next pull (not yet counted):** Ch3 line tweak, John's
+> "Think big" speech → "No, Frank. We need people out of the forest. Keep them scared, keep them
+> away. And don't forget, you still owe me for Nevada, Frank." (in the Doc per him; ~+10w; the
+> closing *Frank* may be italicized to plant that it isn't his real name — room advised italics
+> not bold, ONCE; rhymes with Joseph's "*Director*"). "Nevada" is his, unexplained on purpose
+> ("it'll make sense later") — chat only, never probe. CLAIMED: the ledger half of the line =
+> contempt; John and Frank are COWORKERS NOT FRIENDS. **EXPECT Ch1 + Ch2 REVISIONS THIS WEEK**
+> (log as Pass 3b / 4d). His reason for the order so far: he revised the prologue, Ch3 and Ch4
+> first because those "hooked me most as a fan instead of creator."
+>
 > **09-21 MORNING (PC, same long session — he "forgot to switch"):** Ch3 REVISED → **Pass 5b**
 > (Ch3.2, 1,126w, +480). Presser rebuilt around the **"Where Is Jeff?" family** (Frank's hand
 > against the camera was blocking them out — guilt shown, never named); back room re-cut to ONE
