@@ -648,3 +648,17 @@ only. Do not report % complete or a finish-length again.
   (PC's four 09-18 additions folded in). **DAY 09-19 = 253 + 167 = 420. WEEK 1 ≈ 5,336 + 167 =
   ~5,503 / 5,000** (hit 09-18; Sun 09-20 left). Live total (Doc-verified) = prologue 1,340 + Ch1
   697 + Ch2 ~1,017 + Ch3 646 + Ch4 1,803 = **~5,503**. Prologue + Ch1–3 unchanged at this pull.
+- **WEEK 1 CLOSED (09-14 → 09-20): ~5,503 / 5,000 ✅** — hit early on 09-18. **WEEK 2 (Mon 09-21 →
+  Sun 09-27): 0 / 5,000 at open.**
+- **2026-09-21 — CH3.2 (Frank REVISED) INTAKEN (Doc pull via Sonnet intake subagent, PC session;
+  1,126w prose; was 646 → +480 net).** Written at work in Reedsy, revised in chat, moved to the
+  Doc. Presser rebuilt (the "Where Is Jeff?" family, Anderson, Suzie, the college woman's trap →
+  "listen here you fu-"); back room re-cut to one noun — **"the artifact"** — plus "You've been
+  given the green light." Snapshot `manuscripts/task-force-cryptid_ch3.2-frank_docpull_2026-09-21.txt`.
+  MD5 7311762c5a2082edcbab4feb483da4e8. Checker silent (49 hits, filed). Room **Pass 5b** logged.
+  Same pull: prologue 1,340 → 1,341 (snapshot `…_prologue-v4_docpull_2026-09-21.txt`, MD5
+  b36fcce47271b44840b35bc6a14e7923) and Ch2 ~1,017 → 1,025 (snapshot `…_ch2_docpull_2026-09-21.txt`,
+  MD5 edc6786c0c326fed56c0da33c59e53fa; this also replaces the "~" on Ch2 with an exact count) —
+  small edits of unknown date, counted here. Ch1 697 and Ch4 1,803 unchanged.
+  **DAY 09-21 = +480 +1 +8 = 489. WEEK 2 = 489 / 5,000.** Live total (Doc-verified) = prologue
+  1,341 + Ch1 697 + Ch2 1,025 + Ch3 1,126 + Ch4 1,803 = **5,992**.

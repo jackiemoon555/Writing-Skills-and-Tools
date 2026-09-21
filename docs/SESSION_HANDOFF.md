@@ -27,6 +27,26 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **▶▶ NEXT SESSION — START HERE (PC close, 2026-09-19 late night; supersedes the afternoon
 > note just below where they differ). He asked for this handoff because the context was large —
 > START A FRESH SESSION.** PULL FIRST. The PC session is primary; revisions are open mid-draft.
+> **09-21 MORNING (PC, same long session — he "forgot to switch"):** Ch3 REVISED → **Pass 5b**
+> (Ch3.2, 1,126w, +480). Presser rebuilt around the **"Where Is Jeff?" family** (Frank's hand
+> against the camera was blocking them out — guilt shown, never named); back room re-cut to ONE
+> reveal, **"the artifact"**, plus "You've been given the green light." A chat-only over-explained
+> draft (buyers / package / customers / "never again") was cut by him in one round and NOT logged.
+> **INTENT (his):** John runs a fear campaign behind a calm veil, letting rumors empty the forest;
+> FRANK tore the veil by admitting the law stops at the tree line. One "keep them calm" is still
+> on the page four lines above "Keep them scared" — his call. His own distinction, worth keeping:
+> **"does it work? is it good? sometimes they aren't both"** — room: works in full; good in the
+> presser; the back room is two men informing each other. Lever taught once (via Martin, who
+> learned it writing television): in a talking scene a fact earns its place when someone says it
+> to WIN — study rec given: Ned and Cersei in the godswood (AGoT). He noted Sanderson explains to
+> the reader (why book 1 dragged for him) and Martin explains through conflict.
+> **COUNTS: WEEK 1 closed ~5,503 ✅ · DAY 09-21 = 489 · WEEK 2 = 489 / 5,000.** Ch4's thump /
+> smite / typo fixes are NOT in the Doc yet (Pass 6b pending). He says "chapter 6 later today" —
+> the Doc has no Ch5; likely Reedsy numbering (no prologue there) — confirm on arrival; it's
+> **Pass 7** either way. **Intake is now DELEGATED:** a Sonnet subagent pulls the Doc, snapshots
+> changed sections verbatim, counts, runs the checker, and reports; the main session only reads
+> and writes the pass. **A FRESH SESSION IS OVERDUE — this one is very large.**
+>
 > **WRITING STATE (unchanged since the afternoon pulls):** master Doc "Tbd D1 Take 2" — prologue
 > v3 1,340 · Ch1 697 · Ch2 ~1,017 · Ch3 646 · Ch4.1 1,803. Passes 1–6 + 2a + 6a logged.
 > **WEEK 1 ≈ 5,503 / 5,000 — closed early. WEEK 2 opens MON 09-21 at 0.** Report day + week only.

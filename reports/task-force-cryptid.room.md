@@ -1318,3 +1318,110 @@ director didn't look him in the eye."
 
 **ONE ASK (editorial):** what hollows Rick at "The game of shadows, my boy" — is it "my boy," or
 did cutting "hunt monsters" take the trigger with it?
+
+### Pass 5b — Ch3.2, Frank REVISED: the presser rebuilt, the back room re-cut around "the artifact" (2026-09-21 Doc pull via Sonnet intake, PC session; 1,126w, +480 vs 646; snapshot task-force-cryptid_ch3.2-frank_docpull_2026-09-21.txt; MD5 7311762c5a2082edcbab4feb483da4e8)
+*Written at work in Reedsy (his work pad, a 1:1 of the Doc minus the prologue), pasted to chat
+first ("look at it and if it lands I'll bring it over"), revised twice in chat, then moved to
+the Doc. Revisions are open mid-draft (09-19 standing order). Intake was DELEGATED to a Sonnet
+subagent (mechanical copy/count only); the read is the main session's. Checker filed silently
+(49 hits). An intermediate chat-only version (a ~450-word back room with buyers / "our package"
+/ customers / "I'm not going back… Never again" / a vacation-joke closer) was NOT logged at his
+instruction — this pass records the version he chose. PC pulled first; no satellite entry.*
+
+**WHAT CHANGED vs. Ch3.1:** the SHERIFF now opens ("no immediate danger" → "three isolated
+attacks… no survivors… 6 bodies"); **Mr. Anderson** (livestock killed for months; dismissed);
+**Arch and SUZIE** ("No, Suzie. We're talking about dead bodies, I will not be left in the
+dark."); a 9 o'clock curfew; Frank floats "the off chance of a serial killer"; **a woman and two
+kids in forest-green shirts, red letters: "Where Is Jeff?"** — seen only when Frank lowers the
+hand he raised against the camera ("covering the back of the room" → "Frank could see what he
+had blocked out now"); Long: "Did you not call them when a ranger went missing?" (pointing at
+the family) → Frank pulls at his collar; the college woman returns WITH a function ("who is
+protecting the city?" → "So if I wander too close to woods and disappear, I am to become
+lifeless body number 7? Or forgotten about like our dear forest ranger?") → **"Uh, listen here
+you fu-."** → the sheriff cuts in. BACK ROOM: "You were supposed to keep the veil not cause
+civil fucking unrest"; Frank: "what's killing these people isn't normal"; the mayor / FBI within
+the week; "Think big. We need people out of the forest. Keep them scared, keep them away… This
+goddamn ranger is bringing too many eyes."; "you got the easy gig this time around"; **"You need
+to get that artifact before this shit falls out. You've been given the green light. Do what you
+have to do."**; closer restored: "I can't tolerate this fucking town anymore." + a poke in the
+chest. GONE from 3.1: "And what have you seen, Frank?" (protected by both sessions), "Load of
+horseshit. What do I pay you for then Frank?", "move the supply before the FBI arrives" (now
+"the artifact"), "I'm trying to not vilify us," "Frank didn't need to see the room," both
+"trying to hide" captions.
+
+**AUTHOR'S INTENT (chat, 09-21 — recorded because it resolves a room finding):** John is NOT
+contradicting himself: he WANTS the town scared of the forest and is "letting the rumors do the
+hard part" while keeping a calm face — a fear campaign with a veil over it. What FRANK broke was
+the veil: by saying "We don't have jurisdiction" he told the town the law stops at the tree
+line — no police help outside the city. Room's withdrawn finding: "John argues both calm and
+scared." Room's surviving note: a VERB was fighting the intent ("reassure" → he changed it to
+"keep the veil"). **One instance is still on the page:** "All you needed to do was keep them
+CALM until the feds get here," four lines above "Keep them scared." His to change or keep.
+Room's observation he agreed with: two fears are in that room and John wants only one (fear of
+the woods: yes; anger at the sheriff's office / cameras / questions about the ranger: no) — and
+Frank's slip invites exactly the people on the page (the Jeff family, an emboldened Long,
+Anderson) to go into the forest themselves, the opposite of John's goal.
+
+**HARDEST FIRST — (1) The chapter WORKS in full and is GOOD in its front half only; the back
+room is two men telling each other things.** (His own distinction: "does this work? is it good?
+sometimes they aren't both.") The presser has three beats a reader couldn't predict (the hand
+over the eyes that turns out to be guilt; "No, Suzie"; Long pointing at the family) plus Frank's
+temper finally breaking on stage. The back room has one: the passive "You've been given the
+green light" — an organization above them in one sentence. "No, Frank. Think big. We need people
+out of the forest…" is John TEACHING; nobody in that exchange is trying to win anything. The
+lever, named in chat via Martin: in a talking scene a fact earns its place when someone says it
+to WIN, not to inform ("Aren't you the same guy who permits torture." / "Prove it." and "Did you
+want me to lie to them?" / "Yes." are his own proof he can do it). Not a reason to hold the
+chapter — a revision question.
+
+**(2) The reveal was over-spent, then pulled back — the right instinct, caught in one round.**
+The chat-only draft handed over five things (FBI, scare them out, buyers in two weeks, the
+package/artifact, "not going back"); he cut to ONE noun + a shadow ("artifact" + "green light").
+Same reflex as Ch4's second telling, at plot scale; same recovery. "you got the easy gig this
+time around" survives as the only hint they aren't what they seem — enough.
+
+**(3) CLARITY (scene-level, flagged under the exception):** Long's entrance lost its
+antecedent — `"Frank." A portly yelled tersely, "I think I speak for all of us."` — a noun is
+missing after "portly" and the reader doesn't learn it's Long for three more lines.
+
+**(4) SHOW-vs-TELL — crowd summaries crept back, but beside real faces this time:** "The room
+erupted in an outrage. Fingers shot accusations," "the wail of unease," "Each person immediately
+drawing conclusions with their neighbors," "One collective gasp," "emboldened by a chorus of
+cheers." Held; the named voices carry the room now (five faces: Anderson, Arch/Suzie, Long, the
+family, the college woman) — the satellite's "a town is three faces, not a noise" is answered.
+
+**(5) DIALOGUE, one line each:** the college woman's "I am to become lifeless body number 7?…
+our dear forest ranger" is arch for a heckle — characterization (she "didn't fit the bill for
+the middle of Montana") or the writer's diction; his call. "Frank contemplated for a moment,
+'Fine.' Frank rolled his eyes." — a tag, a word, a gesture doing one job.
+
+**SPINE / THEME PRESSURE-TEST:** the prologue's coda is PAID from the town's side — the two men
+who found the bloodied star stand in front of a family asking where Jeff is, and say nothing;
+the page never states it and doesn't need to. "Artifact" lands right after the reader has
+walked the Vatican's library of objects: the three pillars now share a noun. John's opening
+(calm words around six bodies) is the fear campaign SHOWN. The book's second disbeliever-with-a-
+motive (after Rick) now has a partner who is the more dangerous of the two: Frank hates the
+town; John is playing it.
+
+**AUDIT:** presser 774 · back room 352 (3.1: 425 / 221). Both grew; the presser grew more and
+earns it. The chapter's turn (artifact → green light → "Do what you have to do" → the poke) is
+no longer buried — he cut "I'll do what I can," which sat between his two strongest lines, on
+the room's note. Stop-dead ending restored; no caption after it.
+
+**WORKS — PROTECT (new in 3.2):**
+- The hand against the camera "covering the back of the room" → "Frank could see what he had
+  blocked out now" → the shirts: "Where Is Jeff?"
+- "No, Suzie. We're talking about dead bodies, I will not be left in the dark."
+- Anderson's livestock — the woods took animals first.
+- "Did you not call them when a ranger went missing?" + the collar.
+- "Uh, listen here you fu-."
+- "You were supposed to keep the veil"
+- "You've been given the green light. Do what you have to do."
+- "I can't tolerate this fucking town anymore." + the poke.
+- Survivors from 3.1: "Did you want me to lie to them?" / "Yes." · the water bottle.
+
+**ALSO AT THIS PULL (no pass):** prologue 1,340 → 1,341 (snapshot prologue-v4) and Ch2 ~1,017 →
+1,025 (snapshot ch2_docpull_2026-09-21) — tiny edits, not read. Ch1 and Ch4 unchanged — **the
+Ch4 thump / "smite" / "real boys" fixes are NOT in the Doc yet; Pass 6b still pending.** No
+Chapter 5 or 6 exists in the Doc; he said "chapter 6 later today" — probably Reedsy numbering
+(no prologue there); confirm which chapter it is when it arrives. Next new pages = **Pass 7**.
