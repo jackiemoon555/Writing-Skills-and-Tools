@@ -27,6 +27,17 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **▶▶ NEXT SESSION — START HERE (PC close, 2026-09-19 late night; supersedes the afternoon
 > note just below where they differ). He asked for this handoff because the context was large —
 > START A FRESH SESSION.** PULL FIRST. The PC session is primary; revisions are open mid-draft.
+> **09-21 CLOSE OF THIS SESSION:** the next new chapter is **CHAPTER 5** (he'd miscounted it as
+> 6) → **Pass 7**. New chapter FIRST, revisions after (his rule; the prologue/Ch4/Ch3 rewrites
+> all came after new work or after the week closed). **SIDE IDEA (tier 2, weekly challenge — his
+> to write, never ghost-written):** repurpose Ch3's BONES for this week's Reedsy prompt — shorten
+> the presser, drop the back room, end with a werewolf attack that kills one of the two men.
+> Room's cautions, given once: (1) a public story that says WEREWOLF and uses Frank / John / Lolo
+> spoils the novel's deliberately open creature and burns those names — a standalone can change
+> them; (2) check which Reedsy account/byline it goes under (the Jack Moon switch); (3) contest
+> terms/first-publication effects on novel material NOT checked — don't guess. Side words do not
+> count toward the novel's week unless he rules otherwise.
+>
 > **09-21 LATE MORNING — queued for the next pull (not yet counted):** Ch3 line tweak, John's
 > "Think big" speech → "No, Frank. We need people out of the forest. Keep them scared, keep them
 > away. And don't forget, you still owe me for Nevada, Frank." (in the Doc per him; ~+10w; the
