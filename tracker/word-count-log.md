@@ -662,3 +662,12 @@ only. Do not report % complete or a finish-length again.
   small edits of unknown date, counted here. Ch1 697 and Ch4 1,803 unchanged.
   **DAY 09-21 = +480 +1 +8 = 489. WEEK 2 = 489 / 5,000.** Live total (Doc-verified) = prologue
   1,341 + Ch1 697 + Ch2 1,025 + Ch3 1,126 + Ch4 1,803 = **5,992**.
+- **2026-09-21 — CH5 PARTIAL (James arrives at the sheriff's office) INTAKEN (chat paste, PC
+  session; 269w, first draft).** James pulls up to the sheriff's office, checks his weapon and
+  mirrors, calls a contact ("It's Johnson… I'll have a more precise date soon"), then meets
+  Jessica at the front desk and waits outside the sheriff's door. Author flags this WILL likely
+  change tomorrow — snapshot frozen as-is; later versions get their own snapshots + net deltas.
+  Snapshot `manuscripts/task-force-cryptid_ch5-partial-james-arrival_chatpaste_2026-09-21.txt`.
+  MD5 2ac19468e07a9d715fd7fd1897b08453. Checker: 15 hits (4 echo, 2 filter, 5 filler, 4 adverb —
+  filed, not acted on). **No room pass — held per author ("save the pass").**
+  **DAY 09-21 = 489 + 269 = 758. WEEK 2 = 489 + 269 = 758 / 5,000.**
