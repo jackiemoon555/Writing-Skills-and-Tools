@@ -379,3 +379,9 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
   debrief: econ fine). BGs/Bazaar/BB late games are won by a SCALING ENGINE committed early
   (buff/trigger multiplication) — his unbuilt habit. Same auto-battler label, different late-game
   skill. Also: he thinks the digital-CCG boom has passed (most big ones died).
+- 2026-09-23 — **HIS SELF-READ (durable): his real strength is RESOURCE / ECON MANAGEMENT.** TFT gold
+  (overspend correcting mid-game → late game is lost, "just a matter of how bad you lose"); Snap
+  ENERGY vs board state to land combos (why Ramp works for him); and BOARD SPACE as a resource
+  (why Swarm and Zombies work). Fits the econ-vs-engine hypothesis above and the management/econ
+  lane in this profile. Use for recs: games where the skill is budgeting a scarce, visible
+  resource over time > games won by an early-committed multiplier engine.

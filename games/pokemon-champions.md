@@ -78,3 +78,4 @@ from play, expect him to be right.
   Asked for his default 4 + lead.
 - 2026-09-23 — DEFAULT (pre-Excadrill): lead **Tyranitar + Aerodactyl**, back **Mega Garchomp + Incineroar**; Sylveon never brought. Where Drill slots in now: asked.
 - 2026-09-23 — NEW DEFAULT (read as: Drill replaces Incineroar in the 4 — confirm): Ttar, Aero, Mega Chomp, **Excadrill @ Air Balloon**. Balloon = Ground immunity until hit → Chomp can EQ next to Drill while it holds. Flagged: cutting Incineroar loses Fake Out + Intimidate (the Trick Room answer) — bring him back vs TR.
+- 2026-09-23 — Resource framing offered (his strength = econ): in VGC the budgets are Tailwind turns, sand turns, the ONE Mega, Fake Out (first turn on field only), HP, and switches.
