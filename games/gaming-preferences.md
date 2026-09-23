@@ -52,7 +52,7 @@ For game recommendations AND as target-player reference for his own game designs
 
 ## What the library actually says (2026-08-16, from real playtimes)
 - **Revealed preference ≠ stated preference.** Top of the hours table is a wall of
-  **run-based roguelike deckbuilders / autobattlers**: Slay the Spire **273h** (#1, played
+  **run-based roguelike deckbuilders / autobattlers**: Slay the Spire **273h** [⚠️ 2026-09-23: MOSTLY IDLE — he left it open overnight/while out; real play ≈ 30h or less] (#1, played
   July 2026), StarVaders 110h, Balatro 78h, Backpack Battles 67h, Drop Duchy 64h, Tower
   Dominion 61h (last played Aug 9), Mewgenics 52h, Wildfrost 26h, Against the Storm 20h,
   Peglin, Chrono Ark. That's ~800h in one genre. DOS2 (216h) and Darkest Dungeon (82h)
@@ -253,7 +253,7 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
 ## Session 2026-08-30 — card-game draft, auto-battlers, strategy, immersive-sim corrections
 
 ### THE SHARPEST FILTERS YET (apply to all card-game / auto-battler recs)
-- **Card ACQUISITION is the drag; DRAFT is the hook.** In card games he hates grinding/owning a collection — he loves **drafting a deck fresh from an offered pool each time.** This is the single cleanest predictor of his whole library: **StS (273h), Balatro, Backpack Battles all draft-fresh-each-run = loved; Marvel Snap base game + MTG Arena = collection grind = bounced.** He specifically loved **Marvel Snap's Draft mode** ("couldn't put it down until the tickets ran out"). → Recommend draft/limited/roguelike-draft, NOT constructed-from-collection.
+- **Card ACQUISITION is the drag; DRAFT is the hook.** In card games he hates grinding/owning a collection — he loves **drafting a deck fresh from an offered pool each time.** This is the single cleanest predictor of his whole library: **StS (273h — mostly idle, ~30h real), Balatro, Backpack Battles all draft-fresh-each-run = loved; Marvel Snap base game + MTG Arena = collection grind = bounced.** He specifically loved **Marvel Snap's Draft mode** ("couldn't put it down until the tickets ran out"). → Recommend draft/limited/roguelike-draft, NOT constructed-from-collection.
 - **AUTO-BATTLERS are a proven COMPETITIVE lane.** Peaked **Diamond 3 in TFT, Set 3: Galaxies (spring 2020)** — the first space-themed set (he'd misremembered it as Set 4/5). Fav comp = **"Jhinguards"**: Mordekaiser + Jayce Vanguards front, **Jhin** 4-cost Starship carry backline. Regularly Plat/Emerald. So: draft + auto-battler + competitive-to-Diamond, since 2020 — a durable strength, not a phase.
 - **Portrait almost-exclusively on iPhone** (confirmed 2026-08-30) — weight portrait hard for any mobile rec.
 
@@ -272,7 +272,7 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
 ### ⚠️ THE LATE-GAME WALL IS CROSS-GAME (2026-08-30 evening, games thread) — not a Bazaar problem
 He reports the SAME wall in **Backpack Battles** (67h) as in The Bazaar: strong early/mid draft,
 runs die at the late-power inflection (BB ~round 10+, Bazaar day 7+ ghosts). Diagnosis: one draft
-habit — value-now over scaling-later; no committed win condition by mid-game (his StS mastery
+habit — value-now over scaling-later; no committed win condition by mid-game (⚠️ RETRACTED 2026-09-23: StS hours were mostly idle, ~30h real — there is NO proven mastery; his StS mastery
 proves he CAN do it — the habit doesn't transfer unprompted). Coaching generalized: (1) name ONE
 scaling wincon by mid-game; (2) in BB, crafting = the scaling system — commit to a recipe line,
 an uncrafted board IS the wall; (3) sell early carries; (4) defense layer at the spike; (5) econ
@@ -336,3 +336,70 @@ Deep unlicensed GM sims flagged (he wanted these): **Basketball GM** & **Footbal
 ### SESSION STATE / for a new session
 - This was a GAMING session (no writing pages). All gaming work now lives in `games/`. The Champ D2 revision + editor hunt are the WRITING lane — see `docs/SESSION_HANDOFF.md`, untouched here.
 - OPEN threads to pick up if he returns to games: (1) his Bazaar main hero(es) → pull current tier lists; (2) a fresh wishlist/library paste to fix the ownership gaps; (3) whether he tried any of the night's picks (Hearthstone Battlegrounds, The Bazaar, Star Wars: Zero Company trial, Basketball GM).
+
+## 2026-09-23 — acquisition filter, sharpened (from Marvel Snap)
+- **Random access to the card you need is worse than grinding for it.** He'll accept earning a
+  card; what he hates is being unable to TARGET it — daily rotating shops and random packs
+  (Snap: Thanos FF only buyable if the daily shop rolls him, or a 1-in-11 pack). A clear,
+  directly-purchasable price ("X hours / X currency for exactly this card") is tolerable; a
+  gacha-shaped path is not. Weight this in any live-service card / collection rec (see
+  `marvel-snap.md`).
+- **2026-09-23 — "I hate The Bazaar, I can't curve into late game; same with Backpack Battles."**
+  Same cross-game late-game wall logged 2026-08-30 (still unsolved; the run-report debriefs
+  never came in after the first). Offered: drop both (legit), or ONE forced-commit experiment
+  (pick the win condition before round/day 3, never deviate) + a post-run debrief. His call.
+- **2026-09-23 CORRECTION — Steam hours include IDLE time.** Slay the Spire's 273h is mostly the
+  game left open overnight / while out; real play ≈ 30h or less. So StS is NOT evidence of
+  scaling/commitment mastery (Claude had leaned on it twice for the Bazaar/BB coaching — retracted).
+  Treat EVERY playtime in `steam-library_2026-08-16.md` as an upper bound; ask before using hours
+  as proof of skill or love.
+
+## 2026-09-23 — STATED GOAL (his words): break past the barrier ONCE in one competitive game —
+"really make a run up the ladder." Knows it's "stupid hard" and that's the point. Claude's rec:
+pick ONE game with no collection gate; TFT is the strongest base (Diamond 3 history, pure
+in-game draft). Snap = collection gate, bad fit for this goal; Bazaar/BB = unbuilt habit;
+Pokémon Champions = unknown acquisition + day 2. His choice pending.
+- 2026-09-23 — **TFT RULED OUT (his call): "it's a different game now that Mort left."** Verified:
+  Mortdog (TFT lead designer since 2019) announced leaving Riot July 8, 2026 (esports.gg,
+  Hotspawn). Don't re-propose TFT for the ladder goal unless he raises it.
+- 2026-09-23 — **Backpack Brawl (iOS): confirmed the one he tried; he's done with it.** Reached Gold
+  easily but "can't see it getting better" — items carry persistent LEVELS (account-side power
+  progression), which he calls dumb. Same filter family as Snap: out-of-match power you have to
+  acquire = fails. Not a candidate for the ladder goal.
+- 2026-09-23 — "Is there a card game coming out I can get in on early?" Searched: **Chrono CCG**
+  (Steam EA/beta, full release late 2026 — reviewers flag high pack prices, no crafting/dusting,
+  no guaranteed wildcards) and **Might & Magic Fates TCG** (Ubisoft, Feb 2026, Mixed ~58% —
+  pay-to-win complaints, NFT side is the only way to hand-pick cards, a F2P progress wipe) — BOTH
+  FAIL his targeting filter. **Riftbound** (League TCG): no official digital client, Riot says
+  "when, not if," no window. Told him: getting in early doesn't fix collection-CCG economics;
+  his lane is draft modes / shared-pool games.
+- 2026-09-23 — **Hearthstone Battlegrounds: SAME late-game wall** as Bazaar/BB; "just doesn't hit like
+  TFT." Claude's HYPOTHESIS (unconfirmed): TFT's late game is won by ECON + LEVELING (gold → levels →
+  bigger board / 4–5-cost carries; comps legible from traits early) — his proven strength (08-30
+  debrief: econ fine). BGs/Bazaar/BB late games are won by a SCALING ENGINE committed early
+  (buff/trigger multiplication) — his unbuilt habit. Same auto-battler label, different late-game
+  skill. Also: he thinks the digital-CCG boom has passed (most big ones died).
+- 2026-09-23 — **HIS SELF-READ (durable): his real strength is RESOURCE / ECON MANAGEMENT.** TFT gold
+  (overspend correcting mid-game → late game is lost, "just a matter of how bad you lose"); Snap
+  ENERGY vs board state to land combos (why Ramp works for him); and BOARD SPACE as a resource
+  (why Swarm and Zombies work). Fits the econ-vs-engine hypothesis above and the management/econ
+  lane in this profile. Use for recs: games where the skill is budgeting a scarce, visible
+  resource over time > games won by an early-committed multiplier engine.
+- 2026-09-23 — **FLEXIBILITY is the other half of why TFT worked** (his words): hates being forced
+  into a build or anything predetermined. Combined filter for competitive games = visible resource
+  to budget + open-ended build paths + no out-of-match acquisition. He jokes the list is "awfully
+  short." Pointed at games he already OWNS that fit: **Legion TD 2** (income-vs-defense econ,
+  open builds, top-rated competitive on Steam) and **Mechabellum** (1.2h; supply budgeting +
+  counter-building from scratch every round); plus Pokémon Champions VGC.
+- 2026-09-23 — **SESSION LENGTH is a real filter for competitive games.** A full TFT game (not
+  going 8th) = 45–60 min — too long for a session. He's played the TD/auto-battler genre already
+  ("probably just have to go back"). "Losing in TFT might be one of the worst feelings but it's a
+  fun worst." Short-match competitive options that fit: Snap (minutes), Pokémon Champions VGC
+  (20-min cap per match).
+- 2026-09-23 — Browsed the App Store against his filter: nothing. His words: "suck it up or just quit
+  gaming altogether — I've been heading that route for a while, and I think that's ok too."
+  Posture for future sessions: don't push recs or re-engagement; answer when he brings a game.
+- 2026-09-23 — **BGA (Board Game Arena, presumed) doesn't land: "feels too far away."** HIS
+  CORRECTION: not the stakes/impact of the games — it's the **UI and presentation**; the web-board
+  interface doesn't feel like it fits (distant, not tactile). Presentation matters to him as a
+  filter in its own right; don't recommend games on design alone if the client feels generic.

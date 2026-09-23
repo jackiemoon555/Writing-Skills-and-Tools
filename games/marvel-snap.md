@@ -10,6 +10,9 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
 - Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: Omega (80+) again, 2026-09-19 late, on Zombies.
+- **2026-09-23:** HARD STUCK at **80–83** on the free decks; his read: "I hit the cap on the free
+  decks." Draft mode returns **Sept 28** (Sanctum Showdown scoring, per snap.fan Sept 2026 patch
+  page). Next step offered: a PC "snap report" to find the closest buildable meta deck.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -156,3 +159,41 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 - 2026-09-19 (late night) — **BACK TO OMEGA (80+) on the ZOMBIE deck**, climbed from 75 the same
   night. Corrects an earlier line: by his own results Zombies is at least Ramp's equal — it has
   now carried him to Omega too. Exact rank not given.
+- 2026-09-23 — STUCK 80–83, he thinks the free decks have capped out. Told him: partly right
+  (Zombies' nearest ranked relative is Tier 3 / 57%; both free decks top out in the same band),
+  but not a hard wall; the real lever is a meta deck, and the 09-19 report had 0 of 15 buildable
+  (closest Kazootriot 9/12). Next: PC snap report. Victoria Hand login deck won't fix the ceiling.
+- 2026-09-23 — GOLD: he has **1,320**. Told him (search snippets, Marvel Snap Zone / SnapComplete,
+  Sept 2026): Series 5 in the token shop = **6,000 tokens**; ~1.3 gold per token → his gold ≈ 1,000
+  tokens, about 1/6 of Thanos FF. Advice: HOLD; buy only a gold card bundle holding an unowned
+  S4/S5 meta card (the gating list in `snap/reports/2026-09-19_hand-built.md`). Token balance unknown — ask.
+- 2026-09-23 — TOKENS: **3,500** (+1,320 gold). HIS CORRECTION: the token shop is random and
+  refreshes daily, so a direct 6,000 buy can't be planned. Seasonal S5 pack (his screenshot):
+  5,000 tokens, 1 guaranteed unowned card of 11 (Axis Inversion: Friendly Neighborhood Carnage,
+  Rogue Scion of Division, Kluh, Anti-Polar Magneto, Red Onslaught; Fractured Frontier, leaving the
+  pack in 1w6d: Red Hulk, Death, Red Wolf, Jane Foster, Psylocke, Thanos) → Thanos 9%, Thanos-or-Jane
+  18%. Advice: save; buy Thanos only if the shop offers him once affordable; no pack gamble.
+- 2026-09-23 — "MOST FLEXIBLE CARD" (computed from the 09-19 decks JSON vs his collection): top 5
+  unowned by meta-deck count = Thanos FF 9/15 · Jane Foster FF 7 · Surge 5 · Spider-Man Brand New
+  Day 4 · Venus 4. No single card completes any deck. Thanos + Jane together take Curved High Evo
+  to 2 missing (Nebula, High Evolutionary); all five are in Curved Zombies (+ Zombie Mister
+  Fantastic, Zombie Scarlet Witch) = the upgrade path for his own Zombie deck.
+- 2026-09-23 — SHOP LAYOUT (his screenshots; corrects the "can't secure a card" read): Daily Cards
+  rotate daily with slots S5 6,000 · S4 3,000 · S3 1,000 (+ Ultimate/Spotlight) and **"Pin a card to
+  lock it!"** → a daily S5 slot showing Thanos/Jane can be PINNED and saved toward. Seasonal
+  Spotlight: new card (Carnage) 6,000 · Seasonal S5 pack 5,000 · Seasonal S4 pack 2,500. Collector's
+  Packs: S5 4,000 · S4 2,000 · S3 650. Spider-Man Brand New Day = S5 from July → Collector's S5 pack,
+  not seasonal. Surge / Venus series: not verified. Plan given: pin Thanos (then Jane) if they
+  appear; don't pin Ares; nothing to spend on today.
+- 2026-09-23 — HIS CALL: **not pursuing Thanos FF for now — expects a nerf.** Tokens stay banked
+  (3,500), flexible for whatever the post-nerf meta wants. HIS RULE (Claude had no verified
+  definition): **Quickdraw = triggers when you play a card the same turn you drew it** → why
+  "Curved" decks feed Thanos: drawing and playing on curve every turn reloads him. Power-creep
+  talk: "I don't mind it when I have the cards" — the annoyance is the acquisition gap, consistent
+  with gaming-preferences' "acquisition is the drag" filter.
+- 2026-09-23 — HIS CORRECTION: series drops are NOT guaranteed — some older cards stay Series 5
+  (his example: **Zombie Mister Fantastic**, one of Curved Zombies' missing cards). Don't plan
+  around "it'll get cheaper"; Claude's "series drops make old power cheaper" was overstated.
+- 2026-09-23 — FRUSTRATION (not a quit): "super annoying to hit such a hard wall, what's worse is I
+  can't even directly buy the cards I want." The specific pain = RANDOM ACCESS to cards (daily
+  rotating shop, 1-in-11 packs), not the price. Still playing; don't log Snap as dropped.

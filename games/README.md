@@ -24,6 +24,8 @@ and the books; the trilogy's ledgers remain the source of truth.
 - `snap/` — the weekly Snap report + collection tracker (see `snap/README.md`).
 - `marvel-snap.md` — the standing Marvel Snap file (rank, decks, what he has already been told);
   read it first when Snap comes up, so he never has to re-explain.
+- `pokemon-champions.md` — the standing Pokémon Champions file (phone, ranked, sand team);
+  read it first when Champions comes up.
 - `steam-library_2026-08-16.md` — a library snapshot (games with hours +
   last-played), read locally from his PC. Dated; a fresh snapshot supersedes it.
 
