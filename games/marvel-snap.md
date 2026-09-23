@@ -163,3 +163,7 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   (Zombies' nearest ranked relative is Tier 3 / 57%; both free decks top out in the same band),
   but not a hard wall; the real lever is a meta deck, and the 09-19 report had 0 of 15 buildable
   (closest Kazootriot 9/12). Next: PC snap report. Victoria Hand login deck won't fix the ceiling.
+- 2026-09-23 — GOLD: he has **1,320**. Told him (search snippets, Marvel Snap Zone / SnapComplete,
+  Sept 2026): Series 5 in the token shop = **6,000 tokens**; ~1.3 gold per token → his gold ≈ 1,000
+  tokens, about 1/6 of Thanos FF. Advice: HOLD; buy only a gold card bundle holding an unowned
+  S4/S5 meta card (the gating list in `snap/reports/2026-09-19_hand-built.md`). Token balance unknown — ask.
