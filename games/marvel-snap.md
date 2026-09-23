@@ -191,3 +191,6 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   "Curved" decks feed Thanos: drawing and playing on curve every turn reloads him. Power-creep
   talk: "I don't mind it when I have the cards" — the annoyance is the acquisition gap, consistent
   with gaming-preferences' "acquisition is the drag" filter.
+- 2026-09-23 — HIS CORRECTION: series drops are NOT guaranteed — some older cards stay Series 5
+  (his example: **Zombie Mister Fantastic**, one of Curved Zombies' missing cards). Don't plan
+  around "it'll get cheaper"; Claude's "series drops make old power cheaper" was overstated.
