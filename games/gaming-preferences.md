@@ -385,3 +385,9 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
   (why Swarm and Zombies work). Fits the econ-vs-engine hypothesis above and the management/econ
   lane in this profile. Use for recs: games where the skill is budgeting a scarce, visible
   resource over time > games won by an early-committed multiplier engine.
+- 2026-09-23 — **FLEXIBILITY is the other half of why TFT worked** (his words): hates being forced
+  into a build or anything predetermined. Combined filter for competitive games = visible resource
+  to budget + open-ended build paths + no out-of-match acquisition. He jokes the list is "awfully
+  short." Pointed at games he already OWNS that fit: **Legion TD 2** (income-vs-defense econ,
+  open builds, top-rated competitive on Steam) and **Mechabellum** (1.2h; supply budgeting +
+  counter-building from scratch every round); plus Pokémon Champions VGC.
