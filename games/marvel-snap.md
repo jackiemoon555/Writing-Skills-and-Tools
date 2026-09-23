@@ -167,3 +167,9 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Sept 2026): Series 5 in the token shop = **6,000 tokens**; ~1.3 gold per token → his gold ≈ 1,000
   tokens, about 1/6 of Thanos FF. Advice: HOLD; buy only a gold card bundle holding an unowned
   S4/S5 meta card (the gating list in `snap/reports/2026-09-19_hand-built.md`). Token balance unknown — ask.
+- 2026-09-23 — TOKENS: **3,500** (+1,320 gold). HIS CORRECTION: the token shop is random and
+  refreshes daily, so a direct 6,000 buy can't be planned. Seasonal S5 pack (his screenshot):
+  5,000 tokens, 1 guaranteed unowned card of 11 (Axis Inversion: Friendly Neighborhood Carnage,
+  Rogue Scion of Division, Kluh, Anti-Polar Magneto, Red Onslaught; Fractured Frontier, leaving the
+  pack in 1w6d: Red Hulk, Death, Red Wolf, Jane Foster, Psylocke, Thanos) → Thanos 9%, Thanos-or-Jane
+  18%. Advice: save; buy Thanos only if the shop offers him once affordable; no pack gamble.
