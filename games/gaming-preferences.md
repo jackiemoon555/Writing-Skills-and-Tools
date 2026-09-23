@@ -396,3 +396,6 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
   ("probably just have to go back"). "Losing in TFT might be one of the worst feelings but it's a
   fun worst." Short-match competitive options that fit: Snap (minutes), Pokémon Champions VGC
   (20-min cap per match).
+- 2026-09-23 — Browsed the App Store against his filter: nothing. His words: "suck it up or just quit
+  gaming altogether — I've been heading that route for a while, and I think that's ok too."
+  Posture for future sessions: don't push recs or re-engagement; answer when he brings a game.
