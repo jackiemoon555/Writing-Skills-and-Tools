@@ -27,6 +27,17 @@ from play, expect him to be right.
 - **One Mega Evolution per battle.** Bring 6, pick 4 (doubles). 45s per turn, 7 min player time,
   20 min match cap.
 
+## ACQUISITION — Roster Ranch (verified 2026-09-23, search snippets: thegamer, game8, Bulbapedia, serebii)
+- No catching. **Every 22h: a free lineup of 10 RANDOM Pokémon** from the current roster; pick one.
+  Re-roll a lineup early with **Quick Coupons or VP**.
+- **Trial Recruitment** = free, lasts **7 days**. **Permanent** = **2,500 VP** or a **Teammate Ticket**;
+  permanent ones can be trained (stats/moves).
+- **You CANNOT buy a specific Pokémon with VP** — only pick from random lineups.
+- **Pokémon HOME import** of compatible Pokémon = the only TARGETED route (if he owns them elsewhere).
+- VP: ranked wins (losses pay half), daily/weekly missions, tutorials, battle pass rank 31+.
+- vs his "can't target the card" filter: SOFTER than Snap (10 choices per roll, earned re-rolls,
+  free 7-day trials, HOME import) but still random-access. Watch his reaction.
+
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
 - 2026-09-23 team read (doubles assumed; type math is fixed, sets unknown):
   - **Earthquake friendly-fire:** Excadrill (Steel/Ground) takes 2× from EQ, Tyranitar takes 2×.
@@ -57,3 +68,4 @@ from play, expect him to be right.
 
 ## LOG
 - 2026-09-23 — file opened; state above.
+- 2026-09-23 — Roster Ranch explained (section above). Also: he may return to Snap ("part of the process is hitting the wall").
