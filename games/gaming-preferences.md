@@ -359,3 +359,6 @@ Deep unlicensed GM sims flagged (he wanted these): **Basketball GM** & **Footbal
 pick ONE game with no collection gate; TFT is the strongest base (Diamond 3 history, pure
 in-game draft). Snap = collection gate, bad fit for this goal; Bazaar/BB = unbuilt habit;
 Pokémon Champions = unknown acquisition + day 2. His choice pending.
+- 2026-09-23 — **TFT RULED OUT (his call): "it's a different game now that Mort left."** Verified:
+  Mortdog (TFT lead designer since 2019) announced leaving Riot July 8, 2026 (esports.gg,
+  Hotspawn). Don't re-propose TFT for the ladder goal unless he raises it.
