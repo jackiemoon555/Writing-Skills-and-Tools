@@ -344,3 +344,7 @@ Deep unlicensed GM sims flagged (he wanted these): **Basketball GM** & **Footbal
   directly-purchasable price ("X hours / X currency for exactly this card") is tolerable; a
   gacha-shaped path is not. Weight this in any live-service card / collection rec (see
   `marvel-snap.md`).
+- **2026-09-23 — "I hate The Bazaar, I can't curve into late game; same with Backpack Battles."**
+  Same cross-game late-game wall logged 2026-08-30 (still unsolved; the run-report debriefs
+  never came in after the first). Offered: drop both (legit), or ONE forced-commit experiment
+  (pick the win condition before round/day 3, never deviate) + a post-run debrief. His call.
