@@ -391,3 +391,8 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
   short." Pointed at games he already OWNS that fit: **Legion TD 2** (income-vs-defense econ,
   open builds, top-rated competitive on Steam) and **Mechabellum** (1.2h; supply budgeting +
   counter-building from scratch every round); plus Pokémon Champions VGC.
+- 2026-09-23 — **SESSION LENGTH is a real filter for competitive games.** A full TFT game (not
+  going 8th) = 45–60 min — too long for a session. He's played the TD/auto-battler genre already
+  ("probably just have to go back"). "Losing in TFT might be one of the worst feelings but it's a
+  fun worst." Short-match competitive options that fit: Snap (minutes), Pokémon Champions VGC
+  (20-min cap per match).
