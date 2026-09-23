@@ -194,3 +194,6 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 - 2026-09-23 — HIS CORRECTION: series drops are NOT guaranteed — some older cards stay Series 5
   (his example: **Zombie Mister Fantastic**, one of Curved Zombies' missing cards). Don't plan
   around "it'll get cheaper"; Claude's "series drops make old power cheaper" was overstated.
+- 2026-09-23 — FRUSTRATION (not a quit): "super annoying to hit such a hard wall, what's worse is I
+  can't even directly buy the cards I want." The specific pain = RANDOM ACCESS to cards (daily
+  rotating shop, 1-in-11 packs), not the price. Still playing; don't log Snap as dropped.

@@ -336,3 +336,11 @@ Deep unlicensed GM sims flagged (he wanted these): **Basketball GM** & **Footbal
 ### SESSION STATE / for a new session
 - This was a GAMING session (no writing pages). All gaming work now lives in `games/`. The Champ D2 revision + editor hunt are the WRITING lane — see `docs/SESSION_HANDOFF.md`, untouched here.
 - OPEN threads to pick up if he returns to games: (1) his Bazaar main hero(es) → pull current tier lists; (2) a fresh wishlist/library paste to fix the ownership gaps; (3) whether he tried any of the night's picks (Hearthstone Battlegrounds, The Bazaar, Star Wars: Zero Company trial, Basketball GM).
+
+## 2026-09-23 — acquisition filter, sharpened (from Marvel Snap)
+- **Random access to the card you need is worse than grinding for it.** He'll accept earning a
+  card; what he hates is being unable to TARGET it — daily rotating shops and random packs
+  (Snap: Thanos FF only buyable if the daily shop rolls him, or a 1-in-11 pack). A clear,
+  directly-purchasable price ("X hours / X currency for exactly this card") is tolerable; a
+  gacha-shaped path is not. Weight this in any live-service card / collection rec (see
+  `marvel-snap.md`).
