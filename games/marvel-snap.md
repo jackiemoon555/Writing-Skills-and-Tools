@@ -10,6 +10,9 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
 - Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: Omega (80+) again, 2026-09-19 late, on Zombies.
+- **2026-09-23:** HARD STUCK at **80–83** on the free decks; his read: "I hit the cap on the free
+  decks." Draft mode returns **Sept 28** (Sanctum Showdown scoring, per snap.fan Sept 2026 patch
+  page). Next step offered: a PC "snap report" to find the closest buildable meta deck.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -156,3 +159,7 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 - 2026-09-19 (late night) — **BACK TO OMEGA (80+) on the ZOMBIE deck**, climbed from 75 the same
   night. Corrects an earlier line: by his own results Zombies is at least Ramp's equal — it has
   now carried him to Omega too. Exact rank not given.
+- 2026-09-23 — STUCK 80–83, he thinks the free decks have capped out. Told him: partly right
+  (Zombies' nearest ranked relative is Tier 3 / 57%; both free decks top out in the same band),
+  but not a hard wall; the real lever is a meta deck, and the 09-19 report had 0 of 15 buildable
+  (closest Kazootriot 9/12). Next: PC snap report. Victoria Hand login deck won't fix the ceiling.
