@@ -399,7 +399,7 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
 - 2026-09-23 — Browsed the App Store against his filter: nothing. His words: "suck it up or just quit
   gaming altogether — I've been heading that route for a while, and I think that's ok too."
   Posture for future sessions: don't push recs or re-engagement; answer when he brings a game.
-- 2026-09-23 — **BGA (read as Board Game Arena — confirm) doesn't land: "feels too far away… what
-  I'm doing doesn't really have impact."** Same root as the 08-16 STAKES-PER-TURN filter: he needs
-  each decision to visibly move the game. Digital board games that spread impact thin across many
-  small actions/players fail it.
+- 2026-09-23 — **BGA (Board Game Arena, presumed) doesn't land: "feels too far away."** HIS
+  CORRECTION: not the stakes/impact of the games — it's the **UI and presentation**; the web-board
+  interface doesn't feel like it fits (distant, not tactile). Presentation matters to him as a
+  filter in its own right; don't recommend games on design alone if the client feels generic.
