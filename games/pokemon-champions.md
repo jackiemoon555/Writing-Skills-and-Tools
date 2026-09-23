@@ -76,3 +76,4 @@ from play, expect him to be right.
   pressure it turn 1; (3) Water/Fighting heavy → bring Sylveon over a weak-to-it slot. Drill:
   choose the 4 + lead on purpose each game; debrief losses where the preview call was wrong.
   Asked for his default 4 + lead.
+- 2026-09-23 — DEFAULT (pre-Excadrill): lead **Tyranitar + Aerodactyl**, back **Mega Garchomp + Incineroar**; Sylveon never brought. Where Drill slots in now: asked.
