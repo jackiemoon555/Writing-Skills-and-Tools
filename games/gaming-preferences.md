@@ -366,3 +366,10 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
   easily but "can't see it getting better" — items carry persistent LEVELS (account-side power
   progression), which he calls dumb. Same filter family as Snap: out-of-match power you have to
   acquire = fails. Not a candidate for the ladder goal.
+- 2026-09-23 — "Is there a card game coming out I can get in on early?" Searched: **Chrono CCG**
+  (Steam EA/beta, full release late 2026 — reviewers flag high pack prices, no crafting/dusting,
+  no guaranteed wildcards) and **Might & Magic Fates TCG** (Ubisoft, Feb 2026, Mixed ~58% —
+  pay-to-win complaints, NFT side is the only way to hand-pick cards, a F2P progress wipe) — BOTH
+  FAIL his targeting filter. **Riftbound** (League TCG): no official digital client, Riot says
+  "when, not if," no window. Told him: getting in early doesn't fix collection-CCG economics;
+  his lane is draft modes / shared-pool games.
