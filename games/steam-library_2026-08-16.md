@@ -6,7 +6,7 @@ Read locally from `D:\Steam` (localconfig.vdf playtimes + appinfo.vdf names + in
 apps in localconfig: 403 | librarycache owned: 268 | installed: 40 | names parsed: 2201
 
    hrs  last        inst  type   name
- 273.3  2026-07-04  yes   Game   Slay the Spire
+ 273.3  2026-07-04  yes   Game   Slay the Spire   [⚠️ mostly idle — real ≈ 30h or less, author 2026-09-23]
  215.6  2023-07-29        Game   Divinity: Original Sin 2
  167.1  2014-12-26        game   Arma 2: Operation Arrowhead
  157.4  2023-12-16        Game   Cyberpunk 2077

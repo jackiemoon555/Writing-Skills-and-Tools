@@ -52,7 +52,7 @@ For game recommendations AND as target-player reference for his own game designs
 
 ## What the library actually says (2026-08-16, from real playtimes)
 - **Revealed preference ≠ stated preference.** Top of the hours table is a wall of
-  **run-based roguelike deckbuilders / autobattlers**: Slay the Spire **273h** (#1, played
+  **run-based roguelike deckbuilders / autobattlers**: Slay the Spire **273h** [⚠️ 2026-09-23: MOSTLY IDLE — he left it open overnight/while out; real play ≈ 30h or less] (#1, played
   July 2026), StarVaders 110h, Balatro 78h, Backpack Battles 67h, Drop Duchy 64h, Tower
   Dominion 61h (last played Aug 9), Mewgenics 52h, Wildfrost 26h, Against the Storm 20h,
   Peglin, Chrono Ark. That's ~800h in one genre. DOS2 (216h) and Darkest Dungeon (82h)
@@ -253,7 +253,7 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
 ## Session 2026-08-30 — card-game draft, auto-battlers, strategy, immersive-sim corrections
 
 ### THE SHARPEST FILTERS YET (apply to all card-game / auto-battler recs)
-- **Card ACQUISITION is the drag; DRAFT is the hook.** In card games he hates grinding/owning a collection — he loves **drafting a deck fresh from an offered pool each time.** This is the single cleanest predictor of his whole library: **StS (273h), Balatro, Backpack Battles all draft-fresh-each-run = loved; Marvel Snap base game + MTG Arena = collection grind = bounced.** He specifically loved **Marvel Snap's Draft mode** ("couldn't put it down until the tickets ran out"). → Recommend draft/limited/roguelike-draft, NOT constructed-from-collection.
+- **Card ACQUISITION is the drag; DRAFT is the hook.** In card games he hates grinding/owning a collection — he loves **drafting a deck fresh from an offered pool each time.** This is the single cleanest predictor of his whole library: **StS (273h — mostly idle, ~30h real), Balatro, Backpack Battles all draft-fresh-each-run = loved; Marvel Snap base game + MTG Arena = collection grind = bounced.** He specifically loved **Marvel Snap's Draft mode** ("couldn't put it down until the tickets ran out"). → Recommend draft/limited/roguelike-draft, NOT constructed-from-collection.
 - **AUTO-BATTLERS are a proven COMPETITIVE lane.** Peaked **Diamond 3 in TFT, Set 3: Galaxies (spring 2020)** — the first space-themed set (he'd misremembered it as Set 4/5). Fav comp = **"Jhinguards"**: Mordekaiser + Jayce Vanguards front, **Jhin** 4-cost Starship carry backline. Regularly Plat/Emerald. So: draft + auto-battler + competitive-to-Diamond, since 2020 — a durable strength, not a phase.
 - **Portrait almost-exclusively on iPhone** (confirmed 2026-08-30) — weight portrait hard for any mobile rec.
 
@@ -272,7 +272,7 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
 ### ⚠️ THE LATE-GAME WALL IS CROSS-GAME (2026-08-30 evening, games thread) — not a Bazaar problem
 He reports the SAME wall in **Backpack Battles** (67h) as in The Bazaar: strong early/mid draft,
 runs die at the late-power inflection (BB ~round 10+, Bazaar day 7+ ghosts). Diagnosis: one draft
-habit — value-now over scaling-later; no committed win condition by mid-game (his StS mastery
+habit — value-now over scaling-later; no committed win condition by mid-game (⚠️ RETRACTED 2026-09-23: StS hours were mostly idle, ~30h real — there is NO proven mastery; his StS mastery
 proves he CAN do it — the habit doesn't transfer unprompted). Coaching generalized: (1) name ONE
 scaling wincon by mid-game; (2) in BB, crafting = the scaling system — commit to a recipe line,
 an uncrafted board IS the wall; (3) sell early carries; (4) defense layer at the spike; (5) econ
@@ -348,3 +348,8 @@ Deep unlicensed GM sims flagged (he wanted these): **Basketball GM** & **Footbal
   Same cross-game late-game wall logged 2026-08-30 (still unsolved; the run-report debriefs
   never came in after the first). Offered: drop both (legit), or ONE forced-commit experiment
   (pick the win condition before round/day 3, never deviate) + a post-run debrief. His call.
+- **2026-09-23 CORRECTION — Steam hours include IDLE time.** Slay the Spire's 273h is mostly the
+  game left open overnight / while out; real play ≈ 30h or less. So StS is NOT evidence of
+  scaling/commitment mastery (Claude had leaned on it twice for the Bazaar/BB coaching — retracted).
+  Treat EVERY playtime in `steam-library_2026-08-16.md` as an upper bound; ask before using hours
+  as proof of skill or love.
