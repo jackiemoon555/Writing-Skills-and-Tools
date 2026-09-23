@@ -185,3 +185,9 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Packs: S5 4,000 · S4 2,000 · S3 650. Spider-Man Brand New Day = S5 from July → Collector's S5 pack,
   not seasonal. Surge / Venus series: not verified. Plan given: pin Thanos (then Jane) if they
   appear; don't pin Ares; nothing to spend on today.
+- 2026-09-23 — HIS CALL: **not pursuing Thanos FF for now — expects a nerf.** Tokens stay banked
+  (3,500), flexible for whatever the post-nerf meta wants. HIS RULE (Claude had no verified
+  definition): **Quickdraw = triggers when you play a card the same turn you drew it** → why
+  "Curved" decks feed Thanos: drawing and playing on curve every turn reloads him. Power-creep
+  talk: "I don't mind it when I have the cards" — the annoyance is the acquisition gap, consistent
+  with gaming-preferences' "acquisition is the drag" filter.
