@@ -373,3 +373,9 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
   FAIL his targeting filter. **Riftbound** (League TCG): no official digital client, Riot says
   "when, not if," no window. Told him: getting in early doesn't fix collection-CCG economics;
   his lane is draft modes / shared-pool games.
+- 2026-09-23 — **Hearthstone Battlegrounds: SAME late-game wall** as Bazaar/BB; "just doesn't hit like
+  TFT." Claude's HYPOTHESIS (unconfirmed): TFT's late game is won by ECON + LEVELING (gold → levels →
+  bigger board / 4–5-cost carries; comps legible from traits early) — his proven strength (08-30
+  debrief: econ fine). BGs/Bazaar/BB late games are won by a SCALING ENGINE committed early
+  (buff/trigger multiplication) — his unbuilt habit. Same auto-battler label, different late-game
+  skill. Also: he thinks the digital-CCG boom has passed (most big ones died).
