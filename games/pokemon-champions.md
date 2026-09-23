@@ -12,7 +12,7 @@ from play, expect him to be right.
 - **Team (his words): "hyper offense with sand"** — Tyranitar, Excadrill, Aerodactyl,
   **Mega Garchomp**, Incineroar, Sylveon. Items / moves / abilities / spreads NOT given yet.
 - **Format: VGC / DOUBLES EXCLUSIVELY** (his words, 2026-09-23). Bring 6, pick 4.
-- **Mega Garchomp vs Mega Garchomp Z** (Z added in Reg M-C): which one he runs — unknown, ask.
+- **Runs REGULAR Mega Garchomp** (confirmed 2026-09-23; he didn't know Z Megas existed). Z = pure Dragon, Levitate, base 151 Spe / 141 SpA special attacker (search snippets, 09-23) — loses Ground typing + Sand Force and takes sand chip, so regular is the right fit for his sand team.
 - Goal: not stated. Ask before assuming Master Ball is the goal.
 
 ## RULES AS VERIFIED (2026-09-23, from search-result snippets — pages themselves egress-blocked)
