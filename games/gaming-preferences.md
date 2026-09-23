@@ -362,3 +362,7 @@ Pokémon Champions = unknown acquisition + day 2. His choice pending.
 - 2026-09-23 — **TFT RULED OUT (his call): "it's a different game now that Mort left."** Verified:
   Mortdog (TFT lead designer since 2019) announced leaving Riot July 8, 2026 (esports.gg,
   Hotspawn). Don't re-propose TFT for the ladder goal unless he raises it.
+- 2026-09-23 — **Backpack Brawl (iOS): confirmed the one he tried; he's done with it.** Reached Gold
+  easily but "can't see it getting better" — items carry persistent LEVELS (account-side power
+  progression), which he calls dumb. Same filter family as Snap: out-of-match power you have to
+  acquire = fails. Not a candidate for the ladder goal.
