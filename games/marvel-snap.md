@@ -173,3 +173,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Rogue Scion of Division, Kluh, Anti-Polar Magneto, Red Onslaught; Fractured Frontier, leaving the
   pack in 1w6d: Red Hulk, Death, Red Wolf, Jane Foster, Psylocke, Thanos) → Thanos 9%, Thanos-or-Jane
   18%. Advice: save; buy Thanos only if the shop offers him once affordable; no pack gamble.
+- 2026-09-23 — "MOST FLEXIBLE CARD" (computed from the 09-19 decks JSON vs his collection): top 5
+  unowned by meta-deck count = Thanos FF 9/15 · Jane Foster FF 7 · Surge 5 · Spider-Man Brand New
+  Day 4 · Venus 4. No single card completes any deck. Thanos + Jane together take Curved High Evo
+  to 2 missing (Nebula, High Evolutionary); all five are in Curved Zombies (+ Zombie Mister
+  Fantastic, Zombie Scarlet Witch) = the upgrade path for his own Zombie deck.
