@@ -353,3 +353,9 @@ Deep unlicensed GM sims flagged (he wanted these): **Basketball GM** & **Footbal
   scaling/commitment mastery (Claude had leaned on it twice for the Bazaar/BB coaching — retracted).
   Treat EVERY playtime in `steam-library_2026-08-16.md` as an upper bound; ask before using hours
   as proof of skill or love.
+
+## 2026-09-23 — STATED GOAL (his words): break past the barrier ONCE in one competitive game —
+"really make a run up the ladder." Knows it's "stupid hard" and that's the point. Claude's rec:
+pick ONE game with no collection gate; TFT is the strongest base (Diamond 3 history, pure
+in-game draft). Snap = collection gate, bad fit for this goal; Bazaar/BB = unbuilt habit;
+Pokémon Champions = unknown acquisition + day 2. His choice pending.
