@@ -178,3 +178,10 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Day 4 · Venus 4. No single card completes any deck. Thanos + Jane together take Curved High Evo
   to 2 missing (Nebula, High Evolutionary); all five are in Curved Zombies (+ Zombie Mister
   Fantastic, Zombie Scarlet Witch) = the upgrade path for his own Zombie deck.
+- 2026-09-23 — SHOP LAYOUT (his screenshots; corrects the "can't secure a card" read): Daily Cards
+  rotate daily with slots S5 6,000 · S4 3,000 · S3 1,000 (+ Ultimate/Spotlight) and **"Pin a card to
+  lock it!"** → a daily S5 slot showing Thanos/Jane can be PINNED and saved toward. Seasonal
+  Spotlight: new card (Carnage) 6,000 · Seasonal S5 pack 5,000 · Seasonal S4 pack 2,500. Collector's
+  Packs: S5 4,000 · S4 2,000 · S3 650. Spider-Man Brand New Day = S5 from July → Collector's S5 pack,
+  not seasonal. Surge / Venus series: not verified. Plan given: pin Thanos (then Jane) if they
+  appear; don't pin Ares; nothing to spend on today.
