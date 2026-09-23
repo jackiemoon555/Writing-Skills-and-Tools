@@ -11,8 +11,7 @@ from play, expect him to be right.
 - **2026-09-23:** plays on **PHONE**. Ranked: **Great Ball tier, Rank 4** (bottom of tier 2 of 6).
 - **Team (his words): "hyper offense with sand"** — Tyranitar, Excadrill, Aerodactyl,
   **Mega Garchomp**, Incineroar, Sylveon. Items / moves / abilities / spreads NOT given yet.
-- **Singles or doubles ladder: NOT CONFIRMED.** Incineroar + Aerodactyl point to doubles — ask,
-  don't assume.
+- **Format: VGC / DOUBLES EXCLUSIVELY** (his words, 2026-09-23). Bring 6, pick 4.
 - **Mega Garchomp vs Mega Garchomp Z** (Z added in Reg M-C): which one he runs — unknown, ask.
 - Goal: not stated. Ask before assuming Master Ball is the goal.
 
@@ -39,7 +38,7 @@ from play, expect him to be right.
   free 7-day trials, HOME import) but still random-access. Watch his reaction.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
-- 2026-09-23 team read (doubles assumed; type math is fixed, sets unknown):
+- 2026-09-23 team read (doubles — confirmed; type math is fixed, sets unknown):
   - **Earthquake friendly-fire:** Excadrill (Steel/Ground) takes 2× from EQ, Tyranitar takes 2×.
     Mega Garchomp's Sand Force EQ is the team's nuke, but it only pairs cleanly with **Aerodactyl**
     (immune) or Sylveon/Incineroar (who eat it). Ttar/Drill + Chomp on field = single-target
