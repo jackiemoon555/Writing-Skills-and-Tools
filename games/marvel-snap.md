@@ -9,7 +9,9 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   stayed cause I actually like it." Rank **75**, peaked **83 (Omega)**. Climbed to the 70s on the
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
-- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: Omega (80+) again, 2026-09-19 late, on Zombies.
+- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **Omega 84 — NEW PEAK,
+  hit twice, 2026-09-24**, on the NEGATIVE deck (base list minus Taskmaster, plus Wong). Previous
+  peak 83.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -156,3 +158,11 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 - 2026-09-19 (late night) — **BACK TO OMEGA (80+) on the ZOMBIE deck**, climbed from 75 the same
   night. Corrects an earlier line: by his own results Zombies is at least Ramp's equal — it has
   now carried him to Omega too. Exact rank not given.
+- 2026-09-24 — **OMEGA 84, TWICE — NEW PEAK — on the NEGATIVE deck.** His change: base list
+  with **Taskmaster OUT, Wong IN** ("teched in Wong"). Current 12: Adam Warlock, Psylocke, Ravonna
+  Renslayer, Cassandra Nova, Ironheart, Mystique, Magik, Mister Negative, Iron Man, White Tiger,
+  Jane Foster Mighty Thor, Wong. Note for the record: this is the same Taskmaster cut he made on
+  09-19 for the same reason (couldn't see its role), and the 09-19 note that Wong in Negative's
+  lane undoes the swap didn't stop it from working — the results outrank Claude's read. Not asked:
+  which lane Wong goes in, or whether he swapped back to Zombies between climbs. First deck of his
+  own edit to carry him to a new peak (Zombies and Ramp were free lists).
