@@ -1425,3 +1425,118 @@ the room's note. Stop-dead ending restored; no caption after it.
 Ch4 thump / "smite" / "real boys" fixes are NOT in the Doc yet; Pass 6b still pending.** No
 Chapter 5 or 6 exists in the Doc; he said "chapter 6 later today" — probably Reedsy numbering
 (no prologue there); confirm which chapter it is when it arrives. Next new pages = **Pass 7**.
+
+## Pass 7 — CHAPTER 5 (PARTIAL, v2), James arrives: the town, the sheriff's office, the campsite, Stillwell (2026-09-24 chat paste, PC session; 1,376w, unfinished; snapshot task-force-cryptid_ch5-partial-v2_chatpaste_2026-09-24.txt; MD5 06bef38f32914879ecb99a507d84393b)
+*Author's frame: "not done yet… still refinding my footing writing wise so I think it's a little
+sloppy but the shape is there, tell me what you think with the caveat that it's not done yet." No
+per-scene intent stated → the pass's ONE ask is the intent. Read on the drafting menu only; no
+grammar/typos. Supersedes the 09-21 Ch5 partial v1 (269w, opening fully rewritten; v1 stays
+frozen, no pass was run on it at his instruction). Intake delegated to a Sonnet subagent; checker
+filed silently (77 hits). He took 09-22/23 off (his dog died) — the built-in rest days; the week
+is at 1,865 / 5,000 after this batch. Ledger reloaded first: Pass 5b (the veil / "keep them
+scared" / the artifact / green light), the prologue coda (these two men found Jeff's star: "Nothing"),
+Ch1's James ("something like that"), the 09-19 declarations.*
+
+**WHAT'S ON THE PAGE:** James drives the town making a map; a red light, a horn; the river's
+cycle (spring floods, summer shallows); the sheriff's office "stood guard over the river"; the
+left-right-mirrors check; a flip phone "he was give," pushed 1 — a gravelly voice, "sir": "The rest
+of the team and I will be there sometime this week… Keep your guard up… **Keep your eyes on the
+detective. Take him with you to the forest.**"; the office: white-green tiles, a wooden desk "a
+splintered mess of red," no secretary, **the visitor log's last entry three years ago**; **Sheriff
+John Collins** ("Youth only lasts so long"); generations of sheriffs and **gargantuan bucks** on
+the wall; "Something like that" ×2 (sheriff on his past; James on being an outdoorsman); "3
+technically 4"; the truck to "the first attack location"; drag marks; **a paw print with three or
+four pads, a hand for scale, "human toes? Attached to the massive paw"**; photos, then **James
+covers the print with dirt** before the sheriff arrives; stains on trees, hand to hip; a clearing
+on the river; **Detective Stillwell**, flannel; "something large had been drug into the river";
+sheriff: "I think we know the culprit" / "Once you sit down and read our report, I think we'll
+both agree"; "the gold blinding now as the sun passed over them"; James backs up, a tree at his
+back; "I'm the field man"; James asks for Frank; the two lawmen "glanced each other" and step
+away; James reads the "drag marks": smooth, no rest stops, no other tracks, "No footprints or
+massive paw prints." (ends there — partial).
+
+**HARDEST FIRST — (1) The reader knows John and Frank are dirty; James doesn't. That gap is the
+chapter's engine, and the page spends it instead of running on it.** James arrives already
+treating the sheriff as the enemy and the sheriff plays the part on cue. Before meeting anyone:
+"It's a quite place, too quite. Something feels off. I can't place my finger on it." — the mood
+explained on the phone before the scene shows a thing, in the genre's own cliché. "He touched
+his hip, letting the metal ease his mind." → "James reached for his hip." → at the first meeting
+of both men: "James backed up a little bit, happy the two men were in front of him. He still made
+sure his back was to a tree at least." Meanwhile John: "Looks like you won't be here very long
+agent. I think we know the culprit." The sheriff smiled. / "Nonsense." The sheriff clapped his
+hands / "The sheriff and the detective glanced each other." In Ch3 John KEEPS THE VEIL — calm
+face over six bodies, playing a town. Here he pushes a conclusion on a federal agent inside an
+hour, grinning: worse at his job than two chapters ago. And James reacts to a threat the page
+hasn't earned, so the smiles-widening beat reads as a villain tell, not a discovery. **Lever:**
+decide who is fooling whom. Either John is good at this and James is competent but HANDLED (the
+reader squirms because they know), or James clocks them from something he SEES on the page. The
+print cover-up is already the strongest "James decides not to trust them" — let the decision come
+from that, not before it.
+
+**(2) SCENES THAT NEED MORE — the print is the biggest beat in the book so far and it's
+sprinted.** First physical evidence for the task force; human toes on a massive paw. The whole
+payload: "James looked that print seeing what looked like human toes? Attached to the massive
+paw." Twelve words and a question mark. The hand for scale is the right move; then the camera
+leaves — nothing about what the toes do to a Green Beret who was told nothing on a plane.
+**Lever:** the toes get the camera; sit in it before the sheriff yells.
+
+**(3) SHOW-vs-TELL, the front end:** "allowing his quiet surroundings to make themselves known,"
+"He parsed his mind," "The sheriff's office was older. The inside matched the outside,"
+"idyllic river," "picturesque camp site." The narrator announces a mood instead of handing over
+the one detail that makes it. Contrast: the visitor log, last entry three years ago — the whole
+office in one line, no "older" needed.
+
+**(4) PACING — the river paragraph is weather until the last page makes it evidence.** ~110
+words on spring floods / summer shallows while James drives; then "Looks like someone dragged the
+bodies into the river." The opening and the close don't yet know they're about the same river.
+**Lever:** one right detail beats an inventory — keep whichever river fact the drag marks need.
+
+**(5) DIALOGUE, one line each:** "Something like that." — James's Ch1 dodge, now the sheriff's
+too ("you were law enforcement prior?" / "Something like that."): mirror or accident, decide ·
+"You're not here for little old me… put a stop to these damn murders" / "we have a lot of ground
+to cover" — stock sheriff (same register flagged in Ch3) · "How many attacked in total?" "3
+technically 4" vs Ch3's three attacks / six bodies — a reader will count (his call, one line) ·
+"The bodies are gone" (recovered) then "someone dragged the bodies into the river" — if they're
+lying badly on purpose, James doesn't catch it; he catches the smooth drag instead (his call).
+
+**(6) REPETITION (noted once):** "James" opens most sentences; the left-right-mirrors ritual
+appears twice (parking lot, then over the shoulder). Hip ×2 as the gun-touch — a percussion
+motif forming; observed, not prescribed.
+
+**SPINE / THEME PRESSURE-TEST:** first collision of the task force with the town. Three real
+things land: "Keep your eyes on the detective" (the task force already has Frank flagged — HOW is
+an open plant, in-draft); the print (the first thing on the page the science team will need);
+the closing read of the drag as staged (James doing the job). Asserted rather than landed: the
+THREAT — gold glare and widening smiles tell the reader what the reader already knew from Ch3.
+Rhyme worth knowing about: "Nothing." (James over his shoulder) echoes the coda's "Nothing he
+said." (the sheriff at Jeff's truck) — likely accidental; now it's a choice.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** office walk ≈ 330 · Frank/the river/the confrontation
+≈ 260 · town + river open ≈ 200 · the print ≈ 170 (the toes inside it: 12) · phone ≈ 150 ·
+the drag-mark read at the close ≈ 55. Longest section, least consequence; the two most
+consequential beats (print, drag read) are the two shortest.
+
+**WORKS — PROTECT:**
+- "The desk was empty leaving a phantom secretary to pencil him in." + the log's last entry.
+- "Youth only lasts so long."
+- Gargantuan bucks, one/two/several people crowding the trophy — hunters run this town.
+- The hand over the print for scale.
+- James covering the print with dirt — the chapter's decision in one gesture, no caption.
+- "Each twig snapping, advancing the timer."
+- "the gold blinding now as the sun passed over them" — the bloodied star, back in daylight.
+- The last paragraph: smooth drag, no rest, no tracks. The smartest thing James does.
+- "Keep your eyes on the detective."
+
+**PRIORITY-3:** decide the irony question in (1) · give the toes the camera · cut the
+pre-explaining on the phone.
+
+**ONE ASK (intent, unanswered at logging):** for a reader who already knows these two men found
+Jeff's star and are sitting on it, what is this chapter supposed to do to them — is James meant
+to see through John on sight, or be handled for a while?
+
+**CONTINUITY (added to the ledger, in-draft = open):** the flip phone "he was give" and a "sir"
+with a gravelly voice who brings "the rest of the team… this week" — identity not on the page
+(Rick? Brooks?); the task force knows there is a detective to watch; the secretary is "on the
+younger side," on summer days off (v1's Jessica is gone); the office's visitor log = three years
+empty; the first attack site = a campground with communal showers (not Jeff's trail); "3
+technically 4" attacked; James carries a notepad and a hand-drawn town map since arrival.

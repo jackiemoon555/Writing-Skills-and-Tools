@@ -671,3 +671,12 @@ only. Do not report % complete or a finish-length again.
   MD5 2ac19468e07a9d715fd7fd1897b08453. Checker: 15 hits (4 echo, 2 filter, 5 filler, 4 adverb —
   filed, not acted on). **No room pass — held per author ("save the pass").**
   **DAY 09-21 = 489 + 269 = 758. WEEK 2 = 489 + 269 = 758 / 5,000.**
+- **2026-09-24 — CH5 PARTIAL v2 (James: town drive, sheriff's office, the campsite, Stillwell)
+  INTAKEN (chat paste, PC session; 1,376w, first draft, unfinished).** Snapshot
+  `manuscripts/task-force-cryptid_ch5-partial-v2_chatpaste_2026-09-24.txt`. MD5
+  06bef38f32914879ecb99a507d84393b. Checker: 77 hits (27 echo, 18 filter, 20 filler, 12 adverb —
+  filed, not acted on). Room Pass 7 logged (partial; author caveat: not done, "a little sloppy but
+  the shape is there"). Net delta = 1,376 − 269 = +1,107 (v1 is superseded; v1 stays frozen —
+  `manuscripts/task-force-cryptid_ch5-partial-james-arrival_chatpaste_2026-09-21.txt` unchanged).
+  09-22 and 09-23 were rest days (0 words, author's call).
+  **DAY 09-24 = +1,107. WEEK 2 = 758 + 1,107 = 1,865 / 5,000.**
