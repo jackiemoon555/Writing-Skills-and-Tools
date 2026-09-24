@@ -1577,3 +1577,12 @@ technically 4" attacked; James carries a notepad and a hand-drawn town map since
   intercepts it. Not developed, not logged as plan.
 - Standing after this: (1) the two past-turf beats · (3) front-end telling · (4) the river
   paragraph · (5) "3 technically 4" vs. six bodies; "Something like that" ×2 · (6) noted once.
+
+### Pass 7 — two more rulings (author, chat, 2026-09-24; logged at his "Ok")
+- **"idyllic" STAYS** — PROTECTED at his instruction; off the (3) telling list.
+- **THE RIVER IS PROMOTED TO A FEATURE** of the book (from his research: it's one of Missoula's
+  defining features). Finding (4) is reclassified from "weather" to SETUP; the room's only later
+  watch = whether the opening river and the drag-mark river read as the same river on the page.
+- He went back to finish the chapter. Pass 7 now standing: (1) the two past-turf beats · (3)
+  front-end telling minus "idyllic" · (5) "3 technically 4" vs. six bodies; "Something like
+  that" ×2 · (6) noted once.
