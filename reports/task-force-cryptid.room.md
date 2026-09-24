@@ -1540,3 +1540,21 @@ with a gravelly voice who brings "the rest of the team… this week" — identit
 younger side," on summer days off (v1's Jessica is gone); the office's visitor log = three years
 empty; the first attack site = a campground with communal showers (not Jeff's trail); "3
 technically 4" attacked; James carries a notepad and a hand-drawn town map since arrival.
+
+### Pass 7 — AUTHOR RULINGS (chat, 2026-09-24; logged at his "Yes") — never re-raise
+- **INTENT (answers the pass's ONE ask): TURF, NOT THREAT.** James is a Green Beret dropped into
+  Montana and told to scout and map; he assumed a brief and got a CIA that is "wishy-washy or not
+  entirely forthcoming" (his words; tied to the creature reveal "as of right now"). His wariness
+  is an outsider not welcomed by local police. The sheriff treats James as a NUISANCE because
+  James doesn't know what they're hiding — "which he is for them, it's just not what he thinks."
+  The reader holds the third thing. **Withdrawn from finding (1):** the sheriff "worse at his job"
+  (hustling an outsider out the door is the Ch3 man) and James's wariness as a problem. **What
+  survives of (1), his to take or leave:** two beats read past turf — "his back was to a tree at
+  least" and the hand to the hip at the stains.
+- **"Something feels off. I can't place my finger on it." = JAMES'S VOICE**, not the narrator's
+  — the badly-briefed scout's read. Off the show-vs-tell list.
+- **THE TOES AT TWELVE WORDS ARE INTENTIONAL.** "It'll make sense later." Finding (2) is
+  WITHDRAWN and the beat is off the room's list for good; the room does not probe the later.
+- Chat-only, not canon, never develop: "the way it's gonna end will tie this all up nicely."
+- Left standing after the rulings: (4) the river paragraph up front not yet knowing it's the
+  same river as the drag marks; (5)'s one-liners; (6) noted once.
