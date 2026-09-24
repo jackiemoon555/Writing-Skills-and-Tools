@@ -1704,3 +1704,31 @@ woods carry a BLAIR WITCH feel — the thing is heard, glimpsed by the wrong man
 by the reader's man on the ground.** The room reads the forest against THAT from here (the
 prologue's "Saw for Jeff" intent stands beside it — his two stated feels for the woods).
 Finding (1) — the men's missing reaction to the thrown body — is unaffected and stands.
+
+### Pass 7a — AUTHOR RULINGS, batch (chat, 2026-09-24, logged at the pause) — never re-raise
+- **"Something like that" ×2 = ON PURPOSE.** The sheriff dodges, James answers with the same
+  sentence: "they understand that they don't trust each other." Off the list.
+- **CH1 IS ON THE REWRITE DOCKET** (expected this week per the 09-21 handoff). Logs as **Pass
+  3b** when it lands in the Doc. The Pass 3 notes are his target list only if he asks for them.
+- **REVISED ENDING (chat, same day, not yet in the Doc):** Frank: "Did you see?" / James: "See
+  what? Your friend launch a fucking body?" / "It wasn't human man. It had fur. It was like
+  eight or nine feet tall." / "A bigfoot hoax? That's all you and that backwater sheriff
+  have?" → the vest → **"Detective Stillwell, I think I found your missing ranger."** → **"Frank
+  paled."** → the trees shamble, "Both men watched" → Frank: "A human can't do that." → the
+  line of red toward the town. **Findings (1) the missing reaction and (3) whether Frank sees
+  the vest are ANSWERED** — James disbelieves (the drug theory survives a thrown corpse), Frank
+  is told by the fake fed that his ranger has been found. Snapshot + count when it reaches the
+  Doc (7b).
+- **"the trees shamble" STAYS** — his declared device: **THE FOREST IS PERSONIFIED** (prologue:
+  shadows "hungrily licked," "each drag seemed to pull the woods closer"; Ch4: the church that
+  breathes; Ch5: bugs "bringing the woods even closer," trees that shamble). A through-line, not
+  a slip; the room reads forest verbs against it from here.
+- **THE DUALITY IS DESIGNED:** "when everything gets real, James keeps his head and Frank loses
+  himself." A reversal of the bank scene (Frank had the upper hand — "There are no eyes out
+  here" — and James the trembling gun); at the creature they trade. Off the list.
+- His own read, logged as his: "I do feel this is great though. Good to know my quality is
+  carrying over from chapter 4." He'll clean the chapter up later today (Pass 7b when pulled).
+- **Standing after this batch (nine, none structural):** the two past-turf beats · front-end
+  telling (4 lines) · the opening river vs the ending river · "3 technically 4" vs six bodies ·
+  "James remembered his orders." · "dusk air dancing" · the head read in three sentences ·
+  stock sheriff lines · "James" openers.
