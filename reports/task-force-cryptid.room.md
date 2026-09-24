@@ -1558,3 +1558,22 @@ technically 4" attacked; James carries a notepad and a hand-drawn town map since
 - Chat-only, not canon, never develop: "the way it's gonna end will tie this all up nicely."
 - Left standing after the rulings: (4) the river paragraph up front not yet knowing it's the
   same river as the drag marks; (5)'s one-liners; (6) noted once.
+
+### Pass 7 — CONTINUITY + one more ruling (author, chat, 2026-09-24; logged at his "Ya")
+- **SETTING BASIS:** the town is modeled on **Missoula, Montana** but is deliberately NOT 1:1
+  and stays UNNAMED on the page ("so I don't write myself into a hole on accident"). The only
+  real anchors on the page are **the Lolo forest** and **"the college"** (Ch3). Keep the river
+  unnamed, distances vague; never 1:1 it from Claude's side either. He notes Missoula has an
+  actual FBI office (his fact, not verified by the room).
+- **THE FLIP PHONE IS A BURNER** — that's why James speed-dials 1 on it and takes the print
+  photos on his OWN phone. Two phones on the page = intentional; no flag.
+- **RULING: "Unfortunately, we didn't have time or the bodies to carryout a full investigation"
+  IS A LIE, by design** — and James is catching it through the drag marks ("It was a smooth
+  drag… No footprints or massive paw prints"), which is exactly where the chapter stopped. The
+  room's (5) "bodies gone vs. dragged into the river — James doesn't catch it" is WITHDRAWN: he
+  does, on the page, the room's own way. Chat-only design (not canon): to the reader the cops
+  "aren't really cops, or at least corrupt cops" — they ask no questions and want him gone
+  fast; toyed with: John routes the federal request properly to buy time and the CIA
+  intercepts it. Not developed, not logged as plan.
+- Standing after this: (1) the two past-turf beats · (3) front-end telling · (4) the river
+  paragraph · (5) "3 technically 4" vs. six bodies; "Something like that" ×2 · (6) noted once.
