@@ -1828,3 +1828,29 @@ not probed); sent by Father Joseph; knows "Kyle" and "Rick/Rich" unprompted; the
 room is at CIA HQ; the Director's office is on a windowless top floor; a flight is coming
 ("When we land"); Brooks bald "since I was a kid"; Noah: golden curls, toothy smile, no
 cursing. **COUNTS:** 455 new. DAY 09-24 = 2,562. WEEK 2 = 3,320 / 5,000.
+
+### Pass 8 — CORRECTION (room error, caught by the author, 2026-09-24) + ruling
+- **ROOM ERROR:** Pass 8 (and one line of Pass 7a) cited "the prologue's" priest, cross,
+  handshake-prayer, "Amen," and the President's phone call. **Those are from the RETIRED 09-14
+  prologue** (Director Burch + the young priest requisition scene) — replaced by the forest
+  prologue (Rick + Jeff the ranger, v2 → v4). The ledger's HEAD BLOCKS §1–3 (calibration,
+  continuity, protect list) were written 2026-09-14 for the old prologue and were never marked
+  superseded; the room read them as current. **Verified against the v4 snapshot today: no
+  whiskey, no cigar, no priest, no President — Rick smokes CIGARETTES (×5) and in Ch4 carries a
+  FLASK.** So Pass 8's continuity line "cigarettes vs. whiskey + cigar" is WRONG and withdrawn:
+  cigarettes are consistent for Rick across the prologue, Ch4, and Ch6. Also stale in Pass 8:
+  "the prologue's unnamed young priest — same man?" (no such priest on the page), "'Did you
+  pray?' = the prologue's 'Amen' reversed," and the recruitment tally's "President → Rick."
+  What stands from the old scene on the page today: nothing — the unit is UNNAMED (09-19 title
+  note) and Task Force Cryptid is a filing handle from a cut scene.
+- **HEAD-BLOCK NOTE for every future pass:** §1–3 at the top of this ledger describe the retired
+  prologue. Until they're rewritten, the CURRENT baseline is: prologue v4 (Rick + Jeff, the
+  forest, the coda with the star) · Ch1 James (v2) · Ch2 Elizabeth · Ch3.2 Frank · Ch4.1 the
+  Vatican · Ch5 James/Frank · Ch6 Brooks/Noah. Read the latest snapshots, not §2.
+- **AUTHOR, ON RICK (logged verbatim in spirit): "just cigarettes and a flask, a man whose
+  currency is stress."** His declared read of the Director — the room reads Rick against it.
+- **RULING on the Pass 8 ask (Noah "eager to meet the director" vs. "far too long, Rick"):
+  "It'll make sense soon."** CLAIMED — held, never re-raised, never probed.
+- Pass 8 standing after this: (1) the walk — jabs in no order, no fortress detail · (2) the
+  hallway image ×3 · (3) the two corny lines · (4) the smile caption · (5) "no windows / what
+  windows."
