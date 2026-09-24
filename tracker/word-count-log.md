@@ -694,3 +694,11 @@ only. Do not report % complete or a finish-length again.
   **Net delta = 2,376 − 1,376 = +1,000. DAY 09-24 = 1,107 + 1,000 = 2,107. WEEK 2 = 1,865 + 1,000 =
   2,865 / 5,000.**
   Ch5 at 2,376w is his longest chapter (Ch4.1 = 1,803).
+- **2026-09-24 (evening) — CH6 OPENING (Brooks + Father Noah at CIA HQ → the Director's office:
+  "Rich" / "Rick") INTAKEN (chat paste, PC session; 455w prose, first draft, partial — author:
+  "likely done after this" for the day).** Snapshot
+  `manuscripts/task-force-cryptid_ch6-opening_chatpaste_2026-09-24.txt`, MD5
+  20a468d5f8a1def78476d84099cbec02. Checker: 21 hits (5 echo, 5 filter, 6 filler, 5 adverb — filed,
+  not acted on). Room **Pass 8** logged (partial, at his request: "go for it").
+  New chapter → whole count is net new. **DAY 09-24 = 2,107 + 455 = 2,562. WEEK 2 = 2,865 + 455 =
+  3,320 / 5,000.**

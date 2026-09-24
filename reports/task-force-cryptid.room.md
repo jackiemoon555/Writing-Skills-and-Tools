@@ -1732,3 +1732,99 @@ Finding (1) — the men's missing reaction to the thrown body — is unaffected 
   telling (4 lines) · the opening river vs the ending river · "3 technically 4" vs six bodies ·
   "James remembered his orders." · "dusk air dancing" · the head read in three sentences ·
   stock sheriff lines · "James" openers.
+
+## Pass 8 — CHAPTER 6 OPENING (PARTIAL): Brooks + Father Noah at CIA HQ → the Director's door, "Rich" / "Rick" (2026-09-24 chat paste, PC session, evening; 455w prose, first draft, unfinished; snapshot task-force-cryptid_ch6-opening_chatpaste_2026-09-24.txt; MD5 20a468d5f8a1def78476d84099cbec02)
+*Author's frame: "chapter 6 beginning, likely done after this [for the day]" → room offered to
+hold for the full chapter; he said "Ya go for it. I feel like it's one of my stronger openings."
+Read at his request on a partial; drafting menu only. Intake delegated to Sonnet; checker filed
+silently (21 hits). Ledger reloaded: the prologue (unnamed young priest + the Director; the
+handshake → "Amen"), Ch4 (Brooks "left in the dark"; Matthew: "Last time we had to drag you
+out"; "Have him contact HQ"), Ch2 (Brooks's cigarettes), Pass 3's "third recruitment shape."*
+
+**WHAT'S ON THE PAGE:** Brooks paces a hallway ("hallways always looked never ending, like
+there was a void at the end"); an interrogation room; **Father Noah** — young, black robes,
+"broad, toothy smile," "golden curls"; "Kyle. So happy you came to see me."; Brooks with a
+dossier: **"Stepping around how you know my name, everything checks out, Father."**; Noah:
+"very eager to meet the director. I've some very tall tales about the man."; "I'm assuming
+you're who Father Joseph sent." / **"Possibly… Maybe I'm an assassin?"**; Brooks looks over
+his shoulder; a knock; "the never ending wormhole sucking them back in"; Noah on HQ: "a real
+fortress"; "I'd appreciate it if you called me Agent Brooks" (ignored); elevator; top floor,
+no windows / covered windows; "Where is the sunlight?" / "There is place for light in the
+shadows, Father."; offices; suits ("When we land I'll be in something different" — a flight
+planted); hair — "I've been balding since I was a kid" / **"Did you pray?"**; **"Father don't
+make me curse at you. I'm trying to like you." / "Give it time, Kyle."**; "Brooks could feel
+the stupid fucking smile."; the door — "Enter." — **"Wow. Such a nice office you have, Rich."**
+→ the Director's face drops, reaches for cigarettes, "Don't fucking tell me." → **"It's been
+far too long, Rick."** → Brooks: "Sir?" → **"Sit down, Brooks."** END (partial).
+
+**VERDICT:** yes — the best two-hander since the prologue's cross, and the last four lines
+turn the whole walk. The middle sags between them.
+
+**HARDEST FIRST — (1) The walk from the room to the door is the chapter's middle: a row of
+jabs in no particular order, in a building with no particular detail.** Sunlight → suits →
+hair → pray: each lands, any order would do, nothing tightens toward the door ("Did you pray?"
+is the best and is last, which helps). The "real fortress" gets "there were no windows. What
+windows did exist were covered in all black covers" and "nothing but offices. Some held one
+person, some had room for maybe five or more" — an inventory of nothing; the Vatican got a book
+bound in hair, Langley gets a headcount. **Lever:** one right detail beats an inventory, and the
+needle should cost Brooks more each step — order the jabs to escalate, or keep the two that do.
+
+**(2) REPETITION — the hallway image ×3 in 300 words:** "never ending, like there was a void
+at the end" → "the never ending wormhole sucking them back in." Good image for the man who
+walked into the Vatican's abyss; once is character, three times is a tic.
+
+**(3) CORNY:** "There is place for light in the shadows, Father." (fortune cookie; Brooks
+talks like that nowhere else) · "the never ending wormhole sucking them back in."
+
+**(4) DIALOGUE:** Noah's voice is DISTINCT and that matters — five men in this book curse and
+he doesn't; he needles ("Kyle. So happy you came to see me." / "Let your hair go."). First
+person to hold the upper hand on Brooks, and Brooks knows it ("I'm trying to like you"). One
+caption: "The priest held his unusually vibrant smile, Brooks held his place, looking over his
+shoulder." — the look over the shoulder is the beat; the smile is already described twice.
+
+**(5) CLARITY (one line):** "there were no windows. What windows did exist…" contradicts
+itself in one sentence.
+
+**(6) CONTINUITY, one line each, his call:** the Director reaches for CIGARETTES — prologue
+gave him whiskey + a cigar, Ch4 a flask; cigarettes are Brooks's. · "very eager to meet the
+director… tall tales about the man" then "It's been far too long, Rick": a LIE the reader
+catches with Brooks (plant working) or a slip (hole) → the ONE ASK.
+
+**SPINE / THEME PRESSURE-TEST:** the priest-and-Director pairing from the prologue returns
+with a face on it; the Church keeps sending men who know Rick better than his own people do
+(Matthew, now Noah). Brooks-in-the-dark is a running engine three chapters deep and this is the
+right way to spend it — Brooks and the reader learn "Rick" in the same instant. "Did you pray?"
+= the prologue's "Amen" with the power reversed. LANDS: the turn. ASSERTED: the fortress.
+Recruitment shape (Pass 3 counted three, all downhill — President→Rick, Brooks→James,
+Brooks→Elizabeth): this one INVERTS it — the recruit walks in knowing the recruiter's boss.
+
+**MOTIF (observed, not prescribed):** everyone polices what they're called — "it's Detective
+Stillwell" / "Special Agent" / "Mr. Director" / "call me Agent Brooks" — and Noah, like Mr.
+Long, won't; then he calls the Director "Rich." Names are rank in this book and the priest
+doesn't recognize rank.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** interrogation room ≈ 200 · walk ≈ 250 · office ≈ 60.
+The turn is shortest by design — a cliff on a partial. Not a flag.
+
+**WORKS — PROTECT:**
+- "Stepping around how you know my name, everything checks out, Father."
+- "Maybe I'm an assassin?"
+- "Did you pray?"
+- "Father don't make me curse at you. I'm trying to like you." / "Give it time, Kyle."
+- "Brooks could feel the stupid fucking smile."
+- "Wow. Such a nice office you have, Rich." → face drops → "Don't fucking tell me." → "It's
+  been far too long, Rick."
+- "Sit down, Brooks."
+
+**PRIORITY-3:** one real detail in the fortress · make the jabs escalate or cut to the two
+that do · one hallway image, not three.
+
+**ONE ASK (open at logging):** Noah's "very eager to meet the director" — a lie the reader is
+meant to catch at "Rick"?
+
+**CONTINUITY (in-draft = open):** **Father Noah** = the first NAME on any priest in the
+recruitment line (the prologue's young priest is still unnamed on the page — same man? open,
+not probed); sent by Father Joseph; knows "Kyle" and "Rick/Rich" unprompted; the interrogation
+room is at CIA HQ; the Director's office is on a windowless top floor; a flight is coming
+("When we land"); Brooks bald "since I was a kid"; Noah: golden curls, toothy smile, no
+cursing. **COUNTS:** 455 new. DAY 09-24 = 2,562. WEEK 2 = 3,320 / 5,000.
