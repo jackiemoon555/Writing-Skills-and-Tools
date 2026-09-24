@@ -173,3 +173,10 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   card for the list (the 2-drop that makes his 1-or-less-Power cards cost 1 less) — same card the
   09-19 note called the anti-brick. So his two 09-19 worries (no-Negative games, the 4-drop clump)
   are now answered by Wong and Ravonna respectively, on results.
+- 2026-09-24 — **SNAP PACK DROP RATES filed** (he sent the official page):
+  `games/snap/reference/snap-packs-drop-rates_2026-09-24.md` — all five tables verbatim + the
+  math. Read once: a pack = 1 RANDOM unowned card of that series + 2 bonus rolls; the bonus rolls
+  are worth ~0.5-3% of the price back (mostly boosters); S3 card = 1,000 tokens, S4 = 3,000, S5 =
+  6,000; you cannot target a card - the pool is random, and the pity guarantee only covers bonus
+  rolls at 37+ rolls. Standing advice: buy the SERIES the card you want is in, know it is a lottery
+  inside that series, and ignore the bonus-roll odds when deciding.
