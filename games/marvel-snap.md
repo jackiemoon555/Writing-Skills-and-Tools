@@ -166,3 +166,10 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   lane undoes the swap didn't stop it from working — the results outrank Claude's read. Not asked:
   which lane Wong goes in, or whether he swapped back to Zombies between climbs. First deck of his
   own edit to carry him to a new peak (Zombies and Ramp were free lists).
+- 2026-09-24 — HIS READ on why Wong over Taskmaster (his words, logged): Wong "gives you another
+  out if you don't hit Mr. Negative" — "I feel awful without it"; with Wong "all the on reveal
+  effects add up quick." Known cost: the concentration of 4-drops (Wong beside Negative), but it
+  has "yet to really brick a hand." And he named **Ravonna Renslayer** as the sneaky-important
+  card for the list (the 2-drop that makes his 1-or-less-Power cards cost 1 less) — same card the
+  09-19 note called the anti-brick. So his two 09-19 worries (no-Negative games, the 4-drop clump)
+  are now answered by Wong and Ravonna respectively, on results.
