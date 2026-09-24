@@ -1586,3 +1586,121 @@ technically 4" attacked; James carries a notepad and a hand-drawn town map since
 - He went back to finish the chapter. Pass 7 now standing: (1) the two past-turf beats · (3)
   front-end telling minus "idyllic" · (5) "3 technically 4" vs. six bodies; "Something like
   that" ×2 · (6) noted once.
+
+### Pass 7a — CHAPTER 5 COMPLETE: the second half — Frank tests the badge, the drug accusation, the walk, the head in the river, the creature across the river, the body thrown, the vest (2026-09-24 chat paste, PC session, same day as Pass 7; second half 1,037w new → chapter 2,376w, his longest; snapshots task-force-cryptid_ch5-second-half_chatpaste_2026-09-24.txt MD5 2cbef2937582f98d439d7564effacae6 [verbatim paste] and task-force-cryptid_ch5-complete_chatpaste_2026-09-24.txt MD5 18ced3e69b4f6d59901f777d9c689a6a [v2 + second half, overlap deduped])
+*Author's frame: "Ok the rest. I'll come back to it likely next week if I have time. I feel it
+can be better but it has its moments." Complete first draft. Pass 7's morning rulings HOLD
+(turf not threat; phone line = James's voice; toes intentional; "idyllic" protected; river = a
+feature; burner; "never investigated" = lie). Intake delegated to Sonnet; checker filed
+silently (151 hits on the complete file). Read on the drafting menu only.*
+
+**WHAT'S NEW ON THE PAGE:** James follows the drag; Frank returns ("Crazy trail, huh?");
+**Frank tests the badge** — "I thought y'all had to wear easily identifiable clothing with big
+bold FBI across it?" → James: "bum fuck Montana" → **"I'm aware agent Johnson. There are no
+eyes out here."**; **Snap!** — a stampede to the right; James draws, shooting stance; Frank
+backs away → "You're not permitted to leave yet detective"; Frank's hand to his own weapon;
+**James's theory = DRUGS**: "How much are skimming off the top?" / "I hope I don't find any
+drugs around here" / Frank: "I didn't know looking out for people meant I was a fucking drug
+dealer."; "Also I'm not a fucking fed."; "Isolated attacks happen every year… a teenager…";
+"James remembered his orders." → "if you leave I will have you arrested"; they walk the river
+at dusk ("It's shallow, something must have washed up"); bugs "bringing the woods even closer";
+**"that shitty rock"** → squishy → "He spun the rock over and its eyes met his." — a severed
+head, waterlogged, bloated; "Think its our campers?"; **"Did they find out about your
+operation?"** whispered; a wolf howls; "The cut was a clean slice, almost surgical… 'Looks to
+be a professional.'"; **red eyes across the river**; "Detective, I don't remember there being a
+wolf problem around here." / **"There wasn't"**; FRANK sees "a figure walk from the shadows…
+huge, taller than any man… covered in fur"; Frank rubs his eyes, then harder; "Before James
+could look over, something came flying over the horizon. It landed with a wet thud on the river
+bank."; Frank: "Is it watching me?"; James inspects: a body, forest-green uniform, **"Special
+Forest Service"** across the vest (= Jeff); a howl, trees shaking as the figure passes; **"He
+watched as the line of red flowed back towards the town."** END.
+
+**WITHDRAWN from the morning's read, answered on the page:** "nobody tests the cover" — Frank
+does, and the test becomes a threat ("There are no eyes out here"). And the turf read is now
+explicit: James thinks it's drugs.
+
+**HARDEST FIRST — (1) The climax stacks the head, the howl, the red eyes, the figure, the
+thrown body, the vest and the blood in the river, and the two men get no room to be hit by any
+of it.** The head gets a real beat ("its eyes met his"); then the reveals come one per sentence.
+"Before James could look over, something came flying over the horizon. It landed with a wet
+thud on the river bank." → "James walked up to the object to inspect." A thing across the river
+threw a corpse at two armed men and James walks over like it's a package. The only reaction on
+the page is Frank's thought, "Is it watching me?"; the gun that "trembled slightly" a few lines
+earlier had the right idea. **Lever:** the reaction IS the scene — the thrown body has to cost
+the men something before James reads the vest. His known weakness, at the book's biggest beat.
+
+**(2) STRUCTURE (not a POV note — drafting menu): the creature is witnessed by FRANK, in
+Frank's head, in James's chapter; James never sees it.** "Frank still looking ahead watched a
+figure walk from the shadows." "Frank rubbed at eyes." "Frank watched the figure transform into
+red eyes." "Frank had a terrible thought." (Earlier: "Frank cocked an eye brow as he watched the
+agent from behind.") Consequence: the reader's man on the ground doesn't witness the thing; the
+compromised cop does. If designed — James still doesn't know, Frank now does — it's smart. If
+accidental, the climax belongs to the wrong man. → the pass's ONE ASK.
+
+**(3) The vest is aimed at Frank and Frank never looks at it.** "Special Forest Service" = Jeff.
+The man who found Jeff's star and said "Nothing" is standing beside Jeff's body, watching the
+eyes. The page never states it (right) — but the payoff currently lands on James, who doesn't
+know what the star was. Whether Frank sees the vest is a choice not yet made.
+
+**(4) DIALOGUE:** the bank argument is the chapter's strongest stretch and Frank has the best
+lines (badge test / "no eyes" / "not a fucking fed" / "fucking drug dealer"). James's cover
+answer is thin — correct for a badly-briefed man. One line is Frank EXPLAINING rather than
+winning: "Isolated attacks happen every year… like a teenager deciding to murder his or family
+because of girl or guy" (deflection, so it half-earns it). "James remembered his orders." —
+the reader heard the orders on the phone; the arrest threat shows it.
+
+**(5) CORNY:** "the dusk air dancing on his skin."
+
+**(6) The head is read too fast:** "The cut was a clean slice, almost surgical. The man had
+died almost instantly. 'Looks to be a professional.'" — James's theory closing over the
+evidence in three sentences; fine as character (he wants it human), but "Think its our
+campers?" and "Did they find out about your operation?" do it better and come first.
+
+**SPINE / THEME PRESSURE-TEST:** the chapter where the book's three lies meet on one riverbank
+— the fake fed, the dirty cop, the thing. LANDS: the badge test turning into a threat; the drug
+accusation as the wrong answer that is almost right; the prologue's Snap! returning under James;
+the bugs "bringing the woods even closer" = the prologue's "each drag seemed to pull the woods
+closer" in daylight; the last image (blood flowing back toward the town) = the book's best
+closing line yet. ASSERTED: the terror — the creature is described ("huge, taller than any man…
+covered in fur") and the description is standing in for the reaction.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT (second half):** bank argument ≈ 430 · walk/dusk ≈ 110 ·
+rock/head ≈ 200 · creature + thrown body + vest + ending ≈ 230. The last 230 holds the four
+biggest beats in the book; the argument (good) gets nearly twice the room.
+
+**WORKS — PROTECT:**
+- "I thought y'all had to wear easily identifiable clothing with big bold FBI across it?" +
+  "There are no eyes out here."
+- "Also I'm not a fucking fed."
+- "How much are skimming off the top?" — James's whole wrong theory in one line.
+- Snap! under James — the prologue's percussion, now his.
+- "No, just that shitty rock." → the narrator adopts "the shitty rock."
+- "He spun the rock over and its eyes met his."
+- "Did they find out about your operation?" — whispered, over a head.
+- "Detective, I don't remember there being a wolf problem around here." / "There wasn't"
+- Frank rubbing his eyes, then harder — Brooks did it at the mask: men rubbing their eyes at
+  the thing is a MOTIF now (observed).
+- "He watched as the line of red flowed back towards the town." — no caption after it.
+
+**PRIORITY-3:** let the men react to the thrown body · decide who witnesses the creature, and
+mean it · decide whether Frank sees the vest.
+
+**ONE ASK (open at logging):** James never sees the creature and Frank does — design or
+accident?
+
+**CONTINUITY (in-draft = open):** the creature on the page for the first time in the present
+tense of the book: red eyes, "taller than any man," "covered in fur," howls, throws a body
+across a river, shakes trees as it passes; James's theory = drug operation; Frank: "There
+wasn't" a wolf problem; the campsites stay open — "the town's only real revenue stream"; the
+9 o'clock curfew is known to James; a severed head in the river, clean cut; Jeff's body
+recovered by the CREATURE, delivered to Frank and James at dusk; James's SUV vs Frank's truck
+(they came in the sheriff's truck; Frank's truck is "back" up the river); James uses "Ya."
+**COUNTS:** second half 1,037 new; chapter 2,376 (longest; Ch4.1 = 1,803). DAY 09-24 = 2,107.
+WEEK 2 = 2,865 / 5,000.
+**RULING (author, chat, minutes after the pass): DESIGN.** "James never sees it, it's to add to
+the Blair Witch feel of the woods I want." Finding (2) WITHDRAWN; James not witnessing the
+creature is the point; Frank as the witness stands. **DECLARED for this book (rule 4b): the
+woods carry a BLAIR WITCH feel — the thing is heard, glimpsed by the wrong man, and never seen
+by the reader's man on the ground.** The room reads the forest against THAT from here (the
+prologue's "Saw for Jeff" intent stands beside it — his two stated feels for the woods).
+Finding (1) — the men's missing reaction to the thrown body — is unaffected and stands.

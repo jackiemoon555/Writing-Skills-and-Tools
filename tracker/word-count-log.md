@@ -680,3 +680,17 @@ only. Do not report % complete or a finish-length again.
   `manuscripts/task-force-cryptid_ch5-partial-james-arrival_chatpaste_2026-09-21.txt` unchanged).
   09-22 and 09-23 were rest days (0 words, author's call).
   **DAY 09-24 = +1,107. WEEK 2 = 758 + 1,107 = 1,865 / 5,000.**
+- **2026-09-24 (later) — CH5 COMPLETE (second half: Frank tests the badge, the drug accusation,
+  the walk, the head in the river, the creature across the river, the body thrown, the vest)
+  INTAKEN (chat paste, PC session; second half 1,000w new; chapter total 2,376w, first draft,
+  complete — author: "it can be better but it has its moments", may return to it next week).**
+  Snapshot `manuscripts/task-force-cryptid_ch5-second-half_chatpaste_2026-09-24.txt`, MD5
+  2cbef2937582f98d439d7564effacae6. Complete-chapter snapshot
+  `manuscripts/task-force-cryptid_ch5-complete_chatpaste_2026-09-24.txt`, MD5
+  18ced3e69b4f6d59901f777d9c689a6a (= v2 file + second-half paste with its duplicated opening
+  paragraph removed, joined at "No footprints or massive paw prints." / "James followed the drag
+  trail" — grep confirms the sentence occurs exactly once). Checker: 151 hits (57 echo, 32 filter,
+  41 filler, 21 adverb — filed, not acted on). Room Pass 7a logged.
+  **Net delta = 2,376 − 1,376 = +1,000. DAY 09-24 = 1,107 + 1,000 = 2,107. WEEK 2 = 1,865 + 1,000 =
+  2,865 / 5,000.**
+  Ch5 at 2,376w is his longest chapter (Ch4.1 = 1,803).
