@@ -91,3 +91,21 @@ problem was promptly sorted," girlfriend left; a rival's "hostile take over"; th
 = cash + Joe's dossier + the daughter's polaroid.
 
 **RULING on the ONE ASK (author, same day): standalone; possibly serialized later; warm-up only; not counted toward the book.**
+
+### Pass 1 — AUTHOR RULINGS (chat, 2026-09-25; logged at his "Ya")
+- **JOE DOESN'T KNOW.** Gomez is a cartel leader whose "business ventures" are an attempt to
+  break into the legal market; to Joe he is "just a rich guy," and Joe's clients are, as far as
+  Joe knew, successful businessmen. The session's dread = Joe working it out in real time
+  ("brush shoulders with some of your clients" → his whole client list turns over). **Finding
+  (1) WITHDRAWN** — the dread is placed where it belongs. The title "Black Market Therapist" is
+  what Joe has been without knowing it.
+- Room's one residual note, his call: **the title tells the reader on line one what Joe learns
+  on the last page** — the reader is ahead of Joe throughout and shares his dread, not his
+  discovery. Legitimate; it's a choice; the title is the whole decision.
+- **CLEAN-UP DEFERRED** — "after I finish my priorities" (the novel outranks it; rule 1).
+- **SERIES CONCEPT (his, idea not plan — never developed by the room):** "a really good
+  serialized project. Each new writing lives in the therapist's office with increasingly
+  unhinged individuals, like Gomez's friends." The premise line is already on the page: "I'll
+  be sure to recommend you to my colleagues."
+- Standing: the smile ×2 · "a darkness that lived within" · "Everyone has a price" after the
+  watch already said it.
