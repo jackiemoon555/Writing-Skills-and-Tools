@@ -1941,3 +1941,5 @@ suit, cigarettes + ashtray, "trophies" in the office, a SCROLL taken from Father
 Timeline: Ch5's James is already in Montana ("the rest of the team… this week"). Salem's Lot →
 the ledger called Ch3 "the Salem's Lot town chapter" on 09-17; the interlude form enters this
 book here. **COUNTS:** 921 (+466). DAY 09-25 = 466 (novel only). WEEK 2 = 3,786 / 5,000.
+
+**RULING on Pass 8a (2) (author, chat, 2026-09-25): the scroll is a PLANT — intentional, thrown away on purpose; "I have an idea in my head that leaves room for a sequel." CLAIMED — never re-raise, never probe; the sequel stays in his head (nothing downstream mid-draft).**
