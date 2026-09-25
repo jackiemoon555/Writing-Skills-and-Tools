@@ -9,9 +9,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   stayed cause I actually like it." Rank **75**, peaked **83 (Omega)**. Climbed to the 70s on the
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
-- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **Omega 84 — NEW PEAK,
-  hit twice, 2026-09-24**, on the NEGATIVE deck (base list minus Taskmaster, plus Wong). Previous
-  peak 83.
+- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **Omega 86 — NEW PEAK, 2026-09-25**, on
+  the NEGATIVE deck (Taskmaster + Gorr list, see 09-24 night). Previous peaks: 84 (09-24, Wong list), 83.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -195,3 +194,13 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Ongoing, so the two never shared a plan - dropping Wong for him is coherent; (4) it's a two-card
   change at once (Wong->Taskmaster AND Cassandra->Gorr), so a good or bad night won't say which swap
   did it. Two things to watch in testing: Gorr's number and the no-Negative hands.
+- 2026-09-25 — **OMEGA 86, NEW PEAK, on the Taskmaster + Gorr Negative list** ("it's working really
+  well"). His rulings from the chat, which corrected Claude's 09-24 read: (1) **Gorr counts the
+  OPPONENT'S On Reveal cards too** ("in play" = both sides; his in-game read) - so Gorr wins hands
+  with no Negative against any On Reveal deck; (2) the double top end is NOT a brick: **any ONE of
+  Ravonna (discount to 5), Psylocke (+1 energy), or Magik (Limbo = a guaranteed turn 7)** lands both
+  6-drops without Negative - three separate enablers, three chances to draw one; (3) **RETREAT RULE
+  AMENDED:** the 09-19 "no Negative by T4 -> retreat" now has an exception - Gorr in hand vs an On
+  Reveal opponent is a stay; still retreat with no Negative AND no enabler, earlier on their snap with
+  nothing in hand. (4) He's "focused hard on dipping when the situation isn't good" - the retreat
+  discipline is doing as much of the climb as the list. Claude's 09-24 "two bricks" line is withdrawn.
