@@ -2051,3 +2051,6 @@ three-or-four pads); they take the arm first; the pack howls in unison. Both And
   to the open ask: **the wife gets a NAME; the barn gets more words; so does the ending.** (Not
   assigned by the room — his own list for his own revision, deferred behind new pages.)
 - **His final wording on the endings problem (2026-09-25, supersedes the fuel line above):** "I've just been confusing what the final part needs. I've been investing more in the setup and ending on more ambiguous endings to leave details out, but it's not landing as well." Deliberate withholding, reading as thin. Room's distinction, accepted: ambiguity withholds MEANING, never SENSATION — keep the answer, give the moment. He knows the problem; the room does not re-explain it.
+
+### AUTHOR DECLARATION — 2026-09-25 (logged at his instruction: "add it to my notes for my chapter 1 revision")
+- **JAMES JOHNSON IS AFRICAN AMERICAN.** "I just think it fits and adds another layer of why James doesn't trust the town." Comes out on the page in **CHAPTER 7**; goes on the **CH1 REWRITE DOCKET** (→ Pass 3b). Not on the page yet anywhere — the room does not infer it into earlier chapters, and does not re-read Ch5 for it until he brings it there. Consequence for the record only: the Pass 7 turf ruling (an outsider not welcomed by local police) gains a layer he intends, not one the room adds.

@@ -35,7 +35,9 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > (sequel room — held, never probe); "There is no place for light in the shadows" = Brooks's
 > line as intended; Ch6 = "the last recruitment chapter" (chat).
 > **OPEN ASKS (his to answer Sunday or never):** Interlude 1 — the wife unnamed while the cows
-> are named: choice or oversight? Ch1 is on his REWRITE DOCKET (→ Pass 3b when it lands).
+> are named: choice or oversight? Ch1 is on his REWRITE DOCKET (→ Pass 3b when it lands) — **and
+> carries a NEW DECLARATION (09-25): James is African American; it surfaces in CH7, and the Ch1
+> rewrite should carry it (his note to himself, logged in the ledger).**
 > **SETTING BASIS (ledger):** modeled on Missoula, MT — town UNNAMED by design, not 1:1; only
 > real anchors = the Lolo forest + "the college." Never 1:1 it from Claude's side.
 > **NEW SIDE LANE — WARM-UP SERIES** (`reports/warm-up-series.room.md`): "Black Market
