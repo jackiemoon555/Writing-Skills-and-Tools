@@ -2026,3 +2026,19 @@ cows Betsy, Laura (+ others); pump shotgun by the recliner; a farmhouse "in the 
 barn; **THREE beasts** — towering, fur, "muscle bound," "inhuman speed," THREE CLAWS (the print's
 three-or-four pads); they take the arm first; the pack howls in unison. Both Andersons dead.
 **COUNTS:** 706 new. DAY 09-25 = 1,172 (novel only). WEEK 2 = 4,492 / 5,000 — 508 to go.
+
+### Pass 9 — AUTHOR RULINGS (chat, 2026-09-25; logged at his "Yes")
+- **INTERLUDE PACING LAW (declared for this book, rule 4b): the MUNDANE goes quick, the HORROR
+  goes slow.** "I don't mind some divergence… I don't want to be King. That story's been told
+  already." Finding (1) stands with its direction settled: NOT a longer farmhouse — a SLOWER
+  barn. The room reads every interlude against this from here (Int1 as written: mundane ≈ 230,
+  approach ≈ 230, barn ≈ 200 — the horror is currently the fastest part).
+- **Where the final beat BEGINS (his correction, stated twice): when the TORMENT begins — the
+  first tap at the window — not when Carl is pulled away to the barn.** The horror section runs
+  from "Tap. Tap." to the last howl; that whole stretch is the part that gets the words.
+- **CLAIMED, from his own page (discovery): THE PACK LURED CARL OUT.** The taps at the window,
+  the knock at the door, the figure that bounds for the barn — bait, so a second beast could get
+  into the house to the wife ("Another monstrosity came from the house"). The pack is
+  COORDINATED and INTELLIGENT. "Which just hit me and adds another layer of horror." Nothing on
+  the page needs to change for it; the room reads the creatures as tactical from here.
+- Still open: the wife unnamed vs the cows named — choice or oversight?
