@@ -662,3 +662,50 @@ only. Do not report % complete or a finish-length again.
   small edits of unknown date, counted here. Ch1 697 and Ch4 1,803 unchanged.
   **DAY 09-21 = +480 +1 +8 = 489. WEEK 2 = 489 / 5,000.** Live total (Doc-verified) = prologue
   1,341 + Ch1 697 + Ch2 1,025 + Ch3 1,126 + Ch4 1,803 = **5,992**.
+- **2026-09-21 — CH5 PARTIAL (James arrives at the sheriff's office) INTAKEN (chat paste, PC
+  session; 269w, first draft).** James pulls up to the sheriff's office, checks his weapon and
+  mirrors, calls a contact ("It's Johnson… I'll have a more precise date soon"), then meets
+  Jessica at the front desk and waits outside the sheriff's door. Author flags this WILL likely
+  change tomorrow — snapshot frozen as-is; later versions get their own snapshots + net deltas.
+  Snapshot `manuscripts/task-force-cryptid_ch5-partial-james-arrival_chatpaste_2026-09-21.txt`.
+  MD5 2ac19468e07a9d715fd7fd1897b08453. Checker: 15 hits (4 echo, 2 filter, 5 filler, 4 adverb —
+  filed, not acted on). **No room pass — held per author ("save the pass").**
+  **DAY 09-21 = 489 + 269 = 758. WEEK 2 = 489 + 269 = 758 / 5,000.**
+- **2026-09-24 — CH5 PARTIAL v2 (James: town drive, sheriff's office, the campsite, Stillwell)
+  INTAKEN (chat paste, PC session; 1,376w, first draft, unfinished).** Snapshot
+  `manuscripts/task-force-cryptid_ch5-partial-v2_chatpaste_2026-09-24.txt`. MD5
+  06bef38f32914879ecb99a507d84393b. Checker: 77 hits (27 echo, 18 filter, 20 filler, 12 adverb —
+  filed, not acted on). Room Pass 7 logged (partial; author caveat: not done, "a little sloppy but
+  the shape is there"). Net delta = 1,376 − 269 = +1,107 (v1 is superseded; v1 stays frozen —
+  `manuscripts/task-force-cryptid_ch5-partial-james-arrival_chatpaste_2026-09-21.txt` unchanged).
+  09-22 and 09-23 were rest days (0 words, author's call).
+  **DAY 09-24 = +1,107. WEEK 2 = 758 + 1,107 = 1,865 / 5,000.**
+- **2026-09-24 (later) — CH5 COMPLETE (second half: Frank tests the badge, the drug accusation,
+  the walk, the head in the river, the creature across the river, the body thrown, the vest)
+  INTAKEN (chat paste, PC session; second half 1,000w new; chapter total 2,376w, first draft,
+  complete — author: "it can be better but it has its moments", may return to it next week).**
+  Snapshot `manuscripts/task-force-cryptid_ch5-second-half_chatpaste_2026-09-24.txt`, MD5
+  2cbef2937582f98d439d7564effacae6. Complete-chapter snapshot
+  `manuscripts/task-force-cryptid_ch5-complete_chatpaste_2026-09-24.txt`, MD5
+  18ced3e69b4f6d59901f777d9c689a6a (= v2 file + second-half paste with its duplicated opening
+  paragraph removed, joined at "No footprints or massive paw prints." / "James followed the drag
+  trail" — grep confirms the sentence occurs exactly once). Checker: 151 hits (57 echo, 32 filter,
+  41 filler, 21 adverb — filed, not acted on). Room Pass 7a logged.
+  **Net delta = 2,376 − 1,376 = +1,000. DAY 09-24 = 1,107 + 1,000 = 2,107. WEEK 2 = 1,865 + 1,000 =
+  2,865 / 5,000.**
+  Ch5 at 2,376w is his longest chapter (Ch4.1 = 1,803).
+- **2026-09-24 (evening) — CH6 OPENING (Brooks + Father Noah at CIA HQ → the Director's office:
+  "Rich" / "Rick") INTAKEN (chat paste, PC session; 455w prose, first draft, partial — author:
+  "likely done after this" for the day).** Snapshot
+  `manuscripts/task-force-cryptid_ch6-opening_chatpaste_2026-09-24.txt`, MD5
+  20a468d5f8a1def78476d84099cbec02. Checker: 21 hits (5 echo, 5 filter, 6 filler, 5 adverb — filed,
+  not acted on). Room **Pass 8** logged (partial, at his request: "go for it").
+  New chapter → whole count is net new. **DAY 09-24 = 2,107 + 455 = 2,562. WEEK 2 = 2,865 + 455 =
+  3,320 / 5,000.**
+- **2026-09-25 — NEW LANE: WARM-UP SERIES, piece 1 — 'Black Market Therapist' (Joe Lang, therapist; Mr. Gomez; the envelope) INTAKEN (Doc pull, PC session; 878w prose, first draft; Doc created 2026-09-25 13:45Z, last modified 14:30Z).** Snapshot `manuscripts/black-market-therapist_warmup-1_docpull_2026-09-25.txt`. MD5 71e91da2928efde18912fb14b861ea33. Checker: 43 hits (10 echo, 5 filter, 23 filler, 5 adverb — filed, not acted on). Room Pass 1 logged in `reports/warm-up-series.room.md`.
+**SIDE LANE — not counted toward the novel's week (rule 1: side words don't count unless the author rules otherwise). Novel counts unchanged: WEEK 2 = 3,320 / 5,000 (Thu 09-24 close).**
+- **2026-09-25 — CH6 COMPLETE (Brooks + Noah → the Director's office: the scroll, orders — Brooks today, Noah Monday, the Sunday service; the lounge) INTAKEN (chat paste, PC session; 921w prose, first draft — author: 'in a flow… will likely heavily revise… not CIA enough'; next = INTERLUDE 1).** Snapshot `manuscripts/task-force-cryptid_ch6-complete_chatpaste_2026-09-25.txt`, MD5 928aaa52697ebda031d4316a5ead3452. Checker: 46 hits (14 echo, 7 filter, 14 filler, 11 adverb — filed, not acted on). Room Pass 8a logged.
+**Net delta vs the 09-24 opening = 921 − 455 = +466. DAY 09-25 = +466 (novel only; the warm-up piece is excluded per author). WEEK 2 = 3,320 + 466 = 3,786 / 5,000.**
+- **2026-09-25 (later) — INTERLUDE 1 (Carl Anderson's farm: the cows, the taps, the barn, three beasts) INTAKEN (chat paste, PC session; 706w prose, first draft, complete).** Snapshot `manuscripts/task-force-cryptid_interlude1-anderson_chatpaste_2026-09-25.txt`, MD5 33c6f56cf1bd417ee67e961345dcc32d. Checker: 26 hits (5 echo, 8 filter, 9 filler, 4 adverb — filed, not acted on). Room Pass 9 logged.
+New section → +706 net. DAY 09-25 = 466 + 706 = 1,172 (novel only). WEEK 2 = 3,786 + 706 = 4,492 / 5,000.
+508 to go, Fri–Sun.

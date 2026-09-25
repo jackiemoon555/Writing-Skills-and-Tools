@@ -1425,3 +1425,604 @@ the room's note. Stop-dead ending restored; no caption after it.
 Ch4 thump / "smite" / "real boys" fixes are NOT in the Doc yet; Pass 6b still pending.** No
 Chapter 5 or 6 exists in the Doc; he said "chapter 6 later today" — probably Reedsy numbering
 (no prologue there); confirm which chapter it is when it arrives. Next new pages = **Pass 7**.
+
+## Pass 7 — CHAPTER 5 (PARTIAL, v2), James arrives: the town, the sheriff's office, the campsite, Stillwell (2026-09-24 chat paste, PC session; 1,376w, unfinished; snapshot task-force-cryptid_ch5-partial-v2_chatpaste_2026-09-24.txt; MD5 06bef38f32914879ecb99a507d84393b)
+*Author's frame: "not done yet… still refinding my footing writing wise so I think it's a little
+sloppy but the shape is there, tell me what you think with the caveat that it's not done yet." No
+per-scene intent stated → the pass's ONE ask is the intent. Read on the drafting menu only; no
+grammar/typos. Supersedes the 09-21 Ch5 partial v1 (269w, opening fully rewritten; v1 stays
+frozen, no pass was run on it at his instruction). Intake delegated to a Sonnet subagent; checker
+filed silently (77 hits). He took 09-22/23 off (his dog died) — the built-in rest days; the week
+is at 1,865 / 5,000 after this batch. Ledger reloaded first: Pass 5b (the veil / "keep them
+scared" / the artifact / green light), the prologue coda (these two men found Jeff's star: "Nothing"),
+Ch1's James ("something like that"), the 09-19 declarations.*
+
+**WHAT'S ON THE PAGE:** James drives the town making a map; a red light, a horn; the river's
+cycle (spring floods, summer shallows); the sheriff's office "stood guard over the river"; the
+left-right-mirrors check; a flip phone "he was give," pushed 1 — a gravelly voice, "sir": "The rest
+of the team and I will be there sometime this week… Keep your guard up… **Keep your eyes on the
+detective. Take him with you to the forest.**"; the office: white-green tiles, a wooden desk "a
+splintered mess of red," no secretary, **the visitor log's last entry three years ago**; **Sheriff
+John Collins** ("Youth only lasts so long"); generations of sheriffs and **gargantuan bucks** on
+the wall; "Something like that" ×2 (sheriff on his past; James on being an outdoorsman); "3
+technically 4"; the truck to "the first attack location"; drag marks; **a paw print with three or
+four pads, a hand for scale, "human toes? Attached to the massive paw"**; photos, then **James
+covers the print with dirt** before the sheriff arrives; stains on trees, hand to hip; a clearing
+on the river; **Detective Stillwell**, flannel; "something large had been drug into the river";
+sheriff: "I think we know the culprit" / "Once you sit down and read our report, I think we'll
+both agree"; "the gold blinding now as the sun passed over them"; James backs up, a tree at his
+back; "I'm the field man"; James asks for Frank; the two lawmen "glanced each other" and step
+away; James reads the "drag marks": smooth, no rest stops, no other tracks, "No footprints or
+massive paw prints." (ends there — partial).
+
+**HARDEST FIRST — (1) The reader knows John and Frank are dirty; James doesn't. That gap is the
+chapter's engine, and the page spends it instead of running on it.** James arrives already
+treating the sheriff as the enemy and the sheriff plays the part on cue. Before meeting anyone:
+"It's a quite place, too quite. Something feels off. I can't place my finger on it." — the mood
+explained on the phone before the scene shows a thing, in the genre's own cliché. "He touched
+his hip, letting the metal ease his mind." → "James reached for his hip." → at the first meeting
+of both men: "James backed up a little bit, happy the two men were in front of him. He still made
+sure his back was to a tree at least." Meanwhile John: "Looks like you won't be here very long
+agent. I think we know the culprit." The sheriff smiled. / "Nonsense." The sheriff clapped his
+hands / "The sheriff and the detective glanced each other." In Ch3 John KEEPS THE VEIL — calm
+face over six bodies, playing a town. Here he pushes a conclusion on a federal agent inside an
+hour, grinning: worse at his job than two chapters ago. And James reacts to a threat the page
+hasn't earned, so the smiles-widening beat reads as a villain tell, not a discovery. **Lever:**
+decide who is fooling whom. Either John is good at this and James is competent but HANDLED (the
+reader squirms because they know), or James clocks them from something he SEES on the page. The
+print cover-up is already the strongest "James decides not to trust them" — let the decision come
+from that, not before it.
+
+**(2) SCENES THAT NEED MORE — the print is the biggest beat in the book so far and it's
+sprinted.** First physical evidence for the task force; human toes on a massive paw. The whole
+payload: "James looked that print seeing what looked like human toes? Attached to the massive
+paw." Twelve words and a question mark. The hand for scale is the right move; then the camera
+leaves — nothing about what the toes do to a Green Beret who was told nothing on a plane.
+**Lever:** the toes get the camera; sit in it before the sheriff yells.
+
+**(3) SHOW-vs-TELL, the front end:** "allowing his quiet surroundings to make themselves known,"
+"He parsed his mind," "The sheriff's office was older. The inside matched the outside,"
+"idyllic river," "picturesque camp site." The narrator announces a mood instead of handing over
+the one detail that makes it. Contrast: the visitor log, last entry three years ago — the whole
+office in one line, no "older" needed.
+
+**(4) PACING — the river paragraph is weather until the last page makes it evidence.** ~110
+words on spring floods / summer shallows while James drives; then "Looks like someone dragged the
+bodies into the river." The opening and the close don't yet know they're about the same river.
+**Lever:** one right detail beats an inventory — keep whichever river fact the drag marks need.
+
+**(5) DIALOGUE, one line each:** "Something like that." — James's Ch1 dodge, now the sheriff's
+too ("you were law enforcement prior?" / "Something like that."): mirror or accident, decide ·
+"You're not here for little old me… put a stop to these damn murders" / "we have a lot of ground
+to cover" — stock sheriff (same register flagged in Ch3) · "How many attacked in total?" "3
+technically 4" vs Ch3's three attacks / six bodies — a reader will count (his call, one line) ·
+"The bodies are gone" (recovered) then "someone dragged the bodies into the river" — if they're
+lying badly on purpose, James doesn't catch it; he catches the smooth drag instead (his call).
+
+**(6) REPETITION (noted once):** "James" opens most sentences; the left-right-mirrors ritual
+appears twice (parking lot, then over the shoulder). Hip ×2 as the gun-touch — a percussion
+motif forming; observed, not prescribed.
+
+**SPINE / THEME PRESSURE-TEST:** first collision of the task force with the town. Three real
+things land: "Keep your eyes on the detective" (the task force already has Frank flagged — HOW is
+an open plant, in-draft); the print (the first thing on the page the science team will need);
+the closing read of the drag as staged (James doing the job). Asserted rather than landed: the
+THREAT — gold glare and widening smiles tell the reader what the reader already knew from Ch3.
+Rhyme worth knowing about: "Nothing." (James over his shoulder) echoes the coda's "Nothing he
+said." (the sheriff at Jeff's truck) — likely accidental; now it's a choice.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** office walk ≈ 330 · Frank/the river/the confrontation
+≈ 260 · town + river open ≈ 200 · the print ≈ 170 (the toes inside it: 12) · phone ≈ 150 ·
+the drag-mark read at the close ≈ 55. Longest section, least consequence; the two most
+consequential beats (print, drag read) are the two shortest.
+
+**WORKS — PROTECT:**
+- "The desk was empty leaving a phantom secretary to pencil him in." + the log's last entry.
+- "Youth only lasts so long."
+- Gargantuan bucks, one/two/several people crowding the trophy — hunters run this town.
+- The hand over the print for scale.
+- James covering the print with dirt — the chapter's decision in one gesture, no caption.
+- "Each twig snapping, advancing the timer."
+- "the gold blinding now as the sun passed over them" — the bloodied star, back in daylight.
+- The last paragraph: smooth drag, no rest, no tracks. The smartest thing James does.
+- "Keep your eyes on the detective."
+
+**PRIORITY-3:** decide the irony question in (1) · give the toes the camera · cut the
+pre-explaining on the phone.
+
+**ONE ASK (intent, unanswered at logging):** for a reader who already knows these two men found
+Jeff's star and are sitting on it, what is this chapter supposed to do to them — is James meant
+to see through John on sight, or be handled for a while?
+
+**CONTINUITY (added to the ledger, in-draft = open):** the flip phone "he was give" and a "sir"
+with a gravelly voice who brings "the rest of the team… this week" — identity not on the page
+(Rick? Brooks?); the task force knows there is a detective to watch; the secretary is "on the
+younger side," on summer days off (v1's Jessica is gone); the office's visitor log = three years
+empty; the first attack site = a campground with communal showers (not Jeff's trail); "3
+technically 4" attacked; James carries a notepad and a hand-drawn town map since arrival.
+
+### Pass 7 — AUTHOR RULINGS (chat, 2026-09-24; logged at his "Yes") — never re-raise
+- **INTENT (answers the pass's ONE ask): TURF, NOT THREAT.** James is a Green Beret dropped into
+  Montana and told to scout and map; he assumed a brief and got a CIA that is "wishy-washy or not
+  entirely forthcoming" (his words; tied to the creature reveal "as of right now"). His wariness
+  is an outsider not welcomed by local police. The sheriff treats James as a NUISANCE because
+  James doesn't know what they're hiding — "which he is for them, it's just not what he thinks."
+  The reader holds the third thing. **Withdrawn from finding (1):** the sheriff "worse at his job"
+  (hustling an outsider out the door is the Ch3 man) and James's wariness as a problem. **What
+  survives of (1), his to take or leave:** two beats read past turf — "his back was to a tree at
+  least" and the hand to the hip at the stains.
+- **"Something feels off. I can't place my finger on it." = JAMES'S VOICE**, not the narrator's
+  — the badly-briefed scout's read. Off the show-vs-tell list.
+- **THE TOES AT TWELVE WORDS ARE INTENTIONAL.** "It'll make sense later." Finding (2) is
+  WITHDRAWN and the beat is off the room's list for good; the room does not probe the later.
+- Chat-only, not canon, never develop: "the way it's gonna end will tie this all up nicely."
+- Left standing after the rulings: (4) the river paragraph up front not yet knowing it's the
+  same river as the drag marks; (5)'s one-liners; (6) noted once.
+
+### Pass 7 — CONTINUITY + one more ruling (author, chat, 2026-09-24; logged at his "Ya")
+- **SETTING BASIS:** the town is modeled on **Missoula, Montana** but is deliberately NOT 1:1
+  and stays UNNAMED on the page ("so I don't write myself into a hole on accident"). The only
+  real anchors on the page are **the Lolo forest** and **"the college"** (Ch3). Keep the river
+  unnamed, distances vague; never 1:1 it from Claude's side either. He notes Missoula has an
+  actual FBI office (his fact, not verified by the room).
+- **THE FLIP PHONE IS A BURNER** — that's why James speed-dials 1 on it and takes the print
+  photos on his OWN phone. Two phones on the page = intentional; no flag.
+- **RULING: "Unfortunately, we didn't have time or the bodies to carryout a full investigation"
+  IS A LIE, by design** — and James is catching it through the drag marks ("It was a smooth
+  drag… No footprints or massive paw prints"), which is exactly where the chapter stopped. The
+  room's (5) "bodies gone vs. dragged into the river — James doesn't catch it" is WITHDRAWN: he
+  does, on the page, the room's own way. Chat-only design (not canon): to the reader the cops
+  "aren't really cops, or at least corrupt cops" — they ask no questions and want him gone
+  fast; toyed with: John routes the federal request properly to buy time and the CIA
+  intercepts it. Not developed, not logged as plan.
+- Standing after this: (1) the two past-turf beats · (3) front-end telling · (4) the river
+  paragraph · (5) "3 technically 4" vs. six bodies; "Something like that" ×2 · (6) noted once.
+
+### Pass 7 — two more rulings (author, chat, 2026-09-24; logged at his "Ok")
+- **"idyllic" STAYS** — PROTECTED at his instruction; off the (3) telling list.
+- **THE RIVER IS PROMOTED TO A FEATURE** of the book (from his research: it's one of Missoula's
+  defining features). Finding (4) is reclassified from "weather" to SETUP; the room's only later
+  watch = whether the opening river and the drag-mark river read as the same river on the page.
+- He went back to finish the chapter. Pass 7 now standing: (1) the two past-turf beats · (3)
+  front-end telling minus "idyllic" · (5) "3 technically 4" vs. six bodies; "Something like
+  that" ×2 · (6) noted once.
+
+### Pass 7a — CHAPTER 5 COMPLETE: the second half — Frank tests the badge, the drug accusation, the walk, the head in the river, the creature across the river, the body thrown, the vest (2026-09-24 chat paste, PC session, same day as Pass 7; second half 1,037w new → chapter 2,376w, his longest; snapshots task-force-cryptid_ch5-second-half_chatpaste_2026-09-24.txt MD5 2cbef2937582f98d439d7564effacae6 [verbatim paste] and task-force-cryptid_ch5-complete_chatpaste_2026-09-24.txt MD5 18ced3e69b4f6d59901f777d9c689a6a [v2 + second half, overlap deduped])
+*Author's frame: "Ok the rest. I'll come back to it likely next week if I have time. I feel it
+can be better but it has its moments." Complete first draft. Pass 7's morning rulings HOLD
+(turf not threat; phone line = James's voice; toes intentional; "idyllic" protected; river = a
+feature; burner; "never investigated" = lie). Intake delegated to Sonnet; checker filed
+silently (151 hits on the complete file). Read on the drafting menu only.*
+
+**WHAT'S NEW ON THE PAGE:** James follows the drag; Frank returns ("Crazy trail, huh?");
+**Frank tests the badge** — "I thought y'all had to wear easily identifiable clothing with big
+bold FBI across it?" → James: "bum fuck Montana" → **"I'm aware agent Johnson. There are no
+eyes out here."**; **Snap!** — a stampede to the right; James draws, shooting stance; Frank
+backs away → "You're not permitted to leave yet detective"; Frank's hand to his own weapon;
+**James's theory = DRUGS**: "How much are skimming off the top?" / "I hope I don't find any
+drugs around here" / Frank: "I didn't know looking out for people meant I was a fucking drug
+dealer."; "Also I'm not a fucking fed."; "Isolated attacks happen every year… a teenager…";
+"James remembered his orders." → "if you leave I will have you arrested"; they walk the river
+at dusk ("It's shallow, something must have washed up"); bugs "bringing the woods even closer";
+**"that shitty rock"** → squishy → "He spun the rock over and its eyes met his." — a severed
+head, waterlogged, bloated; "Think its our campers?"; **"Did they find out about your
+operation?"** whispered; a wolf howls; "The cut was a clean slice, almost surgical… 'Looks to
+be a professional.'"; **red eyes across the river**; "Detective, I don't remember there being a
+wolf problem around here." / **"There wasn't"**; FRANK sees "a figure walk from the shadows…
+huge, taller than any man… covered in fur"; Frank rubs his eyes, then harder; "Before James
+could look over, something came flying over the horizon. It landed with a wet thud on the river
+bank."; Frank: "Is it watching me?"; James inspects: a body, forest-green uniform, **"Special
+Forest Service"** across the vest (= Jeff); a howl, trees shaking as the figure passes; **"He
+watched as the line of red flowed back towards the town."** END.
+
+**WITHDRAWN from the morning's read, answered on the page:** "nobody tests the cover" — Frank
+does, and the test becomes a threat ("There are no eyes out here"). And the turf read is now
+explicit: James thinks it's drugs.
+
+**HARDEST FIRST — (1) The climax stacks the head, the howl, the red eyes, the figure, the
+thrown body, the vest and the blood in the river, and the two men get no room to be hit by any
+of it.** The head gets a real beat ("its eyes met his"); then the reveals come one per sentence.
+"Before James could look over, something came flying over the horizon. It landed with a wet
+thud on the river bank." → "James walked up to the object to inspect." A thing across the river
+threw a corpse at two armed men and James walks over like it's a package. The only reaction on
+the page is Frank's thought, "Is it watching me?"; the gun that "trembled slightly" a few lines
+earlier had the right idea. **Lever:** the reaction IS the scene — the thrown body has to cost
+the men something before James reads the vest. His known weakness, at the book's biggest beat.
+
+**(2) STRUCTURE (not a POV note — drafting menu): the creature is witnessed by FRANK, in
+Frank's head, in James's chapter; James never sees it.** "Frank still looking ahead watched a
+figure walk from the shadows." "Frank rubbed at eyes." "Frank watched the figure transform into
+red eyes." "Frank had a terrible thought." (Earlier: "Frank cocked an eye brow as he watched the
+agent from behind.") Consequence: the reader's man on the ground doesn't witness the thing; the
+compromised cop does. If designed — James still doesn't know, Frank now does — it's smart. If
+accidental, the climax belongs to the wrong man. → the pass's ONE ASK.
+
+**(3) The vest is aimed at Frank and Frank never looks at it.** "Special Forest Service" = Jeff.
+The man who found Jeff's star and said "Nothing" is standing beside Jeff's body, watching the
+eyes. The page never states it (right) — but the payoff currently lands on James, who doesn't
+know what the star was. Whether Frank sees the vest is a choice not yet made.
+
+**(4) DIALOGUE:** the bank argument is the chapter's strongest stretch and Frank has the best
+lines (badge test / "no eyes" / "not a fucking fed" / "fucking drug dealer"). James's cover
+answer is thin — correct for a badly-briefed man. One line is Frank EXPLAINING rather than
+winning: "Isolated attacks happen every year… like a teenager deciding to murder his or family
+because of girl or guy" (deflection, so it half-earns it). "James remembered his orders." —
+the reader heard the orders on the phone; the arrest threat shows it.
+
+**(5) CORNY:** "the dusk air dancing on his skin."
+
+**(6) The head is read too fast:** "The cut was a clean slice, almost surgical. The man had
+died almost instantly. 'Looks to be a professional.'" — James's theory closing over the
+evidence in three sentences; fine as character (he wants it human), but "Think its our
+campers?" and "Did they find out about your operation?" do it better and come first.
+
+**SPINE / THEME PRESSURE-TEST:** the chapter where the book's three lies meet on one riverbank
+— the fake fed, the dirty cop, the thing. LANDS: the badge test turning into a threat; the drug
+accusation as the wrong answer that is almost right; the prologue's Snap! returning under James;
+the bugs "bringing the woods even closer" = the prologue's "each drag seemed to pull the woods
+closer" in daylight; the last image (blood flowing back toward the town) = the book's best
+closing line yet. ASSERTED: the terror — the creature is described ("huge, taller than any man…
+covered in fur") and the description is standing in for the reaction.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT (second half):** bank argument ≈ 430 · walk/dusk ≈ 110 ·
+rock/head ≈ 200 · creature + thrown body + vest + ending ≈ 230. The last 230 holds the four
+biggest beats in the book; the argument (good) gets nearly twice the room.
+
+**WORKS — PROTECT:**
+- "I thought y'all had to wear easily identifiable clothing with big bold FBI across it?" +
+  "There are no eyes out here."
+- "Also I'm not a fucking fed."
+- "How much are skimming off the top?" — James's whole wrong theory in one line.
+- Snap! under James — the prologue's percussion, now his.
+- "No, just that shitty rock." → the narrator adopts "the shitty rock."
+- "He spun the rock over and its eyes met his."
+- "Did they find out about your operation?" — whispered, over a head.
+- "Detective, I don't remember there being a wolf problem around here." / "There wasn't"
+- Frank rubbing his eyes, then harder — Brooks did it at the mask: men rubbing their eyes at
+  the thing is a MOTIF now (observed).
+- "He watched as the line of red flowed back towards the town." — no caption after it.
+
+**PRIORITY-3:** let the men react to the thrown body · decide who witnesses the creature, and
+mean it · decide whether Frank sees the vest.
+
+**ONE ASK (open at logging):** James never sees the creature and Frank does — design or
+accident?
+
+**CONTINUITY (in-draft = open):** the creature on the page for the first time in the present
+tense of the book: red eyes, "taller than any man," "covered in fur," howls, throws a body
+across a river, shakes trees as it passes; James's theory = drug operation; Frank: "There
+wasn't" a wolf problem; the campsites stay open — "the town's only real revenue stream"; the
+9 o'clock curfew is known to James; a severed head in the river, clean cut; Jeff's body
+recovered by the CREATURE, delivered to Frank and James at dusk; James's SUV vs Frank's truck
+(they came in the sheriff's truck; Frank's truck is "back" up the river); James uses "Ya."
+**COUNTS:** second half 1,037 new; chapter 2,376 (longest; Ch4.1 = 1,803). DAY 09-24 = 2,107.
+WEEK 2 = 2,865 / 5,000.
+**RULING (author, chat, minutes after the pass): DESIGN.** "James never sees it, it's to add to
+the Blair Witch feel of the woods I want." Finding (2) WITHDRAWN; James not witnessing the
+creature is the point; Frank as the witness stands. **DECLARED for this book (rule 4b): the
+woods carry a BLAIR WITCH feel — the thing is heard, glimpsed by the wrong man, and never seen
+by the reader's man on the ground.** The room reads the forest against THAT from here (the
+prologue's "Saw for Jeff" intent stands beside it — his two stated feels for the woods).
+Finding (1) — the men's missing reaction to the thrown body — is unaffected and stands.
+
+### Pass 7a — AUTHOR RULINGS, batch (chat, 2026-09-24, logged at the pause) — never re-raise
+- **"Something like that" ×2 = ON PURPOSE.** The sheriff dodges, James answers with the same
+  sentence: "they understand that they don't trust each other." Off the list.
+- **CH1 IS ON THE REWRITE DOCKET** (expected this week per the 09-21 handoff). Logs as **Pass
+  3b** when it lands in the Doc. The Pass 3 notes are his target list only if he asks for them.
+- **REVISED ENDING (chat, same day, not yet in the Doc):** Frank: "Did you see?" / James: "See
+  what? Your friend launch a fucking body?" / "It wasn't human man. It had fur. It was like
+  eight or nine feet tall." / "A bigfoot hoax? That's all you and that backwater sheriff
+  have?" → the vest → **"Detective Stillwell, I think I found your missing ranger."** → **"Frank
+  paled."** → the trees shamble, "Both men watched" → Frank: "A human can't do that." → the
+  line of red toward the town. **Findings (1) the missing reaction and (3) whether Frank sees
+  the vest are ANSWERED** — James disbelieves (the drug theory survives a thrown corpse), Frank
+  is told by the fake fed that his ranger has been found. Snapshot + count when it reaches the
+  Doc (7b).
+- **"the trees shamble" STAYS** — his declared device: **THE FOREST IS PERSONIFIED** (prologue:
+  shadows "hungrily licked," "each drag seemed to pull the woods closer"; Ch4: the church that
+  breathes; Ch5: bugs "bringing the woods even closer," trees that shamble). A through-line, not
+  a slip; the room reads forest verbs against it from here.
+- **THE DUALITY IS DESIGNED:** "when everything gets real, James keeps his head and Frank loses
+  himself." A reversal of the bank scene (Frank had the upper hand — "There are no eyes out
+  here" — and James the trembling gun); at the creature they trade. Off the list.
+- His own read, logged as his: "I do feel this is great though. Good to know my quality is
+  carrying over from chapter 4." He'll clean the chapter up later today (Pass 7b when pulled).
+- **Standing after this batch (nine, none structural):** the two past-turf beats · front-end
+  telling (4 lines) · the opening river vs the ending river · "3 technically 4" vs six bodies ·
+  "James remembered his orders." · "dusk air dancing" · the head read in three sentences ·
+  stock sheriff lines · "James" openers.
+
+## Pass 8 — CHAPTER 6 OPENING (PARTIAL): Brooks + Father Noah at CIA HQ → the Director's door, "Rich" / "Rick" (2026-09-24 chat paste, PC session, evening; 455w prose, first draft, unfinished; snapshot task-force-cryptid_ch6-opening_chatpaste_2026-09-24.txt; MD5 20a468d5f8a1def78476d84099cbec02)
+*Author's frame: "chapter 6 beginning, likely done after this [for the day]" → room offered to
+hold for the full chapter; he said "Ya go for it. I feel like it's one of my stronger openings."
+Read at his request on a partial; drafting menu only. Intake delegated to Sonnet; checker filed
+silently (21 hits). Ledger reloaded: the prologue (unnamed young priest + the Director; the
+handshake → "Amen"), Ch4 (Brooks "left in the dark"; Matthew: "Last time we had to drag you
+out"; "Have him contact HQ"), Ch2 (Brooks's cigarettes), Pass 3's "third recruitment shape."*
+
+**WHAT'S ON THE PAGE:** Brooks paces a hallway ("hallways always looked never ending, like
+there was a void at the end"); an interrogation room; **Father Noah** — young, black robes,
+"broad, toothy smile," "golden curls"; "Kyle. So happy you came to see me."; Brooks with a
+dossier: **"Stepping around how you know my name, everything checks out, Father."**; Noah:
+"very eager to meet the director. I've some very tall tales about the man."; "I'm assuming
+you're who Father Joseph sent." / **"Possibly… Maybe I'm an assassin?"**; Brooks looks over
+his shoulder; a knock; "the never ending wormhole sucking them back in"; Noah on HQ: "a real
+fortress"; "I'd appreciate it if you called me Agent Brooks" (ignored); elevator; top floor,
+no windows / covered windows; "Where is the sunlight?" / "There is place for light in the
+shadows, Father."; offices; suits ("When we land I'll be in something different" — a flight
+planted); hair — "I've been balding since I was a kid" / **"Did you pray?"**; **"Father don't
+make me curse at you. I'm trying to like you." / "Give it time, Kyle."**; "Brooks could feel
+the stupid fucking smile."; the door — "Enter." — **"Wow. Such a nice office you have, Rich."**
+→ the Director's face drops, reaches for cigarettes, "Don't fucking tell me." → **"It's been
+far too long, Rick."** → Brooks: "Sir?" → **"Sit down, Brooks."** END (partial).
+
+**VERDICT:** yes — the best two-hander since the prologue's cross, and the last four lines
+turn the whole walk. The middle sags between them.
+
+**HARDEST FIRST — (1) The walk from the room to the door is the chapter's middle: a row of
+jabs in no particular order, in a building with no particular detail.** Sunlight → suits →
+hair → pray: each lands, any order would do, nothing tightens toward the door ("Did you pray?"
+is the best and is last, which helps). The "real fortress" gets "there were no windows. What
+windows did exist were covered in all black covers" and "nothing but offices. Some held one
+person, some had room for maybe five or more" — an inventory of nothing; the Vatican got a book
+bound in hair, Langley gets a headcount. **Lever:** one right detail beats an inventory, and the
+needle should cost Brooks more each step — order the jabs to escalate, or keep the two that do.
+
+**(2) REPETITION — the hallway image ×3 in 300 words:** "never ending, like there was a void
+at the end" → "the never ending wormhole sucking them back in." Good image for the man who
+walked into the Vatican's abyss; once is character, three times is a tic.
+
+**(3) CORNY:** "There is place for light in the shadows, Father." (fortune cookie; Brooks
+talks like that nowhere else) · "the never ending wormhole sucking them back in."
+
+**(4) DIALOGUE:** Noah's voice is DISTINCT and that matters — five men in this book curse and
+he doesn't; he needles ("Kyle. So happy you came to see me." / "Let your hair go."). First
+person to hold the upper hand on Brooks, and Brooks knows it ("I'm trying to like you"). One
+caption: "The priest held his unusually vibrant smile, Brooks held his place, looking over his
+shoulder." — the look over the shoulder is the beat; the smile is already described twice.
+
+**(5) CLARITY (one line):** "there were no windows. What windows did exist…" contradicts
+itself in one sentence.
+
+**(6) CONTINUITY, one line each, his call:** the Director reaches for CIGARETTES — prologue
+gave him whiskey + a cigar, Ch4 a flask; cigarettes are Brooks's. · "very eager to meet the
+director… tall tales about the man" then "It's been far too long, Rick": a LIE the reader
+catches with Brooks (plant working) or a slip (hole) → the ONE ASK.
+
+**SPINE / THEME PRESSURE-TEST:** the priest-and-Director pairing from the prologue returns
+with a face on it; the Church keeps sending men who know Rick better than his own people do
+(Matthew, now Noah). Brooks-in-the-dark is a running engine three chapters deep and this is the
+right way to spend it — Brooks and the reader learn "Rick" in the same instant. "Did you pray?"
+= the prologue's "Amen" with the power reversed. LANDS: the turn. ASSERTED: the fortress.
+Recruitment shape (Pass 3 counted three, all downhill — President→Rick, Brooks→James,
+Brooks→Elizabeth): this one INVERTS it — the recruit walks in knowing the recruiter's boss.
+
+**MOTIF (observed, not prescribed):** everyone polices what they're called — "it's Detective
+Stillwell" / "Special Agent" / "Mr. Director" / "call me Agent Brooks" — and Noah, like Mr.
+Long, won't; then he calls the Director "Rich." Names are rank in this book and the priest
+doesn't recognize rank.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** interrogation room ≈ 200 · walk ≈ 250 · office ≈ 60.
+The turn is shortest by design — a cliff on a partial. Not a flag.
+
+**WORKS — PROTECT:**
+- "Stepping around how you know my name, everything checks out, Father."
+- "Maybe I'm an assassin?"
+- "Did you pray?"
+- "Father don't make me curse at you. I'm trying to like you." / "Give it time, Kyle."
+- "Brooks could feel the stupid fucking smile."
+- "Wow. Such a nice office you have, Rich." → face drops → "Don't fucking tell me." → "It's
+  been far too long, Rick."
+- "Sit down, Brooks."
+
+**PRIORITY-3:** one real detail in the fortress · make the jabs escalate or cut to the two
+that do · one hallway image, not three.
+
+**ONE ASK (open at logging):** Noah's "very eager to meet the director" — a lie the reader is
+meant to catch at "Rick"?
+
+**CONTINUITY (in-draft = open):** **Father Noah** = the first NAME on any priest in the
+recruitment line (the prologue's young priest is still unnamed on the page — same man? open,
+not probed); sent by Father Joseph; knows "Kyle" and "Rick/Rich" unprompted; the interrogation
+room is at CIA HQ; the Director's office is on a windowless top floor; a flight is coming
+("When we land"); Brooks bald "since I was a kid"; Noah: golden curls, toothy smile, no
+cursing. **COUNTS:** 455 new. DAY 09-24 = 2,562. WEEK 2 = 3,320 / 5,000.
+
+### Pass 8 — CORRECTION (room error, caught by the author, 2026-09-24) + ruling
+- **ROOM ERROR:** Pass 8 (and one line of Pass 7a) cited "the prologue's" priest, cross,
+  handshake-prayer, "Amen," and the President's phone call. **Those are from the RETIRED 09-14
+  prologue** (Director Burch + the young priest requisition scene) — replaced by the forest
+  prologue (Rick + Jeff the ranger, v2 → v4). The ledger's HEAD BLOCKS §1–3 (calibration,
+  continuity, protect list) were written 2026-09-14 for the old prologue and were never marked
+  superseded; the room read them as current. **Verified against the v4 snapshot today: no
+  whiskey, no cigar, no priest, no President — Rick smokes CIGARETTES (×5) and in Ch4 carries a
+  FLASK.** So Pass 8's continuity line "cigarettes vs. whiskey + cigar" is WRONG and withdrawn:
+  cigarettes are consistent for Rick across the prologue, Ch4, and Ch6. Also stale in Pass 8:
+  "the prologue's unnamed young priest — same man?" (no such priest on the page), "'Did you
+  pray?' = the prologue's 'Amen' reversed," and the recruitment tally's "President → Rick."
+  What stands from the old scene on the page today: nothing — the unit is UNNAMED (09-19 title
+  note) and Task Force Cryptid is a filing handle from a cut scene.
+- **HEAD-BLOCK NOTE for every future pass:** §1–3 at the top of this ledger describe the retired
+  prologue. Until they're rewritten, the CURRENT baseline is: prologue v4 (Rick + Jeff, the
+  forest, the coda with the star) · Ch1 James (v2) · Ch2 Elizabeth · Ch3.2 Frank · Ch4.1 the
+  Vatican · Ch5 James/Frank · Ch6 Brooks/Noah. Read the latest snapshots, not §2.
+- **AUTHOR, ON RICK (logged verbatim in spirit): "just cigarettes and a flask, a man whose
+  currency is stress."** His declared read of the Director — the room reads Rick against it.
+- **RULING on the Pass 8 ask (Noah "eager to meet the director" vs. "far too long, Rick"):
+  "It'll make sense soon."** CLAIMED — held, never re-raised, never probed.
+- Pass 8 standing after this: (1) the walk — jabs in no order, no fortress detail · (2) the
+  hallway image ×3 · (3) the two corny lines · (4) the smile caption · (5) "no windows / what
+  windows."
+
+### Pass 8 — CORRECTION 2 (author, 2026-09-25): "Rich" was a TYPO
+- Noah's line is **"Such a nice office you have, Rick."** — "Rich" in the paste was a typo, not a
+  nickname. Withdrawn accordingly: the Pass 8 PROTECT line's "Rich → Rick" turn (the turn is
+  still real — a stranger using the Director's first name — it just isn't a two-name joke), and
+  the motif note's "then he calls the Director 'Rich'" (he calls him Rick; the names-as-rank
+  observation otherwise stands: Noah uses first names on men who police their titles). The
+  snapshot stays as pasted (verbatim rule); the Doc is the master.
+- Also for the record: in chat the room said "Frank calling the Director 'Rich'" — it was NOAH.
+  Frank has never met the Director on the page. Room error, chat only, noted here so it can't
+  propagate.
+- Batch still pending his pause: "There is NO light in the shadows, Father" as intended
+  (Brooks's line; corny flag withdrawn) · "last recruitment chapter" (chat, his to log or not).
+
+### Pass 8a — CHAPTER 6 COMPLETE: the opening lightly revised + the Director's office (the scroll; orders — Brooks today, Noah Monday; the Sunday service) + the lounge (2026-09-25 chat paste, PC session; 921w prose, +466 vs the 09-24 opening; snapshot task-force-cryptid_ch6-complete_chatpaste_2026-09-25.txt; MD5 928aaa52697ebda031d4316a5ead3452)
+*Author's frame: "I'm in a flow so I'm just gonna write as much as I can today… I'll likely
+heavily revise this chapter. It's not CIA enough but I'm heading towards that one show with Adam
+Scott on Apple TV [Severance] inspired. Interlude 1 after, inspired by Salem's Lot." Read kept
+short at his pace; drafting menu only. Intake delegated to Sonnet; checker filed silently (46).
+Opening changes vs 09-24: "Rich" → "Rick" (typo fixed), "Brooms" → "Brooks", "There is NO place
+for light in the shadows, Father" (the intended line — corny flag WITHDRAWN), the walk rewritten
+(Noah "skipped into the abyss"; circle lights; the R&D "secret place" / supercomputer; "the
+last bastion of reality"; identical white doors, grey carpet).*
+
+**WHAT'S NEW ON THE PAGE (the office + lounge):** Noah bouncing around the trophies, stops at
+"what looked like a picture" → **"You naughty boy, Rick… I won't tell Father Joseph you took
+this scroll from his office."** → **"Firstly, I didn't steal it. Secondly, he knows. Now sit the
+fuck down"**; Noah goes through the desk while cursed at; "Since I have to play by Church rules
+just for you, you little bastard"; **orders: Noah leaves for Montana MONDAY, Brooks TODAY**;
+"That wasn't the plan sir." / **"I know, Brooks, I wrote the god damn plan." / "Blasphemer!"**;
+Noah's SUNDAY SERVICE at headquarters — **"That damn pope has my nuts in his hands"**; Rick:
+black mustache, black-and-white suit, ashtray; "walk this god damned nutcase out of my office
+and to his room"; **"C'mon priestling"**; "you should really come to my mass, Kyle" / "I can't
+fortunately"; a lounge floor (kitchenette, recliners, sofa) — Noah jumps on the sofa; **"Make
+sure you at least read the damn dossier."** — door slam. END. Next = INTERLUDE 1.
+
+**HARDEST FIRST — (1) "Sir?" is the chapter's question and it dies on "Sit down, Brooks."** The
+opening earns a real question — how does this priest know Rick? — and the office answers it in
+one clause ("play by Church rules just for you") and a scroll, then goes to logistics (Monday /
+today / Sunday). Brooks objects to leaving today in one line and folds. Nobody in the room wants
+anything he can't have. That IS "not CIA enough": the CIA is what Rick withholds, and he
+withholds nothing because nobody presses him. **Lever:** Brooks has to ask, or try, and be
+refused in a way that costs him. The refusal is the CIA. (Pass 1's lever, again.)
+
+**(2) The scroll is the plant, thrown away in a joke — which may be right.** "what looked like
+a picture" → "this scroll" (picture or scroll — one line). "Firstly, I didn't steal it.
+Secondly, he knows." is a great line; but it's the second artifact in the book that Rick holds
+and the Church knows about, and it passes in three lines of Noah being cute. His call whether
+the reader should feel it yet.
+
+**(3) REPETITION — the hallway image is now FOUR:** void → wormhole → abyss → "the last bastion
+of reality." The one real detail on the walk is the circle lights "leaving little dots of light
+in between each shadow" — that's the Severance he's reaching for; the other four are its caption.
+
+**(4) One line:** "Grey carpets matched the gaudy tones." — grey isn't gaudy.
+
+**SPINE / THEME PRESSURE-TEST:** the recruitment block closes (his: "the last recruitment
+chapter") with its shape inverted — the recruit knows the boss. The Church-knows-more engine
+runs a fourth time (the scroll, "he knows"). The team is now scheduled to exist: Brooks today,
+Noah Monday, James already in Montana. LANDS: the orders scene's comedy (Blasphemer!; the pope's
+grip). ASSERTED: the history between Rick and Noah.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** the walk ≈ 330 · the office ≈ 330 · the lounge ≈ 100.
+The office holds the history, the scroll, and the orders and gets the same room as the walk;
+the history inside it gets one clause.
+
+**WORKS — PROTECT:**
+- "I know, Brooks, I wrote the god damn plan." / "Blasphemer!"
+- "That damn pope has my nuts in his hands"
+- "Firstly, I didn't steal it. Secondly, he knows."
+- Noah going through the desk while being cursed at.
+- "C'mon priestling"
+- "Make sure you at least read the damn dossier." + the slam, no caption.
+- The circle lights.
+- "There is no place for light in the shadows, Father." (now on the page as intended)
+
+**PRIORITY-2 (for his own heavy revision, not assigned):** let Brooks press Rick and lose ·
+one hallway image.
+
+**CONTINUITY (in-draft = open):** Noah: GREEN eyes, golden curls, "priestling"; requested a
+Sunday service at HQ (the pope's leverage); leaves for Montana MONDAY; housed on a lounge floor
+at HQ with a dossier. Brooks leaves TODAY ("When we land"). Rick: black mustache, black-and-white
+suit, cigarettes + ashtray, "trophies" in the office, a SCROLL taken from Father Joseph's office
+("I didn't steal it… he knows") — second Church object in Rick's hands; "the plan" is Rick's.
+Timeline: Ch5's James is already in Montana ("the rest of the team… this week"). Salem's Lot →
+the ledger called Ch3 "the Salem's Lot town chapter" on 09-17; the interlude form enters this
+book here. **COUNTS:** 921 (+466). DAY 09-25 = 466 (novel only). WEEK 2 = 3,786 / 5,000.
+
+**RULING on Pass 8a (2) (author, chat, 2026-09-25): the scroll is a PLANT — intentional, thrown away on purpose; "I have an idea in my head that leaves room for a sequel." CLAIMED — never re-raise, never probe; the sequel stays in his head (nothing downstream mid-draft).**
+
+## Pass 9 — INTERLUDE 1: Carl Anderson's farm — the cows, the taps, the barn, three beasts (2026-09-25 chat paste, PC session; 706w prose, first draft, complete; snapshot task-force-cryptid_interlude1-anderson_chatpaste_2026-09-25.txt; MD5 33c6f56cf1bd417ee67e961345dcc32d)
+*Author's frame: "Interlude one, back to the horror" — Salem's Lot-inspired (his word, same day).
+The first INTERLUDE in this book: the town gets the camera with none of the cast present. Read
+on the drafting menu only. Intake delegated to Sonnet; checker filed silently (26). Ledger
+reloaded: Ch3.2 (Mr. Anderson: "I've been telling you for months now that something has been
+attacking the animals" / the sheriff: "a couple of unrelated dead livestock is not cause for
+concern"), the Blair Witch ruling (Pass 7a), the ember motif (Pass 2a: Rick's cigarette ember;
+"evil embers in the night"), Ch5's paw print (three or four pads).*
+
+**WHAT'S ON THE PAGE:** Carl Anderson (old, tall, long neck, long legs) walks his pastures at
+dusk — "his remaining cows" — herds them in, feeds and pats each one by name: **"Betsy." /
+"Laura."**; his leather La-Z-Boy; his wife — grey hair, "dear," "sweetie" — kisses him and
+"retreat[s] into darkness"; at the faucet, **red eyes in the dark → "He lived in the sticks."**;
+one more episode; dozes; **Tap. Tap. → Tap. Tap. Tap. → TAP. TAP.** at the kitchen window; the
+shotgun "that had faithfully stayed next to his recliner"; "Hey, come on out now. No need for
+anyone to get hurt."; the pump's click; **Knock. Knock. KNOCK.** at the door → **"Ok, you've
+been warned."** → the door ripped open → "a large figure off in the distance, **hot red embers
+smoldering the night**" → it bounds for the barn; **MOOOOOOOOOO!** ×2; the barn doors; the
+creature towers; it dashes left — **"He whipped the gun around, as his left arm fell to the
+ground."**; the stump; Betsy's intestines, Laura's throat; **"He wasn't in the house."**; Thump.
+Thump.; halfway back he watches the creature "throw his beloved onto the ground"; a second
+"monstrosity" from the house — "covered in fur and muscle bound"; three claws through his gut;
+**"In unison the three beasts howled into the night."** END.
+
+**VERDICT:** a real Salem's Lot kill, and it pays Ch3 — the man the sheriff dismissed over
+livestock loses his farm, his cows, his wife, and his arm, in that order. The ending stacks
+like Ch5's did, and the thinnest beat is the biggest.
+
+**HARDEST FIRST — (1) The cows have names; the wife doesn't; the cows' deaths get more words
+than hers.** Betsy and Laura are named, fed, patted, loved at bedtime, then: "Betsy lay dead
+now, her intestines strewn about. Laura had her throat slit, the blood pooling around her still
+terrified face." The wife is "dear," "sweetie," "his beloved," and her death is half a sentence:
+"he watched the creature throw his beloved onto the ground." If that's the POINT — Carl's love
+runs animals-first and it costs him — it's a hard, good choice and the page should own it
+harder. If it's the sprint, it's his known problem at the biggest beat. Either works; undecided
+doesn't. → the ONE ASK.
+
+**(2) SHOW-vs-TELL, the barn:** "He saw the horror for the first time." / "For a split second,
+it hit Carl." / "Still in shock." — three captions in ten lines, each in front of a sentence
+that already does the work; "He wasn't in the house." IS the realization.
+
+**(3) CORNY:** "The joints in his legs popping in and out of the socket" (a dislocation, not a
+sprint) · "his body had deaged several decades as he rushed."
+
+**(4) STRUCTURE, observed not prescribed:** the creature is FULLY SEEN here — all three, "covered
+in fur and muscle bound" — and the witness is dead a paragraph later. Against the declared Blair
+Witch rule for the woods (the reader's man on the ground never sees it), this reads as: whoever
+gets the full look doesn't survive the chapter. The interludes are where the reader gets the
+monster; the main line is where they get the dread. If that's the design, it's a structure.
+
+**(5) REPETITION (once):** "Carl" opens most sentences (checker: ×17) — same as James in Ch5.
+
+**SPINE / THEME PRESSURE-TEST:** the town's Cassandra dies unheard — Anderson told the sheriff
+for months and the sheriff called it livestock; now it's Anderson. The pack is confirmed (THREE;
+the prologue's plural eyes implied it, Ch5's single figure didn't). The ember crosses a third
+section (Rick's cigarette → Jeff's "evil embers" → Carl's "hot red embers"). The kill count adds
+two. LANDS: the taps, the arm, the last word. ASSERTED: the wife.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** cozy setup ≈ 230 · taps + shotgun ≈ 230 · barn + kills
+≈ 200. Inside the 200: Betsy 8 words · Laura 12 · the arm 10 · the wife 9.
+
+**WORKS — PROTECT:**
+- The taps: window → window → door — "Tap. Tap." / "Tap. Tap. Tap." / "TAP. TAP." / "Knock.
+  Knock. KNOCK." — the percussion escalates before anything is seen; his best use of the device.
+- "He lived in the sticks."
+- "Ok, you've been warned."
+- "hot red embers smoldering the night."
+- "He whipped the gun around, as his left arm fell to the ground."
+- "MOOOOOOOOOO!" as the scream, twice.
+- "He wasn't in the house."
+- "In unison the three beasts howled into the night." — THREE as the last word.
+
+**PRIORITY-2:** decide the wife (name / weight) · cut the three barn captions.
+
+**ONE ASK (open at logging):** the wife has no name and the cows do — choice or oversight?
+
+**CONTINUITY (in-draft = open):** **Carl Anderson** = Ch3's Mr. Anderson (livestock attacked
+"for months"; "remaining cows" pays it); old, tall, long neck/legs; wife unnamed, grey hair;
+cows Betsy, Laura (+ others); pump shotgun by the recliner; a farmhouse "in the sticks" with a
+barn; **THREE beasts** — towering, fur, "muscle bound," "inhuman speed," THREE CLAWS (the print's
+three-or-four pads); they take the arm first; the pack howls in unison. Both Andersons dead.
+**COUNTS:** 706 new. DAY 09-25 = 1,172 (novel only). WEEK 2 = 4,492 / 5,000 — 508 to go.

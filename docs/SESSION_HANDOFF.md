@@ -5,6 +5,51 @@
 **REVISION PHASE OPEN as of 2026-08-23.** Google Docs = master. Writing partnership with Alec (pen
 name **Jack Moon**). Point a new session at this file to get fully caught up.*
 
+> ## ▶▶ NEXT SESSION — START HERE (PC close, 2026-09-25 evening; Fable usage limit near — resets Sat night)
+> **PULL FIRST.** Master Doc = "Tbd D1 Take 2" (id `12krCIEuFEv1HlkPbTV63aGOnGDmvmApeTVq9JJY7qk4`).
+> **PLAN OF RECORD FOR THE GAP (author + room, 09-25):** he keeps writing in the MASTER DOC only
+> (no per-day docs, no Opus side-session for counts) and hands over the days on **SUNDAY 09-27**:
+> one Doc pull (Sonnet intake), snapshot each new section, count, log day splits from HIS say-so,
+> room the new pages. Nothing on the PC side between now and then.
+> **STATE ON MAIN (after this merge):** prologue v4 1,341 · Ch1 697 · Ch2 1,025 · Ch3.2 1,126 ·
+> Ch4.1 1,803 · **Ch5 2,376 (complete, his longest; revised ending exists in CHAT only — snapshot
+> it from the Doc as 7b when it lands)** · **Ch6 921 (complete; "will heavily revise; not CIA
+> enough" — Severance-inspired)** · **Interlude 1 706 (Anderson's farm; Salem's Lot-inspired)**.
+> Ch5/Ch6/Int1 are all CHAT PASTES — the Doc versions may differ; snapshot the Doc as NEW files
+> and log net deltas (may be negative). **WEEK 2 (09-21→09-27) = 4,492 / 5,000 — 508 to go,
+> Sat–Sun.** Day 09-24 = 2,562 (after two rest days, dog died 09-22); day 09-25 = 1,172.
+> **ROOM PASSES LOGGED THIS SESSION:** 7 (Ch5 partial) · 7a (Ch5 complete) · 8 (Ch6 opening) ·
+> 8a (Ch6 complete) · 9 (Interlude 1) — all with his rulings appended; **Pass 8 carries TWO
+> CORRECTIONS** (room errors: old-prologue references; "Rich" was a typo). **HEAD-BLOCK NOTE in
+> the ledger (Pass 8 correction): §1–3 at the top of `reports/task-force-cryptid.room.md`
+> describe the RETIRED 09-14 prologue — read the latest snapshots, not §2, until they're rewritten.**
+> **RULINGS TO NEVER RE-RAISE (all in the ledger):** Ch5 = turf not threat; James's phone line is
+> his voice; the toes at 12 words are intentional; "idyllic" protected; the river is a FEATURE;
+> the burner phone; "never investigated" = a lie by design; James never sees the creature (BLAIR
+> WITCH feel for the woods — DECLARED); "shamble" stays (THE FOREST IS PERSONIFIED — declared
+> device); the duality (James keeps his head, Frank loses himself); "Something like that" ×2 =
+> on purpose; Rick = "cigarettes and a flask, a man whose currency is stress"; Noah's "eager to
+> meet the director" → "it'll make sense soon" (held); the scroll in Rick's office = a PLANT
+> (sequel room — held, never probe); "There is no place for light in the shadows" = Brooks's
+> line as intended; Ch6 = "the last recruitment chapter" (chat).
+> **OPEN ASKS (his to answer Sunday or never):** Interlude 1 — the wife unnamed while the cows
+> are named: choice or oversight? Ch1 is on his REWRITE DOCKET (→ Pass 3b when it lands).
+> **SETTING BASIS (ledger):** modeled on Missoula, MT — town UNNAMED by design, not 1:1; only
+> real anchors = the Lolo forest + "the college." Never 1:1 it from Claude's side.
+> **NEW SIDE LANE — WARM-UP SERIES** (`reports/warm-up-series.room.md`): "Black Market
+> Therapist" (878w, Doc, 09-25) — standalone, possibly serialized (therapist's office, escalating
+> clients, Joe = the puzzle revealed by what clients have on him); Sopranos/Barry-inspired;
+> **NOT counted toward the novel** (his rule); clean-up deferred behind the novel. Pass 1 logged
+> with his rulings (Joe doesn't know his clients are criminals — finding 1 withdrawn).
+> **PARKED:** flow-state science research (memory: `project_parked_flow_state_research.md`) —
+> raise only when he does. **GAMES:** Snap file current through 09-25 — Omega **88** new peak on
+> the Taskmaster+Gorr Negative list; official pack drop-rate tables filed in
+> `games/snap/reference/`. Reports on demand only.
+> **PROCESS NOTES:** intake = Sonnet subagents (worked 6× this session; use a script FILE for
+> tracker appends — `py -c` in bash mangles backticks); bash heredocs on this PC choke on long
+> quoted blocks — write scratch files with the Write tool and `cat >>` them; **PC has no `gh`** —
+> merged by local squash into main and pushed (no PR).
+
 > ## RECOVERY NOTE (2026-08-23) — the 08-21 session was STRANDED; merged today
 > The 2026-08-21 session (revised ending + COMPLETE stamp + room Passes 12/13 + `/room` skill +
 > WORKING_RULES rule-8 code extension) pushed branch `claude/hand-off-c44bal` / PR #7 but never

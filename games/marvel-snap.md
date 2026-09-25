@@ -9,7 +9,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   stayed cause I actually like it." Rank **75**, peaked **83 (Omega)**. Climbed to the 70s on the
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
-- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: Omega (80+) again, 2026-09-19 late, on Zombies.
+- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **Omega 88 — NEW PEAK, 2026-09-25**, on
+  the NEGATIVE deck (Taskmaster + Gorr list, see 09-24 night). Previous peaks: 86 (same day), 84 (09-24, Wong list), 83.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -156,3 +157,57 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 - 2026-09-19 (late night) — **BACK TO OMEGA (80+) on the ZOMBIE deck**, climbed from 75 the same
   night. Corrects an earlier line: by his own results Zombies is at least Ramp's equal — it has
   now carried him to Omega too. Exact rank not given.
+- 2026-09-24 — **OMEGA 84, TWICE — NEW PEAK — on the NEGATIVE deck.** His change: base list
+  with **Taskmaster OUT, Wong IN** ("teched in Wong"). Current 12: Adam Warlock, Psylocke, Ravonna
+  Renslayer, Cassandra Nova, Ironheart, Mystique, Magik, Mister Negative, Iron Man, White Tiger,
+  Jane Foster Mighty Thor, Wong. Note for the record: this is the same Taskmaster cut he made on
+  09-19 for the same reason (couldn't see its role), and the 09-19 note that Wong in Negative's
+  lane undoes the swap didn't stop it from working — the results outrank Claude's read. Not asked:
+  which lane Wong goes in, or whether he swapped back to Zombies between climbs. First deck of his
+  own edit to carry him to a new peak (Zombies and Ramp were free lists).
+- 2026-09-24 — HIS READ on why Wong over Taskmaster (his words, logged): Wong "gives you another
+  out if you don't hit Mr. Negative" — "I feel awful without it"; with Wong "all the on reveal
+  effects add up quick." Known cost: the concentration of 4-drops (Wong beside Negative), but it
+  has "yet to really brick a hand." And he named **Ravonna Renslayer** as the sneaky-important
+  card for the list (the 2-drop that makes his 1-or-less-Power cards cost 1 less) — same card the
+  09-19 note called the anti-brick. So his two 09-19 worries (no-Negative games, the 4-drop clump)
+  are now answered by Wong and Ravonna respectively, on results.
+- 2026-09-24 — **SNAP PACK DROP RATES filed** (he sent the official page):
+  `games/snap/reference/snap-packs-drop-rates_2026-09-24.md` — all five tables verbatim + the
+  math. Read once: a pack = 1 RANDOM unowned card of that series + 2 bonus rolls; the bonus rolls
+  are worth ~0.5-3% of the price back (mostly boosters); S3 card = 1,000 tokens, S4 = 3,000, S5 =
+  6,000; you cannot target a card - the pool is random, and the pity guarantee only covers bonus
+  rolls at 37+ rolls. Standing advice: buy the SERIES the card you want is in, know it is a lottery
+  inside that series, and ignore the bonus-roll odds when deciding.
+- 2026-09-24 (night) — **NEW NEGATIVE LIST FOR TESTING TOMORROW** (his screenshot): Adam Warlock 2/0,
+  Psylocke 2/2, Ravonna Renslayer 2/2, Ironheart 3/0, Mystique 3/1, Magik 3/2, Mister Negative 4/-1,
+  Iron Man 5/0, White Tiger 5/1, Jane Foster Mighty Thor 5/9, **Taskmaster 6/0 (back in)**, **Gorr the
+  God Butcher 6/1 (new — the day-14 login card, so he's reached it; collection file not re-read)**.
+  vs the Omega-84 list: OUT Wong + Cassandra Nova, IN Taskmaster + Gorr. vs the 09-19 base: -Cassandra
+  +Gorr. Gorr's text from his own install (card_lookup.py): "Ongoing: +X Power for EACH On Reveal card
+  in play" - the per-card NUMBER is an unresolved placeholder in the local dump (NOT guessed; read it
+  in game), and whether "in play" counts the opponent's On Reveals isn't in the text either. Read
+  given: (1) after the swap Gorr = a 1-cost 6-power Ongoing that grows with a deck that is almost all
+  On Reveal - a real payoff; (2) UNSWAPPED he's a second 6-cost brick beside Taskmaster (6/0 + 6/1 with
+  no Negative = two dead top-end cards), which is the exact hand he cut Taskmaster over on 09-19; Ravonna
+  discounts him pre-swap (1 power), to 5, still a brick; (3) Wong repeated On Reveals and Gorr is
+  Ongoing, so the two never shared a plan - dropping Wong for him is coherent; (4) it's a two-card
+  change at once (Wong->Taskmaster AND Cassandra->Gorr), so a good or bad night won't say which swap
+  did it. Two things to watch in testing: Gorr's number and the no-Negative hands.
+- 2026-09-25 — **OMEGA 86, NEW PEAK, on the Taskmaster + Gorr Negative list** ("it's working really
+  well"). His rulings from the chat, which corrected Claude's 09-24 read: (1) **Gorr counts the
+  OPPONENT'S On Reveal cards too** ("in play" = both sides; his in-game read) - so Gorr wins hands
+  with no Negative against any On Reveal deck; (2) the double top end is NOT a brick: **any ONE of
+  Ravonna (discount to 5), Psylocke (+1 energy), or Magik (Limbo = a guaranteed turn 7)** lands both
+  6-drops without Negative - three separate enablers, three chances to draw one; (3) **RETREAT RULE
+  AMENDED:** the 09-19 "no Negative by T4 -> retreat" now has an exception - Gorr in hand vs an On
+  Reveal opponent is a stay; still retreat with no Negative AND no enabler, earlier on their snap with
+  nothing in hand. (4) He's "focused hard on dipping when the situation isn't good" - the retreat
+  discipline is doing as much of the climb as the list. Claude's 09-24 "two bricks" line is withdrawn.
+- 2026-09-25 (later) — **OMEGA 88, NEW PEAK**, same list. Then a loss he owns: went for the Iron Man +
+  Mystique doubling line with limited options and played Iron Man onto a LOCATION THAT REPLACES a card
+  played there with a random card of equal cost (he didn't name it; not guessed) - Iron Man became a
+  random 5-cost, the combo died, "tanked my own game." Not a deck problem: a location read. Note for
+  the file: Iron Man/Mystique is the list's win condition, so the location check before committing
+  the Iron Man lane is the one read that costs the most when skipped - same discipline as the retreat
+  rule, applied one turn earlier.
