@@ -1867,3 +1867,77 @@ cursing. **COUNTS:** 455 new. DAY 09-24 = 2,562. WEEK 2 = 3,320 / 5,000.
   propagate.
 - Batch still pending his pause: "There is NO light in the shadows, Father" as intended
   (Brooks's line; corny flag withdrawn) · "last recruitment chapter" (chat, his to log or not).
+
+### Pass 8a — CHAPTER 6 COMPLETE: the opening lightly revised + the Director's office (the scroll; orders — Brooks today, Noah Monday; the Sunday service) + the lounge (2026-09-25 chat paste, PC session; 921w prose, +466 vs the 09-24 opening; snapshot task-force-cryptid_ch6-complete_chatpaste_2026-09-25.txt; MD5 928aaa52697ebda031d4316a5ead3452)
+*Author's frame: "I'm in a flow so I'm just gonna write as much as I can today… I'll likely
+heavily revise this chapter. It's not CIA enough but I'm heading towards that one show with Adam
+Scott on Apple TV [Severance] inspired. Interlude 1 after, inspired by Salem's Lot." Read kept
+short at his pace; drafting menu only. Intake delegated to Sonnet; checker filed silently (46).
+Opening changes vs 09-24: "Rich" → "Rick" (typo fixed), "Brooms" → "Brooks", "There is NO place
+for light in the shadows, Father" (the intended line — corny flag WITHDRAWN), the walk rewritten
+(Noah "skipped into the abyss"; circle lights; the R&D "secret place" / supercomputer; "the
+last bastion of reality"; identical white doors, grey carpet).*
+
+**WHAT'S NEW ON THE PAGE (the office + lounge):** Noah bouncing around the trophies, stops at
+"what looked like a picture" → **"You naughty boy, Rick… I won't tell Father Joseph you took
+this scroll from his office."** → **"Firstly, I didn't steal it. Secondly, he knows. Now sit the
+fuck down"**; Noah goes through the desk while cursed at; "Since I have to play by Church rules
+just for you, you little bastard"; **orders: Noah leaves for Montana MONDAY, Brooks TODAY**;
+"That wasn't the plan sir." / **"I know, Brooks, I wrote the god damn plan." / "Blasphemer!"**;
+Noah's SUNDAY SERVICE at headquarters — **"That damn pope has my nuts in his hands"**; Rick:
+black mustache, black-and-white suit, ashtray; "walk this god damned nutcase out of my office
+and to his room"; **"C'mon priestling"**; "you should really come to my mass, Kyle" / "I can't
+fortunately"; a lounge floor (kitchenette, recliners, sofa) — Noah jumps on the sofa; **"Make
+sure you at least read the damn dossier."** — door slam. END. Next = INTERLUDE 1.
+
+**HARDEST FIRST — (1) "Sir?" is the chapter's question and it dies on "Sit down, Brooks."** The
+opening earns a real question — how does this priest know Rick? — and the office answers it in
+one clause ("play by Church rules just for you") and a scroll, then goes to logistics (Monday /
+today / Sunday). Brooks objects to leaving today in one line and folds. Nobody in the room wants
+anything he can't have. That IS "not CIA enough": the CIA is what Rick withholds, and he
+withholds nothing because nobody presses him. **Lever:** Brooks has to ask, or try, and be
+refused in a way that costs him. The refusal is the CIA. (Pass 1's lever, again.)
+
+**(2) The scroll is the plant, thrown away in a joke — which may be right.** "what looked like
+a picture" → "this scroll" (picture or scroll — one line). "Firstly, I didn't steal it.
+Secondly, he knows." is a great line; but it's the second artifact in the book that Rick holds
+and the Church knows about, and it passes in three lines of Noah being cute. His call whether
+the reader should feel it yet.
+
+**(3) REPETITION — the hallway image is now FOUR:** void → wormhole → abyss → "the last bastion
+of reality." The one real detail on the walk is the circle lights "leaving little dots of light
+in between each shadow" — that's the Severance he's reaching for; the other four are its caption.
+
+**(4) One line:** "Grey carpets matched the gaudy tones." — grey isn't gaudy.
+
+**SPINE / THEME PRESSURE-TEST:** the recruitment block closes (his: "the last recruitment
+chapter") with its shape inverted — the recruit knows the boss. The Church-knows-more engine
+runs a fourth time (the scroll, "he knows"). The team is now scheduled to exist: Brooks today,
+Noah Monday, James already in Montana. LANDS: the orders scene's comedy (Blasphemer!; the pope's
+grip). ASSERTED: the history between Rick and Noah.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** the walk ≈ 330 · the office ≈ 330 · the lounge ≈ 100.
+The office holds the history, the scroll, and the orders and gets the same room as the walk;
+the history inside it gets one clause.
+
+**WORKS — PROTECT:**
+- "I know, Brooks, I wrote the god damn plan." / "Blasphemer!"
+- "That damn pope has my nuts in his hands"
+- "Firstly, I didn't steal it. Secondly, he knows."
+- Noah going through the desk while being cursed at.
+- "C'mon priestling"
+- "Make sure you at least read the damn dossier." + the slam, no caption.
+- The circle lights.
+- "There is no place for light in the shadows, Father." (now on the page as intended)
+
+**PRIORITY-2 (for his own heavy revision, not assigned):** let Brooks press Rick and lose ·
+one hallway image.
+
+**CONTINUITY (in-draft = open):** Noah: GREEN eyes, golden curls, "priestling"; requested a
+Sunday service at HQ (the pope's leverage); leaves for Montana MONDAY; housed on a lounge floor
+at HQ with a dossier. Brooks leaves TODAY ("When we land"). Rick: black mustache, black-and-white
+suit, cigarettes + ashtray, "trophies" in the office, a SCROLL taken from Father Joseph's office
+("I didn't steal it… he knows") — second Church object in Rick's hands; "the plan" is Rick's.
+Timeline: Ch5's James is already in Montana ("the rest of the team… this week"). Salem's Lot →
+the ledger called Ch3 "the Salem's Lot town chapter" on 09-17; the interlude form enters this
+book here. **COUNTS:** 921 (+466). DAY 09-25 = 466 (novel only). WEEK 2 = 3,786 / 5,000.
