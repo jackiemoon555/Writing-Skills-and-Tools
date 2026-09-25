@@ -2042,3 +2042,11 @@ three-or-four pads); they take the arm first; the pack howls in unison. Both And
   COORDINATED and INTELLIGENT. "Which just hit me and adds another layer of horror." Nothing on
   the page needs to change for it; the room reads the creatures as tactical from here.
 - Still open: the wife unnamed vs the cows named — choice or oversight?
+- **CORRECTION + his self-diagnosis (2026-09-25, minutes later):** he did NOT think the climax
+  began at the barn — he thought it began in the KITCHEN (the taps), and that's WHY the barn is
+  thin: he spent the tank on the approach and arrived at the peak on fumes. FRONT-LOADED, not
+  late. Room's read, corrected: the movement begins at the first tap (right), but "the climax
+  has started" ≠ "spend now" — the spending curve rises toward the peak; short beats on the
+  approach (the taps ARE tight), the most words at the barn. His decisions, logged as the answer
+  to the open ask: **the wife gets a NAME; the barn gets more words; so does the ending.** (Not
+  assigned by the room — his own list for his own revision, deferred behind new pages.)

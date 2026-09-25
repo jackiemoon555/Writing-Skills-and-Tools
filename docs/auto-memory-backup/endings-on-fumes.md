@@ -15,3 +15,9 @@ Alec's realization while finishing *The Champ*'s first draft (2026-08-20): why f
 **How to apply:** protect endings — the climax and final image deserve a FRESH session, never the tail of one. Finish setup on fumes if needed, never the payoff. When intaking a rushed ending, the read is usually "needs more / biggest scene fewest words," not a line issue.
 
 Also his standing practice (2026-08-20): **freeze the first-draft snapshot as-is for later before/after comparison** — revisions become new objects beside it, never overwrite the original in `manuscripts/`. Related: [[working_rules_summary]].
+
+**Refined 2026-09-25 (his own diagnosis on Interlude 1 of the novel):** the fuel goes EARLY, not
+late — he feels the climax start at the point of no return (correct) and spends from there, so the
+PEAK arrives on fumes (the barn got 200 words; the wife's death got nine). Lever he accepted: the
+movement starts early but the spending curve rises toward the peak — short beats on the approach,
+the most words at the top. Same mechanism as the sprinted last images in The Champ.
