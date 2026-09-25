@@ -10,7 +10,9 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **PLAN OF RECORD FOR THE GAP (author + room, 09-25):** he keeps writing in the MASTER DOC only
 > (no per-day docs, no Opus side-session for counts) and hands over the days on **SUNDAY 09-27**:
 > one Doc pull (Sonnet intake), snapshot each new section, count, log day splits from HIS say-so,
-> room the new pages. Nothing on the PC side between now and then.
+> room the new pages. Nothing on the PC side between now and then. **He will DATE each chapter/
+> section in the Doc as he writes it (author, 09-25) — the day splits come from those dates; no
+> guessing, no version-history digging.**
 > **STATE ON MAIN (after this merge):** prologue v4 1,341 · Ch1 697 · Ch2 1,025 · Ch3.2 1,126 ·
 > Ch4.1 1,803 · **Ch5 2,376 (complete, his longest; revised ending exists in CHAT only — snapshot
 > it from the Doc as 7b when it lands)** · **Ch6 921 (complete; "will heavily revise; not CIA
