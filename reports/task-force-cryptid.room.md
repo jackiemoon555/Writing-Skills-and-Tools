@@ -1854,3 +1854,16 @@ cursing. **COUNTS:** 455 new. DAY 09-24 = 2,562. WEEK 2 = 3,320 / 5,000.
 - Pass 8 standing after this: (1) the walk — jabs in no order, no fortress detail · (2) the
   hallway image ×3 · (3) the two corny lines · (4) the smile caption · (5) "no windows / what
   windows."
+
+### Pass 8 — CORRECTION 2 (author, 2026-09-25): "Rich" was a TYPO
+- Noah's line is **"Such a nice office you have, Rick."** — "Rich" in the paste was a typo, not a
+  nickname. Withdrawn accordingly: the Pass 8 PROTECT line's "Rich → Rick" turn (the turn is
+  still real — a stranger using the Director's first name — it just isn't a two-name joke), and
+  the motif note's "then he calls the Director 'Rich'" (he calls him Rick; the names-as-rank
+  observation otherwise stands: Noah uses first names on men who police their titles). The
+  snapshot stays as pasted (verbatim rule); the Doc is the master.
+- Also for the record: in chat the room said "Frank calling the Director 'Rich'" — it was NOAH.
+  Frank has never met the Director on the page. Room error, chat only, noted here so it can't
+  propagate.
+- Batch still pending his pause: "There is NO light in the shadows, Father" as intended
+  (Brooks's line; corny flag withdrawn) · "last recruitment chapter" (chat, his to log or not).
