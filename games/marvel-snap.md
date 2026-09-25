@@ -211,3 +211,4 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   the file: Iron Man/Mystique is the list's win condition, so the location check before committing
   the Iron Man lane is the one read that costs the most when skipped - same discipline as the retreat
   rule, applied one turn earlier.
+- 2026-09-25 — **Thaddeus Ross in his shop, 6,000 tokens — PASSED.** Text from his install + in-game: 2/2, End of Turn: if the opponent has unspent Energy, draw a card with 10 or more Power. Nothing in the Negative list ever reaches 10 (Jane is 9 pre-flip; post-flip the payoffs top out at 6), the swap does nothing to a 2/2, and the deck already carries three 2-drops. He is for 10-plus-body lists. Not a target; 6,000 tokens kept.
