@@ -21,3 +21,11 @@ late — he feels the climax start at the point of no return (correct) and spend
 PEAK arrives on fumes (the barn got 200 words; the wife's death got nine). Lever he accepted: the
 movement starts early but the spending curve rises toward the peak — short beats on the approach,
 the most words at the top. Same mechanism as the sprinted last images in The Champ.
+
+**HIS OWN DIAGNOSIS, final wording (2026-09-25) — supersedes the fuel framing above:** "I've just
+been confusing what the final part needs. I've been investing more in the setup and ending on more
+ambiguous endings to leave details out, but it's not landing as well." It is deliberate WITHHOLDING
+at the end (ambiguity), reading as thin. He knows the problem. Distinction he accepted: ambiguity
+withholds MEANING, never SENSATION — deny the reader the answer, not the moment. Apply as one
+question per ending: what's being kept back, the answer or the moment? Keep the answer; give the
+moment. Don't re-explain this to him; he found it.
