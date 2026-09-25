@@ -1943,3 +1943,86 @@ the ledger called Ch3 "the Salem's Lot town chapter" on 09-17; the interlude for
 book here. **COUNTS:** 921 (+466). DAY 09-25 = 466 (novel only). WEEK 2 = 3,786 / 5,000.
 
 **RULING on Pass 8a (2) (author, chat, 2026-09-25): the scroll is a PLANT — intentional, thrown away on purpose; "I have an idea in my head that leaves room for a sequel." CLAIMED — never re-raise, never probe; the sequel stays in his head (nothing downstream mid-draft).**
+
+## Pass 9 — INTERLUDE 1: Carl Anderson's farm — the cows, the taps, the barn, three beasts (2026-09-25 chat paste, PC session; 706w prose, first draft, complete; snapshot task-force-cryptid_interlude1-anderson_chatpaste_2026-09-25.txt; MD5 33c6f56cf1bd417ee67e961345dcc32d)
+*Author's frame: "Interlude one, back to the horror" — Salem's Lot-inspired (his word, same day).
+The first INTERLUDE in this book: the town gets the camera with none of the cast present. Read
+on the drafting menu only. Intake delegated to Sonnet; checker filed silently (26). Ledger
+reloaded: Ch3.2 (Mr. Anderson: "I've been telling you for months now that something has been
+attacking the animals" / the sheriff: "a couple of unrelated dead livestock is not cause for
+concern"), the Blair Witch ruling (Pass 7a), the ember motif (Pass 2a: Rick's cigarette ember;
+"evil embers in the night"), Ch5's paw print (three or four pads).*
+
+**WHAT'S ON THE PAGE:** Carl Anderson (old, tall, long neck, long legs) walks his pastures at
+dusk — "his remaining cows" — herds them in, feeds and pats each one by name: **"Betsy." /
+"Laura."**; his leather La-Z-Boy; his wife — grey hair, "dear," "sweetie" — kisses him and
+"retreat[s] into darkness"; at the faucet, **red eyes in the dark → "He lived in the sticks."**;
+one more episode; dozes; **Tap. Tap. → Tap. Tap. Tap. → TAP. TAP.** at the kitchen window; the
+shotgun "that had faithfully stayed next to his recliner"; "Hey, come on out now. No need for
+anyone to get hurt."; the pump's click; **Knock. Knock. KNOCK.** at the door → **"Ok, you've
+been warned."** → the door ripped open → "a large figure off in the distance, **hot red embers
+smoldering the night**" → it bounds for the barn; **MOOOOOOOOOO!** ×2; the barn doors; the
+creature towers; it dashes left — **"He whipped the gun around, as his left arm fell to the
+ground."**; the stump; Betsy's intestines, Laura's throat; **"He wasn't in the house."**; Thump.
+Thump.; halfway back he watches the creature "throw his beloved onto the ground"; a second
+"monstrosity" from the house — "covered in fur and muscle bound"; three claws through his gut;
+**"In unison the three beasts howled into the night."** END.
+
+**VERDICT:** a real Salem's Lot kill, and it pays Ch3 — the man the sheriff dismissed over
+livestock loses his farm, his cows, his wife, and his arm, in that order. The ending stacks
+like Ch5's did, and the thinnest beat is the biggest.
+
+**HARDEST FIRST — (1) The cows have names; the wife doesn't; the cows' deaths get more words
+than hers.** Betsy and Laura are named, fed, patted, loved at bedtime, then: "Betsy lay dead
+now, her intestines strewn about. Laura had her throat slit, the blood pooling around her still
+terrified face." The wife is "dear," "sweetie," "his beloved," and her death is half a sentence:
+"he watched the creature throw his beloved onto the ground." If that's the POINT — Carl's love
+runs animals-first and it costs him — it's a hard, good choice and the page should own it
+harder. If it's the sprint, it's his known problem at the biggest beat. Either works; undecided
+doesn't. → the ONE ASK.
+
+**(2) SHOW-vs-TELL, the barn:** "He saw the horror for the first time." / "For a split second,
+it hit Carl." / "Still in shock." — three captions in ten lines, each in front of a sentence
+that already does the work; "He wasn't in the house." IS the realization.
+
+**(3) CORNY:** "The joints in his legs popping in and out of the socket" (a dislocation, not a
+sprint) · "his body had deaged several decades as he rushed."
+
+**(4) STRUCTURE, observed not prescribed:** the creature is FULLY SEEN here — all three, "covered
+in fur and muscle bound" — and the witness is dead a paragraph later. Against the declared Blair
+Witch rule for the woods (the reader's man on the ground never sees it), this reads as: whoever
+gets the full look doesn't survive the chapter. The interludes are where the reader gets the
+monster; the main line is where they get the dread. If that's the design, it's a structure.
+
+**(5) REPETITION (once):** "Carl" opens most sentences (checker: ×17) — same as James in Ch5.
+
+**SPINE / THEME PRESSURE-TEST:** the town's Cassandra dies unheard — Anderson told the sheriff
+for months and the sheriff called it livestock; now it's Anderson. The pack is confirmed (THREE;
+the prologue's plural eyes implied it, Ch5's single figure didn't). The ember crosses a third
+section (Rick's cigarette → Jeff's "evil embers" → Carl's "hot red embers"). The kill count adds
+two. LANDS: the taps, the arm, the last word. ASSERTED: the wife.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** cozy setup ≈ 230 · taps + shotgun ≈ 230 · barn + kills
+≈ 200. Inside the 200: Betsy 8 words · Laura 12 · the arm 10 · the wife 9.
+
+**WORKS — PROTECT:**
+- The taps: window → window → door — "Tap. Tap." / "Tap. Tap. Tap." / "TAP. TAP." / "Knock.
+  Knock. KNOCK." — the percussion escalates before anything is seen; his best use of the device.
+- "He lived in the sticks."
+- "Ok, you've been warned."
+- "hot red embers smoldering the night."
+- "He whipped the gun around, as his left arm fell to the ground."
+- "MOOOOOOOOOO!" as the scream, twice.
+- "He wasn't in the house."
+- "In unison the three beasts howled into the night." — THREE as the last word.
+
+**PRIORITY-2:** decide the wife (name / weight) · cut the three barn captions.
+
+**ONE ASK (open at logging):** the wife has no name and the cows do — choice or oversight?
+
+**CONTINUITY (in-draft = open):** **Carl Anderson** = Ch3's Mr. Anderson (livestock attacked
+"for months"; "remaining cows" pays it); old, tall, long neck/legs; wife unnamed, grey hair;
+cows Betsy, Laura (+ others); pump shotgun by the recliner; a farmhouse "in the sticks" with a
+barn; **THREE beasts** — towering, fur, "muscle bound," "inhuman speed," THREE CLAWS (the print's
+three-or-four pads); they take the arm first; the pack howls in unison. Both Andersons dead.
+**COUNTS:** 706 new. DAY 09-25 = 1,172 (novel only). WEEK 2 = 4,492 / 5,000 — 508 to go.
