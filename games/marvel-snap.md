@@ -9,8 +9,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   stayed cause I actually like it." Rank **75**, peaked **83 (Omega)**. Climbed to the 70s on the
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
-- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **Omega 86 — NEW PEAK, 2026-09-25**, on
-  the NEGATIVE deck (Taskmaster + Gorr list, see 09-24 night). Previous peaks: 84 (09-24, Wong list), 83.
+- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **Omega 88 — NEW PEAK, 2026-09-25**, on
+  the NEGATIVE deck (Taskmaster + Gorr list, see 09-24 night). Previous peaks: 86 (same day), 84 (09-24, Wong list), 83.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -204,3 +204,10 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   Reveal opponent is a stay; still retreat with no Negative AND no enabler, earlier on their snap with
   nothing in hand. (4) He's "focused hard on dipping when the situation isn't good" - the retreat
   discipline is doing as much of the climb as the list. Claude's 09-24 "two bricks" line is withdrawn.
+- 2026-09-25 (later) — **OMEGA 88, NEW PEAK**, same list. Then a loss he owns: went for the Iron Man +
+  Mystique doubling line with limited options and played Iron Man onto a LOCATION THAT REPLACES a card
+  played there with a random card of equal cost (he didn't name it; not guessed) - Iron Man became a
+  random 5-cost, the combo died, "tanked my own game." Not a deck problem: a location read. Note for
+  the file: Iron Man/Mystique is the list's win condition, so the location check before committing
+  the Iron Man lane is the one read that costs the most when skipped - same discipline as the retreat
+  rule, applied one turn earlier.
