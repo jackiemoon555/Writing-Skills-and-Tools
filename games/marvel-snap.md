@@ -180,3 +180,18 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   6,000; you cannot target a card - the pool is random, and the pity guarantee only covers bonus
   rolls at 37+ rolls. Standing advice: buy the SERIES the card you want is in, know it is a lottery
   inside that series, and ignore the bonus-roll odds when deciding.
+- 2026-09-24 (night) — **NEW NEGATIVE LIST FOR TESTING TOMORROW** (his screenshot): Adam Warlock 2/0,
+  Psylocke 2/2, Ravonna Renslayer 2/2, Ironheart 3/0, Mystique 3/1, Magik 3/2, Mister Negative 4/-1,
+  Iron Man 5/0, White Tiger 5/1, Jane Foster Mighty Thor 5/9, **Taskmaster 6/0 (back in)**, **Gorr the
+  God Butcher 6/1 (new — the day-14 login card, so he's reached it; collection file not re-read)**.
+  vs the Omega-84 list: OUT Wong + Cassandra Nova, IN Taskmaster + Gorr. vs the 09-19 base: -Cassandra
+  +Gorr. Gorr's text from his own install (card_lookup.py): "Ongoing: +X Power for EACH On Reveal card
+  in play" - the per-card NUMBER is an unresolved placeholder in the local dump (NOT guessed; read it
+  in game), and whether "in play" counts the opponent's On Reveals isn't in the text either. Read
+  given: (1) after the swap Gorr = a 1-cost 6-power Ongoing that grows with a deck that is almost all
+  On Reveal - a real payoff; (2) UNSWAPPED he's a second 6-cost brick beside Taskmaster (6/0 + 6/1 with
+  no Negative = two dead top-end cards), which is the exact hand he cut Taskmaster over on 09-19; Ravonna
+  discounts him pre-swap (1 power), to 5, still a brick; (3) Wong repeated On Reveals and Gorr is
+  Ongoing, so the two never shared a plan - dropping Wong for him is coherent; (4) it's a two-card
+  change at once (Wong->Taskmaster AND Cassandra->Gorr), so a good or bad night won't say which swap
+  did it. Two things to watch in testing: Gorr's number and the no-Negative hands.
