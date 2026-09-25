@@ -18,3 +18,4 @@
 - [Task Force Cryptid — CURRENT book](project_task_force_cryptid.md) — Champ shelved 09-13; discovery draft, Doc "Tbd D1 Take 2"; phone satellite runs in parallel: PULL FIRST, never duplicate a Pass number; PC has no gh, python = py
 - [Discovery writer](user_discovery_writer.md) — best stuff comes in the moment; story direction stays in chat, never becomes a logged plan; reflect his own pages back, invent nothing
 - [Nothing downstream mid-draft](feedback-nothing-downstream-mid-draft.md) — no editor/critique/title/length/finish-date talk while a draft is open; he gets nervous and lost; only being done fixes it
+- [Flow state research — PARKED](project_parked_flow_state_research.md) — he wants the science on flow, later not now; starting is his hardest part, flow comes easy once started
