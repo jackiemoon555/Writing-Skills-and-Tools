@@ -702,3 +702,5 @@ only. Do not report % complete or a finish-length again.
   not acted on). Room **Pass 8** logged (partial, at his request: "go for it").
   New chapter → whole count is net new. **DAY 09-24 = 2,107 + 455 = 2,562. WEEK 2 = 2,865 + 455 =
   3,320 / 5,000.**
+- **2026-09-25 — NEW LANE: WARM-UP SERIES, piece 1 — 'Black Market Therapist' (Joe Lang, therapist; Mr. Gomez; the envelope) INTAKEN (Doc pull, PC session; 878w prose, first draft; Doc created 2026-09-25 13:45Z, last modified 14:30Z).** Snapshot `manuscripts/black-market-therapist_warmup-1_docpull_2026-09-25.txt`. MD5 71e91da2928efde18912fb14b861ea33. Checker: 43 hits (10 echo, 5 filter, 23 filler, 5 adverb — filed, not acted on). Room Pass 1 logged in `reports/warm-up-series.room.md`.
+**SIDE LANE — not counted toward the novel's week (rule 1: side words don't count unless the author rules otherwise). Novel counts unchanged: WEEK 2 = 3,320 / 5,000 (Thu 09-24 close).**
