@@ -52,6 +52,11 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > raise only when he does. **GAMES:** Snap file current through 09-25 — Omega **88** new peak on
 > the Taskmaster+Gorr Negative list; official pack drop-rate tables filed in
 > `games/snap/reference/`. Reports on demand only.
+> **REPO-HEALTH IS LIVE (built 09-26 at his "go ahead"):** run the `repo-health` skill right after
+> the pull and again before the merge (`PYTHONPATH=src py -m writing_tools.repo_health`; tests:
+> `py -3.12 -m pytest -q`). Report only. Its manual step (the Doc vs the ledger table) will FLAG
+> Sunday: Ch7 in the Doc, no row; Doc modified after the 09-21 pull. Cross-vendor code brief
+> (rule 8) offered, not yet run.
 > **AGENTS — PROPOSED, HELD (author, 09-26: "soon I'll tell you when; I'm building agents elsewhere
 > too"):** (1) a saved INTAKE agent (Sonnet; snapshot/MD5/count/checker/tracker in one line), (2) a
 > Snap SHOP-CARD checker (the Ross/Jim/Herbie procedure). Don't build or re-pitch until he says.
