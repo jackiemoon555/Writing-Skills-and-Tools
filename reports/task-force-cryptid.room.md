@@ -1,5 +1,54 @@
 # task-force-cryptid.room.md — room ledger for the UNNAMED STORY (working handle: "Task Force Cryptid")
 
+## ★ CURRENT STATE — READ THIS FIRST (rebuilt 2026-09-26 at the author's "go ahead")
+**Everything from "Persistent room file…" down to Pass 1 is the ORIGINAL 09-14 head (frame,
+rule-4b note, §1 calibration, §2 continuity, §3 protect). It describes the RETIRED prologue (a
+Director + unnamed young priest requisition scene) and the old Doc. Kept for history only —
+do NOT read it as current.** Reading it as current caused the Pass 8 errors (see the Pass 8
+CORRECTION blocks). The latest snapshot is canon until the next pull; precedence (rule 9):
+the page > his ruling > this ledger > AI inference.
+
+**Master Doc:** "Tbd D1 Take 2" (`12krCIEuFEv1HlkPbTV63aGOnGDmvmApeTVq9JJY7qk4`). The "TBD" doc id
+in the old head below is retired.
+**Form:** a NOVEL (declared 09-19). Title TBD; "Task Force Cryptid" is a filing handle only; the
+unit is unnamed on the page. **Process:** discovery draft; revisions OPEN mid-draft (09-19 —
+supersedes "revisions HELD" below); the room never assigns revisions; revised batches are roomed
+under the original pass's letter; the floor counts NET new words.
+
+**THE BOOK AS IT STANDS (latest snapshot per section):**
+| Section | What's on the page | Latest snapshot (manuscripts/) | Words | Passes |
+|---|---|---|---|---|
+| Prologue v4 | The Director of the CIA (Rick) walks a crime scene with a park ranger; Jeff's hunt in the forest; coda — the sheriff and his detective find Jeff Fisher's bloodied star ("Special Forest Service") | `task-force-cryptid_prologue-v4_docpull_2026-09-21.txt` | 1,341 | 2, 2a |
+| Ch1 v2.1 | James Johnson, Green Beret, pulled from the team room (Sarge/Chad, the captain); Kyle Brooks (CIA) takes him | `task-force-cryptid_ch1-v2.1-johnson_brooks-revised_2026-09-15.txt` | 697 | 3 series — **REWRITE DOCKET (→ 3b)** |
+| Ch2 | Dr. Elizabeth Green (Harvard; Amazon research team) recruited by Brooks | `task-force-cryptid_ch2_docpull_2026-09-21.txt` | 1,025 | 4 series |
+| Ch3.2 | Frank Stillwell + Sheriff John Collins: the presser, the back room (the artifact, the green light, Nevada) | `task-force-cryptid_ch3.2-frank_docpull_2026-09-21.txt` — **Doc has changed (1,119, Nevada line in); re-snapshot owed** | 1,126 | 5, 5-PC, 5b |
+| Ch4.1 | Rick + Brooks at the Vatican: Matthew, the library, the mask, Father Joseph, the heart at the crucifix | `task-force-cryptid_ch4.1-vatican_docpull_2026-09-19.txt` | 1,803 | 6, 6a (6b pending) |
+| Ch5 | James in town: the sheriff's office, the print, Frank, the riverbank, the head, the thrown body (Jeff), the blood toward town | `task-force-cryptid_ch5-complete_chatpaste_2026-09-24.txt` (revised ending exists in CHAT only) | 2,376 | 7, 7a |
+| Ch6 | Brooks + Father Noah at CIA HQ → Rick's office; the scroll; orders | `task-force-cryptid_ch6-complete_chatpaste_2026-09-25.txt` | 921 | 8, 8a |
+| Interlude 1 | Carl Anderson's farm; three beasts | `task-force-cryptid_interlude1-anderson_chatpaste_2026-09-25.txt` | 706 | 9 |
+| Ch7 | In the Doc — NOT yet pulled (seen 09-26) | — | — | — |
+
+**DECLARED FOR THIS BOOK (rule 4b — these, and only these):**
+- The woods carry a **BLAIR WITCH** feel: the reader's man on the ground never sees the thing (7a).
+- **THE FOREST IS PERSONIFIED** — a through-line device ("shamble" stays) (7a).
+- **INTERLUDE PACING LAW:** the mundane goes quick, the horror goes slow (9).
+- **SETTING:** modeled on Missoula, MT; the town is UNNAMED and not 1:1; the only real anchors
+  are the Lolo forest and "the college"; the river is a FEATURE (7).
+- **The forest IS the sheriff's jurisdiction** — "we don't have jurisdiction" is a LIE (5b, 09-26).
+- **Rick:** "just cigarettes and a flask, a man whose currency is stress" (8 correction).
+- **James is African American** — surfaces in Ch7; carried back in the Ch1 rewrite (09-25).
+- **No editor until the draft is entirely done** (09-19 declarations).
+- Still UNDECLARED: register, tense law, POV law, genre label. Author settles by writing.
+
+**HELD — never probe, never re-raise:** Nevada · the scroll (sequel room) · Noah's "eager to meet
+the director" ("it'll make sense soon") · the human toes at twelve words · the burner phone ·
+"never investigated" is a lie · why the task force watches Frank.
+
+**Where rulings live:** under each Pass, in the blocks headed "AUTHOR RULINGS," "RULING," "CLAIMED,"
+"CORRECTION," or "AUTHOR DECLARATION(S)." Search those words before flagging anything.
+
+---
+
 Persistent room file for the untitled story opened 2026-09-13 (Google Doc **"TBD"**, id
 `18Y18zqtuIqebYkDWOZNGw2rU6mdHM4sG3BVi1ZWjk10`; in-text title "Unnamed Story"). Working handle
 taken from the prologue's last line — NOT a title; rename the ledger only if the author names the
