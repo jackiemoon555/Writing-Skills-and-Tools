@@ -49,6 +49,9 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > raise only when he does. **GAMES:** Snap file current through 09-25 — Omega **88** new peak on
 > the Taskmaster+Gorr Negative list; official pack drop-rate tables filed in
 > `games/snap/reference/`. Reports on demand only.
+> **AGENTS — PROPOSED, HELD (author, 09-26: "soon I'll tell you when; I'm building agents elsewhere
+> too"):** (1) a saved INTAKE agent (Sonnet; snapshot/MD5/count/checker/tracker in one line), (2) a
+> Snap SHOP-CARD checker (the Ross/Jim/Herbie procedure). Don't build or re-pitch until he says.
 > **PROCESS NOTES:** intake = Sonnet subagents (worked 6× this session; use a script FILE for
 > tracker appends — `py -c` in bash mangles backticks); bash heredocs on this PC choke on long
 > quoted blocks — write scratch files with the Write tool and `cat >>` them; **PC has no `gh`** —
