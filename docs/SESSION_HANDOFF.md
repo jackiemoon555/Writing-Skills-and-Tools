@@ -38,6 +38,9 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > are named: choice or oversight? Ch1 is on his REWRITE DOCKET (→ Pass 3b when it lands) — **and
 > carries a NEW DECLARATION (09-25): James is African American; it surfaces in CH7, and the Ch1
 > rewrite should carry it (his note to himself, logged in the ledger).**
+> **ALSO FOR SUNDAY'S PULL:** the Doc now has a **CHAPTER 7** (seen 09-26, not read, not counted)
+> and Ch3 changed (Nevada line in; 1,119w vs 1,126) — snapshot + count both. Ch3 jurisdiction
+> ruling logged under Pass 5b (09-26): the forest IS the sheriff's; "no jurisdiction" is a lie.
 > **SETTING BASIS (ledger):** modeled on Missoula, MT — town UNNAMED by design, not 1:1; only
 > real anchors = the Lolo forest + "the college." Never 1:1 it from Claude's side.
 > **NEW SIDE LANE — WARM-UP SERIES** (`reports/warm-up-series.room.md`): "Black Market
