@@ -14,6 +14,11 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
+- **STANDING RULE for shop/token cards (author, 2026-09-26): evaluate them against EVERY archetype,
+  not just his current Negative list** — "don't keep these cards limited to negative decks, look for
+  all, send a subagent if need be." Procedure = the 09-25 Ross check: current lists from the deck
+  sites → run through `match_decks.py` against his collection → owned/missing/tokens-to-fill
+  including the card's own price → build-around vs flex → verdict line first.
 - Ladder: 1–100, named tier every ten (Iron 10 · Bronze 20 · Silver 30 · Gold 40 · Platinum 50 ·
   Diamond 60 · Vibranium 70 · Omega 80 · Galactic 90 · **Infinite 100**); past 100 = a points
   leaderboard; seasons reset you down about thirty ranks. Infinite = the benchmark for a strong
