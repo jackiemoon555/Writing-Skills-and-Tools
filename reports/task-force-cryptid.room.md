@@ -2054,3 +2054,28 @@ three-or-four pads); they take the arm first; the pack howls in unison. Both And
 
 ### AUTHOR DECLARATION — 2026-09-25 (logged at his instruction: "add it to my notes for my chapter 1 revision")
 - **JAMES JOHNSON IS AFRICAN AMERICAN.** "I just think it fits and adds another layer of why James doesn't trust the town." Comes out on the page in **CHAPTER 7**; goes on the **CH1 REWRITE DOCKET** (→ Pass 3b). Not on the page yet anywhere — the room does not infer it into earlier chapters, and does not re-read Ch5 for it until he brings it there. Consequence for the record only: the Pass 7 turf ruling (an outsider not welcomed by local police) gains a layer he intends, not one the room adds.
+
+### Pass 5b — AUTHOR RULING, JURISDICTION (chat, 2026-09-26; logged at his "Yes") — supersedes part of the 09-21 intent note
+- **THE FOREST IS THE SHERIFF'S JURISDICTION. "We don't have jurisdiction" is a LIE.** (His
+  research: in this case it is on the sheriff; room noted this matches how most national forests
+  work — the county sheriff enforces state law there.) He heard Ch3 read back from the Doc
+  (09-26: "that wasn't bad") and will reword the backstage part into the two of them lying about
+  jurisdiction.
+- **What that does to the page (room's continuity note, his to act on):**
+  - PRESSER — "the Lolo forest is federally protected. We don't have jurisdiction." / "we're
+    waiting for the National Forest Service." — now a lie told in public; can stay as written.
+    Mr. Long's "Did you not call them when a ranger went missing?" becomes a man half-catching it.
+  - BACKSTAGE — "Not that we can't even work on the fucking murders, BECAUSE IT'S ON FEDERAL
+    LAND." — the one line that treats the excuse as TRUE between two men with no reason to lie to
+    each other. This is the line he's rewording.
+  - CH5 — "Unfortunately, we didn't have time or the bodies to carryout a full investigation" =
+    the same lie a second time, told to a fed who could check it.
+- **VEIL NOTE UPDATED:** the 09-21 intent logged under Pass 5b ("What FRANK broke was the veil:
+  by saying 'We don't have jurisdiction' he told the town the law stops at the tree line") no
+  longer holds as written. Frank did NOT admit a limit — he USED THE COVER STORY. John's anger
+  becomes about Frank handing the town an excuse that invites questions (Long, the college
+  woman: "who is protecting the city?"), not about admitting the law stops at the trees. John's
+  fear campaign ("keep them scared, keep them away") stands.
+- Also confirmed in the 09-26 Doc read: the Nevada line is IN ("And don't forget, you still owe
+  me for Nevada, *Frank*." — italics, once, as advised); "Think big" is gone. Doc Ch3 = 1,119w vs
+  the 09-21 snapshot's 1,126 prose count — snapshot + net delta owed at the Sunday pull.
