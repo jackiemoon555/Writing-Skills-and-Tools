@@ -9,8 +9,8 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   stayed cause I actually like it." Rank **75**, peaked **83 (Omega)**. Climbed to the 70s on the
   **free Zombie deck** the game gave away, pivoted to the **free Ramp deck** and hit Omega, then
   fell 83 → 75 while trying different decks.
-- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **Omega 88 — NEW PEAK, 2026-09-25**, on
-  the NEGATIVE deck (Taskmaster + Gorr list, see 09-24 night). Previous peaks: 86 (same day), 84 (09-24, Wong list), 83.
+- Goal: not stated. (Ask before assuming Infinite is the goal.) Latest rank: **GALACTIC 90 — NEW PEAK + NEW TIER, 2026-09-25 night**,
+  on the NEGATIVE deck (Taskmaster + Gorr list, see 09-24 night). Previous peaks: 89, 88, 86 (same day), 84 (09-24, Wong list), 83.
 - Collection: small / returning account. Exact collection level unknown — ask, don't guess.
 
 ## WHAT HE'S BEEN TOLD (don't repeat unless asked)
@@ -214,3 +214,4 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
 - 2026-09-25 — **Thaddeus Ross in his shop, 6,000 tokens — PASSED.** Text from his install + in-game: 2/2, End of Turn: if the opponent has unspent Energy, draw a card with 10 or more Power. Nothing in the Negative list ever reaches 10 (Jane is 9 pre-flip; post-flip the payoffs top out at 6), the swap does nothing to a 2/2, and the deck already carries three 2-drops. He is for 10-plus-body lists. Not a target; 6,000 tokens kept.
 - 2026-09-25 — **ROSS DECK CHECK (Sonnet research vs his collection, 09-25):** every current Ross deck is a HELA graveyard shell (untapped.gg lists, 09-25) or a Black Knight discard list; he owns 2-5 of 12 in each; the cheapest costs **13,250 tokens on top of Ross's 6,000** (Hela, Death, Black Cat, Hellcow = S3; Skaar = S4; Infinaut = S2). Ross is flex, not build-around ("carried by strong decks rather than improving them"; 0 of the Sept 20 tier-list decks run him). Pass CONFIRMED - do not re-ask. Collection file was 6 days stale; none of the missing cards affected.
 - 2026-09-25 (night) — **OMEGA 89, NEW PEAK**, then a skid ("some of these decks are crazy"). Got "Rogued" - which Rogue not confirmed. From his install: **Rogue Scion of Division** 5/5, On Reveal: steal the TEXT of the highest-Cost card in the opponent's hand - post-Negative that's JANE (cost 9 after the flip) or an unflipped 6-drop; the base Rogue's text is a tutorial placeholder in the dump (not recorded; commonly an Ongoing-steal, which would hit Ravonna or Gorr - UNVERIFIED). Either way the Ongoing/flip pieces are the exposure. Retreat rule unchanged.
+- 2026-09-25 (late) — **GALACTIC 90.** New tier (Omega 80 → Galactic 90 → Infinite 100). Six peaks in two days on two of his own Negative edits; the climb from 83 to 90 ran on the Gorr list + the retreat discipline. Goal still not stated (don't assume Infinite).
