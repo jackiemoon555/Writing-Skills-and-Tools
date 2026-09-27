@@ -1,6 +1,6 @@
 # task-force-cryptid.room.md — room ledger for the UNNAMED STORY (working handle: "Task Force Cryptid")
 
-## ★ CURRENT STATE — READ THIS FIRST (rebuilt 2026-09-26 at the author's "go ahead")
+## ★ CURRENT STATE — READ THIS FIRST (rebuilt 2026-09-26; table refreshed 2026-09-27 after the weekly pull)
 **Everything from "Persistent room file…" down to Pass 1 is the ORIGINAL 09-14 head (frame,
 rule-4b note, §1 calibration, §2 continuity, §3 protect). It describes the RETIRED prologue (a
 Director + unnamed young priest requisition scene) and the old Doc. Kept for history only —
@@ -18,15 +18,16 @@ under the original pass's letter; the floor counts NET new words.
 **THE BOOK AS IT STANDS (latest snapshot per section):**
 | Section | What's on the page | Latest snapshot (manuscripts/) | Words | Passes |
 |---|---|---|---|---|
-| Prologue v4 | The Director of the CIA (Rick) walks a crime scene with a park ranger; Jeff's hunt in the forest; coda — the sheriff and his detective find Jeff Fisher's bloodied star ("Special Forest Service") | `task-force-cryptid_prologue-v4_docpull_2026-09-21.txt` | 1,341 | 2, 2a |
+| Prologue v5 | The Director of the CIA (Rick) walks a crime scene with a park ranger; Jeff's hunt in the forest; coda — the sheriff and his detective find Jeff Fisher's bloodied star ("Special Forest Service") | `task-force-cryptid_prologue-v5_docpull_2026-09-27.txt` | 1,341 | 2, 2a (v5 = paragraph splits only) |
 | Ch1 v2.1 | James Johnson, Green Beret, pulled from the team room (Sarge/Chad, the captain); Kyle Brooks (CIA) takes him | `task-force-cryptid_ch1-v2.1-johnson_brooks-revised_2026-09-15.txt` | 697 | 3 series — **REWRITE DOCKET (→ 3b)** |
 | Ch2 | Dr. Elizabeth Green (Harvard; Amazon research team) recruited by Brooks | `task-force-cryptid_ch2_docpull_2026-09-21.txt` | 1,025 | 4 series |
-| Ch3.2 | Frank Stillwell + Sheriff John Collins: the presser, the back room (the artifact, the green light, Nevada) | `task-force-cryptid_ch3.2-frank_docpull_2026-09-21.txt` — **Doc has changed (1,119, Nevada line in); re-snapshot owed** | 1,126 | 5, 5-PC, 5b |
+| Ch3.3 | Frank Stillwell + Sheriff John Collins: the presser, the back room (the artifact, the green light, Nevada) | `task-force-cryptid_ch3.3-frank_docpull_2026-09-27.txt` | 1,119 | 5, 5-PC, 5b, 5c — the "FEDERAL LAND" backstage line still to be reworded (his 09-26 ruling) |
 | Ch4.1 | Rick + Brooks at the Vatican: Matthew, the library, the mask, Father Joseph, the heart at the crucifix | `task-force-cryptid_ch4.1-vatican_docpull_2026-09-19.txt` | 1,803 | 6, 6a (6b pending) |
-| Ch5 | James in town: the sheriff's office, the print, Frank, the riverbank, the head, the thrown body (Jeff), the blood toward town | `task-force-cryptid_ch5-complete_chatpaste_2026-09-24.txt` (revised ending exists in CHAT only) | 2,376 | 7, 7a |
+| Ch5.1 | James in town: the sheriff's office, the print, Frank, the riverbank, the head, the thrown body (Jeff), the revised exchange, the blood toward town | `task-force-cryptid_ch5.1-james_docpull_2026-09-27.txt` | 2,500 | 7, 7a, 7b |
 | Ch6 | Brooks + Father Noah at CIA HQ → Rick's office; the scroll; orders | `task-force-cryptid_ch6-complete_chatpaste_2026-09-25.txt` | 921 | 8, 8a |
-| Interlude 1 | Carl Anderson's farm; three beasts | `task-force-cryptid_interlude1-anderson_chatpaste_2026-09-25.txt` | 706 | 9 |
-| Ch7 | In the Doc — NOT yet pulled (seen 09-26) | — | — | — |
+| Interlude 1.1 | Carl Anderson's farm; three beasts | `task-force-cryptid_interlude1.1-anderson_docpull_2026-09-27.txt` | 706 | 9 (1.1 = two spacing fixes) |
+| Ch7 | Elizabeth ("Vivian") + Brooks arrive; the wolf across the river; the safehouse; James; the basement pinboard — the team on the page | `task-force-cryptid_ch7-elizabeth-johnson_docpull_2026-09-27.txt` | 1,522 | 10 |
+| Ch8 | Heading only in the Doc (09-27) — nothing written yet | — | 0 | — |
 
 **DECLARED FOR THIS BOOK (rule 4b — these, and only these):**
 - The woods carry a **BLAIR WITCH** feel: the reader's man on the ground never sees the thing (7a).
@@ -2128,3 +2129,136 @@ three-or-four pads); they take the arm first; the pack howls in unison. Both And
 - Also confirmed in the 09-26 Doc read: the Nevada line is IN ("And don't forget, you still owe
   me for Nevada, *Frank*." — italics, once, as advised); "Think big" is gone. Doc Ch3 = 1,119w vs
   the 09-21 snapshot's 1,126 prose count — snapshot + net delta owed at the Sunday pull.
+
+### Pass 7b — Ch5.1, the REVISED ENDING landed in the Doc (2026-09-27 weekly pull; 2,500w, +124 vs 2,376; snapshot task-force-cryptid_ch5.1-james_docpull_2026-09-27.txt; MD5 ce80aa2b95a716691c2989861399dd8f)
+*The exchange he wrote in chat on 09-24 ("Did you see?" / "See what? Your friend launch a fucking
+body?" / "A bigfoot hoax?…" → "Detective Stillwell, I think I found your missing ranger." →
+"Frank paled." → "A human can't do that.") is now on the page, inserted after the thrown body.
+Already read under Pass 7a's rulings (findings 1 and 3 answered). No new findings. Checker 165,
+filed silently.*
+
+### Pass 5c — Ch3.3, the NEVADA line in (2026-09-27 weekly pull; 1,119w, −8 vs 1,127; snapshot task-force-cryptid_ch3.3-frank_docpull_2026-09-27.txt; MD5 fd18e6058650da3f15836ceb5b50eb40)
+*"Last thing we need is more media attention. This goddamn ranger is bringing too many eyes."
+→ "And don't forget, you still owe me for Nevada, *Frank*." (italics, once); "Think big." cut.
+Nevada = held, never probed. **The backstage line "BECAUSE IT'S ON FEDERAL LAND" is still on
+the page** — his 09-26 ruling (the forest is the sheriff's; the line is the one to reword)
+stands; not re-flagged. Checker 48, filed silently.*
+
+*Also this pull, cosmetic only (no pass): Prologue v5 (paragraph splits, 0 net; snapshot
+`task-force-cryptid_prologue-v5_docpull_2026-09-27.txt`, MD5 ce9415db896dc551eb1d9f3e91e983e2)
+and Interlude 1.1 (two double-space fixes, 0 net; snapshot
+`task-force-cryptid_interlude1.1-anderson_docpull_2026-09-27.txt`, MD5
+916e353ff47153e82290a0b5195913e6). Ch1, Ch2, Ch4.1, Ch6 unchanged. Chapter 8 = heading only.*
+
+## Pass 10 — CHAPTER 7: Elizabeth arrives under alias with Brooks; the wolf across the river; the safehouse; the basement pinboard — the team on the page (2026-09-27 weekly Doc pull; 1,522w, first draft; snapshot task-force-cryptid_ch7-elizabeth-johnson_docpull_2026-09-27.txt; MD5 1b7faaaa79c333c7a1a3bdcc8e117f9e)
+*Written 09-25/26 (a "9/26" marker sits mid-chapter, right before the basement — day split
+asked, not assumed). First read; no stated intent. Drafting menu only. Intake delegated to Sonnet
+(weekly pull); checker filed silently (72). WEEK 2 CLOSED at 6,130 / 5,000 with this pull.
+Ledger reloaded: CURRENT STATE head; Pass 4 series (Elizabeth: Harvard, the Amazon team,
+"That's not a number"); Pass 7/7a (James's drug theory; the print; the thrown body; the Blair
+Witch witness rule); Pass 8a (Brooks "When we land I'll be in something different"; Noah leaves
+for Montana MONDAY); the 09-25 declaration (James is African American — surfaces Ch7).*
+
+**WHAT'S ON THE PAGE:** Elizabeth ("Dr. Green"; alias **"Vivian"**) and Brooks (aliases
+**"Bob" / "Agent Jenkins"**; "Jason" in her list) check into a hotel — pink-and-purple luggage
+("If you break it you buy it" / "I'm not a fucking bell hop"); she strips the tacky comforter,
+pink sheets from the suitcase, a king-sized pack of disinfectant wipes; Brooks back in tactical
+pants and an **FBI windbreaker** (Ch6's "something different" paid); **"Is that why your face
+matches your hair?"** → door slammed; "Brooks are you blushing?" / **"If you fuck this up for
+me, I'll make sure we both end up in a blacksite, together."**; the SUV, the radio jabbed off;
+~7 p.m., the river, a tree that moves — **"What." / "What?" / "What!" / "What? The fuck?"** —
+**she sees the wolf on all fours, burning eyes, a howl; Brooks sees nothing**; **"Those
+eyes."**; "Take me to the scout, now."; a multi-story house on the edge of town (screen door
+"on watch"; floorboards louder than the steps); **"Password." / "Unicorn."**; James from the
+shadows, pistol — **"a young black man, also in tactical pants, but with a slim fit t-shirt"**;
+"I already told you something is off here."; no code name for James — "do you know how many
+James Johnsons are in America? Exactly you don't but I do."; **"OH MY GOD!"** → "James, I need
+to talk to you immediately" → "Where are we going, exactly?"; "I chose this… To keep close to
+the woods"; the basement (**"9/26"** marker): concrete, a lone table, a pinboard — red pins =
+attack sites, blue = areas of interest; **James to Brooks: "this backwater town has found
+itself in the middle of a drug operation… That detective you had me watch, Stillwell, he's
+dirty. Him and that phony sheriff."**; the Ch5 walk recapped; the print photo pinned; **"that
+fucking detective and his pal dressed up as bigfoot and chucked the body at us."**; Brooks: a
+grown man's body can't be thrown; Elizabeth: **"I thought I saw a direwolf"**; "James, tomorrow
+you are taking me there." / **"Not how this works lady. I work for the bald man."**; **"are
+those human toes?"**; **"What kind of crazy is she?" / "I'm a morphologist, if that's what
+you're asking."**; "Johnson, first thing tomorrow."; **"I need you to pick up a priest from the
+church."** — Brooks up the stairs. END.
+
+**VERDICT:** the team is finally on the page, and the basement stages the whole book on one
+pinboard. The hotel is a long runway to get there; the one thing that doesn't land is "OH MY
+GOD."
+
+**HARDEST FIRST — (1) "OH MY GOD!" arrives a page after the thing it reacts to.** She sees the
+wolf, whispers "Those eyes," can't get a sentence out (good) — then the safehouse, the password,
+the handshake, Brooks's James-Johnsons joke, and only then the outburst → "I need to talk to you
+immediately." The reader reaches back a page for the referent, and the line directly before it
+is a joke about names, so it reads as a reaction to the joke. **Lever:** the beat she's carrying
+is the wolf — either she carries it visibly through the door, or the outburst lands where the
+wolf is.
+
+**(2) PACING — the hotel is ~650 words of runway.** Luggage, comforter, sheets ripped, pink
+sheets, the wipes, the blushing. It establishes her and "your face matches your hair" earns its
+setup — but the chapter's first real beat (the tree that moves) is 500 words in. One right detail
+beats an inventory: the wipes are the detail; the sheets and comforter are the inventory.
+
+**(3) SHOW-vs-TELL — the basement recaps Ch5 for a reader who just read it:** "I went to one of
+the attack sights… the sheriff and his detective met us there. I made that damned detective
+accompany me as I walked down the river." ~100 words told back. What's NEW is the scene: James's
+theory out loud, the print on the board, the direwolf.
+
+**(4) CORNY (one):** "A screen door sat on watch, slanting rusted bolts, its weapon of choice."
+— personified house (his device), but "weapon of choice" reaches; the floorboards "somehow louder
+than the steps" does the same job better.
+
+**(5) DIALOGUE:** the drive is the chapter's best stretch — four "What"s as percussion while she
+watches a wolf he can't see; "Ok, fucking, Brooks, Bob, Jason, whoever." **Continuity, one
+line:** "pick up a priest from the church" — Ch6 has Noah leaving for Montana MONDAY; if this is
+the trip's first night, the priest at the church is someone else or Noah's timeline moved. His.
+
+**SPINE / THEME PRESSURE-TEST:** the chapter the book has promised since the unit was named —
+and the basement literally puts his three answers on one board: James = drugs (the cop/CIA
+frame), Elizabeth = direwolf (science), Brooks sends for the priest (religion). Lands without
+anyone announcing it. **The witness rule holds a third time:** Elizabeth sees it, Brooks doesn't,
+James (the man on the ground) still hasn't. **The toes pay off through the one person qualified
+to ask** — "are those human toes?" — Ch5's twelve words, four chapters later, as a question. The
+09-25 declaration lands in one clause, exactly as he said he'd do it. Aliases join the
+names-as-rank motif: Brooks polices "Vivian"/"Bob"; she refuses ("Brooks, Bob, Jason, whoever").
+Open plant, in-draft: "Those eyes." — she knows them from somewhere (Ch2's Amazon team?). Not
+probed.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** hotel + drive ≈ 650 · safehouse arrival ≈ 250 ·
+basement ≈ 620. The wolf sighting ≈ 130 and paced right; the direwolf claim one line (right for
+a plant); "Those eyes." two words (a plant).
+
+**WORKS — PROTECT:**
+- "If you break it you buy it." / "I'm not a fucking bell hop."
+- "Is that why your face matches your hair?" + the door in his face.
+- "If you fuck this up for me, I'll make sure we both end up in a blacksite, together."
+- The four "What"s.
+- "Those eyes."
+- "Password." / "Unicorn."
+- "do you know how many James Johnsons are in America? Exactly you don't but I do."
+- "a young black man, also in tactical pants, but with a slim fit t-shirt." — one clause.
+- "that fucking detective and his pal dressed up as bigfoot and chucked the body at us."
+- "Not how this works lady. I work for the bald man."
+- "What kind of crazy is she?" / "I'm a morphologist, if that's what you're asking."
+- "are those human toes?"
+
+**PRIORITY-2:** move or carry the "OH MY GOD" · cut the Ch5 recap to what's new.
+
+**ONE ASK (open at logging):** the "9/26" marker mid-chapter, before the basement — does it mark
+where Saturday's writing started (hotel + drive = Friday night)?
+
+**CONTINUITY (in-draft = open):** Elizabeth = Dr. Green, alias Vivian; glasses; fiery hair; pink
+everything; disinfectant wipes; a morphologist ("mammals"); says she saw a DIREWOLF across the
+river (~7 p.m.), "Those eyes" (recognition?). Brooks = aliases Bob / Agent Jenkins; FBI
+windbreaker + tactical pants; "the bald man"; blushes. James = young, Black, tactical pants,
+slim t-shirt, pistol; chose the safehouse "to keep close to the woods"; mapped the attack sites
++ the town edge; basement pinboard (red = attack sites, blue = areas of interest, black = the
+print photo); theory = drug operation, Stillwell dirty, "phony sheriff"; still hasn't seen the
+creature; "I work for the bald man." Safehouse = multi-story, edge of town, screen door,
+basement. Team on site: Brooks, James, Elizabeth; a priest to be picked up "from the church"
+(Noah? timeline vs Ch6's Monday — open). Password: Unicorn. Chapter 8 = heading only in the Doc.
+**COUNTS:** Ch7 1,522 new; pull net +1,638; **WEEK 2 = 6,130 / 5,000 — CLOSED (1,130 over)**
+after two rest days.
