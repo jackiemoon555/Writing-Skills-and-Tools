@@ -59,7 +59,6 @@ Integrity: OK
 - Human Torch (`HumanTorch`) — +2 variants
 - Hydro Man (`HydroMan`)
 - Iceman (`Iceman`)
-- Infinaut (`Infinaut`)
 - Iron Fist (`IronFist`)
 - Iron Man (`IronMan`)
 - Ironheart (`Ironheart`) — +1 variants
@@ -133,6 +132,7 @@ Integrity: OK
 - Taskmaster (`Taskmaster`)
 - The Collector (`TheCollector`)
 - The Hunger (`TheHunger`)
+- The Infinaut (`Infinaut`)
 - The Thing (`TheThing`) — +1 variants
 - Uatu (`Uatu`)
 - Valentina (`Valentina`)
