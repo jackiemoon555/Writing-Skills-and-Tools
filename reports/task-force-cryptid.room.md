@@ -2286,3 +2286,4 @@ after two rest days.
   horror; Interlude 1 = the first real horror moment (a coordinated attack). Declared; added to
   CURRENT STATE. Pass 10 finding (2) (the hotel as runway) narrows to the sheets-and-comforter
   inventory only.
+- **Banter's job (author, same day): it eases the tension AND shows the team are pros — "they don't panic in the face of danger, they laugh."** Consequence the room reads by: the banter is a GAUGE. A pro who stops joking is the horror signal (already on the page: James's bigfoot-costume joke over a corpse vs Frank, not a pro, paling). Never flag a joke in a danger scene as tonal slippage; flag its ABSENCE only if it's unearned.
