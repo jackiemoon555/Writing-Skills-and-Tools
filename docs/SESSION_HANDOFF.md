@@ -5,7 +5,35 @@
 **REVISION PHASE OPEN as of 2026-08-23.** Google Docs = master. Writing partnership with Alec (pen
 name **Jack Moon**). Point a new session at this file to get fully caught up.*
 
-> ## ▶▶ NEXT SESSION — START HERE (PC, Sunday 2026-09-27 — the weekly pull is DONE)
+> ## ▶▶ NEXT SESSION — START HERE (PC close, Sunday 2026-09-27 evening; the weekly pull is DONE; merged)
+> **SESSION CLOSED 09-27 evening.** Run `repo-health` after the pull. Everything below the next
+> heading is the same day's state; this block adds the late-session items.
+> **DECLARATIONS ADDED 09-27 (rule 4b — in the ledger's ★ CURRENT STATE block):** (1) **NOBODY SEES
+> THE SAME THING** (supersedes the narrower Blair-Witch witness rule — every witness gets a real,
+> partial, incompatible look; the mystery is in the characters); (2) **REGISTER = DARK COMEDY MIXED
+> WITH BANTER** (Barry / Danny McBride); the INTERLUDES carry the horror; Interlude 1 = the first real
+> horror moment (a coordinated attack); banter = tension release AND proof the team are pros — a pro
+> who stops joking is the horror signal. Consequence: banter scenes are the register, not runway.
+> (3) Ch7's intent = "putting the team together" — the briefing shape is deliberate (the team IS the
+> event); Pass 10's recap note narrows to "cut the briefing to what Brooks reacts to."
+> **PASS 10 (Ch7) after his rulings:** the "OH MY GOD" placement · the briefing trim · the sheets
+> inventory. Protect list in the ledger. Chat-only, never develop: why Rick was sent (a President
+> with a theory who appointed him; Rick obeys when he must, maneuvers otherwise) — the page already
+> asks the question (prologue) and half-pays it (Ch2 "the President's backing").
+> **HIS PLAN FOR MON 09-28:** likely a day off (week closed early); may revise **Black Market
+> Therapist** and publish episode 1 (his lane; two cautions given once: byline, and the title spends
+> the twist). Revised BMT → pull as Pass 1a in `reports/warm-up-series.room.md`.
+> **SNAP (file current through 09-27):** his read — the Negative deck is at its CAP (three-card
+> dependency); **plan of record = the PATRIOT shell: Kazootriot now 10/12 (Dazzler came free from
+> collection levels) — PIN Patriot + Ultron (2 × S3 = 2,000; balance 3,650).** Goose (the week's one
+> "buy") rotated out unbought — still the buy if she returns. Superior Iron Man incoming from the
+> season pass. **Collection file is 3 cards stale (Gorr, Dazzler, Superior Iron Man): open Snap on
+> the PC once before the next matcher run.** Taskmaster cut queued as an experiment. Galactic 93.
+> **PROCESS:** repo-health passed at close (all six). Two subagent verdicts were overruled this
+> weekend on the file's own rule (buy toward a deck, not a card) — keep doing that. When a shop
+> verdict is BUY, put it alone in the first line (he misread Goose's).
+>
+> ## (same day, earlier) — the weekly pull
 > **PULL FIRST, then run the `repo-health` skill.** Master Doc = "Tbd D1 Take 2".
 > **WEEK 2 (09-21→09-27) CLOSED: 6,130 / 5,000 ✅** (two rest days 09-22/23, dog died; day 09-24
 > 2,562; 09-25 1,172; the rest via the Sunday pull — Ch7 1,522 written 09-25/26, split unconfirmed).
