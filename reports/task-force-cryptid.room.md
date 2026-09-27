@@ -30,7 +30,16 @@ under the original pass's letter; the floor counts NET new words.
 | Ch8 | Heading only in the Doc (09-27) — nothing written yet | — | 0 | — |
 
 **DECLARED FOR THIS BOOK (rule 4b — these, and only these):**
-- The woods carry a **BLAIR WITCH** feel: the reader's man on the ground never sees the thing (7a).
+- **NOBODY SEES THE SAME THING** (declared 09-27; supersedes the narrower 7a witness rule): every
+  witness gets a real, partial, incompatible look — Frank (8–9 ft, fur), Carl (three, claws, a
+  plan), Elizabeth (a direwolf, eyes she knows), James (a print with human toes, a body that
+  flew — never the thing), Brooks (nothing). The mystery is in the characters. The Blair Witch
+  feel for the woods stands inside this.
+- **REGISTER (declared 09-27): DARK COMEDY MIXED WITH BANTER** — Barry / Danny McBride (HBO) are
+  his named models; the INTERLUDES are where the book stops joking; Interlude 1 is "the first
+  real horror moment" because the attack is COORDINATED. Consequence for the room: banter scenes
+  (the hotel, Noah's walk) are the register, not runway — pace notes on them narrow to the one
+  beat that runs long, never "cut the comedy."
 - **THE FOREST IS PERSONIFIED** — a through-line device ("shamble" stays) (7a).
 - **INTERLUDE PACING LAW:** the mundane goes quick, the horror goes slow (9).
 - **SETTING:** modeled on Missoula, MT; the town is UNNAMED and not 1:1; the only real anchors
@@ -39,7 +48,7 @@ under the original pass's letter; the floor counts NET new words.
 - **Rick:** "just cigarettes and a flask, a man whose currency is stress" (8 correction).
 - **James is African American** — surfaces in Ch7; carried back in the Ch1 rewrite (09-25).
 - **No editor until the draft is entirely done** (09-19 declarations).
-- Still UNDECLARED: register, tense law, POV law, genre label. Author settles by writing.
+- Still UNDECLARED: tense law, POV law, genre label. Author settles by writing.
 
 **HELD — never probe, never re-raise:** Nevada · the scroll (sequel room) · Noah's "eager to meet
 the director" ("it'll make sense soon") · the human toes at twelve words · the burner phone ·
@@ -2264,3 +2273,16 @@ basement. Team on site: Brooks, James, Elizabeth; a priest to be picked up "from
 after two rest days.
 
 **Pass 10 ask ANSWERED (author, 2026-09-27): yes — the "9/26" marker is where Saturday's writing started. Hotel + drive + safehouse arrival (963w) = Fri 09-25; the basement (558w) = Sat 09-26. Tracker updated.**
+
+### AUTHOR DECLARATIONS — 2026-09-27 (chat, after Pass 10; logged) — rule 4b
+- **Ch7's intent:** "putting the team together" — the recap reads as recap because the scene is a
+  briefing; Pass 10 finding (3) narrows to: keep the briefing, cut it to what Brooks reacts to.
+- **The convening shape is deliberate:** the team IS the event (an institution pushes them at it;
+  Martin/Sanderson pull people toward one) — so the room is a briefing, and disagreement is its
+  engine (drugs / direwolf / a priest).
+- **NOBODY SEES THE SAME THING** — "I thought it made sense if they all saw something different to
+  add the mystery within the characters themselves." Declared; added to CURRENT STATE.
+- **REGISTER = DARK COMEDY MIXED WITH BANTER** (Barry, Danny McBride); the interludes carry the
+  horror; Interlude 1 = the first real horror moment (a coordinated attack). Declared; added to
+  CURRENT STATE. Pass 10 finding (2) (the hotel as runway) narrows to the sheets-and-comforter
+  inventory only.
