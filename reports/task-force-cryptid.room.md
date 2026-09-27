@@ -2262,3 +2262,5 @@ basement. Team on site: Brooks, James, Elizabeth; a priest to be picked up "from
 (Noah? timeline vs Ch6's Monday — open). Password: Unicorn. Chapter 8 = heading only in the Doc.
 **COUNTS:** Ch7 1,522 new; pull net +1,638; **WEEK 2 = 6,130 / 5,000 — CLOSED (1,130 over)**
 after two rest days.
+
+**Pass 10 ask ANSWERED (author, 2026-09-27): yes — the "9/26" marker is where Saturday's writing started. Hotel + drive + safehouse arrival (963w) = Fri 09-25; the basement (558w) = Sat 09-26. Tracker updated.**
