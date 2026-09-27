@@ -1,6 +1,6 @@
 # task-force-cryptid.room.md — room ledger for the UNNAMED STORY (working handle: "Task Force Cryptid")
 
-## ★ CURRENT STATE — READ THIS FIRST (rebuilt 2026-09-26; table refreshed 2026-09-27 after the weekly pull)
+## ★ CURRENT STATE — READ THIS FIRST (rebuilt 2026-09-26; table refreshed 2026-09-27 evening after the Ch8 pull)
 **Everything from "Persistent room file…" down to Pass 1 is the ORIGINAL 09-14 head (frame,
 rule-4b note, §1 calibration, §2 continuity, §3 protect). It describes the RETIRED prologue (a
 Director + unnamed young priest requisition scene) and the old Doc. Kept for history only —
@@ -27,7 +27,8 @@ under the original pass's letter; the floor counts NET new words.
 | Ch6 | Brooks + Father Noah at CIA HQ → Rick's office; the scroll; orders | `task-force-cryptid_ch6-complete_chatpaste_2026-09-25.txt` | 921 | 8, 8a |
 | Interlude 1.1 | Carl Anderson's farm; three beasts | `task-force-cryptid_interlude1.1-anderson_docpull_2026-09-27.txt` | 706 | 9 (1.1 = two spacing fixes) |
 | Ch7 | Elizabeth ("Vivian") + Brooks arrive; the wolf across the river; the safehouse; James; the basement pinboard — the team on the page | `task-force-cryptid_ch7-elizabeth-johnson_docpull_2026-09-27.txt` | 1,522 | 10 |
-| Ch8 | Heading only in the Doc (09-27) — nothing written yet | — | 0 | — |
+| Ch8 | Brooks at the country house: John + Frank draw on the SUV ("our FBI agent"); the accusation (the old man and his cattle); the artifact buried by the stones; a week, "the black light" | `task-force-cryptid_ch8-john-frank_docpull_2026-09-27.txt` | 364 | 11 (author, in advance: "quick on purpose") |
+| Ch9 | Heading only in the Doc (09-27 evening) — nothing written yet | — | 0 | — |
 
 **DECLARED FOR THIS BOOK (rule 4b — these, and only these):**
 - **NOBODY SEES THE SAME THING** (declared 09-27; supersedes the narrower 7a witness rule): every
@@ -2287,3 +2288,102 @@ after two rest days.
   CURRENT STATE. Pass 10 finding (2) (the hotel as runway) narrows to the sheets-and-comforter
   inventory only.
 - **Banter's job (author, same day): it eases the tension AND shows the team are pros — "they don't panic in the face of danger, they laugh."** Consequence the room reads by: the banter is a GAUGE. A pro who stops joking is the horror signal (already on the page: James's bigfoot-costume joke over a corpse vs Frank, not a pro, paling). Never flag a joke in a danger scene as tonal slippage; flag its ABSENCE only if it's unearned.
+
+---
+
+## Pass 11 — CHAPTER 8: Brooks at the country house — John + Frank draw on the SUV; the accusation; the artifact's location; the deadline (2026-09-27 evening Doc pull, PC session; 364w, first draft, complete; snapshot task-force-cryptid_ch8-john-frank_docpull_2026-09-27.txt; MD5 43314125623f07ab3dade3f0fdfe927d)
+
+*Author's ruling IN ADVANCE (chat, 09-27): "a quick chapter 8 … It's quick on purpose." Length is
+not a finding in this pass. Scene INTENT not stated — see the ask. Read against the ★ CURRENT
+STATE declarations (REGISTER = dark comedy + banter; NOBODY SEES THE SAME THING) and the Ch3 back
+room (Pass 5 series: the artifact / "You've been given the green light"). Doc also now has a
+CHAPTER 9 heading, no prose (table row added). Checker filed, not surfaced.*
+
+**WHAT'S ON THE PAGE:** a black SUV on the entry path; John and Frank draw on it from behind their
+truck ("I think our FBI agent is back") — it's Brooks. Brooks: the director thought leaving it to
+them was stupid; "I give you guys the green light and you murder an old man and his fucking
+cattle?" John: "None of this shit has been us… Some fucking lunatic is killing people… Probably
+those fucking feral people." Brooks wants the artifact: buried in a remote part of the forest
+"Next to some creepy ass stones." The threat: "Something is happening higher up… I needn't remind
+the two of what's waiting for you." Frank: "It's evil." Brooks walks — a week, "the black light,"
+"I'll be in touch" — then a second exit speech: a meeting "with the fucking agent in command
+tomorrow."
+
+**Continuity, ONE line (his call, not a finding):** Brooks says "green light" once, then "black
+light" twice — an escalation on purpose (green = go; black = anything) or a slip? Otherwise holds:
+Ch3 had John hand Frank "the green light"; Ch8 shows the chain above him (director → Brooks → the
+two). "Our FBI agent" = James (Ch5: "'Special Agent' types"); Brooks wore the FBI windbreaker in
+Ch7 — the mistake is earned.
+
+**HARDEST FIRST — (1) The quick chapter ends twice.** Exit one: "Brooks sighed, walking back to
+his SUV. 'Sort this shit out. You've been given the black light. You guys have a week. I'll be in
+touch.'" Exit two, next line, same man, already walking: "'Frank, snap out of your shit, and sort
+this god damn mess. I have meeting with the fucking agent in command tomorrow. You have the black
+light, what else do you need?'" Same order twice (sort it / the black light), the second delivered
+by a man who has already left. The only thing the second speech adds is the meeting tomorrow.
+Lenses: pacing + repetition. **Lever:** one exit. Whichever stays carries the one new fact; the
+other goes whole. A chapter built to be quick can't afford a coda that re-says the coda.
+
+**(2) "Evil" is a label where Frank owns a picture.** "'We can't, Brooks. Something is out there.
+It's evil. I'm telling you it's fucking evil.' Frank pleaded." Frank is the witness with the most
+specific look in the book so far (8–9 ft, fur — his account, on this ledger). At the one moment he
+pleads to the man who has seen nothing, he uses the adjective, twice, and the tag tells us he
+pleaded. Lens: show-vs-tell (rule 6: show what needs FEELING). Two readings, his call: if "evil"
+is Frank reaching for the church word (the Vatican thread), it's a plant and stands; if it's a
+placeholder, the **lever** is: Frank's fear uses what Frank saw, and "pleaded" comes off because
+the line will carry it.
+
+**(3) The profanity is the music — right now it's a wall.** "fucking" ×6, "shit" ×5, "god damn" ×2
+in 364 words. In the declared register (Barry / McBride) the swearing IS the voice — the finding is
+NOT "cut it." The finding is that the one line that should land as dark comedy — "you murder an
+old man and his fucking cattle?" (the cattle get the expletive; the joke and the horror in one
+clause) — is standing in a crowd of identical hits and can't be heard. Lens: repetition/overuse.
+**Lever:** thin around the one that pays. Class named once — he finds the rest (active recall).
+
+**(4) Mist off a man like steam, then he steps from the fog.** "The man was rubbing his forehead.
+An early morning mist rose off of him like steam." → "Brooks stepped from the fog." The withheld
+name across three "the man"s works (see PROTECT). The image doesn't: mist rises off a body that is
+hot and wet (a horse, a runner); Brooks just got out of a car. Then the mist is fog and he steps
+out of it — off him, or around him? Lens: not working. **Lever:** pick the one picture; the
+withheld-name device survives either.
+
+**(5) John's three theories in one breath — and the best thing he does is buried in a tag.** "'It
+wasn't us, Brooks. None of this shit has been us.' John said, stepping in front of Frank. 'Some
+fucking lunatic is killing people. Now we have that god damn FBI on our backs. Probably those
+fucking feral people.'" — a lunatic, the FBI, the feral people, and Brooks: "Shut up." Under NOBODY
+SEES THE SAME THING this is John's look — he hasn't seen it, so he has theories — and "Shut up"
+(the pro doesn't care) is the register. Both fit. The room's only note: "stepping in front of
+Frank" is the chapter's one physical act of loyalty and it sits inside the sentence that tells us
+he's talking. Lens: dialogue / show. **Lever:** let the step land on its own line, before or after
+the words — not inside the tag.
+
+**SPINE / THEME PRESSURE-TEST:** Ch8's job, as read (intent not stated) = convert Ch3's shadow into
+a chain and put a pin in the map. It does both by plain statement: the director → Brooks → John/
+Frank; the artifact is in the forest by the stones. And it stages the declared mystery in three
+looks — Brooks (nothing: "you murder an old man"), John (nothing: theories), Frank (the most, and
+he can't say it). That structure LANDS. Asserted, not paid: "Something is happening higher up" — a
+plant, fine mid-draft. Not probed: who "the agent in command" is; whether Brooks believes the
+denial (he doesn't argue it, he moves on — reads as a choice).
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** the fake-out (SUV → guns → "Brooks?") 102 · accusation +
+denial 118 · the artifact's location 35 · the threat 36 · **Frank's plea 17** · the two exits 54
+together. Ruling on record: quick on purpose — the audit is a mirror, not an order. The mirror
+says: the two exits together get three times the words of the one moment a witness speaks.
+
+**WORKS — PROTECT:**
+- "I think our FBI agent is back." → "Brooks?" — the reader expects James too; the misdirect is
+  honest and it is the chapter's joke: two pros drawing on their own handler.
+- "Click." on its own line — the one-word sound as trigger; this book keeps reaching for it and it
+  is becoming its device.
+- "you murder an old man and his fucking cattle?" — the register in one clause (finding 3: give
+  it room).
+- "None of this shit has been us." — the denial doubles as the news that Brooks thought it WAS
+  them; the chapter's real information lives in that "none."
+- "Next to some creepy ass stones." — one right detail; the first physical coordinate for the
+  object the Vatican chapter spent 1,800 words on.
+
+**NOT RE-RAISED (settled/held):** why the task force watches Frank · Nevada · the jurisdiction lie
+· the scroll · Ch7's briefing shape (declared deliberate).
+
+**THE ASK (one):** Ch8's intent — what does this chapter need to DO (rule 11)? The pass graded it
+against what the page does, not against a guess.
