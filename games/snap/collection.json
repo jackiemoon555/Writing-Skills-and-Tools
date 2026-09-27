@@ -1,6 +1,6 @@
 {
-  "source_file_modified": "2026-09-19T17:40:24",
-  "card_count": 123,
+  "source_file_modified": "2026-09-27T14:23:28",
+  "card_count": 146,
   "cards": [
     {
       "id": "Abomination",
@@ -23,6 +23,12 @@
     {
       "id": "Agent13",
       "norm_key": "agent13",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "AgentCoulson",
+      "norm_key": "agentcoulson",
       "base_owned": true,
       "variant_count": 0
     },
@@ -63,6 +69,12 @@
       "variant_count": 1
     },
     {
+      "id": "Attuma",
+      "norm_key": "attuma",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Bishop",
       "norm_key": "bishop",
       "base_owned": true,
@@ -72,7 +84,7 @@
       "id": "Blade",
       "norm_key": "blade",
       "base_owned": true,
-      "variant_count": 0
+      "variant_count": 1
     },
     {
       "id": "Blink",
@@ -147,6 +159,18 @@
       "variant_count": 1
     },
     {
+      "id": "Dagger",
+      "norm_key": "dagger",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Dazzler",
+      "norm_key": "dazzler",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Deathlok",
       "norm_key": "deathlok",
       "base_owned": true,
@@ -173,6 +197,12 @@
     {
       "id": "DrDoom",
       "norm_key": "doctordoom",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "EbonyMaw",
+      "norm_key": "ebonymaw",
       "base_owned": true,
       "variant_count": 0
     },
@@ -221,6 +251,12 @@
     {
       "id": "Giganto",
       "norm_key": "giganto",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Gorr",
+      "norm_key": "gorr",
       "base_owned": true,
       "variant_count": 0
     },
@@ -276,7 +312,7 @@
       "id": "HumanTorch",
       "norm_key": "humantorch",
       "base_owned": true,
-      "variant_count": 1
+      "variant_count": 2
     },
     {
       "id": "HydroMan",
@@ -287,6 +323,12 @@
     {
       "id": "Iceman",
       "norm_key": "iceman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Infinaut",
+      "norm_key": "infinaut",
       "base_owned": true,
       "variant_count": 0
     },
@@ -333,6 +375,12 @@
       "variant_count": 0
     },
     {
+      "id": "Killmonger",
+      "norm_key": "killmonger",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "KittyPryde",
       "norm_key": "kittypryde",
       "base_owned": true,
@@ -375,6 +423,12 @@
       "variant_count": 0
     },
     {
+      "id": "Loki",
+      "norm_key": "loki",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Magik",
       "norm_key": "magik",
       "base_owned": true,
@@ -393,8 +447,26 @@
       "variant_count": 0
     },
     {
+      "id": "MariaHill",
+      "norm_key": "mariahill",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Medusa",
       "norm_key": "medusa",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MilesMorales",
+      "norm_key": "milesmorales",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Mirage",
+      "norm_key": "mirage",
       "base_owned": true,
       "variant_count": 0
     },
@@ -413,6 +485,12 @@
     {
       "id": "MoonGirl",
       "norm_key": "moongirl",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Morbius",
+      "norm_key": "morbius",
       "base_owned": true,
       "variant_count": 0
     },
@@ -483,6 +561,18 @@
       "variant_count": 0
     },
     {
+      "id": "Okoye",
+      "norm_key": "okoye",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "OmegaRed",
+      "norm_key": "omegared",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Onslaught",
       "norm_key": "onslaught",
       "base_owned": true,
@@ -513,8 +603,20 @@
       "variant_count": 1
     },
     {
+      "id": "Quinjet",
+      "norm_key": "quinjet",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "RavonnaRenslayer",
       "norm_key": "ravonnarenslayer",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Rhino",
+      "norm_key": "rhino",
       "base_owned": true,
       "variant_count": 0
     },
@@ -567,6 +669,12 @@
       "variant_count": 0
     },
     {
+      "id": "ShangChi",
+      "norm_key": "shangchi",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Shocker",
       "norm_key": "shocker",
       "base_owned": true,
@@ -575,6 +683,12 @@
     {
       "id": "Spectrum",
       "norm_key": "spectrum",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "SpiderHam",
+      "norm_key": "spiderham",
       "base_owned": true,
       "variant_count": 0
     },
@@ -599,6 +713,12 @@
     {
       "id": "Stegron",
       "norm_key": "stegron",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Storm",
+      "norm_key": "storm",
       "base_owned": true,
       "variant_count": 0
     },
@@ -663,6 +783,18 @@
       "variant_count": 0
     },
     {
+      "id": "Valentina",
+      "norm_key": "valentina",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "VictoriaHand",
+      "norm_key": "victoriahand",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Vision",
       "norm_key": "vision",
       "base_owned": true,
@@ -683,6 +815,12 @@
     {
       "id": "Warpath",
       "norm_key": "warpath",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Wasp",
+      "norm_key": "wasp",
       "base_owned": true,
       "variant_count": 0
     },
@@ -743,39 +881,8 @@
   ],
   "decks": [
     {
-      "name": "Heist Mixtape",
-      "time_updated": "2026-09-16T17:10:27.066-05:00",
-      "slot": "TeamUp_GuardiansOfTheGalaxy_Precon",
-      "cards": [
-        "StarlordGuardiansOfTheGalaxy",
-        "GamoraGuardiansOfTheGalaxy",
-        "DraxGuardiansOfTheGalaxy",
-        "GrootGuardiansOfTheGalaxy",
-        "RocketRaccoonGuardiansOfTheGalaxy",
-        "MantisGuardiansOfTheGalaxy",
-        "Nebula",
-        "AdamWarlock",
-        "GrandMaster",
-        "Gladiator",
-        "DraxAvatarOfLife",
-        "MajorVictory"
-      ],
-      "missing": [
-        "DraxAvatarOfLife",
-        "DraxGuardiansOfTheGalaxy",
-        "GamoraGuardiansOfTheGalaxy",
-        "Gladiator",
-        "GrootGuardiansOfTheGalaxy",
-        "MajorVictory",
-        "MantisGuardiansOfTheGalaxy",
-        "Nebula",
-        "RocketRaccoonGuardiansOfTheGalaxy",
-        "StarlordGuardiansOfTheGalaxy"
-      ]
-    },
-    {
       "name": "Negative Deck",
-      "time_updated": "2026-09-19T17:02:38.989-05:00",
+      "time_updated": "2026-09-27T10:56:08.436-05:00",
       "slot": null,
       "cards": [
         "AdamWarlock",
@@ -785,31 +892,31 @@
         "MrNegative",
         "JaneFoster",
         "IronMan",
+        "Ironheart",
+        "Mystique",
+        "Gorr",
         "WhiteTiger",
-        "Bishop",
-        "Wong",
-        "Jubilee",
-        "Ironheart"
+        "MrFantastic"
       ],
       "missing": []
     },
     {
       "name": "Zombie Deck",
-      "time_updated": "2026-09-19T08:28:50.94-05:00",
+      "time_updated": "2026-09-23T10:56:40.493-05:00",
       "slot": null,
       "cards": [
         "TheHunger",
-        "Nightcrawler",
         "ZombieSentry",
         "ElsaBloodstone",
-        "Hulkbuster",
         "GrandMaster",
         "Crystal",
         "Wong",
-        "AbsorbingMan",
         "ZombieGiantMan",
         "Ironheart",
-        "Psylocke"
+        "KittyPryde",
+        "AbsorbingMan",
+        "Jubilee",
+        "ScarletWitch"
       ],
       "missing": []
     },
@@ -819,57 +926,6 @@
       "slot": null,
       "cards": [],
       "missing": []
-    },
-    {
-      "name": "Custom Avengers",
-      "time_updated": "2026-09-16T17:10:27.085-05:00",
-      "slot": "TeamUp_Avengers_Custom",
-      "cards": [
-        "CaptainAmericaAvengers",
-        "DoctorStrangeAvengers",
-        "HawkeyeAvengers",
-        "HulkAvengers",
-        "ThorAvengers",
-        "VisionAvengers"
-      ],
-      "missing": [
-        "CaptainAmericaAvengers",
-        "DoctorStrangeAvengers",
-        "HawkeyeAvengers",
-        "HulkAvengers",
-        "ThorAvengers",
-        "VisionAvengers"
-      ]
-    },
-    {
-      "name": "Avengers Assemble!",
-      "time_updated": "2026-09-16T17:10:27.085-05:00",
-      "slot": "TeamUp_Avengers_Precon",
-      "cards": [
-        "HawkeyeAvengers",
-        "DoctorStrangeAvengers",
-        "CaptainAmericaAvengers",
-        "ThorAvengers",
-        "VisionAvengers",
-        "HulkAvengers",
-        "AmericaChavez",
-        "SamWilson",
-        "Quake",
-        "CaptainCarter",
-        "Ironheart",
-        "IronMan"
-      ],
-      "missing": [
-        "CaptainAmericaAvengers",
-        "CaptainCarter",
-        "DoctorStrangeAvengers",
-        "HawkeyeAvengers",
-        "HulkAvengers",
-        "Quake",
-        "SamWilson",
-        "ThorAvengers",
-        "VisionAvengers"
-      ]
     },
     {
       "name": "Deck 1",
@@ -892,266 +948,48 @@
       "missing": []
     },
     {
-      "name": "Custom Brotherhood of Mutants",
-      "time_updated": "2026-09-16T17:10:27.066-05:00",
-      "slot": "TeamUp_BrotherhoodOfMutants_Custom",
+      "name": "Created Cards Deck",
+      "time_updated": "2026-09-27T14:23:23.365-05:00",
+      "slot": null,
       "cards": [
-        "SeleneBrotherhoodOfMutants",
-        "ScarletWitchBrotherhoodOfMutants",
-        "MystiqueBrotherhoodOfMutants",
-        "WhiteQueenBrotherhoodOfMutants",
-        "LadyDeathstrikeBrotherhoodOfMutants",
-        "MagnetoBrotherhoodOfMutants"
+        "Quinjet",
+        "SpiderHam",
+        "MariaHill",
+        "Loki",
+        "VictoriaHand",
+        "Mirage",
+        "Valentina",
+        "AgentCoulson",
+        "Agent13",
+        "TheCollector",
+        "MoonGirl",
+        "DevilDinosaur"
       ],
-      "missing": [
-        "LadyDeathstrikeBrotherhoodOfMutants",
-        "MagnetoBrotherhoodOfMutants",
-        "MystiqueBrotherhoodOfMutants",
-        "ScarletWitchBrotherhoodOfMutants",
-        "SeleneBrotherhoodOfMutants",
-        "WhiteQueenBrotherhoodOfMutants"
-      ]
-    },
-    {
-      "name": "Spider-Frenemies",
-      "time_updated": "2026-09-16T17:10:27.049-05:00",
-      "slot": "TeamUp_WebSlingers_Precon",
-      "cards": [
-        "AgonyWebSlingers",
-        "GhostSpiderWebSlingers",
-        "ScarletSpiderWebSlingers",
-        "SymbioteSpiderManWebSlingers",
-        "AntiVenomWebSlingers",
-        "SpiderMan2099WebSlingers",
-        "SpiderManBrandNewDay",
-        "Silk",
-        "SpiderPunk",
-        "Prowler",
-        "MaryJane",
-        "ManSpider"
-      ],
-      "missing": [
-        "AgonyWebSlingers",
-        "AntiVenomWebSlingers",
-        "GhostSpiderWebSlingers",
-        "ManSpider",
-        "MaryJane",
-        "Prowler",
-        "ScarletSpiderWebSlingers",
-        "Silk",
-        "SpiderMan2099WebSlingers",
-        "SpiderManBrandNewDay",
-        "SpiderPunk",
-        "SymbioteSpiderManWebSlingers"
-      ]
-    },
-    {
-      "name": "Custom Thunderbolts",
-      "time_updated": "2026-09-16T17:10:27.067-05:00",
-      "slot": "TeamUp_Thunderbolts_Custom",
-      "cards": [
-        "WinterSoldierThunderbolts",
-        "ValentinaThunderbolts",
-        "TaskmasterThunderbolts",
-        "SentryThunderbolts",
-        "GhostThunderbolts",
-        "ToxieDoxieThunderbolts"
-      ],
-      "missing": [
-        "GhostThunderbolts",
-        "SentryThunderbolts",
-        "TaskmasterThunderbolts",
-        "ToxieDoxieThunderbolts",
-        "ValentinaThunderbolts",
-        "WinterSoldierThunderbolts"
-      ]
-    },
-    {
-      "name": "Custom Spider-Verse",
-      "time_updated": "2026-09-16T17:10:27.051-05:00",
-      "slot": "TeamUp_WebSlingers_Custom",
-      "cards": [
-        "SpiderMan2099WebSlingers",
-        "AgonyWebSlingers",
-        "GhostSpiderWebSlingers",
-        "ScarletSpiderWebSlingers",
-        "SymbioteSpiderManWebSlingers",
-        "AntiVenomWebSlingers"
-      ],
-      "missing": [
-        "AgonyWebSlingers",
-        "AntiVenomWebSlingers",
-        "GhostSpiderWebSlingers",
-        "ScarletSpiderWebSlingers",
-        "SpiderMan2099WebSlingers",
-        "SymbioteSpiderManWebSlingers"
-      ]
-    },
-    {
-      "name": "Children of the Atom",
-      "time_updated": "2026-09-16T17:10:27.066-05:00",
-      "slot": "TeamUp_XMen_Precon",
-      "cards": [
-        "NightcrawlerXMen",
-        "WolverineXMen",
-        "JeanGreyXMen",
-        "CyclopsXMen",
-        "JubileeXMen",
-        "ProfessorXXMen",
-        "Sunspot",
-        "Surge",
-        "HopeSummers",
-        "Prodigy",
-        "Isca",
-        "Sasquatch"
-      ],
-      "missing": [
-        "CyclopsXMen",
-        "HopeSummers",
-        "Isca",
-        "JeanGreyXMen",
-        "JubileeXMen",
-        "NightcrawlerXMen",
-        "Prodigy",
-        "ProfessorXXMen",
-        "Sasquatch",
-        "Surge",
-        "WolverineXMen"
-      ]
-    },
-    {
-      "name": "Null and Void",
-      "time_updated": "2026-09-16T17:10:27.067-05:00",
-      "slot": "TeamUp_Thunderbolts_Precon",
-      "cards": [
-        "WinterSoldierThunderbolts",
-        "ValentinaThunderbolts",
-        "ToxieDoxieThunderbolts",
-        "GhostThunderbolts",
-        "SentryThunderbolts",
-        "TaskmasterThunderbolts",
-        "Hood",
-        "Hulkbuster",
-        "Viper",
-        "AbsorbingMan",
-        "Klaw",
-        "RedHulk"
-      ],
-      "missing": [
-        "GhostThunderbolts",
-        "Hood",
-        "RedHulk",
-        "SentryThunderbolts",
-        "TaskmasterThunderbolts",
-        "ToxieDoxieThunderbolts",
-        "ValentinaThunderbolts",
-        "Viper",
-        "WinterSoldierThunderbolts"
-      ]
-    },
-    {
-      "name": "Mutant and Proud",
-      "time_updated": "2026-09-16T17:10:27.047-05:00",
-      "slot": "TeamUp_BrotherhoodOfMutants_Precon",
-      "cards": [
-        "SeleneBrotherhoodOfMutants",
-        "ScarletWitchBrotherhoodOfMutants",
-        "MystiqueBrotherhoodOfMutants",
-        "WhiteQueenBrotherhoodOfMutants",
-        "LadyDeathstrikeBrotherhoodOfMutants",
-        "MagnetoBrotherhoodOfMutants",
-        "BlackCat",
-        "Martyr",
-        "Forge",
-        "Maverick",
-        "SebastianShaw",
-        "WolverineHorseman"
-      ],
-      "missing": [
-        "BlackCat",
-        "LadyDeathstrikeBrotherhoodOfMutants",
-        "MagnetoBrotherhoodOfMutants",
-        "Martyr",
-        "Maverick",
-        "MystiqueBrotherhoodOfMutants",
-        "ScarletWitchBrotherhoodOfMutants",
-        "SebastianShaw",
-        "SeleneBrotherhoodOfMutants",
-        "WhiteQueenBrotherhoodOfMutants",
-        "WolverineHorseman"
-      ]
+      "missing": []
     },
     {
       "name": "Ramp Deck",
-      "time_updated": "2026-08-27T19:00:42.913-05:00",
+      "time_updated": "2026-09-23T17:00:56.65-05:00",
       "slot": null,
       "cards": [
-        "Sunspot",
         "Domino",
         "Electro",
         "Wave",
         "Jubilee",
         "Blink",
-        "Sandman",
-        "Vision",
         "DrDoom",
         "WarMachine",
-        "Magneto",
-        "Giganto"
+        "Giganto",
+        "Sunspot",
+        "Sandman",
+        "Gorr",
+        "Enchantress"
       ],
       "missing": []
-    },
-    {
-      "name": "Custom Guardians of the Galaxy",
-      "time_updated": "2026-09-16T17:10:27.066-05:00",
-      "slot": "TeamUp_GuardiansOfTheGalaxy_Custom",
-      "cards": [
-        "StarlordGuardiansOfTheGalaxy",
-        "GamoraGuardiansOfTheGalaxy",
-        "DraxGuardiansOfTheGalaxy",
-        "GrootGuardiansOfTheGalaxy",
-        "RocketRaccoonGuardiansOfTheGalaxy",
-        "MantisGuardiansOfTheGalaxy"
-      ],
-      "missing": [
-        "DraxGuardiansOfTheGalaxy",
-        "GamoraGuardiansOfTheGalaxy",
-        "GrootGuardiansOfTheGalaxy",
-        "MantisGuardiansOfTheGalaxy",
-        "RocketRaccoonGuardiansOfTheGalaxy",
-        "StarlordGuardiansOfTheGalaxy"
-      ]
-    },
-    {
-      "name": "Custom X-Men",
-      "time_updated": "2026-09-16T18:21:00.613-05:00",
-      "slot": "TeamUp_XMen_Custom",
-      "cards": [
-        "ProfessorXXMen",
-        "CyclopsXMen",
-        "JeanGreyXMen",
-        "WolverineXMen",
-        "NightcrawlerXMen",
-        "JubileeXMen",
-        "Morph",
-        "Iceman",
-        "Electro",
-        "Sunspot",
-        "WarMachine",
-        "Odin"
-      ],
-      "missing": [
-        "CyclopsXMen",
-        "JeanGreyXMen",
-        "JubileeXMen",
-        "NightcrawlerXMen",
-        "ProfessorXXMen",
-        "WolverineXMen"
-      ]
     }
   ],
   "integrity": {
-    "copies_list_count": 123,
+    "copies_list_count": 146,
     "only_in_ownership": [],
     "only_in_copies": []
   }
