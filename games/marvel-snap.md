@@ -19,6 +19,9 @@ not a writing lane — it never competes with the novel's floor (WORKING_RULES r
   all, send a subagent if need be." Procedure = the 09-25 Ross check: current lists from the deck
   sites → run through `match_decks.py` against his collection → owned/missing/tokens-to-fill
   including the card's own price → build-around vs flex → verdict line first.
+- **TIGHTENED (author, 2026-09-26): "don't hold the shop cards to the negative deck."** Judge a shop
+  card on its own merit across the whole game. Do NOT lead with, or mention, its fit in his current
+  Negative list unless he asks. His current deck is one list, not the measure of a card.
 - Ladder: 1–100, named tier every ten (Iron 10 · Bronze 20 · Silver 30 · Gold 40 · Platinum 50 ·
   Diamond 60 · Vibranium 70 · Omega 80 · Galactic 90 · **Infinite 100**); past 100 = a points
   leaderboard; seasons reset you down about thirty ranks. Infinite = the benchmark for a strong
