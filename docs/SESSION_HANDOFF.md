@@ -5,6 +5,25 @@
 **REVISION PHASE OPEN as of 2026-08-23.** Google Docs = master. Writing partnership with Alec (pen
 name **Jack Moon**). Point a new session at this file to get fully caught up.*
 
+> ## ▶▶ NEXT SESSION — START HERE (PC, Sunday 2026-09-27 — the weekly pull is DONE)
+> **PULL FIRST, then run the `repo-health` skill.** Master Doc = "Tbd D1 Take 2".
+> **WEEK 2 (09-21→09-27) CLOSED: 6,130 / 5,000 ✅** (two rest days 09-22/23, dog died; day 09-24
+> 2,562; 09-25 1,172; the rest via the Sunday pull — Ch7 1,522 written 09-25/26, split unconfirmed).
+> **WEEK 3 opens MON 09-28 at 0.** Floor unchanged (1,000 / sitting, 5,000 / week; raise only after
+> three clean weeks — this was week 2 of 3).
+> **STATE ON MAIN:** prologue v5 1,341 · Ch1 697 · Ch2 1,025 · Ch3.3 1,119 · Ch4.1 1,803 · Ch5.1
+> 2,500 · Ch6 921 · Int1.1 706 · **Ch7 1,522 (Pass 10)** · **Ch8 = heading only in the Doc**. The
+> ledger's ★ CURRENT STATE table is refreshed to match. **Next NEW pages = Chapter 8 → Pass 11.**
+> **OPEN ASKS (his):** Ch7 — does the "9/26" mid-chapter marker split Fri/Sat? · Interlude 1 — the
+> wife unnamed vs the cows: choice or oversight (he has said she gets a name)? · Ch3 backstage
+> "FEDERAL LAND" line — still to reword (his ruling 09-26). · Ch1 rewrite docket (→ 3b; carries
+> "James is African American").
+> **PASS 10 top notes (his to take or leave):** "OH MY GOD!" lands a page after the wolf; the hotel
+> is 650 words of runway; the basement recaps Ch5. Protect list in the ledger.
+> **Doc-pull note for the next intake:** the Drive export adds a blank line after every paragraph,
+> escapes "!" as "\!", and drops U+FEFF at some joins — strip all three before comparing/saving
+> (the 09-27 intake did; snapshots match the older format).
+>
 > ## ▶▶ NEXT SESSION — START HERE (PC close, 2026-09-25 evening; Fable usage limit near — resets Sat night)
 > **PULL FIRST.** Master Doc = "Tbd D1 Take 2" (id `12krCIEuFEv1HlkPbTV63aGOnGDmvmApeTVq9JJY7qk4`).
 > **PLAN OF RECORD FOR THE GAP (author + room, 09-25):** he keeps writing in the MASTER DOC only
