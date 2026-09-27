@@ -10,7 +10,8 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > **WEEK 2 (09-21→09-27) CLOSED: 6,130 / 5,000 ✅** (two rest days 09-22/23, dog died; day 09-24
 > 2,562; 09-25 1,172; the rest via the Sunday pull — Ch7 1,522 written 09-25/26, split unconfirmed).
 > **WEEK 3 opens MON 09-28 at 0.** Floor unchanged (1,000 / sitting, 5,000 / week; raise only after
-> three clean weeks — this was week 2 of 3).
+> three clean weeks — this was week 2 of 3). **His stated intent (09-27): after one more clean
+> week, raise the weekly floor to 5,100** — that number, not more; Claude does not propose a bigger one.
 > **STATE ON MAIN:** prologue v5 1,341 · Ch1 697 · Ch2 1,025 · Ch3.3 1,119 · Ch4.1 1,803 · Ch5.1
 > 2,500 · Ch6 921 · Int1.1 706 · **Ch7 1,522 (Pass 10)** · **Ch8 = heading only in the Doc**. The
 > ledger's ★ CURRENT STATE table is refreshed to match. **Next NEW pages = Chapter 8 → Pass 11.**
