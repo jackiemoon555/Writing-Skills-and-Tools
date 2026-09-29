@@ -1,0 +1,202 @@
+[
+ {
+  "tier": "Tier 2",
+  "name": "Buff Surfer (MSZ Sept 27 weekly)",
+  "cube": "0.45",
+  "win_rate": "56.5%",
+  "cards": [
+   "Nova",
+   "Forge",
+   "Storm Horseman of Famine",
+   "Brood",
+   "Silver Surfer",
+   "Killmonger",
+   "Mobius M. Mobius",
+   "Phastos",
+   "Sebastian Shaw",
+   "Absorbing Man",
+   "Gwenpool",
+   "Sera"
+  ]
+ },
+ {
+  "tier": "Gwenpool",
+  "name": "Superior Iron Man (untapped.gg, 1807 games; also on Brood page)",
+  "cube": "-",
+  "win_rate": "59.2%",
+  "cards": [
+   "Brood",
+   "Forge",
+   "Gwenpool",
+   "Majestic Wingbeat",
+   "Mother Askani",
+   "Mister Fantastic First Steps",
+   "Okoye",
+   "Phastos",
+   "Psylocke Fractured Frontier",
+   "Sera",
+   "Superior Iron Man",
+   "Surge"
+  ]
+ },
+ {
+  "tier": "Gwenpool",
+  "name": "Superior Iron Man variant (untapped.gg, 239 games)",
+  "cube": "-",
+  "win_rate": "63.6%",
+  "cards": [
+   "Brood",
+   "Forge",
+   "Gwenpool",
+   "Majestic Wingbeat",
+   "Mother Askani",
+   "Mister Fantastic First Steps",
+   "Okoye",
+   "Phastos",
+   "Sera",
+   "Superior Iron Man",
+   "Surge",
+   "Thanos Fractured Frontier"
+  ]
+ },
+ {
+  "tier": "Gwenpool",
+  "name": "Galacti variant 1 (untapped.gg, 223 games)",
+  "cube": "-",
+  "win_rate": "71.7%",
+  "cards": [
+   "Adam Warlock",
+   "America Chavez",
+   "Deafening Chord",
+   "Forge",
+   "Gwenpool",
+   "Magik",
+   "Majestic Wingbeat",
+   "Maverick",
+   "Stick",
+   "Superior Spider-Man",
+   "Surge",
+   "Zombie Galacti"
+  ]
+ },
+ {
+  "tier": "Gwenpool",
+  "name": "Galacti variant 2 (untapped.gg, 166 games)",
+  "cube": "-",
+  "win_rate": "65.7%",
+  "cards": [
+   "Adam Warlock",
+   "America Chavez",
+   "Forge",
+   "Gwenpool",
+   "Magik",
+   "Majestic Wingbeat",
+   "Maverick",
+   "Nico Minoru",
+   "Stick",
+   "Superior Spider-Man",
+   "Surge",
+   "Zombie Galacti"
+  ]
+ },
+ {
+  "tier": "Starhawk",
+  "name": "Superior Iron Man (untapped.gg, 917 games)",
+  "cube": "-",
+  "win_rate": "68.2%",
+  "cards": [
+   "America Chavez",
+   "Awesome Andy",
+   "Jane Foster Fractured Frontier",
+   "Juggernaut",
+   "Mister Fantastic First Steps",
+   "Spider-Man Brand New Day",
+   "Starhawk",
+   "Superior Iron Man",
+   "Surge",
+   "Tarantula",
+   "Thanos Fractured Frontier",
+   "Venus"
+  ]
+ },
+ {
+  "tier": "Starhawk",
+  "name": "Superior Iron Man variant (untapped.gg, 73 games)",
+  "cube": "-",
+  "win_rate": "68.5%",
+  "cards": [
+   "America Chavez",
+   "Awesome Andy",
+   "H.E.R.B.I.E.",
+   "Jane Foster Fractured Frontier",
+   "Juggernaut",
+   "Mister Fantastic First Steps",
+   "Spider-Man Brand New Day",
+   "Starhawk",
+   "Superior Iron Man",
+   "Surge",
+   "Thanos Fractured Frontier",
+   "Venus"
+  ]
+ },
+ {
+  "tier": "Brood",
+  "name": "Surfer (untapped.gg, 3158 games)",
+  "cube": "-",
+  "win_rate": "67.1%",
+  "cards": [
+   "Brood",
+   "Forge",
+   "Gladiator",
+   "Killmonger",
+   "Nakia",
+   "Nova",
+   "Phastos",
+   "Polaris",
+   "Rogue",
+   "Sebastian Shaw",
+   "Sera",
+   "Silver Surfer"
+  ]
+ },
+ {
+  "tier": "Brood",
+  "name": "Surfer alternate (untapped.gg, 822 games)",
+  "cube": "-",
+  "win_rate": "65.8%",
+  "cards": [
+   "Absorbing Man",
+   "Brood",
+   "Hazmat",
+   "Ironheart",
+   "Luke Cage",
+   "Magik",
+   "Mystique",
+   "Odin",
+   "Rogue",
+   "Sera",
+   "Silver Surfer",
+   "Wong"
+  ]
+ },
+ {
+  "tier": "Brood",
+  "name": "Surfer multi (untapped.gg, 312 games)",
+  "cube": "-",
+  "win_rate": "65.7%",
+  "cards": [
+   "America Chavez",
+   "Brood",
+   "Forge",
+   "Jane Foster Fractured Frontier",
+   "Magik",
+   "Okoye",
+   "Phastos",
+   "Sera",
+   "Silver Surfer",
+   "Superior Iron Man",
+   "Thanos Fractured Frontier",
+   "Wong"
+  ]
+ }
+]
