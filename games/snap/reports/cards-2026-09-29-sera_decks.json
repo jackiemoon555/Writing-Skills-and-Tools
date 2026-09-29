@@ -1,0 +1,242 @@
+[
+ {
+  "tier": "Tier 2",
+  "name": "Ongoing Affliction (MSZ Sept 27 weekly) [Sera]",
+  "cube": "0.5",
+  "win_rate": "59%",
+  "cards": [
+   "Lady Bullseye",
+   "Scorpion",
+   "Mystique",
+   "Magik",
+   "Hazmat",
+   "Prodigy",
+   "Psylocke Fractured Frontier",
+   "The Ancient One",
+   "Luna Snow",
+   "Sera",
+   "Blink",
+   "Scorpion Brand New Day"
+  ]
+ },
+ {
+  "tier": "Tier 2",
+  "name": "Buff Surfer (MSZ Sept 27 weekly) [Sera]",
+  "cube": "0.45",
+  "win_rate": "56.5%",
+  "cards": [
+   "Nova",
+   "Forge",
+   "Storm Horseman of Famine",
+   "Brood",
+   "Silver Surfer",
+   "Killmonger",
+   "Mobius M. Mobius",
+   "Phastos",
+   "Sebastian Shaw",
+   "Absorbing Man",
+   "Gwenpool",
+   "Sera"
+  ]
+ },
+ {
+  "tier": "Tier 2",
+  "name": "Ongoing Affliction (MSZ Sept 20 weekly) [Sera]",
+  "cube": "0.65",
+  "win_rate": "60.5%",
+  "cards": [
+   "Lady Bullseye",
+   "Scorpion",
+   "Mystique",
+   "Magik",
+   "Hazmat",
+   "Hellcow Fractured Frontier",
+   "Rogue",
+   "The Ancient One",
+   "Luna Snow",
+   "Sera",
+   "Blink",
+   "Scorpion Brand New Day"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Surfer: Primary (untapped.gg, 3158 games)",
+  "cube": "-",
+  "win_rate": "67.1%",
+  "cards": [
+   "Brood",
+   "Forge",
+   "Gladiator",
+   "Killmonger",
+   "Nakia",
+   "Nova",
+   "Phastos",
+   "Polaris",
+   "Rogue",
+   "Sebastian Shaw",
+   "Sera",
+   "Silver Surfer"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Surfer: Wong/Odin variant (untapped.gg Silver Surfer page, 816 games)",
+  "cube": "-",
+  "win_rate": "65.9%",
+  "cards": [
+   "Absorbing Man",
+   "Brood",
+   "Hazmat",
+   "Ironheart",
+   "Luke Cage",
+   "Magik",
+   "Mystique",
+   "Odin",
+   "Rogue",
+   "Sera",
+   "Silver Surfer",
+   "Wong"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Surfer: Superior Iron Man/Thanos FF hybrid (untapped.gg Silver Surfer page, 312 games)",
+  "cube": "-",
+  "win_rate": "65.7%",
+  "cards": [
+   "America Chavez",
+   "Brood",
+   "Forge",
+   "Jane Foster Fractured Frontier",
+   "Magik",
+   "Okoye",
+   "Phastos",
+   "Sera",
+   "Silver Surfer",
+   "Superior Iron Man",
+   "Thanos Fractured Frontier",
+   "Wong"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Surfer: Blink variant (untapped.gg Silver Surfer page, 249 games)",
+  "cube": "-",
+  "win_rate": "69.5%",
+  "cards": [
+   "Blink",
+   "Brood",
+   "Forge",
+   "Gladiator",
+   "Killmonger",
+   "Nakia",
+   "Nova",
+   "Phastos",
+   "Rogue",
+   "Sebastian Shaw",
+   "Sera",
+   "Silver Surfer"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Superior Iron Man (untapped.gg Sera page, 1807 games)",
+  "cube": "-",
+  "win_rate": "59.2%",
+  "cards": [
+   "Brood",
+   "Forge",
+   "Gwenpool",
+   "Majestic Wingbeat",
+   "Mother Askani",
+   "Mister Fantastic First Steps",
+   "Okoye",
+   "Phastos",
+   "Psylocke Fractured Frontier",
+   "Sera",
+   "Superior Iron Man",
+   "Surge"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "SNAP Deck: Domino/Quicksilver/Thanos FF curve (untapped.gg Sera page, 1246 games)",
+  "cube": "-",
+  "win_rate": "69.3%",
+  "cards": [
+   "Armor",
+   "Bishop",
+   "Cosmo",
+   "Crystal",
+   "Domino",
+   "Jane Foster Fractured Frontier",
+   "Mister Fantastic",
+   "Nightcrawler",
+   "Quicksilver",
+   "Sera",
+   "Shang-Chi",
+   "Thanos Fractured Frontier"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Scorpion (untapped.gg Sera page, 1146 games)",
+  "cube": "-",
+  "win_rate": "69.0%",
+  "cards": [
+   "Blink",
+   "Hazmat",
+   "Lady Bullseye",
+   "Luna Snow",
+   "Magik",
+   "Mystique",
+   "Prodigy",
+   "Psylocke Fractured Frontier",
+   "Scorpion",
+   "Scorpion Brand New Day",
+   "Sera",
+   "The Ancient One"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Scorpion Hellcow variant (untapped.gg Hazmat page, 329 games)",
+  "cube": "-",
+  "win_rate": "69.9%",
+  "cards": [
+   "Blink",
+   "Hazmat",
+   "Hellcow Fractured Frontier",
+   "Lady Bullseye",
+   "Luna Snow",
+   "Magik",
+   "Mystique",
+   "Psylocke Fractured Frontier",
+   "Scorpion",
+   "Scorpion Brand New Day",
+   "Sera",
+   "The Ancient One"
+  ]
+ },
+ {
+  "tier": "Sera",
+  "name": "Tribunal (untapped.gg Magik page, 1053 games)",
+  "cube": "-",
+  "win_rate": "59.5%",
+  "cards": [
+   "Howard the Duck",
+   "Iron Lad",
+   "Iron Man",
+   "Jubilee",
+   "The Living Tribunal",
+   "Magik",
+   "Mystique",
+   "Onslaught",
+   "Ravonna Renslayer",
+   "Sera",
+   "Super-Skrull",
+   "Wave"
+  ]
+ }
+]
