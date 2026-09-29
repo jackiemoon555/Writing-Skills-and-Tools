@@ -1,0 +1,282 @@
+[
+ {
+  "tier": "Tier 2",
+  "name": "Sam Wilson: Curved Move (MSZ Sept 27 weekly)",
+  "cube": "0.4",
+  "win_rate": "58.5%",
+  "cards": [
+   "Batroc the Leaper",
+   "Spider-Man Brand New Day",
+   "Nightcrawler",
+   "Sam Wilson Captain America",
+   "Kraven",
+   "Silk",
+   "Venus",
+   "Cosmo",
+   "Hydra Stomper",
+   "Mary Jane",
+   "Jane Foster Fractured Frontier",
+   "Thanos Fractured Frontier"
+  ]
+ },
+ {
+  "tier": "Tier 3",
+  "name": "Sam Wilson: Curved Aurora (MSZ Sept 27 weekly)",
+  "cube": "0.35",
+  "win_rate": "56%",
+  "cards": [
+   "Spider-Ham",
+   "Iceman",
+   "Hydra Bob",
+   "Surge",
+   "Luke Cage",
+   "Sam Wilson Captain America",
+   "Awesome Andy",
+   "Venus",
+   "Jane Foster Fractured Frontier",
+   "Wong",
+   "Thanos Fractured Frontier",
+   "Aurora"
+  ]
+ },
+ {
+  "tier": "Sam Wilson",
+  "name": "Sam Wilson: Ongoing (untapped.gg, 1331 games)",
+  "cube": "-",
+  "win_rate": "67.4%",
+  "cards": [
+   "Ant Man",
+   "Captain America",
+   "Goliath",
+   "Iron Man",
+   "J. Jonah Jameson",
+   "Mystique",
+   "Omega Red",
+   "Onslaught",
+   "Red Onslaught",
+   "Sam Wilson Captain America",
+   "Spectrum",
+   "Speed"
+  ]
+ },
+ {
+  "tier": "Sam Wilson",
+  "name": "Sam Wilson: Aurora (untapped.gg, 1004 games)",
+  "cube": "-",
+  "win_rate": "74.9%",
+  "cards": [
+   "Aurora",
+   "Awesome Andy",
+   "Hydra Bob",
+   "Iceman",
+   "Isca the Unbeaten",
+   "Jane Foster Fractured Frontier",
+   "Luke Cage",
+   "Sam Wilson Captain America",
+   "Spider-Ham",
+   "Surge",
+   "Thanos Fractured Frontier",
+   "Venus"
+  ]
+ },
+ {
+  "tier": "Sam Wilson",
+  "name": "Sam Wilson: Aurora (untapped.gg, 953 games)",
+  "cube": "-",
+  "win_rate": "73.8%",
+  "cards": [
+   "Aurora",
+   "Awesome Andy",
+   "Hydra Bob",
+   "Iceman",
+   "Jane Foster Fractured Frontier",
+   "Luke Cage",
+   "Sam Wilson Captain America",
+   "Spider-Ham",
+   "Surge",
+   "Thanos Fractured Frontier",
+   "Venus",
+   "Wong"
+  ]
+ },
+ {
+  "tier": "Sam Wilson",
+  "name": "Sam Wilson: Aurora (untapped.gg, 677 games)",
+  "cube": "-",
+  "win_rate": "70.0%",
+  "cards": [
+   "Aurora",
+   "Awesome Andy",
+   "Echo",
+   "Hydra Bob",
+   "Jane Foster Fractured Frontier",
+   "Luke Cage",
+   "Sam Wilson Captain America",
+   "Spider-Ham",
+   "Surge",
+   "Thanos Fractured Frontier",
+   "Venus",
+   "Wong"
+  ]
+ },
+ {
+  "tier": "Agony",
+  "name": "Agony: Destroy #1 (untapped.gg, 679 games)",
+  "cube": "-",
+  "win_rate": "65.4%",
+  "cards": [
+   "Agony",
+   "Arnim Zola",
+   "Carnage",
+   "Deadpool",
+   "Death",
+   "Deathlok",
+   "Killmonger",
+   "Knull",
+   "Nico Minoru",
+   "Venom",
+   "Wolverine",
+   "X-23"
+  ]
+ },
+ {
+  "tier": "Agony",
+  "name": "Agony: Destroy #2 (untapped.gg, 274 games)",
+  "cube": "-",
+  "win_rate": "61.7%",
+  "cards": [
+   "Agony",
+   "Carnage",
+   "Deadpool",
+   "Death",
+   "Deathlok",
+   "Killmonger",
+   "Knull",
+   "Moira X",
+   "Nico Minoru",
+   "Venom",
+   "Wolverine",
+   "X-23"
+  ]
+ },
+ {
+  "tier": "Agony",
+  "name": "Agony: Destroy #3 (untapped.gg, 213 games)",
+  "cube": "-",
+  "win_rate": "64.3%",
+  "cards": [
+   "Agony",
+   "Carnage",
+   "Deadpool",
+   "Death",
+   "Deathlok",
+   "Headpool",
+   "Killmonger",
+   "Knull",
+   "Nico Minoru",
+   "Venom",
+   "Wolverine",
+   "X-23"
+  ]
+ },
+ {
+  "tier": "Agony",
+  "name": "Agony: Buff (untapped.gg, 211 games)",
+  "cube": "-",
+  "win_rate": "66.8%",
+  "cards": [
+   "Absorbing Man",
+   "Agony",
+   "Jeff the Baby Dolphin!?",
+   "Jubilee Silver Surfer",
+   "Mother Askani",
+   "Mister Sinister",
+   "Phastos",
+   "Stick",
+   "Superior Iron Man",
+   "Surge",
+   "Thanos Fractured Frontier",
+   "Zabu"
+  ]
+ },
+ {
+  "tier": "Agatha Harkness",
+  "name": "Agatha: Hela #1 (untapped.gg, 239 games)",
+  "cube": "-",
+  "win_rate": "63.6%",
+  "cards": [
+   "Agatha Harkness",
+   "Black Knight",
+   "Blink",
+   "Corvus Glaive",
+   "Death",
+   "Eson",
+   "Gambit",
+   "Ghost Rider",
+   "Hela",
+   "Lady Sif",
+   "Red Shift",
+   "Skaar"
+  ]
+ },
+ {
+  "tier": "Agatha Harkness",
+  "name": "Agatha: Hela #2 (untapped.gg, 171 games)",
+  "cube": "-",
+  "win_rate": "76.0%",
+  "cards": [
+   "Agatha Harkness",
+   "Black Knight",
+   "Blink",
+   "Corvus Glaive",
+   "Death",
+   "Gambit",
+   "Ghost Rider",
+   "Hela",
+   "The Infinaut",
+   "Lady Sif",
+   "Red Shift",
+   "Skaar"
+  ]
+ },
+ {
+  "tier": "Agatha Harkness",
+  "name": "Agatha: Hela #3 (untapped.gg, 56 games)",
+  "cube": "-",
+  "win_rate": "60.7%",
+  "cards": [
+   "Agatha Harkness",
+   "Blink",
+   "Corvus Glaive",
+   "Enchantress",
+   "Fin Fang Foom",
+   "Gambit",
+   "Ghost Rider",
+   "Hela",
+   "Jubilee",
+   "Legion",
+   "Lockjaw",
+   "Red Shift"
+  ]
+ },
+ {
+  "tier": "Agatha Harkness",
+  "name": "Agatha: Hela #4 (untapped.gg, 43 games)",
+  "cube": "-",
+  "win_rate": "76.7%",
+  "cards": [
+   "Agatha Harkness",
+   "Blade",
+   "Blink",
+   "Death",
+   "Gambit",
+   "Ghost Rider",
+   "Hela",
+   "The Infinaut",
+   "Jubilee",
+   "Lady Sif",
+   "Legion",
+   "Red Shift"
+  ]
+ }
+]
