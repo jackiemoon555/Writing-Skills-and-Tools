@@ -1,0 +1,382 @@
+[
+ {
+  "tier": "Gambit",
+  "name": "Hela Control (untapped.gg, 2376 games)",
+  "cube": "-",
+  "win_rate": "68.4%",
+  "cards": [
+   "Blade",
+   "Death",
+   "Gambit",
+   "Ghost Rider",
+   "Giganto",
+   "Hela",
+   "The Infinaut",
+   "Iron Man",
+   "Jubilee",
+   "Lady Sif",
+   "Lockjaw",
+   "Odin"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Hela Teleport (untapped.gg Hela page, 239 games)",
+  "cube": "-",
+  "win_rate": "63.6%",
+  "cards": [
+   "Agatha Harkness",
+   "Black Knight",
+   "Blink",
+   "Corvus Glaive",
+   "Death",
+   "Eson",
+   "Gambit",
+   "Ghost Rider",
+   "Hela",
+   "Lady Sif",
+   "Red Shift",
+   "Skaar"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Hela Teleport variant (untapped.gg Hela page, 178 games)",
+  "cube": "-",
+  "win_rate": "76.4%",
+  "cards": [
+   "Agatha Harkness",
+   "Black Knight",
+   "Blink",
+   "Corvus Glaive",
+   "Death",
+   "Gambit",
+   "Ghost Rider",
+   "Hela",
+   "The Infinaut",
+   "Lady Sif",
+   "Red Shift",
+   "Skaar"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Hela Legion (untapped.gg Hela page, 87 games)",
+  "cube": "-",
+  "win_rate": "70.1%",
+  "cards": [
+   "Blade",
+   "Blink",
+   "Corvus Glaive",
+   "Death",
+   "Gambit",
+   "Ghost Rider",
+   "Hela",
+   "The Infinaut",
+   "Jubilee",
+   "Lady Sif",
+   "Legion",
+   "Odin"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Discard (untapped.gg, 1377 games)",
+  "cube": "-",
+  "win_rate": "67.6%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Colleen Wing",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Khonshu",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Proxima Midnight",
+   "Scorn"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Discard variant (untapped.gg, 643 games)",
+  "cube": "-",
+  "win_rate": "68.1%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Khonshu",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Proxima Midnight",
+   "Scorn",
+   "Weapon H"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Discard variant (untapped.gg, 301 games)",
+  "cube": "-",
+  "win_rate": "64.5%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Colleen Wing",
+   "Dracula",
+   "Gambit",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Moon Knight",
+   "Morbius",
+   "Swarm",
+   "The Collector",
+   "Wolverine"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Discard Zombie Power Man (untapped.gg Khonshu page, 159 games)",
+  "cube": "-",
+  "win_rate": "65.4%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Khonshu",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Proxima Midnight",
+   "Scorn",
+   "Zombie Power Man"
+  ]
+ },
+ {
+  "tier": "Gambit",
+  "name": "Discard Zombie Power Man 2 (untapped.gg Khonshu page, 98 games)",
+  "cube": "-",
+  "win_rate": "66.3%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Khonshu",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Scorn",
+   "Weapon H",
+   "Zombie Power Man"
+  ]
+ },
+ {
+  "tier": "Tier 3",
+  "name": "Discard Dracula (MSZ Sept 27 weekly)",
+  "cube": "0.25",
+  "win_rate": "53.5%",
+  "cards": [
+   "Scorn",
+   "Blade",
+   "Morbius",
+   "Colleen Wing",
+   "Gambit",
+   "Corvus Glaive",
+   "Lady Sif",
+   "Dracula",
+   "Proxima Midnight",
+   "MODOK",
+   "Khonshu",
+   "Apocalypse"
+  ]
+ },
+ {
+  "tier": "Tier 3",
+  "name": "Discard Dracula (MSZ Sept 20 weekly)",
+  "cube": "0.3",
+  "win_rate": "56%",
+  "cards": [
+   "Scorn",
+   "Blade",
+   "Morbius",
+   "Gambit",
+   "Corvus Glaive",
+   "Lady Sif",
+   "Dracula",
+   "Proxima Midnight",
+   "MODOK",
+   "Khonshu",
+   "Apocalypse",
+   "Weapon H"
+  ]
+ },
+ {
+  "tier": "Annihilus",
+  "name": "Patriot deck (untapped.gg, 183 games)",
+  "cube": "-",
+  "win_rate": "68.3%",
+  "cards": [
+   "Annihilus",
+   "Ant Man",
+   "Dazzler",
+   "The Hood",
+   "Mobius M. Mobius",
+   "Patriot",
+   "Pixie",
+   "Sentry",
+   "Shadow King",
+   "Ultron",
+   "Valkyrie",
+   "Wasp"
+  ]
+ },
+ {
+  "tier": "Annihilus",
+  "name": "Sentry/Goblin (untapped.gg, 95 games)",
+  "cube": "-",
+  "win_rate": "66.3%",
+  "cards": [
+   "Annihilus",
+   "Green Goblin",
+   "Hellcow Fractured Frontier",
+   "Hobgoblin",
+   "The Hood",
+   "Hawkeye Kate Bishop",
+   "Scarlet Witch",
+   "Selene",
+   "Sentry",
+   "Shadow King",
+   "Viper",
+   "Werewolf By Night"
+  ]
+ },
+ {
+  "tier": "Annihilus",
+  "name": "Sentry/Goblin Merlin (untapped.gg, 76 games)",
+  "cube": "-",
+  "win_rate": "55.3%",
+  "cards": [
+   "Annihilus",
+   "Green Goblin",
+   "Hellcow Fractured Frontier",
+   "Hobgoblin",
+   "The Hood",
+   "Hawkeye Kate Bishop",
+   "Merlin",
+   "Selene",
+   "Sentry",
+   "Shadow King",
+   "Viper",
+   "Werewolf By Night"
+  ]
+ },
+ {
+  "tier": "Annihilus",
+  "name": "Sentry/Goblin Man-Thing (untapped.gg, 57 games)",
+  "cube": "-",
+  "win_rate": "66.7%",
+  "cards": [
+   "Annihilus",
+   "Green Goblin",
+   "Hellcow Fractured Frontier",
+   "Hobgoblin",
+   "The Hood",
+   "Man-Thing",
+   "Merlin",
+   "Ravonna Renslayer",
+   "Selene",
+   "Sentry",
+   "Shadow King",
+   "Viper"
+  ]
+ },
+ {
+  "tier": "Namorita",
+  "name": "Superior Iron Man (untapped.gg, 140 games)",
+  "cube": "-",
+  "win_rate": "57.9%",
+  "cards": [
+   "Crystal",
+   "Domino",
+   "Karen Page",
+   "Mother Askani",
+   "Mister Fantastic First Steps",
+   "Namorita",
+   "Phastos",
+   "Psylocke Fractured Frontier",
+   "Quicksilver",
+   "Superior Iron Man",
+   "Thanos Fractured Frontier",
+   "Venus"
+  ]
+ },
+ {
+  "tier": "Namorita",
+  "name": "Double Thanos (untapped.gg, 78 games)",
+  "cube": "-",
+  "win_rate": "48.7%",
+  "cards": [
+   "Cosmo",
+   "Jane Foster Fractured Frontier",
+   "Joaquin Torres Falcon II",
+   "King Eitri",
+   "Namorita",
+   "Psylocke Fractured Frontier",
+   "Red Wolf Fractured Frontier",
+   "Sinister Six",
+   "Spider-Man Brand New Day",
+   "Strange Supreme",
+   "Thanos",
+   "Thanos Fractured Frontier"
+  ]
+ },
+ {
+  "tier": "Namorita",
+  "name": "Superior Iron Man Brood (untapped.gg, 74 games)",
+  "cube": "-",
+  "win_rate": "55.4%",
+  "cards": [
+   "America Chavez",
+   "Brood",
+   "Doctor Octopus Fractured Frontier",
+   "Majestic Wingbeat",
+   "Mother Askani",
+   "Namorita",
+   "Phastos",
+   "Psylocke Fractured Frontier",
+   "Red Onslaught",
+   "Shuri",
+   "Superior Iron Man",
+   "Surge"
+  ]
+ },
+ {
+  "tier": "Namorita",
+  "name": "Thanos FF (untapped.gg, 70 games)",
+  "cube": "-",
+  "win_rate": "60.0%",
+  "cards": [
+   "Crystal",
+   "Domino",
+   "Karen Page",
+   "Mister Fantastic First Steps",
+   "Namorita",
+   "Phastos",
+   "Psylocke Fractured Frontier",
+   "Quicksilver",
+   "Superior Iron Man",
+   "Thanos Fractured Frontier",
+   "Venus",
+   "Wiccan"
+  ]
+ }
+]
