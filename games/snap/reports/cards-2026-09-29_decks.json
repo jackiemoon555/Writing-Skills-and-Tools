@@ -1,0 +1,302 @@
+[
+ {
+  "tier": "Tier 3",
+  "name": "Discard Dracula (MSZ Sept 27 weekly) [Proxima Midnight]",
+  "cube": "0.25",
+  "win_rate": "53.5%",
+  "cards": [
+   "Scorn",
+   "Blade",
+   "Morbius",
+   "Colleen Wing",
+   "Gambit",
+   "Corvus Glaive",
+   "Lady Sif",
+   "Dracula",
+   "Proxima Midnight",
+   "Modok",
+   "Khonshu",
+   "Apocalypse"
+  ]
+ },
+ {
+  "tier": "Tier 3",
+  "name": "Galactus Ramp (MSZ Sept 27 weekly) [Destroyer]",
+  "cube": "0.35",
+  "win_rate": "56%",
+  "cards": [
+   "Selene",
+   "Daredevil",
+   "Jennifer Kale",
+   "Green Goblin",
+   "Electro",
+   "Wave",
+   "Hobgoblin",
+   "Blink",
+   "Knull",
+   "Galactus",
+   "Destroyer",
+   "Death"
+  ]
+ },
+ {
+  "tier": "Tier 3",
+  "name": "Discard Dracula (MSZ Sept 20 weekly) [Proxima Midnight]",
+  "cube": "0.3",
+  "win_rate": "56%",
+  "cards": [
+   "Scorn",
+   "Blade",
+   "Morbius",
+   "Gambit",
+   "Corvus Glaive",
+   "Lady Sif",
+   "Dracula",
+   "Proxima Midnight",
+   "Modok",
+   "Khonshu",
+   "Apocalypse",
+   "Weapon H"
+  ]
+ },
+ {
+  "tier": "Proxima Midnight",
+  "name": "Discard: Primary (untapped.gg card page, 1384 games, 30d ranks 10-79)",
+  "cube": "-",
+  "win_rate": "67.6%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Colleen Wing",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Khonshu",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Proxima Midnight",
+   "Scorn"
+  ]
+ },
+ {
+  "tier": "Proxima Midnight",
+  "name": "Discard: Weapon H variant (untapped.gg, 656 games)",
+  "cube": "-",
+  "win_rate": "67.8%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Khonshu",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Proxima Midnight",
+   "Scorn",
+   "Weapon H"
+  ]
+ },
+ {
+  "tier": "Proxima Midnight",
+  "name": "SNAP Deck: Wolverine/Supergiant (untapped.gg, 264 games)",
+  "cube": "-",
+  "win_rate": "70.1%",
+  "cards": [
+   "Blink",
+   "Daken",
+   "Elektra",
+   "Invisible Woman",
+   "Marrow",
+   "Miek",
+   "M.O.D.O.K.",
+   "Moon Girl",
+   "Morbius",
+   "Proxima Midnight",
+   "Supergiant",
+   "Wolverine"
+  ]
+ },
+ {
+  "tier": "Proxima Midnight",
+  "name": "Discard: Collector/Supergiant (untapped.gg, 202 games)",
+  "cube": "-",
+  "win_rate": "61.4%",
+  "cards": [
+   "Blink",
+   "Daken",
+   "Marrow",
+   "Miek",
+   "M.O.D.O.K.",
+   "Moon Girl",
+   "Morbius",
+   "Proxima Midnight",
+   "Scorn",
+   "Supergiant",
+   "The Collector",
+   "Wolverine"
+  ]
+ },
+ {
+  "tier": "Helicarrier",
+  "name": "Discard: Silver Samurai (untapped.gg, 68 games)",
+  "cube": "-",
+  "win_rate": "63.2%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Helicarrier",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Silver Samurai",
+   "Swarm",
+   "The Collector"
+  ]
+ },
+ {
+  "tier": "Helicarrier",
+  "name": "Discard: Daken (untapped.gg, 49 games)",
+  "cube": "-",
+  "win_rate": "79.6%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Corvus Glaive",
+   "Daken",
+   "Dracula",
+   "Gambit",
+   "Helicarrier",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Swarm",
+   "The Collector"
+  ]
+ },
+ {
+  "tier": "Helicarrier",
+  "name": "SNAP deck: Iron Patriot/Merlin (untapped.gg, 49 games)",
+  "cube": "-",
+  "win_rate": "57.1%",
+  "cards": [
+   "Beast",
+   "Blade",
+   "Blue Marvel",
+   "Grand Master",
+   "Helicarrier",
+   "Iron Patriot",
+   "Lady Sif",
+   "Major Victory",
+   "Merlin",
+   "Snowguard",
+   "The Collector",
+   "Venus"
+  ]
+ },
+ {
+  "tier": "Helicarrier",
+  "name": "Discard: Proxima+Helicarrier (untapped.gg, 39 games)",
+  "cube": "-",
+  "win_rate": "74.4%",
+  "cards": [
+   "Apocalypse",
+   "Blade",
+   "Corvus Glaive",
+   "Dracula",
+   "Gambit",
+   "Helicarrier",
+   "Lady Sif",
+   "M.O.D.O.K.",
+   "Morbius",
+   "Proxima Midnight",
+   "Swarm",
+   "The Collector"
+  ]
+ },
+ {
+  "tier": "Destroyer",
+  "name": "Galactus: Primary (untapped.gg, 1737 games)",
+  "cube": "-",
+  "win_rate": "61.8%",
+  "cards": [
+   "Daredevil",
+   "Destroyer",
+   "Electro",
+   "Galactus",
+   "Green Goblin",
+   "Hobgoblin",
+   "Magik",
+   "Nebula",
+   "Negasonic Teenage Warhead",
+   "Selene",
+   "Spider-Woman",
+   "Wave"
+  ]
+ },
+ {
+  "tier": "Destroyer",
+  "name": "Galactus: Variant 1 (untapped.gg, 132 games)",
+  "cube": "-",
+  "win_rate": "65.9%",
+  "cards": [
+   "Daredevil",
+   "Death",
+   "Destroyer",
+   "Electro",
+   "Galactus",
+   "Green Goblin",
+   "Hobgoblin",
+   "Knull",
+   "Selene",
+   "Venom",
+   "Wave",
+   "Wolverine"
+  ]
+ },
+ {
+  "tier": "Destroyer",
+  "name": "Galactus: Variant 2 (untapped.gg, 130 games)",
+  "cube": "-",
+  "win_rate": "67.7%",
+  "cards": [
+   "Daredevil",
+   "Death",
+   "Destroyer",
+   "Electro",
+   "Galactus",
+   "Green Goblin",
+   "Hobgoblin",
+   "Knull",
+   "Negasonic Teenage Warhead",
+   "Selene",
+   "Wave",
+   "Wolverine"
+  ]
+ },
+ {
+  "tier": "Destroyer",
+  "name": "Galactus: Variant 3 (untapped.gg, 123 games)",
+  "cube": "-",
+  "win_rate": "60.2%",
+  "cards": [
+   "Alioth",
+   "Blink",
+   "Death",
+   "Destroyer",
+   "Electro",
+   "Galactus",
+   "Killmonger",
+   "Knull",
+   "Ultron",
+   "Venom",
+   "Wave",
+   "X-23"
+  ]
+ }
+]
