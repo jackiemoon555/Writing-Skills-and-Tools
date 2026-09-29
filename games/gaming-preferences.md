@@ -217,6 +217,21 @@ reactive world). Closer to House Flipper (13h, bounced) than to Hitman. Moderate
   he does NOT own it and it still doesn't "push" like CS1 (28.1h owned) — sale buy at most.
   His push-me city itch today = **Frostpunk 2**, not a CS2 clone.
 
+- **Critical Shift** (Rhinotales; Steam app 3395320 — HE brought it, 2026-09-29: "log it") —
+  hardcore turn-based tactical RPG: command a squad of operatives at a secret Antarctic research
+  facility (ICE-1) after the research goes wrong — anomalies across time and space. Store page
+  names XCOM, Resident Evil and CONTROL as inspirations; turn-based squad combat PLUS real-time
+  exploration; noise/distraction to lure enemies into traps or each other; 30+ handcrafted levels,
+  40+ hours; story written with Guiltythree (author of the web novel *Shadow Slave*).
+  **Status (sources fetched 2026-09-29):** open playtest live on Steam (RPGamer, Sept 2026).
+  Release date and price: not sourced. Whether he owns / wishlisted / played the playtest: not
+  stated — ask, don't assume.
+  **Filter flags to check, not a verdict (he asked for a log, not a rec):** turn-based squad
+  combat = his lane · "real-time exploration" → check it against the REFINED real-time rule
+  (party control in real time is the aversion) · "hardcore" → legible-hard or opaque-hard? ·
+  40 hours of handcrafted levels → watch for the late-game wall.
+  Links: store.steampowered.com/app/3395320/Critical_Shift/ · critical-shift.com
+
 ## Session 2026-08-28 — big genre sweep (survival, management/econ, immersive-sim) + sharp new filters
 
 ### NEW PREFERENCE FILTERS (the durable takeaways — apply to all future recs)
