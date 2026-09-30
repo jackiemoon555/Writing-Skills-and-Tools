@@ -28,7 +28,7 @@ under the original pass's letter; the floor counts NET new words.
 | Interlude 1.1 | Carl Anderson's farm; three beasts | `task-force-cryptid_interlude1.1-anderson_docpull_2026-09-27.txt` | 706 | 9 (1.1 = two spacing fixes) |
 | Ch7 | Elizabeth ("Vivian") + Brooks arrive; the wolf across the river; the safehouse; James; the basement pinboard — the team on the page | `task-force-cryptid_ch7-elizabeth-johnson_docpull_2026-09-27.txt` | 1,522 | 10 |
 | Ch8 | Brooks at the country house: John + Frank draw on the SUV ("our FBI agent"); the accusation (the old man and his cattle); the artifact buried by the stones; a week, "the black light" | `task-force-cryptid_ch8-john-frank_docpull_2026-09-27.txt` | 364 | 11 (author, in advance: "quick on purpose") |
-| Ch9 | Heading only in the Doc (09-27 evening) — nothing written yet | — | 0 | — |
+| Ch9 (partial) | Frank's night: the notepad recon, the fence and the camera, the lock, the bedroom, Dave and Jennifer, the car — UNFINISHED; CHAT PASTE, not in the Doc yet (Doc "tomorrow" — snapshot the Doc as NEW when it lands) | `task-force-cryptid_ch9-partial-frank_chatpaste_2026-09-29.txt` | 748 | 12 |
 
 **DECLARED FOR THIS BOOK (rule 4b — these, and only these):**
 - **NOBODY SEES THE SAME THING** (declared 09-27; supersedes the narrower 7a witness rule): every
@@ -2387,3 +2387,109 @@ says: the two exits together get three times the words of the one moment a witne
 
 **THE ASK (one):** Ch8's intent — what does this chapter need to DO (rule 11)? The pass graded it
 against what the page does, not against a guess.
+
+---
+
+## Pass 12 — CHAPTER 9 (PARTIAL, unfinished): Frank's night — the notepad recon, the fence and the camera, the lock, the bedroom, Dave and Jennifer, the car (2026-09-29 chat paste, PC session; 748w prose, first draft, NOT in the Doc yet; snapshot task-force-cryptid_ch9-partial-frank_chatpaste_2026-09-29.txt; MD5 f7f9ec843540fe92f5bf655761143015)
+
+*Author's framing (chat, 09-29, before the paste): "The next chapter ties chapter 8 in and gives it
+purpose. Very dark chapter though." Unfinished — the room read what's on the page and nothing past
+it. The Doc version lands "tomorrow"; it supersedes this snapshot at the next pull. 748 — under the
+1,000 floor for the sitting, chapter open. Read against the ★ CURRENT STATE declarations (REGISTER:
+a pro who stops joking is the horror signal; NOBODY SEES THE SAME THING; the forest is personified)
+and Pass 11 (Ch8: the black light, "you guys have a week," Frank's "It's evil").*
+
+**WHAT'S ON THE PAGE:** Frank alone, at night: silencer, assault rifle, ski mask. Recon from the
+car, written on a notepad in quotes ("Front door, no camera… Kids out for the summer."). The fence,
+a second note, the climb ("Hmpf"). One shot: "The camera exploded seconds later." The hot casing
+into his pocket. The lock picked ("the click of success"). Night vision, the stairs, two sleepers.
+Lights on: "Get the fuck up!" The rifle butt to the man's mouth; a dangling jaw. Belts from the
+closet ("Quit touching shit"). The wife tied by her husband ("It's ok my love"). The man turns,
+produces a pistol — "Frank sighed, 'Why?'" — and is shot in the knee. "Why must you make me do
+this. Just be easy." Frank names him: Dave. A punch, a pistol-whip. Two more belts; Frank wipes
+the blood onto Dave's back. "Now, be good hostages." / "You first, fatty." Dave dragged to the
+car: "Leave Jennifer alone." / "Ya, Dave, I don't what the fuck you are saying." The camera hands
+to Dave in the back seat: the belt pin working loose — "Again. / Again." — a body lands on him,
+muffled — "Oh? Trying to break out, are we?" — the belt refastened, tighter.
+
+**PASS 11's OPEN ASK — CLOSED BY THE PAGE:** Ch8 = the order (the black light, a week). Ch9 = the
+deed. The man who pleaded "It's evil" in Ch8 is, one chapter later, a methodical home invader who
+answers a drawn pistol with a sigh. That contrast IS Ch8's purpose, and it needed no explaining.
+Chat-only, never develop: why Dave and Jennifer.
+
+**HARDEST FIRST — (1) The notepad: Frank's habit, or the author's device? The page can't tell
+yet.** "He wrote on a notepad, 'Front door, no camera. Side of the house, no camera. Lights off. 2
+cars, husband and wife. Kids out for the summer.'" and again at the fence: "'No dog outside. One
+camera pointing to the backyard. Hard entry, not impossible.' He wrote." Two readings. (a) It's
+FRANK — the detective's reflex, carried into his own crime; a cop taking case notes on a home
+invasion is the darkest joke in the chapter and pure register. (b) It's a DEVICE — the recon
+delivered to the reader as quoted writing, because the camera already showed us the cars and the
+lights and the fence, so the notes only repeat what we saw. Right now it reads as (b), because the
+notepad appears twice and then vanishes; a habit would surface once more, in Frank's hands, at a
+moment it costs him something. Lens: show-vs-tell / not working. **Lever:** decide which it is. If
+(a), own it — the notepad is HIS and comes back. If (b), cut the quotes and let him look; the
+reader gets recon from what the camera can film (rule: can a camera film it?).
+
+**(2) The reader hears Dave clearly. Frank can't.** "'Leave Jennifer alone. I don't know what you
+want but she deserves better.' Dave said." / "'Ya, Dave, I don't what the fuck you are saying.
+Sorry about that.'" The page gave Dave a "dangling jaw" and later calls the wife "mumbling," but
+Dave's line is printed clean — so Frank's answer reads as a contradiction, not as deafness or
+deadpan. Lens: not working / dialogue. **Lever:** pick one. Either the page renders what the jaw
+does to the words (and the reader works for "Jennifer"), or Frank understood every word and his
+line means "I don't care" — in which case the line needs to sound like that.
+
+**(3) The standing focus — the inventory sentence and the late detail.** "The house was as silent
+as the surrounding forest. A modest normal house for the area, the outside matched the inside." —
+the second sentence is the narrator explaining a house we are inside of; "silent as the forest"
+already did the work (and the forest is personified in this book — that comparison carries more
+than it says; keep it). And: "The man was loosely dressed only in his boxers." arrives AFTER he has
+walked to the closet and back — the one right detail placed a beat late; "Now aged, she was
+shaking." — "shaking" showed it; "Now aged" is a label. Lens: show-vs-tell (rule 6). **Lever:** one
+detail, placed where the eye would land on it first; cut the sentence that grades the house.
+
+**(4) Repetition — across chapters now.** Ch8 opened on "the lonely entry path"; Ch9 opens "The
+house was lonely." Two chapters, same adjective in the first two lines. Inside the chapter: "Frank
+commanded" ×2, "the man" for Dave through eleven paragraphs (the same withheld-name move Ch8 used
+for Brooks — twice in a row it's a habit, not a device), and the profanity wall noted in Pass 11
+carries straight in. Lens: repetition/overuse. Class named once (Pass 11); he finds the instances.
+
+**(5) The reversal is set up and then graded.** The plant is real: "He dug through some of their
+bags int he closet." → "'Quit touching shit.'" — Frank saw it, the reader saw it. The payoff:
+"Deftly the man produced a pistol and rolled to his side." — "Deftly" is the narrator scoring the
+move, and the pistol comes from nowhere in the sentence even though the bag was already on the
+page. Lens: show. **Lever:** the gun comes from the bag we watched; cut the adverb. The SPEED stays
+— Frank answering a pistol with "Why?" is the point, and twelve words is the right length for a pro's
+problem.
+
+**SPINE / THEME PRESSURE-TEST:** LANDS. The declared mystery-in-the-characters gets its sharpest
+instance yet: Frank is two men, and the book has now shown both without a line of commentary. The
+register holds — Frank never stops talking like a put-upon employee ("Just be easy," "be good
+hostages," "You first, fatty"), so by the book's own rule he is a pro at THIS; the horror belongs
+to the people in the belts. The chapter's last 110 words hand the camera to Dave — the helpless
+POV for the horror, the percussion device ("Again. / Again.") doing the slowing — and that is the
+interlude pacing law applied inside a chapter: the mundane went quick, the horror goes slow. If
+that hand-off is the design, protect it (POV mechanics stay parked for revision; the room notes only
+that the choice is doing the work).
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT:** recon (car + notepad + fence) ~175 · entry (camera, casing,
+lock) ~70 · house + stairs ~70 · bedroom to the belts ~160 · **the reversal + the knee ~73** ·
+subdue + drag ~100 · **Dave in the car ~110**. The two most consequential beats — the reversal and
+the car — get 73 and 110; the recon gets 175. The car is the right size. The reversal is short on
+purpose (a pro's problem). The recon is the block that's carrying the least per word (finding 1).
+
+**WORKS — PROTECT:**
+- "Frank sighed, 'Why?'" — the whole man in three words.
+- "See god damn it. Why must you make me do this. Just be easy." / "You just have to make this
+  impossible, don't you?" — the register, on the darkest page so far.
+- The hot casing into the pocket — the pro detail; and the silencer written AROUND: the camera
+  exploding IS the sound, and no "pfft" anywhere.
+- "Now, be good hostages." / "You first, fatty."
+- "rubbing the blood off his hands and back on Dave's bare back" — one gesture, no comment.
+- "Again. / Again." → "tighter than last time." — the last line lands; the chapter ends on Dave's
+  hands, not Frank's mouth.
+
+**NOT RE-RAISED (settled/held):** why the task force watches Frank · Nevada · the jurisdiction lie ·
+the scroll · the black/green light question (his call, Pass 11).
+
+**THE ASK (one):** the notepad — Frank the detective's habit, or a way to get the recon on the
+page?
