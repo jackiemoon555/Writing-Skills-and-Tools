@@ -66,7 +66,7 @@ Integrity: OK
 - Iron Fist (`IronFist`)
 - Iron Man (`IronMan`)
 - Ironheart (`Ironheart`) — +1 variants
-- Jane Foster (`JaneFoster`)
+- Jane Foster Mighty Thor (`JaneFoster`)
 - Jessica Jones (`JessicaJones`)
 - Jubilee (`Jubilee`)
 - Ka Zar (`KaZar`)
@@ -168,7 +168,7 @@ Integrity: OK
 ## Decks
 ### Negative Deck
 Updated: 2026-09-27T10:56:08.436-05:00
-Adam Warlock, Psylocke, Ravonna Renslayer, Magik, Mister Negative, Jane Foster, Iron Man, Ironheart, Mystique, Gorr, White Tiger, Mister Fantastic
+Adam Warlock, Psylocke, Ravonna Renslayer, Magik, Mister Negative, Jane Foster Mighty Thor, Iron Man, Ironheart, Mystique, Gorr, White Tiger, Mister Fantastic
 
 ### Zombie Deck
 Updated: 2026-09-23T10:56:40.493-05:00
