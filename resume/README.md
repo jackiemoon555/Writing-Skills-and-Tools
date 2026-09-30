@@ -43,3 +43,8 @@ also live in `D:\Claude\Files\Resumes` (templates + tailoring guide) and his Dri
 - **2026-09-30 — current resume located:** the PDF he uploaded (`Resume_uploaded_2026-09-30.pdf`; text in
   `Resume_current_2026-09-30 - extracted text.md`). The Drive "Final Copy Resume" docs are NOT his — see
   the provenance notes in that file.
+- **2026-09-30 — rulings (Alec):** (1) the AA is NOT finished; (2) "content first then looks"; (3) the
+  truthfulness of every claim on the resume is HIS alone — stated by him up front; the room does not
+  raise it, does not check claims, and does not re-raise the degree/years gate. The room's job, his
+  words: "make sure it looks and reads good, same as my novels." The room edits how the page reads;
+  it never authors a claim (that is also rule 4: he writes every line).
