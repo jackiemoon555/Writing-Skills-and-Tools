@@ -25,3 +25,12 @@ also live in `D:\Claude\Files\Resumes` (templates + tailoring guide) and his Dri
   rule for resumes, record the ruling here with the date.
 - Content before presentation (carried from the Research Tool session's review).
 - Naming for sent versions: `Resume - <posting title> - <company> - <YYYY-MM-DD>.docx`.
+
+## Rulings log
+- **2026-09-30 — role confirmed (Alec: "That works"):** this session = EDITOR. No ghost-writing stands
+  for this lane; he writes the lines, the room names gaps, numbers and moves.
+- **2026-09-30 — queued (Alec): "After this is done, have a worker look for anything that can assist
+  with the process."** When the Resume 10 pass is done, dispatch one agent to survey practical
+  helpers for the application process (skills, tools, agents, connectors already available or cheap
+  to make). Same standard as the research-process note of 09-29: only what has real use; "nothing
+  worth building" is a valid answer. Not run yet.
