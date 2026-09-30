@@ -2493,3 +2493,6 @@ the scroll · the black/green light question (his call, Pass 11).
 
 **THE ASK (one):** the notepad — Frank the detective's habit, or a way to get the recon on the
 page?
+
+### AUTHOR RULING — 2026-09-29 (chat, after Pass 12)
+- **The notepad is SHOW, not device (author):** "The recon — it was a show don't tell by putting it in Frank's mind. I thought it worked since by now it's clear he's CIA." Ruling stands: the notes are Frank's trained checklist on the page; the reader has Ch8 to know whose man he is. Finding 1 NARROWS to a trim: narration and note cover the same facts twice ("Two cars rested in the driveway" → "2 cars"; "Lights off" likewise) — one of the two carries it. Never re-raise the notepad as a device while this ruling holds.
