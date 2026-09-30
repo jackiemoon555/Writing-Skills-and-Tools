@@ -34,3 +34,12 @@ also live in `D:\Claude\Files\Resumes` (templates + tailoring guide) and his Dri
   helpers for the application process (skills, tools, agents, connectors already available or cheap
   to make). Same standard as the research-process note of 09-29: only what has real use; "nothing
   worth building" is a valid answer. Not run yet.
+- **2026-09-30 — COVER LETTERS added to the lane (Alec: "let's add cover letters as well since I guess it's a
+  professional thing").** Same rules: he writes, the room edits; one letter per posting, filed as
+  `Cover - <posting title> - <company> - <YYYY-MM-DD>.docx` beside its resume. Not started.
+- **2026-09-30 — helper survey re-confirmed twice ("don't forget my web search message"):** still queued
+  for after the Resume 10 pass; runs as ONE agent; scope now = resumes + cover letters + the application
+  workflow.
+- **2026-09-30 — current resume located:** the PDF he uploaded (`Resume_uploaded_2026-09-30.pdf`; text in
+  `Resume_current_2026-09-30 - extracted text.md`). The Drive "Final Copy Resume" docs are NOT his — see
+  the provenance notes in that file.
