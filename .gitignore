@@ -30,3 +30,7 @@ htmlcov/
 
 # Marvel Snap: locally extracted game text stays on this PC (not ours to publish)
 games/snap/local/
+
+# Resume lane — LOCAL ONLY (public repo; personal data never pushed)
+resume/*
+!resume/README.md
