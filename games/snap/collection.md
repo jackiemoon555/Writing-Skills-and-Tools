@@ -1,7 +1,7 @@
 # Marvel Snap collection
 
-Collection file last modified: 2026-09-27T14:23:28
-Cards owned: 146
+Collection file last modified: 2026-09-29T23:56:53
+Cards owned: 159
 Integrity: OK
 
 ## Cards
@@ -21,9 +21,10 @@ Integrity: OK
 - Blade (`Blade`) — +1 variants
 - Blink (`Blink`)
 - Blue Marvel (`BlueMarvel`) — +1 variants
+- Brood (`Brood`)
 - Bucky Barnes (`BuckyBarnes`)
 - Cable (`Cable`)
-- Captain America (`CaptainAmerica`)
+- Captain America (`CaptainAmerica`) — +1 variants
 - Carnage (`Carnage`)
 - Cassandra Nova (`CassandraNova`)
 - Cloak (`Cloak`)
@@ -34,6 +35,7 @@ Integrity: OK
 - Dagger (`Dagger`)
 - Dazzler (`Dazzler`)
 - Deathlok (`Deathlok`)
+- Destroyer (`Destroyer`)
 - Devil Dinosaur (`DevilDinosaur`)
 - Doctor Doom (`DrDoom`)
 - Doctor Strange (`DoctorStrange`) — +2 variants
@@ -46,12 +48,14 @@ Integrity: OK
 - Forge (`Forge`)
 - Galacta (`Galacta`)
 - Gamora (`Gamora`)
+- Ghost Spider (`GhostSpider`)
 - Giganto (`Giganto`)
-- Gorr (`Gorr`)
+- Gorr (`Gorr`) — +1 variants
 - Grand Master (`GrandMaster`)
 - Groot (`Groot`)
 - Hawkeye (`Hawkeye`) — +1 variants
 - Heimdall (`Heimdall`)
+- Helicarrier (`Helicarrier`)
 - Hellcow Fractured Frontier (`HellcowFracturedFrontier`)
 - Hobgoblin (`Hobgoblin`) — +2 variants
 - Hulk (`Hulk`)
@@ -67,6 +71,7 @@ Integrity: OK
 - Jubilee (`Jubilee`)
 - Ka Zar (`KaZar`)
 - Killmonger (`Killmonger`)
+- Kingpin (`Kingpin`)
 - Kitty Pryde (`KittyPryde`) — +1 variants
 - Klaw (`Klaw`)
 - Korg (`Korg`)
@@ -74,9 +79,10 @@ Integrity: OK
 - Lady Sif (`LadySif`)
 - Leech (`Leech`)
 - Lizard (`Lizard`)
+- Lockjaw (`Lockjaw`)
 - Loki (`Loki`)
 - Magik (`Magik`)
-- Magneto (`Magneto`)
+- Magneto (`Magneto`) — +1 variants
 - Mantis (`Mantis`)
 - Maria Hill (`MariaHill`)
 - Medusa (`Medusa`)
@@ -86,11 +92,14 @@ Integrity: OK
 - Mister Negative (`MrNegative`)
 - Mister Sinister (`MrSinister`)
 - Misty Knight (`MistyKnight`)
+- Mojo (`Mojo`)
 - Monstro Octopus (`MonstroOctopus`)
 - Moon Girl (`MoonGirl`)
+- Moon Knight (`MoonKnight`)
 - Morbius (`Morbius`)
 - Morph (`Morph`)
 - Multiple Man (`MultipleMan`)
+- Mysterio (`Mysterio`)
 - Mystique (`Mystique`)
 - Nakia (`Nakia`)
 - Namor (`Namor`)
@@ -101,6 +110,7 @@ Integrity: OK
 - Omega Red (`OmegaRed`)
 - Onslaught (`Onslaught`)
 - Professor X (`ProfessorX`)
+- Proxima Midnight (`ProximaMidnight`)
 - Psylocke (`Psylocke`)
 - Punisher (`Punisher`)
 - Quicksilver (`Quicksilver`) — +1 variants
@@ -111,10 +121,12 @@ Integrity: OK
 - Ronan the Accuser (`Ronan`)
 - Sabretooth (`Sabretooth`) — +1 variants
 - Sandman (`Sandman`) — +1 variants
+- Sauron (`Sauron`)
 - Scarlet Witch (`ScarletWitch`)
 - Scorpion (`Scorpion`)
 - Selene (`Selene`)
 - Sentinel (`Sentinel`)
+- Sera (`Sera`)
 - Shang Chi (`ShangChi`)
 - Shocker (`Shocker`)
 - Spectrum (`Spectrum`)
@@ -126,13 +138,14 @@ Integrity: OK
 - Storm (`Storm`)
 - Strong Guy (`StrongGuy`)
 - Sunspot (`Sunspot`) — +1 variants
-- Superior Iron Man (`SuperiorIronMan`)
+- Superior Iron Man (`SuperiorIronMan`) — +1 variants
 - Swarm (`Swarm`)
 - Sword Master (`SwordMaster`)
 - Taskmaster (`Taskmaster`)
 - The Collector (`TheCollector`)
 - The Hunger (`TheHunger`)
 - The Infinaut (`Infinaut`)
+- The Inversion (`TheInversion`)
 - The Thing (`TheThing`) — +1 variants
 - Uatu (`Uatu`)
 - Valentina (`Valentina`)
@@ -176,3 +189,11 @@ Quinjet, Spider Ham, Maria Hill, Loki, Victoria Hand, Mirage, Valentina, Agent C
 ### Ramp Deck
 Updated: 2026-09-23T17:00:56.65-05:00
 Domino, Electro, Wave, Jubilee, Blink, Doctor Doom, War Machine, Giganto, Sunspot, Sandman, Gorr, Enchantress
+
+### Auto-Superior Iron Man
+Updated: 2026-09-29T23:33:16.924-05:00
+Ka Zar, Ant Man, Blue Marvel, Nightcrawler, Squirrel Girl, America Chavez, Iron Man, Hawkeye, Onslaught, Angela, Mystique, Superior Iron Man
+
+### Auto-Nightcrawler
+Updated: 2026-09-29T23:30:17.908-05:00
+Iron Fist, Doctor Strange, Heimdall, Vulture, Kraven, Multiple Man, Cloak, Vision, Hulkbuster, Forge, America Chavez, Nightcrawler

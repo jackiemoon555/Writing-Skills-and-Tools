@@ -1,6 +1,6 @@
 {
-  "source_file_modified": "2026-09-27T14:23:28",
-  "card_count": 146,
+  "source_file_modified": "2026-09-29T23:56:53",
+  "card_count": 159,
   "cards": [
     {
       "id": "Abomination",
@@ -99,6 +99,12 @@
       "variant_count": 1
     },
     {
+      "id": "Brood",
+      "norm_key": "brood",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "BuckyBarnes",
       "norm_key": "buckybarnes",
       "base_owned": true,
@@ -114,7 +120,7 @@
       "id": "CaptainAmerica",
       "norm_key": "captainamerica",
       "base_owned": true,
-      "variant_count": 0
+      "variant_count": 1
     },
     {
       "id": "Carnage",
@@ -173,6 +179,12 @@
     {
       "id": "Deathlok",
       "norm_key": "deathlok",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Destroyer",
+      "norm_key": "destroyer",
       "base_owned": true,
       "variant_count": 0
     },
@@ -249,6 +261,12 @@
       "variant_count": 0
     },
     {
+      "id": "GhostSpider",
+      "norm_key": "ghostspider",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Giganto",
       "norm_key": "giganto",
       "base_owned": true,
@@ -258,7 +276,7 @@
       "id": "Gorr",
       "norm_key": "gorr",
       "base_owned": true,
-      "variant_count": 0
+      "variant_count": 1
     },
     {
       "id": "GrandMaster",
@@ -281,6 +299,12 @@
     {
       "id": "Heimdall",
       "norm_key": "heimdall",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Helicarrier",
+      "norm_key": "helicarrier",
       "base_owned": true,
       "variant_count": 0
     },
@@ -381,6 +405,12 @@
       "variant_count": 0
     },
     {
+      "id": "Kingpin",
+      "norm_key": "kingpin",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "KittyPryde",
       "norm_key": "kittypryde",
       "base_owned": true,
@@ -423,6 +453,12 @@
       "variant_count": 0
     },
     {
+      "id": "Lockjaw",
+      "norm_key": "lockjaw",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Loki",
       "norm_key": "loki",
       "base_owned": true,
@@ -438,7 +474,7 @@
       "id": "Magneto",
       "norm_key": "magneto",
       "base_owned": true,
-      "variant_count": 0
+      "variant_count": 1
     },
     {
       "id": "Mantis",
@@ -477,6 +513,12 @@
       "variant_count": 0
     },
     {
+      "id": "Mojo",
+      "norm_key": "mojo",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "MonstroOctopus",
       "norm_key": "monstrooctopus",
       "base_owned": true,
@@ -485,6 +527,12 @@
     {
       "id": "MoonGirl",
       "norm_key": "moongirl",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "MoonKnight",
+      "norm_key": "moonknight",
       "base_owned": true,
       "variant_count": 0
     },
@@ -521,6 +569,12 @@
     {
       "id": "MultipleMan",
       "norm_key": "multipleman",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Mysterio",
+      "norm_key": "mysterio",
       "base_owned": true,
       "variant_count": 0
     },
@@ -585,6 +639,12 @@
       "variant_count": 0
     },
     {
+      "id": "ProximaMidnight",
+      "norm_key": "proximamidnight",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "Psylocke",
       "norm_key": "psylocke",
       "base_owned": true,
@@ -645,6 +705,12 @@
       "variant_count": 1
     },
     {
+      "id": "Sauron",
+      "norm_key": "sauron",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
       "id": "ScarletWitch",
       "norm_key": "scarletwitch",
       "base_owned": true,
@@ -665,6 +731,12 @@
     {
       "id": "Sentinel",
       "norm_key": "sentinel",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "Sera",
+      "norm_key": "sera",
       "base_owned": true,
       "variant_count": 0
     },
@@ -738,7 +810,7 @@
       "id": "SuperiorIronMan",
       "norm_key": "superiorironman",
       "base_owned": true,
-      "variant_count": 0
+      "variant_count": 1
     },
     {
       "id": "Swarm",
@@ -767,6 +839,12 @@
     {
       "id": "TheHunger",
       "norm_key": "thehunger",
+      "base_owned": true,
+      "variant_count": 0
+    },
+    {
+      "id": "TheInversion",
+      "norm_key": "theinversion",
       "base_owned": true,
       "variant_count": 0
     },
@@ -986,10 +1064,50 @@
         "Enchantress"
       ],
       "missing": []
+    },
+    {
+      "name": "Auto-Superior Iron Man",
+      "time_updated": "2026-09-29T23:33:16.924-05:00",
+      "slot": null,
+      "cards": [
+        "KaZar",
+        "AntMan",
+        "BlueMarvel",
+        "Nightcrawler",
+        "SquirrelGirl",
+        "AmericaChavez",
+        "IronMan",
+        "Hawkeye",
+        "Onslaught",
+        "Angela",
+        "Mystique",
+        "SuperiorIronMan"
+      ],
+      "missing": []
+    },
+    {
+      "name": "Auto-Nightcrawler",
+      "time_updated": "2026-09-29T23:30:17.908-05:00",
+      "slot": null,
+      "cards": [
+        "IronFist",
+        "DoctorStrange",
+        "Heimdall",
+        "Vulture",
+        "Kraven",
+        "MultipleMan",
+        "Cloak",
+        "Vision",
+        "Hulkbuster",
+        "Forge",
+        "AmericaChavez",
+        "Nightcrawler"
+      ],
+      "missing": []
     }
   ],
   "integrity": {
-    "copies_list_count": 146,
+    "copies_list_count": 159,
     "only_in_ownership": [],
     "only_in_copies": []
   }
