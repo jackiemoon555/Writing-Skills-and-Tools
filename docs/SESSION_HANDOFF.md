@@ -1,10 +1,67 @@
 # Session Handoff — READ THIS FIRST
 
-*Prepared 2026-08-13; **last updated 2026-08-24 (session close)** — **The Champ FIRST DRAFT COMPLETE
+*Prepared 2026-08-13; **last updated 2026-10-01 (session close)** — **The Champ FIRST DRAFT COMPLETE
 2026-08-21** (revised ending; the 08-20 finish batch stays frozen beside it for before/after).
 **REVISION PHASE OPEN as of 2026-08-23.** Google Docs = master. Writing partnership with Alec (pen
 name **Jack Moon**). Point a new session at this file to get fully caught up.*
 
+> **NEW TASK FROM THE RESEARCH TOOL SESSION (2026-09-29): an email to Sleeper about API use.** Alec writes and outlines it, and this session edits. Read `docs/sleeper-email-brief_2026-09-29.md` first: it has the verified facts and the topics to ask. No drafted wording is included.
+>
+> ## ▶▶ NEXT SESSION — START HERE (PC close, Thursday 2026-10-01; usage limits near — he closed early; same plan as last week)
+> **PULL FIRST, then run the `repo-health` skill.** Master Doc = "Tbd D1 Take 2" (id `12krCIEuFEv1HlkPbTV63aGOnGDmvmApeTVq9JJY7qk4`).
+> **PLAN OF RECORD FOR THE GAP (author, 10-01: "do what I did last week, with dates in the doc"):** he writes in the
+> MASTER DOC only and DATES each chapter/section as he writes it; hand-over is **SUNDAY 10-04** — one Doc pull (Sonnet
+> intake), snapshot each new section as a NEW file, count, day splits from HIS dates (no guessing, no version history),
+> room the new pages. Nothing on the PC side before then unless he says. **Ch9 is NOT in the Doc yet** (Doc unmodified
+> since 09-27 16:54Z) — the two Ch9 chat pastes (09-29, 09-30) are the only record; the Doc version supersedes them at the
+> pull and any delta is logged then.
+> **WEEK 3 (09-28→10-04) = 1,116 / 5,000** after Mon 0 (day off) · Tue 748 (Ch9 part 1) · Wed 368 (Ch9 part 2). Thu–Sun
+> open; one rest day left. Floor unchanged (1,000 / sitting, 5,000 / week); his stated raise after one more clean week =
+> 5,100, not more.
+> **STATE ON MAIN:** prologue v5 1,341 · Ch1 697 · Ch2 1,025 · Ch3.3 1,119 · Ch4.1 1,803 · Ch5.1 2,500 · Ch6 921 ·
+> Int1.1 706 · Ch7 1,522 · **Ch8 364 (Pass 11; "quick on purpose")** · **Ch9 partial 1,116 (Passes 12, 12a; chat
+> pastes)**. Ledger ★ CURRENT STATE table matches. **Next NEW pages = the rest of Ch9 → Pass 12b (if it completes) or
+> Ch10 → Pass 13.**
+> **PASS 12/12a top notes (his to take or leave):** the reveal is Frank's speech, Dave never has the recognition ·
+> John's complaint and the "again" beat each land twice · the notepad = SHOW (his ruling 09-29; never re-raise as a
+> device) · profanity wall (class named Pass 11). **Parked by him ("I'll decide later"):** Brooks (Ch8) and John (Ch9)
+> both "meet the agent tomorrow" — both or moved? Do not re-ask; log when he rules.
+> **DECLARED/RULED THIS WEEK (in the ledger):** Ch8 quick on purpose; Ch8's purpose = the order, Ch9 = the deed (Pass 11
+> ask closed by the page); Dave Long = Ch3's Mr. Long (paid plant — protect); the notepad is show.
+> **OPEN ASKS still his:** Ch3 "FEDERAL LAND" reword · Interlude 1 wife's name · Ch1 rewrite docket (→ 3b; carries
+> "James is African American").
+> **NEW LANE — RESUME (`resume/`, LOCAL ONLY — the repo is PUBLIC; everything but its README is gitignored):** this
+> session = EDITOR for his resumes + cover letters (rulings in `resume/README.md`): he writes every line, the room names
+> gaps/numbers/moves; content first, looks later; **the truthfulness of claims is HIS — never raise it, never re-raise
+> the degree/years gate (AA not finished)**; read only what's on the page, never flag absences until he says a draft is
+> done. Target posting: Procurement Category Manager (Level C) at his employer. **Resume_10 rounds 1–3 reviewed**
+> (notes: `resume/Resume_10 - edit notes 2026-09-30.md`); last state: the summary's 7-day number = MAINTENANCE turnaround
+> (two metrics — parts 1–2 days, maintenance 7) → needs its own bullet; two 1–2-day bullets read as one result twice.
+> **Queued, his words, twice:** after the Resume 10 pass is done, ONE agent surveys practical helpers for the application
+> process (same standard as the research process note: only real use; "nothing" is a valid answer). Cover letters added
+> to the lane, not started. The Research Tool session's handoff holds the job-watcher digests + the word-choice flags.
+> **PENDING FROM THE RESEARCH TOOL SESSION (dropped into this repo 09-29):** an email to Sleeper about API use — he
+> outlines and writes, this session edits; brief = `docs/sleeper-email-brief_2026-09-29.md` (committed at this close).
+> **RESEARCH DONE THIS WEEK (in `D:\Claude\Research Tool\chat sessions\`, local-only):** Rowling/Martin HBO deals report
+> + addendum (Martin: still under an HBO overall deal per Bloys, Jan 2026; no renewal found; no deal elsewhere) +
+> `sources-and-citations.md` + a process note (build nothing new; run `/verify` from a Research Tool session with the
+> browser). Unverified draft until `/verify` runs.
+> **SNAP (file current to 10-01):** tokens **1,450** · gold 720 · CL 528. **Spider-Man Brand New Day PINNED** (S5
+> 6,000; 4,550 to go; his test: "flexibility… simple ability that should always have use"). Owned-but-NOT-in-the-PC-file:
+> **Knull, Askani'son, Green Goblin** — he opens Snap on the PC → run the reader. One Series 4 Draft pack left (bits).
+> Draft runs to 10-12 (three 5-win runs; premium pass bought). **10-01 OTA was not published at last check** → on his
+> word: patch notes with before/after NUMBERS, flag owned cards; **HE builds the decks** (his theorycrafting; the room
+> proposes no lists). **Top-50 research filed** (`snap/reports/ladder-top50_2026-10-01.md`): not this season; 0 of 16
+> Infinite lists within 2 cards; Thanos FF in 12/16. Goal = stated, not adopted. **Rule-14 money window open 10-01 →
+> revisit 10-06** ("might spend some money"). Standing rules now in the file: BREADTH FIRST (no yardstick deck);
+> NOTHING COMES OFF THE BOARD; FUN IS A FILTER. Recent verdicts: bought Brood, Lockjaw, Knull; passed Gambit, Thor,
+> Daken, Titania; Caliban = pin candidate (nerf risk).
+> **GAMES OTHER:** `games/plots/alan-wake-1.md` (character-centered summary, sourced; Control + AW2 queued on his word);
+> Critical Shift on the watchlist; Backpack Battles recipes = backpackbattles.wiki.gg.
+> **PROCESS:** repo-health at close — see the commit; the manual Doc check PASSED (Doc unmodified since the last
+> pull). Memory mirror refreshed. Another of his sessions committed to this branch on 09-30 evening (Snap entries) —
+> always `git pull` first; the record is intact.
+>
 > ## ▶▶ NEXT SESSION — START HERE (PC close, Sunday 2026-09-27 evening; the weekly pull is DONE; merged)
 > **SESSION CLOSED 09-27 evening.** Run `repo-health` after the pull. Everything below the next
 > heading is the same day's state; this block adds the late-session items.

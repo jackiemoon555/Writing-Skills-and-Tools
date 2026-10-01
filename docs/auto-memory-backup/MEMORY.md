@@ -20,3 +20,4 @@
 - [Nothing downstream mid-draft](feedback-nothing-downstream-mid-draft.md) — no editor/critique/title/length/finish-date talk while a draft is open; he gets nervous and lost; only being done fixes it
 - [Flow state research — PARKED](project_parked_flow_state_research.md) — he wants the science on flow, later not now; starting is his hardest part, flow comes easy once started
 - [Writing is his side job](user_writing_as_side_job.md) — the frame that works (09-27): shifts, floors, weeks, days off; never inspiration/mood talk
+- [Resume lane — EDITOR role](project_resume_lane.md) — resume/ in the writing repo is LOCAL-ONLY (public repo); he writes, room edits; truthfulness is his, never raised; read only what is on the page
