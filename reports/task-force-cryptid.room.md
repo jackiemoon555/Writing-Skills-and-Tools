@@ -2690,3 +2690,6 @@ is the block running long.
 
 **THE ASK (one):** Dave — on the barn floor with the empty gun as the cliff, or did his end not make
 the page?
+
+### AUTHOR RULING — 2026-10-01 (chat, after Pass 12b)
+- **The gunshots after John walks out are FRANK staging the scene as a gunfight** (author). The order on the page is the intended order. Frank then "correctly deduces that the plan isn't going to actually work so they need to hide the bodies first thing. What they needed was a crime scene and the death of dissidence in the town." **Finding 1 NARROWS:** not sequence — ATTRIBUTION. The page never says who is firing behind John; one clause that it is Frank makes the holes, "they opened the door," and the FBI line film in order. "that look of fear" still points at a look the page hasn't given. Never re-raise the order of the staging while this ruling holds. The Dave ask (12b) stands, unanswered — not re-asked.
