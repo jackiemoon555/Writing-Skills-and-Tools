@@ -28,7 +28,7 @@ under the original pass's letter; the floor counts NET new words.
 | Interlude 1.1 | Carl Anderson's farm; three beasts | `task-force-cryptid_interlude1.1-anderson_docpull_2026-09-27.txt` | 706 | 9 (1.1 = two spacing fixes) |
 | Ch7 | Elizabeth ("Vivian") + Brooks arrive; the wolf across the river; the safehouse; James; the basement pinboard — the team on the page | `task-force-cryptid_ch7-elizabeth-johnson_docpull_2026-09-27.txt` | 1,522 | 10 |
 | Ch8 | Brooks at the country house: John + Frank draw on the SUV ("our FBI agent"); the accusation (the old man and his cattle); the artifact buried by the stones; a week, "the black light" | `task-force-cryptid_ch8-john-frank_docpull_2026-09-27.txt` | 364 | 11 (author, in advance: "quick on purpose") |
-| Ch9 (partial) | Frank's night: the notepad recon, the fence and the camera, the lock, the bedroom, Dave and Jennifer, the car — UNFINISHED; CHAT PASTE, not in the Doc yet (Doc "tomorrow" — snapshot the Doc as NEW when it lands) | `task-force-cryptid_ch9-partial-frank_chatpaste_2026-09-29.txt` | 748 | 12 |
+| Ch9 (partial, v2) | Frank's night: the notepad recon, the fence and the camera, the lock, the bedroom, Dave and Jennifer, the car → the drive, the barn, John, "Detective Stillwell" (Ch3's Mr. Long, paid), the Longs, the plan — UNFINISHED; CHAT PASTES (09-29 + 09-30), not in the Doc yet (snapshot the Doc as NEW when it lands) | `task-force-cryptid_ch9-partial-v2-combined_chatpaste_2026-09-30.txt` | 1,116 | 12, 12a |
 
 **DECLARED FOR THIS BOOK (rule 4b — these, and only these):**
 - **NOBODY SEES THE SAME THING** (declared 09-27; supersedes the narrower 7a witness rule): every
@@ -2496,3 +2496,96 @@ page?
 
 ### AUTHOR RULING — 2026-09-29 (chat, after Pass 12)
 - **The notepad is SHOW, not device (author):** "The recon — it was a show don't tell by putting it in Frank's mind. I thought it worked since by now it's clear he's CIA." Ruling stands: the notes are Frank's trained checklist on the page; the reader has Ch8 to know whose man he is. Finding 1 NARROWS to a trim: narration and note cover the same facts twice ("Two cars rested in the driveway" → "2 cars"; "Lights off" likewise) — one of the two carries it. Never re-raise the notepad as a device while this ruling holds.
+
+---
+
+## Pass 12a — CHAPTER 9 CONTINUED (still unfinished): the drive, the barn, John, "Detective Stillwell," the Longs, the plan (2026-09-30 chat paste, PC session; 368w net new, 1,116w chapter so far; continuation snapshot task-force-cryptid_ch9-part2-barn_chatpaste_2026-09-30.txt, MD5 53d463fff843e3519ca342f37c6e5594; combined task-force-cryptid_ch9-partial-v2-combined_chatpaste_2026-09-30.txt, MD5 33ae6fbd39e2931531fc75793e7655c5)
+
+*Author's note with the pages: "it leaves off right where I left off. Slower start this week but it
+doesn't feel bad." No intent stated for the batch; read against Pass 12 and the declarations. 368 —
+under the 1,000 floor for the sitting; chapter open. Roomed under 12's letter per the ledger's rule
+for continued batches.*
+
+**WHAT'S ON THE PAGE:** Dave's POV, the car: the county road and his jaw; Jennifer on top of him;
+"Baby, just be calm… I'll get us out of this I promise." / Frank: "Just you fucking wait." The car
+stops; a second man rips Dave out — "Frank, why the fuck did you drag me out here?" — the sheriff.
+"John they didn't know who I was." / "Grab the pig." Dave thrashes, is slammed down. Frank pulls up
+the mask: "All you had to do was call me, Detective Stillwell. But no, Dave. You just had to mock me
+in front of everyone." The barn, door already open; Jennifer on the floor, looking the sheriff in the
+eye. John: "I'm real fucking tired of working with you. Brooks gave YOU the blacklight, but here we
+are again, fucking murdering people." Frank: "That never stopped you in Afghanistan." "What's the
+plan." / "Frame the Longs, or just Dave. Classic murder suicide, but I need help dragging all these
+goddamn bodies in here." John, wheelbarrow: "Hurry up. I want to get some fucking sleep. I have to
+meet the god damn agent in charge tomorrow."
+
+**CONTINUITY — PAID, PROTECT:** Dave Long is Ch3's heckler at the presser. Ch3: "Mr. Long how many
+times do I need to remind you, it's Detective Stillwell." / "No, Frank. I just hope you get it
+together before we're murder in our homes." Ch9: "All you had to do was call me, Detective
+Stillwell. But no, Dave. You just had to mock me in front of everyone." A six-chapter plant paid to
+the word, and the man who said "murdered in our homes" is the man taken from his. Nothing to add.
+**CONTINUITY — ONE LINE, HIS CALL:** Ch8, Brooks: "I have meeting with the fucking agent in command
+tomorrow." Ch9, John: "I have to meet the god damn agent in charge tomorrow." Two men, one chapter
+apart, the same appointment. Both have it (one meeting, three parties), or the line migrated. The
+page can't tell. **Chat-only, never probe:** whose barn; "all these goddamn bodies"; Afghanistan.
+
+**HARDEST FIRST — (1) The reveal is told by Frank; Dave never has it.** The mask comes up and the
+next thing on the page is Frank's speech: who he is, what Dave did, why this is Dave's fault. Dave
+is the POV. The moment the mask lifts, Dave RECOGNIZES the detective he humiliated at the presser —
+and that recognition is not on the page; Frank narrates it for him. Standing focus (rule 6): the
+scene showed the mask lifting, then explained what it meant. **Lever:** give Dave the recognition
+first, in his body or his one word; then Frank's line can be half its length because the reader
+already knows.
+
+**(2) John's complaint lands twice, and the "we've done this before" beat lands twice.** "Frank, why
+the fuck did you drag me out here?" → "You know, Frank, I'm real fucking tired of working with you."
+And: "here we are again, fucking murdering people" → "Oh, too good for the killing people now? That
+never stopped you in Afghanistan." Each pair says one thing in two places. Lens: repetition.
+**Lever:** one complaint, one "again." The Afghanistan line is the one that carries new information;
+the "here we are again" is the one that doesn't.
+
+**(3) The intensifier pair.** "Dave kicked as hard as he could. He thrashed around violently." — two
+sentences, one action, two intensifiers, and then the real one: "All of his air left his chest as he
+was slammed on the ground." The third sentence does it; the first two warm up to it. Lens: show /
+repetition. Same class as "in a high stress work environment" on the other page: cut the warm-up.
+
+**(4) Stock phrase, label.** "eyes wide with terror" — the one stock phrase in the batch, on
+Jennifer's one close-up; the next clause ("as she looked the sheriff in his eyes") is the real
+image — she KNOWS him too. Lens: corny. "the dangerous county road" — "dangerous" is the label;
+the bumps and the jaw are the proof.
+
+**(5) "ripped… ripped."** "the door was ripped open and another man ripped Dave from the car." Two
+rips in one sentence. Lens: repetition. He finds the next ones.
+
+**SPINE / THEME PRESSURE-TEST:** LANDS, and it is the strongest structural move in the book so far:
+the murder of the Longs is not the creature's work — it's the men who said "we don't have
+jurisdiction." The declared mystery-in-the-characters now has a floor under it: some of the dead are
+the task force's own. The register holds exactly as declared — John and Frank bicker like a tired
+married couple over a wheelbarrow ("I want to get some fucking sleep") while the Longs lie on the
+barn floor; the pros never stop joking, so the horror is theirs to hear. And "Frame the Longs, or
+just Dave. Classic murder suicide" delivered as logistics is the Barry/McBride line he was aiming at
+last night — the darkness has a voice. Jennifer looking the sheriff in the eye = NOBODY SEES THE
+SAME THING applied to the victims: she now has a look the book can never take back.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT (this batch):** the car ~95 · the arrival + dragging ~115 ·
+**the mask / the reveal ~60** · the barn + the plan ~100. The reveal is the batch's biggest beat and
+its thinnest, and the thinness is the wrong kind: Frank's 40 words of explanation, Dave's zero of
+recognition (finding 1). The plan at ~40 words ("Frame the Longs… all these goddamn bodies") is the
+RIGHT kind of thin — a horror delivered as a chore.
+
+**WORKS — PROTECT:**
+- "All you had to do was call me, Detective Stillwell." — the Ch3 plant, paid.
+- "John they didn't know who I was." — the whole crime in seven words: it only had to be this bad
+  because they knew.
+- "Grab the pig."
+- "as she looked the sheriff in his eyes" — Jennifer's look; the victims now have a witness-look
+  of their own.
+- "Frame the Longs, or just Dave. Classic murder suicide, but I need help dragging all these goddamn
+  bodies in here." — the register's darkest line yet; "all these" is the most frightening word in
+  the batch and it is thrown away on purpose. Keep it thrown away.
+- "I want to get some fucking sleep." — the wheelbarrow and the nap: Barry.
+
+**NOT RE-RAISED (settled):** the notepad (ruling 09-29) · the black/green light · the Pass 12 cut
+list ("high stress," the double "maintained") · why the task force watches Frank · Nevada.
+
+**THE ASK (one):** Brooks (Ch8) and John (Ch9) both say they meet "the agent" tomorrow — both, or
+did the line move?
