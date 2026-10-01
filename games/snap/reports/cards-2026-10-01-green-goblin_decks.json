@@ -1,0 +1,162 @@
+[
+ {
+  "tier": "untapped 30d ranks 10-79 2026-10-01",
+  "name": "Galactus / Daredevil Ramp (untapped.gg green-goblin, 1,692 games)",
+  "cube": "-",
+  "win_rate": "61.8%",
+  "cards": [
+   "Daredevil",
+   "Destroyer",
+   "Electro",
+   "Galactus",
+   "Green Goblin",
+   "Hobgoblin",
+   "Magik",
+   "Nebula",
+   "Negasonic Teenage Warhead",
+   "Selene",
+   "Spider-Woman",
+   "Wave"
+  ]
+ },
+ {
+  "tier": "untapped 30d ranks 10-79 2026-10-01",
+  "name": "Galactus / Knull Death-Wolverine (untapped.gg, 132 games)",
+  "cube": "-",
+  "win_rate": "67.4%",
+  "cards": [
+   "Daredevil",
+   "Death",
+   "Destroyer",
+   "Electro",
+   "Galactus",
+   "Green Goblin",
+   "Hobgoblin",
+   "Knull",
+   "Negasonic Teenage Warhead",
+   "Selene",
+   "Wave",
+   "Wolverine"
+  ]
+ },
+ {
+  "tier": "untapped 30d ranks 10-79 2026-10-01",
+  "name": "Galactus / Knull Venom (untapped.gg, 130 games)",
+  "cube": "-",
+  "win_rate": "66.2%",
+  "cards": [
+   "Daredevil",
+   "Death",
+   "Destroyer",
+   "Electro",
+   "Galactus",
+   "Green Goblin",
+   "Hobgoblin",
+   "Knull",
+   "Selene",
+   "Venom",
+   "Wave",
+   "Wolverine"
+  ]
+ },
+ {
+  "tier": "untapped 30d ranks 10-79 2026-10-01",
+  "name": "SNAP Deck / Hood-Hobgoblin-Daredevil (untapped.gg, 281 games)",
+  "cube": "-",
+  "win_rate": "60.1%",
+  "cards": [
+   "Adam Warlock",
+   "Daredevil",
+   "Green Goblin",
+   "Hellcow Fractured Frontier",
+   "Hobgoblin",
+   "The Hood",
+   "Invisible Woman First Steps",
+   "Isca the Unbeaten",
+   "Hawkeye Kate Bishop",
+   "Luke Cage",
+   "Magik",
+   "Shang-Chi"
+  ]
+ },
+ {
+  "tier": "MSZ Tier 3 2026-09-27",
+  "name": "Galactus Ramp (MSZ 2026-09-27)",
+  "cube": "0.35",
+  "win_rate": "56%",
+  "cards": [
+   "Selene",
+   "Daredevil",
+   "Jennifer Kale",
+   "Green Goblin",
+   "Electro",
+   "Wave",
+   "Hobgoblin",
+   "Blink",
+   "Knull",
+   "Galactus",
+   "Destroyer",
+   "Death"
+  ]
+ },
+ {
+  "tier": "untapped 30d ranks 10-79 2026-10-01",
+  "name": "Annihilus-Sentry / SNAP Deck First (untapped.gg annihilus, 95 games)",
+  "cube": "-",
+  "win_rate": "66.3%",
+  "cards": [
+   "Annihilus",
+   "Green Goblin",
+   "Hellcow Fractured Frontier",
+   "Hobgoblin",
+   "The Hood",
+   "Hawkeye Kate Bishop",
+   "Scarlet Witch",
+   "Selene",
+   "Sentry",
+   "Shadow King",
+   "Viper",
+   "Werewolf By Night"
+  ]
+ },
+ {
+  "tier": "untapped 30d ranks 10-79 2026-10-01",
+  "name": "Annihilus-Sentry / SNAP Deck Second (untapped.gg, 76 games)",
+  "cube": "-",
+  "win_rate": "55.3%",
+  "cards": [
+   "Annihilus",
+   "Green Goblin",
+   "Hellcow Fractured Frontier",
+   "Hobgoblin",
+   "The Hood",
+   "Hawkeye Kate Bishop",
+   "Merlin",
+   "Selene",
+   "Sentry",
+   "Shadow King",
+   "Viper",
+   "Werewolf By Night"
+  ]
+ },
+ {
+  "tier": "untapped 30d ranks 10-79 2026-10-01",
+  "name": "Annihilus-Sentry / SNAP Deck Third (untapped.gg, 56 games)",
+  "cube": "-",
+  "win_rate": "66.1%",
+  "cards": [
+   "Annihilus",
+   "Green Goblin",
+   "Hellcow Fractured Frontier",
+   "Hobgoblin",
+   "The Hood",
+   "Man-Thing",
+   "Merlin",
+   "Ravonna Renslayer",
+   "Selene",
+   "Sentry",
+   "Shadow King",
+   "Viper"
+  ]
+ }
+]
