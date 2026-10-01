@@ -28,7 +28,7 @@ under the original pass's letter; the floor counts NET new words.
 | Interlude 1.1 | Carl Anderson's farm; three beasts | `task-force-cryptid_interlude1.1-anderson_docpull_2026-09-27.txt` | 706 | 9 (1.1 = two spacing fixes) |
 | Ch7 | Elizabeth ("Vivian") + Brooks arrive; the wolf across the river; the safehouse; James; the basement pinboard — the team on the page | `task-force-cryptid_ch7-elizabeth-johnson_docpull_2026-09-27.txt` | 1,522 | 10 |
 | Ch8 | Brooks at the country house: John + Frank draw on the SUV ("our FBI agent"); the accusation (the old man and his cattle); the artifact buried by the stones; a week, "the black light" | `task-force-cryptid_ch8-john-frank_docpull_2026-09-27.txt` | 364 | 11 (author, in advance: "quick on purpose") |
-| Ch9 (partial, v2) | Frank's night: the notepad recon, the fence and the camera, the lock, the bedroom, Dave and Jennifer, the car → the drive, the barn, John, "Detective Stillwell" (Ch3's Mr. Long, paid), the Longs, the plan — UNFINISHED; CHAT PASTES (09-29 + 09-30), not in the Doc yet (snapshot the Doc as NEW when it lands) | `task-force-cryptid_ch9-partial-v2-combined_chatpaste_2026-09-30.txt` | 1,116 | 12, 12a |
+| Ch9 (complete, v3) | Frank's night: the notepad recon, the fence and the camera, the lock, the bedroom, Dave and Jennifer, the car → the drive, "Detective Stillwell" (Ch3's Mr. Long, paid) → Anderson's barn: Carl's and Mrs. Anderson's bodies, the staging ("A reason to kill the cows"), "It's a rock, Frank," Jennifer shot, the howl — COMPLETE as CHAT PASTES (09-29 + 09-30 + 10-01), not in the Doc yet (snapshot the Doc as NEW at the 10-04 pull; it supersedes all three) | `task-force-cryptid_ch9-complete-v3_chatpaste_2026-10-01.txt` | 1,556 | 12, 12a, 12b |
 
 **DECLARED FOR THIS BOOK (rule 4b — these, and only these):**
 - **NOBODY SEES THE SAME THING** (declared 09-27; supersedes the narrower 7a witness rule): every
@@ -2589,3 +2589,104 @@ list ("high stress," the double "maintained") · why the task force watches Fran
 
 **THE ASK (one):** Brooks (Ch8) and John (Ch9) both say they meet "the agent" tomorrow — both, or
 did the line move?
+
+---
+
+## Pass 12b — CHAPTER 9 COMPLETE (v3): the barn — Carl and Mrs. Anderson's bodies, the staging, the shotgun, Jennifer, the howl (2026-10-01 chat paste, PC session; 561w pasted, 121w of which replace the 09-30 tail → +440 net; chapter 1,556w; snapshot task-force-cryptid_ch9-complete-v3_chatpaste_2026-10-01.txt, MD5 a8b8cbd006f975e08b29992a5d5d42de)
+
+*Author's note: "here's the rest of chapter 9… I expect to hit the goal or over it by Sunday or before." 440
+— under the 1,000 floor for the sitting; the chapter is COMPLETE. The Doc version supersedes all three
+Ch9 pastes at the 10-04 pull. Read against Passes 12/12a and the declarations.*
+
+**WHAT'S ON THE PAGE (the new tail):** the barn — Jennifer "locked eyes with the sheriff"; Dave "just
+staring at Frank." John: "how are we doing this?" Frank: "Grab the shotgun and the bodies. We gotta
+make it look like struggle." Carl's one-armed corpse, the sliced-off arm, the woman's body, the
+wheelbarrow. "You're a pussy these days" / "you've been shitting yourself about this fucking
+'werewolf'" / "Because it's real, John… What if it's true?" / **"It's a rock, Frank."** John fires into
+the wall, into Carl's corpse ("a mist of red"), into the cows. He empties the shotgun, unbinds Dave,
+pushes it into his hands: "Don't let go. I don't want to hurt her more than I have to." Frank's pistol
+on Dave, "the threat of silence extending the gun's barrel." Mrs. Anderson laid by the cows; the knife;
+a cow sliced, her throat slit, the knife in her hand: "A reason to kill the cows. These two… appeared
+to find the serial killers." / "I'm not sure that's gonna get past the FBI." / **"It's three in the
+morning, Frank."** John shoots Jennifer: the scream, the gag released, "A shriek roared through the
+barn," the hole, the head falls. "You get to explain the bullet holes and lack of guns." / "See you
+tomorrow." A howl. Frank sprints to the car: **"we're next to the forest, there are wolves."**
+
+**REVISIONS TAKEN (12a → v3):** "eyes wide with terror" → "eyes wide as she locked eyes" (half-taken:
+the label is gone, "eyes wide" stays) · the doubled John complaint and the doubled "again" beat are
+GONE (so is Afghanistan — his call) · **the parked "agent tomorrow" question is CLOSED BY THE PAGE:**
+John now says "See you tomorrow"; Brooks keeps the meeting (Ch8). Not re-raised.
+**CONTINUITY — HOLDS:** Interlude 1 → the barn is Anderson's; Carl's left arm fell at the barn
+(Int1) → "the sliced off arm," "one armed body"; the wife unnamed in Int1 → "Mrs. Anderson" / "the
+woman" here (the Int1 open ask stands; not re-raised); Betsy and the cows dead (Int1) → "the cows
+bodies." The creature's work is now being signed over to the Longs by the sheriff.
+
+**HARDEST FIRST — (1) The gunshots happen on the page before they happen in the barn.** "John left the
+barn with gunshots blasting off." — whose, where? Then the bodies are hauled, then the argument, then
+"The barn door now had several bulled sized holes." (holes before any shot we've seen), then "They
+opened the door to gurgling and that look of fear" (which look? we were not given one), THEN "John
+grabbed the shotgun. He aimed at the opposite wall and fired." The camera test fails: a reader cannot
+film this sequence in the order it is written. The staging is the chapter's most consequential act —
+the sheriff manufacturing the serial killer — and its order is the one thing a crime scene has to
+get right. Lens: not working / pacing. **Lever:** one timeline. Every shot fires once, on the page,
+where it fires; the holes in the door appear after the shot that makes them; "that look" gets the
+look it points at, or goes.
+
+**(2) Dave is alive at the end of the page and the page doesn't know it.** The frame is a murder-
+suicide ("Frame the Longs, or just Dave," 12a; here the empty shotgun in his hands, Jennifer shot).
+Then "See you tomorrow," the howl, the car — and Dave is never mentioned again. If the chapter means
+to leave him on the barn floor with an empty gun as the cliff, that is a choice and it works; if his
+end simply didn't make the page, the frame has no suicide and the reader will hold the gap against
+Ch10. The room does not ask which; it names that the page is silent.
+
+**(3) The one shriek, three times.** "The shot resonated… Jennifer screamed so hard the gag released. /
+A shriek roared through the barn. / A hole appeared in the middle of her head" — a shot, a scream, a
+shriek, a hole. If the shriek is HERS it is the third sound for one event (repetition); if it is the
+forest's — the first answer to the gunfire, before the howl — it is the best plant in the chapter and
+it needs one word of separation from her scream so the reader can tell. Lens: not working. His call.
+
+**(4) "cheerfully."** "'See you tomorrow.' Frank said cheerfully." — the adverb explains the joke the
+line already made; the line is colder without it. Standing focus (rule 6). Same class: "The gun kicked
+wildly pushing back into John" ("wildly").
+
+**(5) Repetition — "grabbed" is this batch's "ripped."** "He grabbed the shotgun and grabbed the body"
+· "grabbing the corpse" · "John grabbed the shotgun" · "He grabbed his gun" · "John grabbed Mrs.
+Anderson's body" — six in forty lines. Class named; he finds them. Also "Uh" ×3 in Frank's mouth —
+that one is VOICE (Ch8's "It's, uh, uh") and stays.
+
+**(6) Two muddy referents in the kill.** "showering the hay around him" (John or Carl?) · "and it fell
+forward" (her head or her body?). The "it" may be the deliberate cold pronoun — if so, keep; the "him"
+is just unclear.
+
+**SPINE / THEME PRESSURE-TEST:** LANDS — the chapter's thesis is now on the page: the task force's
+own men turn the creature's kills into a human serial killer, and the forest answers with a howl.
+NOBODY SEES THE SAME THING inverts inside the pair — Frank, who saw it, says "What if it's true?";
+John, who hasn't, says "It's a rock, Frank." — and the register's rule closes the chapter: the pro
+who stops joking (Frank sprinting to the car) is the horror signal, and he re-jokes on the next
+line ("there are wolves"). The roles swapped from the first half: Frank was the methodical one at the
+Longs' house; John is the methodical one at the barn. Each man is a pro at his own crime. Not probed:
+why John is the colder of the two; what "a rock" is.
+
+**BIGGEST-SCENE / FEWEST-WORDS AUDIT (the new tail, ~560):** barn entry + "how are we doing this" ~70
+· hauling + the pussy/werewolf argument ~200 · the shooting + staging ~200 · the knife and the cows
+~90 · the FBI exchange ~60 · **Jennifer's death ~60** · the exit + the howl ~60. The argument about
+who is a pussy gets three times the words of the murder of a woman the reader has watched for two
+nights. The death at 60 is cold on purpose and reads that way; the mirror only says the argument
+is the block running long.
+
+**WORKS — PROTECT:**
+- "It's a rock, Frank." — the book's disbelief in four words.
+- "Don't let go. I don't want to hurt her more than I have to." — John's one mercy, and it's a lie
+  he tells a man he's about to frame.
+- "A reason to kill the cows." — the staging as logistics; the register's darkest joke.
+- "It's three in the morning, Frank."
+- "the threat of silence extending the gun's barrel" — the silencer written around again; the one
+  reach in the batch, and it lands.
+- "See you tomorrow." (without the adverb) → the howl → "we're next to the forest, there are wolves.
+  Uh, fucking guy." — the forest personified gets the last word and Frank gets the last joke.
+
+**NOT RE-RAISED (settled/held):** the notepad · Afghanistan (cut by him) · the agent-tomorrow line
+(closed) · the Int1 wife's name (open ask, his) · the Pass 12 cut list · Nevada · the jurisdiction lie.
+
+**THE ASK (one):** Dave — on the barn floor with the empty gun as the cliff, or did his end not make
+the page?

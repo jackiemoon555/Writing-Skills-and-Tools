@@ -15,12 +15,13 @@ name **Jack Moon**). Point a new session at this file to get fully caught up.*
 > room the new pages. Nothing on the PC side before then unless he says. **Ch9 is NOT in the Doc yet** (Doc unmodified
 > since 09-27 16:54Z) — the two Ch9 chat pastes (09-29, 09-30) are the only record; the Doc version supersedes them at the
 > pull and any delta is logged then.
-> **WEEK 3 (09-28→10-04) = 1,116 / 5,000** after Mon 0 (day off) · Tue 748 (Ch9 part 1) · Wed 368 (Ch9 part 2). Thu–Sun
+> **WEEK 3 (09-28→10-04) = 1,556 / 5,000** after Mon 0 (day off) · Tue 748 (Ch9 part 1) · Wed 368 (Ch9 part 2) · Thu 440
+> (Ch9 completed, chat paste 10-01, after the first close — "I expect to hit the goal or over it by Sunday"). Fri–Sun
 > open; one rest day left. Floor unchanged (1,000 / sitting, 5,000 / week); his stated raise after one more clean week =
 > 5,100, not more.
 > **STATE ON MAIN:** prologue v5 1,341 · Ch1 697 · Ch2 1,025 · Ch3.3 1,119 · Ch4.1 1,803 · Ch5.1 2,500 · Ch6 921 ·
-> Int1.1 706 · Ch7 1,522 · **Ch8 364 (Pass 11; "quick on purpose")** · **Ch9 partial 1,116 (Passes 12, 12a; chat
-> pastes)**. Ledger ★ CURRENT STATE table matches. **Next NEW pages = the rest of Ch9 → Pass 12b (if it completes) or
+> Int1.1 706 · Ch7 1,522 · **Ch8 364 (Pass 11; "quick on purpose")** · **Ch9 COMPLETE 1,556 (Passes 12, 12a, 12b; three chat pastes — the Doc supersedes them Sunday; 12b's one ask: is Dave left alive on the barn floor as the cliff, or did his end not make the page?; chat
+> pastes)**. Ledger ★ CURRENT STATE table matches. **Next NEW pages = Ch10 → Pass 13 (Ch9 is done; the rest of this line is superseded) — was: the rest of Ch9 → Pass 12b or
 > Ch10 → Pass 13.**
 > **PASS 12/12a top notes (his to take or leave):** the reveal is Frank's speech, Dave never has the recognition ·
 > John's complaint and the "again" beat each land twice · the notepad = SHOW (his ruling 09-29; never re-raise as a
