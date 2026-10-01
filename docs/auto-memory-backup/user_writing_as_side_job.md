@@ -18,3 +18,5 @@ need him to feel like writing.
 week closed." Never inspiration, muse, or mood talk. Report day + week only (rule 1). Days off
 after a closed week are the job's leave, not a lapse. Related: [[user_sprint_capacity_calibration]],
 [[endings-on-fumes]], [[user_adhd_format_for_skimming]].
+
+**Data point (author, 2026-10-01, mid-Ch9 of the novel):** "I feel like I'm a better writer and I'm not mentally exhausted like I would get with The Champ drafts." The side-job frame (shifts, floors, days off) is the thing that removed the exhaustion; the record backs the improvement claim — room findings moved from structure (Passes 1–10) to sentence level (12–12b), a Ch3 plant paid in Ch9 unplanned, and he revises between rounds unasked. Keep this frame for the next book.
